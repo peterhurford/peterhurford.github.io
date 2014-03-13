@@ -2,6 +2,7 @@
 // ===========================================================
 // HPSTR Jekyll Theme
 // By: Michael Rose
+// Modified by Peter Hurford
 // ===========================================================
 */
 
@@ -3789,13 +3790,12 @@ body {
   overflow: hidden;
 }
 
-.header-title {
-  margin: 30px 0 0;
+.header-title, .header-title-small {
+  margin: 0 0 0;
   text-align: center;
 }
 
-.header-title h1 {
-  margin: 10px 20px;
+.header-title h1, .header-title-small h1 {
   font-size: 28px;
   font-size: 1.75rem;
   font-weight: 700;
@@ -3803,45 +3803,41 @@ body {
 }
 
 @media only screen and (min-width: 48em) {
-  .header-title h1 {
+  .header-title h1, .header-title-small h1 {
     font-size: 48px;
     font-size: 3rem;
   }
 }
 
 @media only screen and (min-width: 62.5em) {
-  .header-title h1 {
+  .header-title h1, .header-title-small h1 {
     font-size: 60px;
     font-size: 3.75rem;
-  }
-}
-
-.header-title h2 {
-  margin: 0;
-  font-size: 18px;
-  font-size: 1.125rem;
-  color: #888888;
-  text-transform: uppercase;
-}
-
-@media only screen and (min-width: 48em) {
-  .header-title h2 {
-    font-size: 30px;
-    font-size: 1.875rem;
   }
 }
 
 .feature .header-title {
   position: absolute;
   top: 0;
+  margin: 30px 0;
   display: table;
   width: 100%;
-  height: 400px;
+  height: 300px;
   margin-top: 0;
   overflow: hidden;
 }
 
-.feature .header-title .header-title-wrap {
+.feature .header-title-small {
+  position: absolute;
+  top: 0;
+  display: table;
+  width: 100%;
+  height: 150px;
+  margin-top: 0;
+  overflow: hidden;
+}
+
+.feature .header-title .header-title-wrap, .feature .header-title-small .header-title-wrap {
   display: table-cell;
   margin: 0 auto;
   text-align: center;
@@ -3849,8 +3845,14 @@ body {
 }
 
 .feature .header-title h1 {
-  margin: 10px;
-  margin: 10px 60px;
+  margin: 60px;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
+}
+
+.feature .header-title-small h1 {
+  margin: 0;
   font-weight: 700;
   color: #ffffff;
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
@@ -3864,29 +3866,27 @@ body {
   
 }
 
-.feature .header-title h2 {
-  margin: 0;
-  color: #ffffff;
-  text-transform: uppercase;
-}
-
-@media only screen and (min-width: 48em) {
-  .feature .header-title h2 a {
-    color: #ffffff;
-  }
-}
-
 .entry-image {
   position: relative;
   top: -50%;
   left: -50%;
   width: 200%;
-  height: 200%;
-  min-height: 400px;
+  height: 150%;
+  min-height: 300px;
   overflow: hidden;
 }
 
-.entry-image:after {
+.entry-image-small {
+  position: relative;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 100%;
+  min-height: 150px;
+  overflow: hidden;
+}
+
+.entry-image:after, .entry-image-small:after {
   position: absolute;
   top: 0;
   left: 0;
@@ -3896,7 +3896,7 @@ body {
   content: '';
 }
 
-.entry-image img {
+.entry-image img, .entry-image-small img {
   position: absolute;
   top: 0;
   right: 0;
@@ -3905,53 +3905,6 @@ body {
   min-width: 50%;
   min-height: 50%;
   margin: auto;
-}
-
-.image-credit {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  z-index: 10;
-  max-width: 440px;
-  padding: 10px 15px;
-  margin: 0 auto;
-  font-size: 12px;
-  font-size: 0.75rem;
-  color: #ffffff;
-  text-align: right;
-  background-color: rgba(34, 34, 34, 0.5);
-  -webkit-border-top-right-radius: 3px;
-          border-top-right-radius: 3px;
-  -webkit-border-bottom-right-radius: 0;
-          border-bottom-right-radius: 0;
-  -webkit-border-bottom-left-radius: 0;
-          border-bottom-left-radius: 0;
-  -webkit-border-top-left-radius: 3px;
-          border-top-left-radius: 3px;
-  -moz-border-radius-topright: 3px;
-  -moz-border-radius-bottomright: 0;
-  -moz-border-radius-bottomleft: 0;
-  -moz-border-radius-topleft: 3px;
-  -webkit-background-clip: padding-box;
-     -moz-background-clip: padding;
-          background-clip: padding-box;
-}
-
-@media only screen and (min-width: 48em) {
-  .image-credit {
-    max-width: 760px;
-  }
-}
-
-@media only screen and (min-width: 62.5em) {
-  .image-credit {
-    max-width: 960px;
-  }
-}
-
-.image-credit a {
-  color: #ffffff;
-  text-decoration: none;
 }
 
 .entry-meta {

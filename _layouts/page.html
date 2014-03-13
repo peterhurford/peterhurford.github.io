@@ -1,21 +1,18 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
+
 {% include head.html %}
-</head>
 
-<body id="page" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post-index" class="feature">
 
-{% if page.image.feature %}
 <div class="entry-header">
   <div class="entry-image">
-    <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+    <img src="{{ site.url }}/images/abstract-1.jpg" alt="{{ page.title }}">
   </div><!-- /.entry-image -->
+  <div class="header-title">
+    <div class="header-title-wrap">
+      <a href="{{ site.url }}/index.html"><h1>{{ site.title }}</h1></a>
+    </div><!-- /.header-title-wrap -->
+  </div><!-- /.header-title -->
 </div><!-- /.entry-header -->
-{% endif %}
 
 <div id="main" role="main">
   <article class="entry">
