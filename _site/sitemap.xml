@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:4000</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://localhost:4000/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/blogroll/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/contact/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/donations-report/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/logs/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/posts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/theme-setup/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page2/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page3/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page4/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page5/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page6/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page7/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page8/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page9/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page10/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page11/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page12/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page13/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page14/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page15/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page16/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page17/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page18/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page19/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page20/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page21/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page22/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page23/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page24/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/page25/index.html</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://localhost:4000/essays/notice-site-speed-problems-sorry/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-23/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/effective-altruism-is-not-a-competition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/career-advice-for-jacy-choosing-between-ph-d-programs/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/fyfe-hurford-debate-alonzo-round-one/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-do-the-extremely-poor-live/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/could-ea-community-building-be-an-easy-and-underfunded-win/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-have-i-been-doing-iv/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-is-impact-up-to/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/ive-started-a-personal-blog/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-22/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/second-interview-with-jon-behar-on-giving-games/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/my-case-study-i-mostly-finished-choosing-between-careers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/everydayutilitarians-top-ten-in-2013/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-21/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/introducing-impact/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/a-year-of-mostly-new-years-resolutions/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-is-peter-exercising-2014/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-20/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-utilitarianism-says-donald-trump-is-a-terrorist/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/givedirectly-the-best-gift-you-can-make-this-christmas/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/when-do-i-expect-good-giving-opportunities-to-improve/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/where-im-giving-and-why/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions-december-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-have-i-been-doing-iii/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-19/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-id-like-for-my-birthday-and-christmas/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/good-judgment-project-season-three/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/six-month-review-ii-june-november-2013/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-have-i-been-doing-ii/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions-november-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-18/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/interview-with-jeremy-lauer/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/a-meta-ethics-faq/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-17/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-does-utilitarianism-look-like-in-practice/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/interview-with-jon-behar/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-17-altruistic-careers-advice-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/my-careers-conversation-with-holden-karnofsky/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions-octember-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-have-i-been-doing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/my-conversation-with-satvik-beri/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/doing-important-research-on-amazons-mechanical-turk/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/comparing-across-my-five-career-categories/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/i-now-have-approximately-five-career-categories/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/brief-blog-break/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/should-we-tell-people-that-giving-makes-them-happier/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/quotes-i-like/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-16/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/pitching-effective-altruism/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-i-am-productive/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-15/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/back-in-the-states/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/effective-altruist-job-board/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-14/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/where-ive-changed-my-mind-on-my-approach-to-speculative-causes/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/practical-limits-to-giving-now-and-the-haste-consideration/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-would-it-take-to-justify-vegetarian-advocacy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-13/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/the-challenges-of-great-people-as-a-model-for-social-change/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-would-it-take-to-prove-a-speculative-cause/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions-august-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-12/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/dont-call-us-a-charitable-industrial-complex/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/in-non-profits-who-is-the-customer-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-im-skeptical-about-unproven-causes-and-you-should-be-too/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-11/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/the-community-that-stays-together-gives-together/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/introducing-effective-fundraising-a-new-ea-org/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/the-worst-way-of-picking-the-worst-charities/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-10/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/one-week-in-oxford/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/interview-with-ruairi-donnelly/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/for-happiness-keep-a-gratitude-journal/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-9/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/off-to-oxford/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-is-morality/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/gratitude-journal/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-8-immigration/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/one-month-of-siestas/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/biphasic-sleep-logs/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions-july-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-7/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/leaping-doesnt-mean-you-cant-look-first/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/youre-not-entitled-to-your-policy-opinions/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-its-hard-to-explain-things-inferential-distance/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-6/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/college-student-philanthropy-and-funding-millenium-villages/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/my-careers-plan/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/my-strategic-plan/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-i-blog/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-5/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/for-impact-the-future-matters-more/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/giving-now-currently-seems-to-beat-giving-later/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/buying-vegetarians-addressing-criticism/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/buying-vegetarians-handling-complications/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-much-does-it-cost-to-buy-a-vegetarian/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-4-earning-to-give/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/in-giving-it-pays-to-precommit/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-eat-less-meat/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/resolutions-update-june-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-3-effective-altruism/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/in-non-profits-who-is-the-customer/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/the-failures-of-foreign-aid-and-some-potential-fixes/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/where-you-give-is-literally-a-matter-of-life-and-death/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/to-inspire-people-to-give-be-public-about-your-giving/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-to-build-a-community/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/why-dont-people-help-others-more/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/sunday-links-1/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/dont-take-my-advice-too-seriously/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/those-are-not-mountains/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/resolutions-update-may-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/who-is-this-peter-guy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-is-utilitarianism/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/resolutions-update-april-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/resolutions-update-march-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/resolutions-update-february-edition/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/new-years-resolutions/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/how-is-peter-exercising/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-is-peter-watching/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/what-is-peter-reading/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/essays/the-books-i-have-read-ratings-reviews-and-summaries/</loc>
+    </url>
+    
+</urlset>

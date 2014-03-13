@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Everyday Utilitarian</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-03-13T02:28:15-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Peter Hurford</name>
+  <uri>http://localhost:4000/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Notice: Site Speed Problems, Sorry]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/notice-site-speed-problems-sorry/" />
+  <id>http://localhost:4000/essays/notice-site-speed-problems-sorry</id>
+  <published>2014-03-11T04:47:15Z</published>
+  <updated>2014-03-11T04:47:15Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;This site is having several protracted problems with page load speed and database connection.  I’m not sure what is causing them, but I think I’m going to change site hosts within the next couple of days.  I unfortunately don’t have time to address this for a little bit longer.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned and sorry for all the problems.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/notice-site-speed-problems-sorry/&quot;&gt;Notice: Site Speed Problems, Sorry&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 11, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunday Links #23]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/sunday-links-23/" />
+  <id>http://localhost:4000/essays/sunday-links-23</id>
+  <published>2014-03-10T01:28:59Z</published>
+  <updated>2014-03-10T01:28:59Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;So I still do these…  Yeah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://slatestarcodex.com/2013/06/14/the-virtue-of-silence/&quot;&gt;“The Virtue of Silence”&lt;/a&gt;: “Leah Libresco writes a couple of essays on an ethical dilemma reported in the New York Times. In the course of a confidential medical history, a doctor hears her patient is suffering from stress-related complaints after having sent an innocent man to prison. The doctor wants to know whether it is ethical to report the matter to the police. The Times’ columnist says yes – it would save the poor prisoner. Leah says no – violating medical confidentiality creates an expectation that medical confidentiality will be violated in the future, thus dooming patients who are too afraid to talk about drug use or gay sex or other potentially embarrassing but important medical risk factors.  But both sides are ignoring the much bigger dilemma lurking one meta-level up: is it ethical to debate this dilemma in the New York Times?”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://utilitarian-essays.com/robustness-against-uncertainty.html&quot;&gt;Charity Cost-Effectiveness in an Uncertain World&lt;/a&gt;: “Evaluating the effectiveness of our actions, or even just whether they’re positive or negative by our values, is very difficult. One approach is to focus on clear, quantifiable metrics and assume that the larger, indirect considerations just kind of work out. Another way to deal with uncertainty is to focus on actions that seem likely to have generally positive effects across many scenarios, and often this approach amounts to meta-level activities like encouraging positive-sum institutions, philosophical inquiry, and effective altruism in general. When we consider flow-through effects of our actions, the seemingly vast gaps in cost-effectiveness among charities are humbled to more modest differences, and we begin to find more worth in the diversity of activities that different people are pursuing. Those who have abnormal values may be more wary of a general “promote wisdom” approach to shaping the future, but it seems plausible that all value systems will ultimately benefit in expectation from a more cooperative and reflective future populace.”
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.aaronsw.com/weblog/whynojobs&quot;&gt;“The Reason So Many People are Unemployed”&lt;/a&gt;: “A good way to wrap your head around this is to think about a much smaller case: instead of the whole economy, let’s think about a now-famous babysitting co-op on Capitol Hill. Instead of dollars, the co-op used its own scrip that was worth an hour of babysitting time. When you wanted to go out, you’d pay a couple hours to someone else to watch your kids; then when they wanted to go out, they’d pay you or someone else to do the same for them.  It all worked great for a while, until one day they found they had too few pieces of scrip. Every couple had only a couple hours left and, having so little, they didn’t want to waste it. So they all decided to save it for a very special occasion. This was kind of an incredible situation — even though there were people who wanted someone to babysit their kids, and people who were willing to do just that, the deal didn’t happen, simply because the co-op hadn’t printed enough colored pieces of paper. Eventually the co-op learned their mistake, printed some more scrip and handed it out, and everybody went back to babysitting like before and were much happier for it.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spring.org.uk/2013/02/the-single-most-effective-method-for-influencing-people-fast.php&quot;&gt;The Single Most Effective Method for Influencing People Fast&lt;/a&gt;: “Influence techniques vary considerably in how effective, ethical and easy to perform they are. At the easy, more ethical end of the spectrum, is affirming someone’s right to choose. This is a benign strategy which happens to have the handy side-effect of increasing persuasion.  But what if you are looking to use a little more effort to get a lot more persuasion-power? Then perhaps the disrupt-then-reframe (DTR) technique is for you.  A word of warning, though: the DTR technique is more of a cheap (but very effective) trick which some might find morally questionable. OK, with the health warning over, here’s what they did in the original study which kicked off this whole line of research.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://marginalrevolution.com/marginalrevolution/2013/02/cognitive-democracy-condorcet-with-competence.html&quot;&gt;Cognitive Democracy: Condorcet with Competence&lt;/a&gt;: “We usually think of democracy as a way of aggregating diverse preferences but we can also imagine that we share similar preferences and that what we disagree about is the best way to achieve those preferences. From this perspective, democracy can be thought of as a tool for information aggregation. Using simple probability theory, Condorcet showed in 1785 that even when each individual voter has only a slightly better than chance probability of choosing the bettier of two options the probability that majority rule chooses the better outcome quickly goes to 1 as the number of voters increases (the wisdom of the crowds).”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lesswrong.com/r/discussion/lw/iro/systematic_lucky_breaks/&quot;&gt;Systematic Lucky Breaks:&lt;/a&gt; “Many people can point to significant events that improved their lives in a positive way. They often refer to these as ‘lucky breaks’, and take it for granted that such events are rare. But most of the time ‘lucky breaks’ don’t need to be uncommon-you can often reverse engineer the reasons behind them and cause them to happen more frequently. So when a one-off event ends up contributing a lot of value, you should systematically make it part of your life.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.theatlantic.com/business/archive/2013/06/do-unpaid-internships-lead-to-jobs-not-for-college-students/276959/&quot;&gt;“Do Unpaid Internships Lead to Jobs? Not for College Students”&lt;/a&gt;: “The common defense of the unpaid internship is that, even if the role doesn’t exactly pay, it will pay off eventually in the form of a job. Turns out, the data suggests that defense is wrong, at least when it comes to college students.”&lt;/p&gt;
+
+&lt;p&gt;Amid all the focus on how much it costs precisely to save a life, here’s a good reminder from GiveWell that &lt;a href=&quot;http://blog.givewell.org/2013/06/11/the-moral-case-for-giving-doesnt-rely-on-questionable-quantitative-estimates/&quot;&gt;the moral case for giving doesn’t rely on questionable quantitative estimates”&lt;/a&gt;: “To us, the strongest form of the challenge is not ‘How much should I give when $X saves a life?’ but ‘How much should I give, knowing that I have massive wealth compared to the global poor?’”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/&quot;&gt;Life is a game, this is your strategy guide&lt;/a&gt;.  Cute.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/sunday-links-23/&quot;&gt;Sunday Links #23&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Effective Altruism is Not a Competition]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/effective-altruism-is-not-a-competition/" />
+  <id>http://localhost:4000/essays/effective-altruism-is-not-a-competition</id>
+  <published>2014-03-01T15:08:00Z</published>
+  <updated>2014-03-01T15:08:00Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;In the past, some people have suggested that we “gamify” effective altruism some more, and create points for doing altruistic-y things, like donating our money or volunteering our time.  I think this could be a good idea, but rather than seeing individual scores, I’d much rather see a collective team score for EA.  We’d compete as a group to beat our past group selves (make March better than February, for example) rather than compete amongst ourselves as individuals.&lt;/p&gt;
+
+&lt;p&gt;There are several problems with the individual competition model, but the biggest problem is the most fundamental – &lt;strong&gt;effective altruism is not&lt;/strong&gt; (and shouldn’t be) &lt;strong&gt;a competition.&lt;/strong&gt;  Rather, we are a team.  A community.  We all have one common goal.&lt;/p&gt;
+
+&lt;p&gt;I know some effective altruists who see EAs like Holden Karnofsky or what not do incredible things, and feel a little bit of resentment at themselves and others; feeling inadequate that they can’t make such a large difference.  This is an important feeling for generating a desire to improve, and keeping a &lt;a href=&quot;http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/&quot;&gt;growth mindset&lt;/a&gt; in the face of this could lead to great things for you.  However, it’s even more important not to let this get you into depression, &lt;strong&gt;simply because Holden’s success is also your success.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All effective altruists care about is making sure that the world is a better place.  It doesn’t matter who is doing the better-ing.  If Holden, Bill Gates, and Dustin Moskovitz each have 1 billion EA points and you only have five, you should be celebrating the fact that the EA community is collectively at 3 billion and five EA points and that you’re helping.  You shouldn’t feel bad that you’re not doing as well.&lt;/p&gt;
+
+&lt;p&gt;We all have different skills and abilities.  Growth mindset does say that we each have an ability to be incredibly effective and altruistic, but we still all start with different places.  It’s simply not the case that all of us, right this year, could be making seven figure donations to GiveWell or be putting in 80 hours a week at a top non-profit.  But we all can do our best and try a little harder.&lt;/p&gt;
+
+&lt;p&gt;Let’s start seeing ourselves more as a community where everyone has something to offer and celebrate our collective success, not despair over who is or is not the most effective.  Effective altruism shouldn’t be a competition (at least, among individuals).&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Idea adapted from Brian Tomasik’s &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=10&amp;amp;t=797&quot;&gt;“Teamwork over Envy”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Career Advice for Jacy, Choosing Between Ph.D. Programs]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/career-advice-for-jacy-choosing-between-ph-d-programs/" />
+  <id>http://localhost:4000/essays/career-advice-for-jacy-choosing-between-ph-d-programs</id>
+  <published>2014-02-21T05:00:27Z</published>
+  <updated>2014-02-21T05:00:27Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Jacy is an effective altruist trying to decide what career to go into after college.  He’s currently choosing between a Ph.D. in neuroscience or a Ph.D. in economics.  He wrote to me asking for advice.  This was my reply.  We both agreed it would be good to publish it so that others thinking about Ph.D. programs can benefit as well.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;I made you wait a long time for not too much, because I don’t know a lot about PhD programs.  So I’ll be saying more general things that are less helpful.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, I’m skeptical of PhD programs because they tend to really restrict your options (committing you to a path for several years), which seems bad early on when you’re just learning about what you can do.&lt;/p&gt;
+
+&lt;p&gt;My intuition is that a PhD is a pretty poor path toward earning a lot of money, because the earnings are not a guarantee and they are in the more distant future, requiring discounting for both time and probability.  An economics PhD might be an exception for opening up superior finance careers, but I suspect that if you have the talent to do well in finance, you’d have that talent immediately and could go in straight away.  That’s just a guess though.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;Notably, this time distance and the option-closing inflexibility seems especially bad when you consider the fact that (luckily) it seems EA is heading long-term toward having more money than talent.  Thus, it seems best to me (right now, based on what I know), for really dedicated EAs to head toward doing more direct work than earning to give.  So not only do I think PhDs are an inferior path to earning to give, I think earning to give might be an inferior path altogether.&lt;/p&gt;
+
+&lt;p&gt;Thus, in my opinion, what you’re really comparing PhDs on is the “valuable academic research” route.  This way, getting a PhD could be valuable direct work.  Here, my intuitions lean to economics PhD over neuroscience for a variety of reasons: (1) economics seems more relevant to policy and thus more likely to make changes that lead to impact, (2) economists seem more credible as influencers generally, and (3) economists get to focus specifically on the developing world over the developed world where needs seem less strong.  (Also, weighted in the favor of economics is the non-direct impact stuff.)&lt;/p&gt;
+
+&lt;p&gt;I know you’ve been thinking through this a lot and have been having a hard time choosing between many different choices.  My guess is that if you’re not &amp;gt;95% committed to an economics PhD for reasons both including effective altruism and including non-EA stuff like personal satisfaction / enjoyment / etc., you should hold off and do something that keeps your options open.  Learn more about what direct work you could do or what your earnings in finance et. al. could be (perhaps by trying these things for a year each or something), and then make a decision based off that.  You’ll be in a much better position to make an informed choice after that.&lt;/p&gt;
+
+&lt;p&gt;In addition, you might find it useful to reflect on your open options with criteria on paper, like I did &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;here&lt;/a&gt;.  Then publish it for people to review and critique.  This was the single most helpful thing I did for myself, but I understand it’s not how everyone thinks through things best.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/career-advice-for-jacy-choosing-between-ph-d-programs/&quot;&gt;Career Advice for Jacy, Choosing Between Ph.D. Programs&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 21, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Fyfe-Hurford Debate: Alonzo's Round One]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/fyfe-hurford-debate-alonzo-round-one/" />
+  <id>http://localhost:4000/essays/fyfe-hurford-debate-alonzo-round-one</id>
+  <published>2014-02-19T05:00:34Z</published>
+  <updated>2014-02-19T05:00:34Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Over at Felicifia, Alonzo Fyfe, blogger at &lt;a href=&quot;http://atheistethicist.blogspot.com/&quot;&gt;Atheist Ethicist&lt;/a&gt; and &lt;a href=&quot;http://secularite.com/real-world-ethics-alonzo-fyfe/&quot;&gt;The Secularite&lt;/a&gt;, and I &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;had a debate&lt;/a&gt; on “Which is a better theory of utilitarianism – Alonzo Fyfe’s desirism or Peter Hurford’s two-level utilitarianism?”.  I wanted to reprint that debate here.  Here’s the first entry (of eight).  This entry was written by Alonzo Fyfe.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;I want to defend the claim that desirism (desire utilitarianism) is the best form of utilitarianism - better even than Peter Hurford’s version of RM Hare’s two-level theory. &lt;/p&gt;
+
+&lt;p&gt;I wish to start by explaining its differences from other utilitarian theories and suggesting how these make desirism stronger than those other theories.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-utilitarianism&quot;&gt;Types of Utilitarianism&lt;/h2&gt;
+
+&lt;p&gt;There are two ways to cut utilitarian theories.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Types of Utility:&lt;/strong&gt; On this first cut, we distinguish what counts as utility. Candidates include pleasure and freedom from pain (Jeremy Bentham), happiness over unhappiness (John Stuart Mills), preference satisfaction (Peter Singer), and the well-being of conscious creatures (Sam Harris). &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objects of Evaluation:&lt;/strong&gt; This second cut looks at primary objects of evaluation. Act utilitarianism makes the evaluation of actions primary - do that act that maximizes utility. Rule utilitarianism makes a rule set primary - do that act that conforms to the best rule set, where the best rule set maximizes utility. &lt;/p&gt;
+
+&lt;p&gt;These two cuts go across each other, allowing for possibilities such as happiness maximizing rule utilitarianism (Mill) or preference satisfaction act utilitarianism (Singer). &lt;/p&gt;
+
+&lt;h2 id=&quot;desires-as-the-primary-object-of-evaluation&quot;&gt;Desires as the Primary Object of Evaluation&lt;/h2&gt;
+
+&lt;p&gt;Desirism (desire utilitarianism) holds that desires are the primary object of evaluation. On this account, the right act is the act that conforms to the best desire set, and the best desire set is the desire set that maximizes utility. &lt;/p&gt;
+
+&lt;p&gt;Many who heard the term “desire utilitarianism” interpreted it as a candidate for the first cut – the right act is the act that maximizes desire fulfillment. Somebody making this mistake may be tempted to argue: “What about a case where a lot of people desire the torture of a young child? Your theory would say that torturing the child is not only right, but obligatory.” &lt;/p&gt;
+
+&lt;p&gt;Desirism would not make the act obligatory. It would look at the desire to have a young child tortured and see it as a desire that tends to reduce utility. Imagine that the desire did not exist – there will be little to no reason to introduce it and many and strong reasons not to. As a desire that tends to thwart other desires, it is does not have a place in the best desire set. &lt;/p&gt;
+
+&lt;h2 id=&quot;desirism-as-modified-rule-utilitarianism&quot;&gt;Desirism as Modified Rule Utilitarianism&lt;/h2&gt;
+
+&lt;p&gt;More specifically, desirism takes rule utilitarianism and physically writes the rules into the structures of brains in the form of desires. In doing this, it avoids the most common objection to rule-utilitarianism - that it collapses into act utilitarianism. &lt;/p&gt;
+
+&lt;p&gt;Imagine a situation where an act that follows the rules (saving an innocent person) produces less utility than an act that breaks the rules (killing an innocent person). These are your choices: Perform the act that conforms to the rules, or perform the act that produces the most utility. &lt;/p&gt;
+
+&lt;p&gt;In many cases, a rule utilitarian can avoid this objection by pointing to the efficiency of following a rule of thumb. Yet, that response does not work in cases where we know which act will maximize utility - and yet still hold that the moral requirement is to do something other than maximize utility. When the child is tortured for the satisfaction of 10,000 sadists, we know which option maximizes utility. &lt;/p&gt;
+
+&lt;p&gt;Considerations of utility alone demand performing the act-utilitarian best act. In order to defend obeying the rules in these circumstances we must introduce a principle that says that following the rules has moral value even when it produces less utility. Requiring that rule-following have value independent of utility abandons utilitarianism. &lt;/p&gt;
+
+&lt;p&gt;However, lets write the rules into brains in ways that do not allow this type of choice. A person can forego fulfilling a particular desire, but only if there are more or stronger desires that outweigh it. To perform the act-utilitarian best act, one must have a different desire set - there is no other option. From here, we can ask what is the overall effect of the desire set that would permit the act-utilitarian best act. &lt;/p&gt;
+
+&lt;p&gt;Specifically, desirism takes rule utilitarianism and adds three elements: &lt;/p&gt;
+
+&lt;p&gt;(1) The rules are not abstract entities - they refer to the potential structures of physical matter (brains). Physical actions can change these structures, and different structures cause different actions. Our question is: Which structures do we have reason to promote? &lt;/p&gt;
+
+&lt;p&gt;(2) The rule sets are inviolable. An individual rule/desire may be broken, but only if outweighed by more or stronger rules/desires stacked against it. &lt;/p&gt;
+
+&lt;p&gt;(3) The rules/desires are persistent, though changeable. The desires present during any action will motivate an agent’s actions through a wide variety of circumstances. More importantly, the desires we have reason to promote will exist both across agents and across time. &lt;/p&gt;
+
+&lt;h2 id=&quot;ethics-in-likely-versus-exoticimpossible-situations&quot;&gt;Ethics in Likely versus Exotic/Impossible Situations&lt;/h2&gt;
+
+&lt;p&gt;In evaluating the utility of a rule/desire set, we will need to take into account how likely particular situations are. A desire that produces non-utilitarian outcomes in rare or impossible situations would not count against it. &lt;/p&gt;
+
+&lt;p&gt;This allows us to sidestep many proposed “tests” of utilitarianism. They ask us to imagine an unlikely or impossible situation with an obvious act-utilitarian best act that still seems objectionable. Examples include pushing a fat man onto the path of a runaway trolley thus preventing it from killing five people further down the track, or a doctor killing a healthy patient to harvest five organs to save the lives of five patients. &lt;/p&gt;
+
+&lt;p&gt;Desire utilitarianism says that the utility of desires is to be determined by looking at the situations in which they are likely to play a causal role. Morality concerns refusing to drink and drive, keeping promises, paying debts, leaving the money your co-worker has in her purse, refraining from aggressive violence, abstaining from sex without consent, and not killing or maiming people just because you think that some good might come of it. &lt;/p&gt;
+
+&lt;p&gt;A look at the news tells us that we have a far bigger problem with people killing others when they think some good can come of it than we have with people not being killed - be they political or religious ends or simply punishing somebody the killer thinks deserves to be killed. Weakening the aversion to killing based on fantastic unrealistic scenarios would be foolish. That is exactly the effect of saying that no condemnation is due the person who kills when he thinks good can come of it. &lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-utility&quot;&gt;What Is ‘Utility’?&lt;/h2&gt;
+
+&lt;p&gt;Desirism not only makes desires the primary object of moral evaluation, it has something to say about what counts as utility. &lt;/p&gt;
+
+&lt;p&gt;Every desire that P, for some proposition P, provides an agent with a motivating reason to realize states of affairs where P is true. &lt;/p&gt;
+
+&lt;p&gt;The desires for pleasure or happiness provide agents with motivating reasons to realize states where “I am experiencing pleasure” or “I am happy” are true. A desire that one’s children are safe provides a motivating reason to realize states where, “My children are safe” is true. An aversion lying or breaking promises motivates agents to avoid realizing states where, “I am lying” or “I am breaking a promise” are true. An aversion to having any child go hungry provides a motivating reason to realize states where “no child is hungry” is true. &lt;/p&gt;
+
+&lt;p&gt;The list of propositions P that define our potential desires is as unbounded as the list of propositions P that define our potential beliefs. This means that the list of things that count as utility is not limited to one or two things. The list may be endless. &lt;/p&gt;
+
+&lt;p&gt;Most utilitarian theories that compete against this model fall into one of three groups. &lt;/p&gt;
+
+&lt;h4 id=&quot;group-1-brain-state-theories&quot;&gt;Group 1: Brain-state theories.&lt;/h4&gt;
+
+&lt;p&gt;Brain-state theories identify utility with particular brain states - pleasure, happiness, contentment. &lt;/p&gt;
+
+&lt;p&gt;Brain-state theories fail Robert Nozick’s experience machine test. Ask parents whether they would prefer to be put into an experience machine that will feed them sensations that their child is healthy and happy - while the child suffers great agony in fact - and the vast majority would refuse. They are not seeking a brain state, they are seeking a world state where their child is, in fact, healthy and happy. The experience machine does not create a state where P is true, so the experience machine does not hold value for the parent with a desire that their child be healthy and happy. &lt;/p&gt;
+
+&lt;h4 id=&quot;group-2-value-laden-terms&quot;&gt;Group 2: Value-laden terms&lt;/h4&gt;
+
+&lt;p&gt;Another family of utilitarian theories identifies utility with some value-laden concept such as “well-being” or “the good life”. &lt;/p&gt;
+
+&lt;p&gt;The problem with these theories is that they don’t really answer the question, “What is good?” They simply push the question back to “What is well-being?” or “What is the good life?” &lt;/p&gt;
+
+&lt;p&gt;Desirism can actually answer questions like, “What is well-being?” However, understanding well-being means understanding that it is not the sole content of utility. &lt;/p&gt;
+
+&lt;p&gt;Desirism identifies well-being is a state of being in which an agent’s self-regarding desires are fulfilled. Because such a state realizes some of the things an agent desires, an agent has reason to realize such a state. However, an agent’s self-regarding desires are only a subset of the agent’s desires. Therefore, well-being is only a subset of what counts as utility. &lt;/p&gt;
+
+&lt;p&gt;Many parents would prefer are a greater loss of well-being for themselves to a lesser loss of well-being for their child. This is because their other-regarding concern for their child is something that parents care about in addition to well-being, so that their child’s lesser well-being has more value than their own greater well-being. Such a person would reduce overall well-being, but it does not follow that they are immoral. &lt;/p&gt;
+
+&lt;h4 id=&quot;group-3-intrinsic-value-theories&quot;&gt;Group 3: Intrinsic Value Theories&lt;/h4&gt;
+
+&lt;p&gt;Intrinsic value theories tell us that some states have intrinsic value, and intrinsic value must be maximized while intrinsic badness minimized. Group 1 and Group 2 are intrinsic value theories. &lt;/p&gt;
+
+&lt;p&gt;Desirism holds that intrinsic value does not exist. A desire that P creates a motivating reason to realize P, not its intrinsic merit. &lt;/p&gt;
+
+&lt;p&gt;An intrinsic value claim may take the form of saying, for example, all preference satisfaction has equal value, so it is wrong to put one person’s preferences above another’s. One must consider one’s child’s preferences as equal to those of another child - as equal to one’s own. &lt;/p&gt;
+
+&lt;p&gt;Desirism can give us reason to deny that a preference for the well-being of one’s family and friends is immoral. &lt;/p&gt;
+
+&lt;p&gt;A large company seeking only profits will divide its operations into regions, telling each regional director, “You are responsible for this region. In assigning bonuses, for example, do not look at the benefits of giving bonuses to employees in other regions - that is not your job. Look only to your district.” &lt;/p&gt;
+
+&lt;p&gt;Similarly, it makes sense to assign each child to an adult and say, “This child is your responsibility. In accepting this responsibility, you are not to treat the interests of each child equally but to concern himself primarily with the interests of this child - leaving others to care for the children assigned to them.” &lt;/p&gt;
+
+&lt;p&gt;This would not be an argument against redistribution. An argument can also be made for taking the surplus resources of some families (regional directors) and investing them in a different region where they can do more good. However, is not inconsistent with the demand that individuals take responsibility for their own children, family, friends, and neighbors. &lt;/p&gt;
+
+&lt;p&gt;The value of a desire is not found in its intrinsic merit, but in the reasons that exist for promoting it. In this sense, desires have the same type of value as everything else has - according to its tendency to fulfill or thwart (other) desires. &lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My goal here has been to explain the differences between desirism and other forms of utilitarianism in order to highlight its strengths. It is a form of rule utilitarianism that does not collapse into act utilitarianism. As such, it can avoid the objections to act utilitarianism based on exotic cases. Its rules are potential physical entities in the real world. It does not require postulating some type of intrinsic value or any other type of exotic entity. It handles Nozick’s experience machine and provides a real-world answer to the question, “What is value?”&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/fyfe-hurford-debate-alonzo-round-one/&quot;&gt;Fyfe-Hurford Debate: Alonzo's Round One&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 19, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[How Do The Extremely Poor Live?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/how-do-the-extremely-poor-live/" />
+  <id>http://localhost:4000/essays/how-do-the-extremely-poor-live</id>
+  <published>2014-02-17T15:45:11Z</published>
+  <updated>2014-02-17T15:45:11Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;What is it like to be extremely poor?&lt;/p&gt;
+
+&lt;p&gt;We know that the extremely poor are living on less than what $1.25 a day could buy in the United States.  But this seems implausible.  Wouldn’t someone with that little money just end up dying of starvation very quickly?  Simulations like &lt;a href=&quot;https://www.livebelowtheline.com/&quot;&gt;Living Below the Line&lt;/a&gt; can only go so far.  It’s difficult to understand what it’s like to be that poor.&lt;/p&gt;
+
+&lt;p&gt;However, it’s now becoming a bit easier to understand.  Abhijit V. Banerjee and Esther Duflo, authors of the popular book &lt;strong&gt;&lt;a href=&quot;http://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938&quot;&gt;Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty&lt;/a&gt;&lt;/strong&gt; and co-founders of &lt;a href=&quot;http://www.povertyactionlab.org/&quot;&gt;The Abdul Latif Jameel Poverty Action Lab&lt;/a&gt;, have written a paper called &lt;a href=&quot;http://economics.mit.edu/files/530&quot;&gt;“The Economic Lives of the Poor”&lt;/a&gt;.  Using survey data from thirteen different countries, Banerjee and Duflo are able to tell the tale of life as a poor person.&lt;/p&gt;
+
+&lt;p&gt;Here’s an informative summary of their research.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_1243” align=”aligncenter” width=”383”]&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.23.26-AM.png&quot; alt=&quot;An extremely poor village in Kenya&quot; /&gt; An extremely poor village in Kenya[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;families-compared&quot;&gt;Families Compared&lt;/h2&gt;
+
+&lt;p&gt;The typical extremely poor households tends to be much larger than a US family.  The extremely poor households have a median of 8 people living in them, compared to 2.5 in the US.  However, it’s not typically a couple with many children like one might expect – there actually is a median of 3 adults in a household.  This suggests a family structure where people live with their parents, siblings, uncles, cousins, etc., which makes sense given it is easier to pool resources when you are sharing a space.&lt;/p&gt;
+
+&lt;p&gt;However, poor households do have more children than US households, having about 3 children per woman of child-bearing age, as compared to 1.9 in the US or 1.6 in Europe.  The population of extremely poor areas is also very young in general.  While the US has about one young person (age below 18) for every old person (age above 51), extremely poor areas have a median of six young people for every old person.&lt;/p&gt;
+
+&lt;p&gt;This helps to explain why interventions targeted on children, such as school deworming, can have a large impact on the future of these countries - most of the population is young. It also helps to explain higher rates of violence or political instability in poor countries, as violence everywhere is overwhelmingly committed by young men according to Steven Pinker’s &lt;a href=&quot;http://www.amazon.com/The-Better-Angels-Our-Nature/dp/1455883115&quot;&gt;&lt;strong&gt;Better Angels of Our Nature&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_1245” align=”aligncenter” width=”417”]&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.24.41-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.24.41-AM.png&quot; alt=&quot;Children in an extremely poor family in Kenya.&quot; /&gt;&lt;/a&gt; Children in an extremely poor family in Kenya.[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-being-extremely-poor-like&quot;&gt;What is Being Extremely Poor Like?&lt;/h2&gt;
+
+&lt;p&gt;One of the most common traits of being extremely poor is weakness and disease.  Because of low food consumption and poor nutrition, 65% of the poor in Udaipur, India (the area with the best data) are underweight.&lt;/p&gt;
+
+&lt;p&gt;43% of the adults report having difficulty with “activities of daily living”, and this includes 34% of adults under 50.  Furthermore, 55% of the poor have an insufficient red blood cell count (anemia).  In the last month, 72% of the poor in Udaipur report at least one symptom of a disease and 46% of the poor report seeing a doctor because of a disease.&lt;/p&gt;
+
+&lt;p&gt;Despite constant sickness, self-reported levels of health and happiness are not particularly low, but self-reported levels of stress (both financial and psychological) are very high.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, infant mortality is still high.  Surveys have asked women about the outcomes of their pregnancies, including whether the child is still alive.  Infant mortality is the number of children who die before reaching their first birthday, as a percentage of the number of live births.  Among the poor, this number is at a low of 3.4% in Indonesia and a high of 16.7% in Pakistan, compared to 0.5% in Europe.  Notably, these numbers are likely to be underestimates because not all children are remembered, especially if they die very early.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.19-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.19-AM.png&quot; alt=&quot;eat&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-the-poor-eat&quot;&gt;What Do the Poor Eat?&lt;/h2&gt;
+
+&lt;p&gt;The typical poor person could spend about 30% more on food if they wanted to, cutting out all other spending and all savings.  Also, the poor don’t buy food optimally.  In a surveyed region of India, the cheapest way to eat (in terms of calories per dollar) was to buy the grain “millet”.  However, in this region, only about two-thirds of food spending was on millet, with another 20% on rice (which costs about twice as much per calorie), another 10% on wheat (70% more expensive than millets per calorie), and almost 7% on sugar (which is the most expensive per calorie and has no other nutritional value).  I don’t know if this is true of other areas, though.&lt;/p&gt;
+
+&lt;p&gt;Despite having more ability to buy food, the poor don’t eat much – the households in the bottom 10% of  per capita expenditure consume less than 1400 calories a day on average, which is about half of what is recommended for a man with moderate activity, or a woman with heavy physical activity.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, going without food is quite common.  In Udaipur, 45% of poor households reported adults cutting the size of their meal and 12% of households reported children having to cut the size of their meal as well.  In addition, 37% of poor households in Udaipur reported going without a meal for an entire day within the last year.&lt;/p&gt;
+
+&lt;p&gt;GiveDirectly, one of GiveWell’s top charities that gives cash transfers to the extremely poor, notes that in their target area of Kenya, “well over half of adults skip meals, less than half of household members eat until they are content, people commonly go to sleep hungry, and a paltry 18% report having enough food for tomorrow”.&lt;/p&gt;
+
+&lt;p&gt;One type of food that is frequently bought in South India is a dosa, or a rice and beans pancakes that almost everyone eats for breakfast.  This can be bought frequently for a rupee, which is approximately 15 US cents (PPP adjusted).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.28-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.28-AM.png&quot; alt=&quot;love is better&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-the-poor-buy&quot;&gt;What Do the Poor Buy?&lt;/h2&gt;
+
+&lt;p&gt;One might expect that an extremely poor person is working as hard as they can just to survive, putting every penny earned toward food.  However, this actually isn’t the case – across the thirteen countries studied, food only accounted for 56% to 78% of the budget.&lt;/p&gt;
+
+&lt;p&gt;So what do the poor spend money on instead?  Surprisingly, spending on education is very low – typically about 2% of budgets.  This is mostly because governments provide free schooling.  In every country sampled except Cote d’Ivoire, at least 50% of boys and girls aged 7 to 12 were in school.  Unfortunately, there’s mounting evidence that the public schools aren’t that good.&lt;/p&gt;
+
+&lt;p&gt;A lot of spending varies region to region, but a typical extremely poor person spends about 4.1% to 8.1% of their budget on tobacco and alcohol.  Furthermore, in every region except South America, around 10% of the budget was devoted to festivals, like weddings, funerals, or religious celebrations.&lt;/p&gt;
+
+&lt;p&gt;Why would the poor spend money on entertainment at the cost of more essential items?  One possibility is that more food wouldn’t help, because they would just end up getting weak from contracting disease later on.&lt;/p&gt;
+
+&lt;p&gt;Another possibility is that entertainment is a strongly felt need that provides an escape from thinking about economic problems. Festivals and similar events also contribute to social bonds that are very important to everyone, but particularly those in poverty who live in riskier environments and more frequently require support from their connections to deal with financial or other difficulties.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_1248” align=”aligncenter” width=”349”]&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.36-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.36-AM.png&quot; alt=&quot;A school in Kenya&quot; /&gt;&lt;/a&gt; A school in Kenya[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;what-does-a-poor-person-own&quot;&gt;What Does a Poor Person Own?&lt;/h2&gt;
+
+&lt;p&gt;Even among the extremely poor, above 70% of households in South Africa and Peru owned a radio (though only 11% of the poor in Udaipur had a radio).  Furthermore, while no one in Udaipur had a television, in Guatemala, nearly a quarter of households had a television and in Nicaragua almost half of the households did.&lt;/p&gt;
+
+&lt;p&gt;The poor generally don’t own many productive assets, but some do have some land.  While only 1.4% of the poor in South Africa and 4% of the poor in Mexico own land, 65% of the poor in Guatemala, 85% of the poor in Panama, and 99% of the poor in Udaipur have land.  Unfortunately, most of this land is dry scrubland that cannot be used for agriculture throughout most of the year.  Furthermore, it’s not much land – a typical household’s plot, if they have land at all, is about one hectare (100m x 100m or 2.4 acres), which is small for a farm.&lt;/p&gt;
+
+&lt;p&gt;Other goods that could be used for productivity are in short supply.  In nearly all the areas surveyed, less than 14% of poor households owned a bicycle.  Less than 1% of poor households had sewing machines, bullock cart, motorized cycle, or tractor.  Houses are also pretty sparse.  Banerjee and Duflo’s data showed that while most households had at least one bed or cot, only 10% had a chair or stool and only 5% had a table.  However, &lt;a href=&quot;http://www.givewell.org/international/site-visits/november-2012#GiveDirectly&quot;&gt;GiveWell’s site visit of Give Directly’s targeted areas&lt;/a&gt; in Kenya showed that living rooms they saw typically had many chairs, tables, and couches and that most homes owned a bicycle, but few houses had radios or television.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_1249” align=”aligncenter” width=”391”]&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.47-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.47-AM.png&quot; alt=&quot;A bicycle owned by an extremely poor person in Kenya.&quot; /&gt;&lt;/a&gt; A bicycle owned by an extremely poor person in Kenya.[/caption]&lt;/p&gt;
+
+&lt;p&gt;The poor also tend to lack access to basic infrastructure, but it is highly variable.  Access to water varies from a minimum of 0% in Udaipar to 36% in Guatemala.  Electricity varies from 1.3% in Tanzania to 99% in Mexico.  Access to toilets range from 0% in Udaipur to 100% in Nicaragua.  Moreover, infrastructure doesn’t always appear together.  While 97% of poor households in Indonesia have electricity, only 6% have tap water.&lt;/p&gt;
+
+&lt;p&gt;GiveWell anecdotally noted that of the fifteen households they visited, most homes had three rooms – a sitting room, bedroom, and storage room – varying in size from 10’x12’ to 12’x20’ each.  Generally, the husband and wife would sleep in the bedroom and the children would often sleep in the storage room.  Houses frequently would have a separate kitchen structure.&lt;/p&gt;
+
+&lt;p&gt;GiveWell also observed that people would hang old calendars (like from 2003) for decoration and used kerosene lamps for light because there was no electricity.  They also heard that people walk about 5-20 minutes daily to obtain drinking water.  Furthermore, they observed people owning about 1-2 cows and 4-5 chickens for livestock.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.06-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.06-AM.png&quot; alt=&quot;playing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-poor-people-get-money&quot;&gt;How Do Poor People Get Money?&lt;/h2&gt;
+
+&lt;p&gt;About 50% of the poor living in Indonesia, 72% in Cote d’Ivoire, 84% in Guatemala, and 94% in Udaipur report working multiple jobs in order to get their income – typically one agricultural and one non-agricultural, though not always.&lt;/p&gt;
+
+&lt;p&gt;Most non-agricultural jobs involve self-employment as a business owner.  Typically, a member of the poor household will migrate (about 60% of families), leaving for a median of one month to find employment in a nearby city.  Others will perform a job earlier in the day, like selling food, and then go out and perform another job, like selling textiles, collect trash, or general labor.&lt;/p&gt;
+
+&lt;p&gt;Generally these entrepreneurial jobs done by the poor do not require skills.  In Hyderabad, jobs of the poor breakdown to 17% general stores, 11% tailors, 8% fruit and vegetable sellers, 6.6% telephone booth operators, 6.3% milk sellers, and 4.3% auto owners.  Of these, only tailoring requires a specialized skill that takes awhile to acquire.&lt;/p&gt;
+
+&lt;p&gt;Additionally, about 76% of the poor report at least one member of their household working for a public employment program.  Many governments provide safety-net “food for work” programs, which entitle some days of physical labor under government employment at a pre-announced, low wage.  Unfortunately, this kind of work is rare and is often given out in a way that discriminates against the poor.&lt;/p&gt;
+
+&lt;p&gt;Another interesting question is how the poor would spend additional money, if they got it.  GiveDirectly, by giving cash transfers in $1000 chunks, has been able to find out.  An informal survey conducted by them and shared with GiveWell found that 67% of the money spent went into home improvement (replacing a thatched roof with an iron-sheet roof), 9% went to other (like school uniforms or a motorcycle), 9% went to livestock, and 4% went to food.  However, this survey was only in Kenya, and other areas might spend differently.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_1250” align=”aligncenter” width=”380”]&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.56-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.56-AM.png&quot; alt=&quot;A pen for holding livestock in Kenya.&quot; /&gt;&lt;/a&gt; A pen for holding livestock in Kenya.[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-the-poor-save-and-get-credit&quot;&gt;How Do the Poor Save and Get Credit?&lt;/h2&gt;
+
+&lt;p&gt;Typically, the poor don’t actually have access to a safe place to save money at a reasonable rate of return.  Only 14% of poor households have a savings account (with the exception of Cote d’Ivoire, where the number is 79%).  Even stashing cash in a pillow or a home doesn’t work well because of high inflation and rates of theft.  Additionally, the poor, like everyone else, have problems resisting the temptation to spend money they have at hand, both when family members demand access to it, or when given the option to buy the same indulgences people in developed countries struggle to resist.&lt;/p&gt;
+
+&lt;p&gt;There also is little access to insurance.  Less than 6% of the poor have access to any kind of health insurance.  Generally, insurance is instead provided through friends and relatives as a type of loan exchange – 75% of poor households report making loans, 65% report borrowing money, and 50% report both.  The most common form of “insurance” to handle economic stress is eating less, taking children out of school, and foregoing medical treatment.&lt;/p&gt;
+
+&lt;p&gt;This lack of insurance or saving leads the poor to under-invest because they cannot accumulate financial assets, or afford to take risks.  Poor families do not specialize in skills and they operate their businesses at a remarkably small scale.  Poor families have access to very limited markets and infrastructure and suffer from a lack of access to credit.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Overall, a life in extreme poverty is one that can be endured and survived, but still not one that is particularly fun.   A life in this kind of poverty is a life without basic utilities, food security, and without many possessions we take for granted.  Instead, it’s a life of malnutrition, disease, and unpredictability.&lt;/p&gt;
+
+&lt;p&gt;However, it’s not quite as terrible as it sounds.  The extremely poor people still smile, still laugh, and still play.  They put money into their families and their festivals.  They still appear to be happy, for the most part.   Their lives still contain joy.&lt;/p&gt;
+
+&lt;p&gt;Some people have told me that it’s pointless to try and cure the extremely poor of malaria, because this means that they’ll just continue their miserable lives and catch a new disease a few months later, and die from that.  However, this is contradicted by the evidence.  Curing people of malaria still allows them to live a better life than they otherwise would and helps contribute to the economic development necessary to make things better.  And people who survive beyond their fifth birthday &lt;a href=&quot;http://www.givewell.org/international/technical/additional/Standard-of-Living#MortalityandMorbiditywhatarethemajorhealthproblemsinthedevelopingworld&quot;&gt;are more likely than not to live a full life&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As GiveWell writes in &lt;a href=&quot;http://blog.givewell.org/2007/12/04/what-a-life-saved-means/&quot;&gt;“What a ‘Life Saved’ Means”&lt;/a&gt;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;maybe the life you saved is a life without iPhones, but we’re still talking about a person who, at the very least, can be expected to grow up, make friends, fall in love, get in arguments, watch the sunset, have ups and downs, etc.”  I agree.  I’d never say things “aren’t that bad”, because they are.  Things are bad.  But not impossible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We can turn things around, and we should.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.15-AM.png&quot;&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.15-AM.png&quot; alt=&quot;woman&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This article was originally written for the Giving What We Can blog, but has not yet been published there.  All pictures are from GiveWell’s site visit to Kenya for Give Directly, used with permission from Elie Hassenfeld.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/how-do-the-extremely-poor-live/&quot;&gt;How Do The Extremely Poor Live?&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Could EA Community Building be an Easy and Underfunded Win?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/could-ea-community-building-be-an-easy-and-underfunded-win/" />
+  <id>http://localhost:4000/essays/could-ea-community-building-be-an-easy-and-underfunded-win</id>
+  <published>2014-02-09T15:23:30Z</published>
+  <updated>2014-02-09T15:23:30Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;There is a lot of effort in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Effective_altruism&quot;&gt;effective altruist movement&lt;/a&gt; right now.  Community building would include anything broadly related to recruitment and retention for the EA movement, aiming to get existing EAs to become more EA (and less likely to quit EA) as well as getting new people to become EA.  This seems &lt;em&gt;prima facie&lt;/em&gt; to be very high impact for many classical reasons like the &lt;a href=&quot;http://80000hours.org/blog/43-the-haste-consideration&quot;&gt;haste consideration&lt;/a&gt; that recruiting one person now seems to double your impact.&lt;/p&gt;
+
+&lt;p&gt;However, not too much EA effort seems channeled into community building at the moment.  &lt;a href=&quot;http://www.givewell.org&quot;&gt;GiveWell&lt;/a&gt;, &lt;a href=&quot;http://www.80000hours.org/&quot;&gt;80K Hours&lt;/a&gt;, &lt;a href=&quot;http://www.animalcharityevaluators.org&quot;&gt;Animal Charity Evaluators&lt;/a&gt;, and &lt;a href=&quot;http://www.intelligence.org&quot;&gt;the Machine Intelligence Research Institute&lt;/a&gt; are all primarially research organizations.  Organizations like 80K Hours and ACE once were outreach / community building organizations, but then intentionally rebranded and refocused specifically on research, eschewing community building.  GiveWell has considered many times to improve effort put into marketing, and chosen not to.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;As far as community building goes, we have &lt;a href=&quot;http://www.givingwhatwecan.org&quot;&gt;Giving What We Can&lt;/a&gt; and &lt;a href=&quot;http://www.thelifeyoucansave.org/&quot;&gt;The Life You Can Save&lt;/a&gt; doing individual and mass marketing respectively for trying to convince people to help the extremely poor.  We also have the &lt;a href=&quot;http://www.rationality.org&quot;&gt;Centre for Applied Rationality&lt;/a&gt; providing outreach and rationality training.  And &lt;a href=&quot;http://www.leverageresearch.org/&quot;&gt;Leverage Research&lt;/a&gt; has provided some work, creating &lt;a href=&quot;http://www.thehighimpactnetwork.org/&quot;&gt;THINK&lt;/a&gt; for recruitment and the &lt;a href=&quot;http://www.effectivealtruismsummit.com/&quot;&gt;EA Summit&lt;/a&gt; for retention/unification.  There are also several independently-organized meetup groups.&lt;/p&gt;
+
+&lt;p&gt;It just seems like there could be more here.  While there are many EA meetup groups, no one seems to be doing much work to figure out how to scale this approach to create many more groups in many more areas, or spreading best practices between the groups.  The amount of EA outreach that is not focused on global poverty seems really minimal.  The community building that is done seems like it could grow far more in sophistication, especially in terms of measurement, transparency of that measurement, and improving based upon those results.&lt;/p&gt;
+
+&lt;p&gt;All of these ideas seem like easy wins that are currently underfunded in both time and effort.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure at the moment how far this analysis goes.  I haven’t put much thought into comparing the marginal impact of more research versus more community building.  I also imagine groups have pivoted away from community building for a good reason – I just don’t know what that reason is.&lt;/p&gt;
+
+&lt;p&gt;Anyone have any ideas?&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also discussed on Facebook &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635723783150649/?stream_ref=3&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635093286547032/?stream_ref=2&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/could-ea-community-building-be-an-easy-and-underfunded-win/&quot;&gt;Could EA Community Building be an Easy and Underfunded Win?&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 09, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[What Have I Been Doing? IV]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/what-have-i-been-doing-iv/" />
+  <id>http://localhost:4000/essays/what-have-i-been-doing-iv</id>
+  <published>2014-02-07T15:07:50Z</published>
+  <updated>2014-02-07T15:07:50Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Periodically, in times of blog inactivity, I like to come back and report all the things I’ve been doing while not blogging.  Here’s a complete run down of the more recent:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I finished up Recruitment for my fraternity.&lt;/strong&gt;  It was basically working a part-time 20hrs/wk job for two weeks doing lots of event planning, but we ended up getting twelve fine men to join our fraternity.  Well worth it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’ve been working with Ozzie Gooen on &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;.impact&lt;/a&gt;&lt;/strong&gt;, a distributed volunteer force working to produce really useful projects.  Here’s &lt;a href=&quot;https://impact.hackpad.com/Projects-aRiPtncmuKS&quot;&gt;a list of projects our group is working on&lt;/a&gt; and you can check &lt;a href=&quot;http://dotimpact.im/meetings.html&quot;&gt;our meetings log&lt;/a&gt; for their status.  Besides helping coordinate the group as a whole, I’m also working on building a &lt;a href=&quot;http://www.jobboard.im&quot;&gt;Job Board&lt;/a&gt; (&lt;a href=&quot;https://impact.hackpad.com/Job-Board-G2ZocnkVTsc&quot;&gt;more details here&lt;/a&gt;) and &lt;a href=&quot;https://docs.google.com/a/peterhurford.com/document/d/1nA3VYi3-UbAOefSWCNcFQQ2fTIceiX1CkyZMIHO-q2Q/edit&quot;&gt;studying vegetarian advocacy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’ve been working on learning more computer programming.&lt;/strong&gt;  In addition to working on the Job Board, I’ve begun to work for a friend’s startup called &lt;a href=&quot;http://www.jorgestradingpost.com&quot;&gt;Jorge’s Trading Post&lt;/a&gt;, doing some PHP development for them.  I’ve also been learning more Ruby on Rails, Python, and JavaScript.  It helps that I’m now in a Computer Science class and have to program for actual homework.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I have been blogging, some.&lt;/strong&gt;  I’ve posted around here, but I’ve also been posting non-utilitarian stuff (gasp!) on &lt;a href=&quot;http://peterhurford.tumblr.com&quot;&gt;my Tumblr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m still doing Senior Research.&lt;/strong&gt;  I’m researching political optimism and the influence of optimism on political behavior.  We just launched our survey recently on &lt;a href=&quot;https://www.mturk.com/mturk/welcome&quot;&gt;Amazon’s Mechanical Turk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m still &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;debating Alonzo Fyfe&lt;/a&gt;.&lt;/strong&gt;  The topic is whether Alonzo Fyfe’s desirism or my two-level utilitarianism is the better theory of utilitarianism.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m still involved in the &lt;a href=&quot;http://denison.edu/campus/get-involved/service-opportunities/dca&quot;&gt;Denison Community Association&lt;/a&gt;&lt;/strong&gt;, the umbrella organization for all volunteer service and service learning on Denison’s campus.  I’m currently working to figure out how to get more people involved in service.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m still involved in &lt;a href=&quot;https://orgsync.com/custom_pages/10460/show/8585&quot;&gt;Denison Venture Philanthropy&lt;/a&gt;&lt;/strong&gt;, a grant-making organization that gives out $10K and 200 volunteer hours to one non-profit each year.  This year, we’re working with the &lt;a href=&quot;https://www.facebook.com/southnewark&quot;&gt;South Newark Civic Association&lt;/a&gt; to (1) get them a professional website, (2) do a survey-based needs analysis of the community, and (3) put together a booklet of local businesses.  I’m helping work on the website – not programming, but helping them figure out how to talk to vendors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m still volunteering with &lt;a href=&quot;http://www.animalcharityevaluators.org&quot;&gt;Animal Charity Evaluators&lt;/a&gt;.&lt;/strong&gt;  Recently, &lt;a href=&quot;http://www.animalcharityevaluators.org/blog/ace-highlight-organization-evaluation-criteria/&quot;&gt;I helped put together&lt;/a&gt; some detailed &lt;a href=&quot;http://www.animalcharityevaluators.org/research/organizations/organization-evaluation-template/&quot;&gt;organization evaluation criteria&lt;/a&gt; that ACE will use to evaluate organizations going forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m going to be giving a 12-minute &lt;a href=&quot;https://www.ted.com/tedx&quot;&gt;TEDx talk&lt;/a&gt;&lt;/strong&gt; on &lt;a href=&quot;http://www.givewell.org/giving101&quot;&gt;effective giving&lt;/a&gt; at &lt;a href=&quot;http://denison.edu/campus/get-involved/whats-happening/tedxdenisonu&quot;&gt;TEDxDenisonU&lt;/a&gt; on the 1st of March.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/what-have-i-been-doing-iv/&quot;&gt;What Have I Been Doing? IV&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 07, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[What is .impact up to?]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/what-is-impact-up-to/" />
+  <id>http://localhost:4000/essays/what-is-impact-up-to</id>
+  <published>2014-02-03T22:37:09Z</published>
+  <updated>2014-02-03T22:37:09Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;.impact recently gave a presentation about what the group is up to. Feel free to watch it on YouTube here:&lt;/p&gt;
+
+&lt;p&gt;It’s a little rough right now, but we’ll get better. Also, check out our website: &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;http://www.dotimpact.im&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/what-is-impact-up-to/&quot;&gt;What is .impact up to?&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 03, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[I've Started a Personal Blog]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/ive-started-a-personal-blog/" />
+  <id>http://localhost:4000/essays/ive-started-a-personal-blog</id>
+  <published>2014-01-31T20:21:20Z</published>
+  <updated>2014-01-31T20:21:20Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;So I haven’t been writing as much as I used to, but one thing I have started getting interested in is writing about “not utilitarianism”.  Thus, I’ve thought it easiest to start a new blog elsewhere: &lt;strong&gt;&lt;a href=&quot;http://peterhurford.tumblr.com&quot;&gt;peterhurford.tumblr.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m on Tumblr as a matter of economy — it seemed like a quick and easy way to make a blog happen without mucking around in Wordpress or Jeckyll or what not.  It will be for all my musings that aren’t philosophical-y or utilitarian-y enough to go on his &lt;em&gt;real&lt;/em&gt; blog. But I promise this all maximizes utility somehow…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rest assured, I’ll still be keeping this blog going.&lt;/strong&gt;  But sometimes, I’ll have things that are best said elsewhere.  And now I have an elsewhere to say those things.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/ive-started-a-personal-blog/&quot;&gt;I've Started a Personal Blog&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 31, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunday Links #22]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/sunday-links-22/" />
+  <id>http://localhost:4000/essays/sunday-links-22</id>
+  <published>2014-01-19T03:16:03Z</published>
+  <updated>2014-01-19T03:16:03Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.montchrishubbard.com/blog/thegift.html&quot;&gt;A profile of Zell Kravinsky&lt;/a&gt;.  Any biography that opens casually with “Last summer, not long after [he] had given almost his entire forty-five-million-dollar real-estate fortune to charity” has to be good.&lt;/p&gt;
+
+&lt;p&gt;And speaking of effective altruism, ever wonder what characteristics effective altruists share?  Joey Savoie and Xio Kikauka &lt;a href=&quot;http://www.effectivefundraising.net/1/post/2013/07/ea-interview-project.html&quot;&gt;interviewed 42 EAs&lt;/a&gt; and found an average age of 25 (17-46), 75% male, left-wing politics, an average of 20 hours a week on EA volunteering, donating a median of 10% of their income, and generally transitioned from altruism to EA (as opposed to from effectiveness to EA).  Though, admittedly, this survey used a non-random convenience sample.&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;a href=&quot;http://squid314.livejournal.com/260949.html&quot;&gt;we &lt;em&gt;should&lt;/em&gt; put a value on a human life&lt;/a&gt;: “That dollar value is $5.8 million. Denying this leads to terrible consequences. Let me explain.”&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Some failures of people doing science:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://slatestarcodex.com/2014/01/02/two-dark-side-statistics-papers/&quot;&gt;How statistics can go wrong&lt;/a&gt; and basically say anything the author wants them to say.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.theamericanconservative.com/jacobs/on-intellectual-triage-and-not-writing-people-off/&quot;&gt;“On Intellectual Triage and Not Writing People Off”&lt;/a&gt;: “Terry Eagleton’s bludgeoning review of Richard Dawkins’s The God Delusion famously begins, ‘Imagine someone holding forth on biology whose only knowledge of the subject is the Book of British Birds, and you have a rough idea of what it feels like to read Richard Dawkins on theology.’ I share Eagleton’s frustration. But what doesn’t bother me — or Eagleton either, I’m pretty sure — is Dawkins’s rejection of religious belief in general or Christianity in particular. Suppose Dawkins were to say something like this: ‘I don’t really know that much about Christianity, but from what I do know I haven’t seen anything that would cause me to take it seriously or to investigate it further.’ I would have absolute respect for that position — because, after all, that’s the position I’m in in relation to all sorts of beliefs: in Zoroastrianism, say, or telekinesis, or alien spacecraft in Roswell, New Mexico.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lesswrong.com/lw/j8/the_crackpot_offer/&quot;&gt;“The Crackpot Offer&lt;/a&gt;: “The thought went through my mind:  ‘I’ll get that theorem eventually!  Someday I’ll disprove Cantor’s Diagonal Argument, even though my first try failed!’  I resented the theorem for being obstinately true, for depriving me of my fame and fortune, and I began to look for other disproofs.  And then I realized something.  I realized that I had made a mistake, and that, now that I’d spotted my mistake, there was absolutely no reason to suspect the strength of Cantor’s Diagonal Argument any more than other major theorems of mathematics.  I saw then very clearly that I was being offered the opportunity to become a math crank, and to spend the rest of my life writing angry letters in green ink to math professors.”&lt;/p&gt;
+
+&lt;p&gt;However, a way to make things a bit better – advance science.  From &lt;a href=&quot;http://80000hours.org/blog/130-three-ways-to-advance-science&quot;&gt;“Three Ways to Advance Science”:&lt;/a&gt; “There are three ways to contribute to scientific progress. The direct way is to conduct a good scientific study and publish the results. The indirect way is to help others make a direct contribution. Journal editors, university administrators and philanthropists who fund research contribute to scientific progress in this second way. A third approach is to marry the first two and make a scientific advance that itself expedites scientific advances. The full significance of this third way is commonly overlooked.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://slatestarcodex.com/2013/04/20/social-justice-for-the-highly-demanding-of-rigor/&quot;&gt;“Social Justice for the Highly Demanding of Rigor”&lt;/a&gt;:  Some people claim “that social justice advocates irresponsibly take some undesirable outcome in minority groups, like poverty, and then assume it is the result of racism or sexism without considering other possible explanations. […] My counterargument is that although the first argument is true a depressingly large amount of the time, some people do more rigorous work and get the same result – that poor outcomes for minority groups are caused in large part by racism and sexism.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Exactly as the title says: &lt;a href=&quot;http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/&quot;&gt;“Anatomy of a Hack: How Crackers Ransack Passwords Like ‘qeadzcwrsfxv1331’”&lt;/a&gt;. Ars Technica gave three experts a 16,000-entry encrypted password file, and asked them to break them. The winner got 90% of them &lt;em&gt;in a few hours&lt;/em&gt;.  And this includes passwords like “momof3gr8kds” and &lt;a href=&quot;https://xkcd.com/936/&quot;&gt;“correcthorsebatterystaple”&lt;/a&gt;. If you want to make a secure password, &lt;a href=&quot;https://www.schneier.com/essay-246.html&quot;&gt;use the Schneier Scheme&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Paul Graham on &lt;a href=&quot;http://www.paulgraham.com/die.html&quot;&gt;“How to Not Die” (as a business)&lt;/a&gt;.  This is why &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;.impact&lt;/a&gt; has &lt;a href=&quot;http://dotimpact.im/meetings.html&quot;&gt;weekly meetings&lt;/a&gt; – weekly meetings encourage a powerful norm of weekly progress, which moves things forward: “You’ve probably noticed that having dinners every Tuesday with us and the other founders causes you to get more done than you would otherwise[. …] Every dinner is […] a deadline. […T]he mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you’ll be embarrassed to tell us that you haven’t done anything new since the last time we talked.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lesswrong.com/lw/j10/on_learning_difficult_things/&quot;&gt;How to learn difficult things&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/sunday-links-22/&quot;&gt;Sunday Links #22&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Second Interview with Jon Behar on Giving Games]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/second-interview-with-jon-behar-on-giving-games/" />
+  <id>http://localhost:4000/essays/second-interview-with-jon-behar-on-giving-games</id>
+  <published>2014-01-16T17:38:41Z</published>
+  <updated>2014-01-16T17:38:41Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-jon-behar/&quot;&gt;“Interview with Jon Behar”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Jon Behar left a lucrative job at the investment management firm to pursue dreams of running philanthropic projects. Behar runs a startup called “A Path That’s Clear” which uses a model called “Giving Games”. These games are run at colleges and other areas around the world and engage people in discussions about effective giving.&lt;/p&gt;
+
+&lt;p&gt;Rob Wiblin and I sat down to interview Jon Behar and learn more about Giving Games. Here’s what we learned:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Giving Games” are a way to get people engaged in discussing effective philanthropy by asking them to chose where to give a pot of money from two pre-selected choices&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;These games can be used to experimentally test why people don’t give more effectively and find ways to encourage them to give more and give better&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Donating to Giving Games could be an option to leverage an existing donation to a &lt;a href=&quot;http://www.givewell.org/&quot;&gt;GiveWell&lt;/a&gt; top charity.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;&lt;strong&gt;How would you describe &lt;a href=&quot;http://www.apaththatsclear.com/&quot;&gt;“A Path That’s Clear”&lt;/a&gt;? What does it do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our mission is simple and consistent with the mission of “Giving What We Can” - encouraging people to both give more generously and more effectively than they otherwise would. I aim to accomplish this by running “Giving Games”, which is just a very simple way to engage people in conversations about effective giving. We gather people together and have a conversation about which charity they would like to give to from a few pre-selected options. The group is also given real funds to make a real donation, which gives participants a sense of ownership over the decision and also engages them in a conversation that encourages them to take a strategic approach to giving.&lt;/p&gt;
+
+&lt;p&gt;So far we’ve run about 25 Giving Games, most of which have taken place at colleges, though several were online and in other settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What makes this model appealing?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I see the model as a way to experimentally test why people fail to give effectively and see if we can find any methods to get them onto giving effectively. A Path That’s Clear can test these things as hypotheses. Maybe people are afraid of putting up their own money? Well A Path That’s Clear provides the money needed to make the decision. Maybe people don’t have easy access to high-quality information on effective charities? A Path That’s Clear can provide that information. Maybe people just think that “charity begins at home”? We can test that by running a Giving Game with a local non-profit and a non-profit working in the developing world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are some of the results of the Giving Games?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Right now, we’re looking at the decisions players make to see if they actually give to more effective charities and see if they are thinking more about strategic giving. We do this through post-game surveys that ask players about their experiences and then also by getting feedback from the moderator of the Game.&lt;/p&gt;
+
+&lt;p&gt;The actual results of the Games are encouraging - in nearly all the games, the players have selected the more effective charity. But more importantly, players are indicating that their experience in the Game has changed how they think about philanthropy; they resolve to do more research and think about impact the next time they personally give.&lt;/p&gt;
+
+&lt;p&gt;We’ve also taken audio recordings of the Giving Games so I can listen in and the conversation flows freely. One of the driving factors for this is that we’re not just getting a random group together, but rather a group with lots of existing social ties (club, sports team, dorm room floor, class) that are already comfortable with each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How has the model changed, if at all, in response to these trials?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We started out pitting the &lt;a href=&quot;http://www.againstmalaria.com/&quot;&gt;Against Malaria Foundation&lt;/a&gt; against, not another charity, but rather the option of letting players keep the money themselves. In this game, people chose AMF, but this decision was probably too obvious and the discussion was not as deep as we would have hoped. Once we decided to make the conversation about two different effective charities or about testing critical notions like “giving begins at home”, we found the conversations started really going somewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s your plan for scaling this up? Who are you going to target? And what is your plan for making this sustainable?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the long-term, I’d like to institutionalize this process at as many schools, universities, and workplaces as I can, though our main focus is on colleges and universities. I want to embed this conversation about how one can do the most good and make this part of the college experience.&lt;/p&gt;
+
+&lt;p&gt;We ran a Giving Game at Brandeis University with 25 students as part of their orientation process. That could serve as a pilot to hopefully making the Giving Game or this type of discussion part of the welcoming process of all students. I have started to very recently partner with &lt;a href=&quot;http://www.thelifeyoucansave.org/&quot;&gt;The Life You Can Save&lt;/a&gt; to run Giving Games under their brand. I also have a few other leads and I’m optimistic we’d be able to get other donors out there. Lastly, I also intend to run an experiment soon with some economists at George Mason University who study giving behaviour. We’ll do a Giving Game in a laboratory setting without a social component, because the social component makes it very difficult to control for variables. We’re going to try and test some of the really basic assumptions of the model.&lt;/p&gt;
+
+&lt;p&gt;What’s nice about the model is that anyone can run a Giving Game. Any donor who wants to leverage their giving by running a Giving Game can do so. I want to encourage as many people as possible to take the idea and run with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you intend to pay this? Including costs of running?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Initially I’d been funding this out of pocket, but I’m excited about this partnership with The Life You Can Save which opens up a lot more resources. I think that the bulk of the cost will be covered by donations, especially once we get up to scale. Luckily, I think there are a lot of people who would potentially donate to Giving Games. Anyone who is already thinking of donating to a GiveWell top charity can accomplish the exact same donation while also funding us, basically for free, leveraging their impact.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Does the amount of money on the table affect things?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Not much. It does need to meet some sort of threshold to get people interested, usually in the $50 to $250 range. However, in an activities fair, for example, even asking people to decide about a dollar was enough to get them to engage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What would cause you to give up with Giving Games? Do you have an exit strategy?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the hope is that we’ll get people to give more and give better. I need to trust the data to see if we actually do that. If we do five experiments and they all indicate that Giving Games turn people into, say, selfish misanthropic people, I need to respect that. I want to be very conscious as we’re setting up the impact measuring systems to measure both the potential positive impacts and the potential negative impacts as well. Therefore, I think we need to get better at systematically measuring our actual impact. The surveys we have in place are nice, but then you have to trust self-reports, and our surveys aren’t long-term enough. The logistics here are difficult because we’re talking about people in their teens and twenties and we care about how people will give over the next 60+ years.&lt;/p&gt;
+
+&lt;p&gt;Something I’d like to do is to get some actual donation tracking set-up, but this introduces privacy concerns. The bottom line is that we’re going to have to come up with clever ways to get real-time windows into those long-term dynamics. I think this will be a continual process of ramping up and it will really be ongoing, basically have already been started in the past. The experiment at George Mason that I mentioned earlier will be a big step in the right direction and hopefully even this coming academic year we’ll have significantly more ability to measure what we’re doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you think is the greatest weakness of the approach?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think there’s a potential for crowding out. There is the problem of people giving better but giving less, which is a consistent finding in the existing literature. My gut feeling is that it is not going to be an issue and crowding out will be quite minimal because you’re concerned about crowding out not in the immediate aftermath, but rather over the participants’ lifetimes. Given that most participants have a positive reaction to the game, I don’t expect it to be a big issue, but it merits closer investigation and hopefully the George Mason experiment will shed light on that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any success getting people to become Giving What We Can members or &lt;a href=&quot;http://80000hours.org/&quot;&gt;80,000 Hours&lt;/a&gt; members through the games?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Occasionally we &lt;a href=&quot;http://www.givingwhatwecan.org/blog/2013-06-02/how-giving-games-can-spread-the-word-about-smarter-charity-choices-0&quot;&gt;run Giving Games through Giving What We Can chapters&lt;/a&gt; where the chapter reaches out to random groups of students and asks them to participate. Generally, we’ve found that this does get those random people interested in participating in their local GWWC Chapter. But we don’t have any evidence further than that and we don’t know anyone who’s taken the Pledge as a result of a Giving Game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can other people get involved in “A Path That’s Clear”? If so, how?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;They can email info@apaththatsclear.com or get in touch through the contact us form. We love to get inquiries and we’re eager to talk to folks and get people as involved as we can.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally written for &lt;a href=&quot;http://www.givingwhatwecan.org/blog/2014-01-15/giving-games-an-interview-with-jon-behar&quot;&gt;the Giving What We Can Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/second-interview-with-jon-behar-on-giving-games/&quot;&gt;Second Interview with Jon Behar on Giving Games&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My Case Study: I (Mostly) Finished Choosing Between Careers]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/my-case-study-i-mostly-finished-choosing-between-careers/" />
+  <id>http://localhost:4000/essays/my-case-study-i-mostly-finished-choosing-between-careers</id>
+  <published>2014-01-13T05:00:20Z</published>
+  <updated>2014-01-13T05:00:20Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/comparing-across-my-five-career-categories/&quot;&gt;“Comparing Across My Five Career Categories”&lt;/a&gt;, &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-careers-conversation-with-holden-karnofsky/&quot;&gt;“My Careers Conversation with Holden Karnofksy”&lt;/a&gt;, and &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-conversation-with-satvik-beri/&quot;&gt;“My Conversation with Satvik Beri”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Back in May 2013, I realized I would be graduating in a year and wondered a lot about what I should pick for my first career. The questions I had at the time were:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Should I aim to work in an Effective Altruist organization, go to graduate school, or should I earn to give?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Where should I look for employment if I want to earn to give - law, market research, or programming?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I spent a little time considering other options (finance and consulting careers), but the bulk of my time was spent comparing EA org employment, grad school, and the three earning to give careers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;lessons-learned&quot;&gt;Lessons learned&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Direct work in EA is promising, but there are limited employment opportunities and a generally strong base of talent to draw from that makes replaceability an issue.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Graduate school also seems promising, but programs with high direct impact seem limited in employment opportunities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s important to consider factors about the career other than salary when doing earning to give. Law was my best earning to give opportunity at first glance, given that it had the highest salary of the options I was willing to consider. But when I looked more deeply at non-salary factors, it became my worst option.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Market research and computer programming are my most promising paths and I should consider both further. They allow good salary potential while offering many other benefits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Publishing my ongoing thought process was valuable in ways I couldn’t even imagine at the time, creating the opportunity to meet people I couldn’t have met otherwise.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spending time directly in Oxford was also incredibly valuable in meeting with people that could help me think through my decision process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An analytically-minded person can train in programming quickly enough to seriously consider programming as a career path. While I started with intermediate computer programming knowledge in irrelevant computer languages, it took me about 150 hours of training over 20 weeks to know enough to interview competently. I don’t know if this is a unique case, though.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;my-methodology&quot;&gt;My methodology&lt;/h2&gt;
+
+&lt;p&gt;First, I compiled a list of every high impact career I could conceive of. I then narrowed the list down to the careers I thought were worth pursuing further, based on personal factors, and &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-careers-plan/&quot;&gt;published that information online&lt;/a&gt; for comments.&lt;/p&gt;
+
+&lt;p&gt;After a bit of time following up on the comments I received from publishing, I then deliberately set out, crafted a set of questions I wanted to know about various opportunities, and interviewed people about them. I ended up having informational interviews with 31 different people, including five people from 80,000 Hours.&lt;/p&gt;
+
+&lt;p&gt;At the same time, I did an internship at Giving What We Can in Oxford, England. This taught me a lot about the opportunities for direct work and put me in a position to meet with 80,000 Hours and a lot of other effective altruists.&lt;/p&gt;
+
+&lt;p&gt;Based on the information I gathered from my interviews, I compared my five options on the basis of 11 different criteria, as suggested by 80,000 Hours. I also pursued all five options to the best of my ability until I had the confidence to eliminate options. Eventually, I came to a final decision I could be confident in.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-these-five-categories-and-not-others&quot;&gt;Why these five categories, and not others?&lt;/h4&gt;
+
+&lt;p&gt;There were many careers I didn’t consider much – such as finance, consulting, and medicine - which seem to be popular careers of those who use 80,000 Hours’s research. I didn’t choose any of these three careers mainly because I felt underqualified and felt that they would be enough of a poor fit for me enjoyment-wise that I wouldn’t do well enough in the career. I’m currently open to changing my mind on finance due to the extremely high earning potential, however.&lt;/p&gt;
+
+&lt;p&gt;Some opportunities for direct work, like fundraising (along the lines of &lt;a href=&quot;http://www.effectivefundraising.net/&quot;&gt;Effective Fundraising’s&lt;/a&gt; model), I didn’t investigate further because the options were too limited. Other opportunities, like working in non-profit organizations doing work on the ground, like Innovations for Poverty Action, didn’t seem to match my skills or interests very well and didn’t seem enjoyable to me.&lt;/p&gt;
+
+&lt;p&gt;I also didn’t feel comfortable and confident enough to be an entrepreneur. While I’m open to potentially creating a start-up someday, I wanted a lot more knowledge of how organizations work and what the market is like.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-was-my-first-guess&quot;&gt;What was my first guess?&lt;/h4&gt;
+
+&lt;p&gt;My first guess, made on May 2013, was that the best thing for me to do would be to do direct work (seek employment in the Centre for Effective Altruism) and enter law school and do earning to give if the first plan didn’t work.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-factors-did-i-use-to-compare-my-careers&quot;&gt;What factors did I use to compare my careers?&lt;/h2&gt;
+
+&lt;p&gt;After talking with Jess Whittlestone and Nick Beckstead from 80,000 Hours, I adopted the following 9 criteria for evaluating my career:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Direct Impact:&lt;/strong&gt; The actions of the career itself directly improve the world. (Technically, all these other measures are supposed to be measures of indirect impact.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Earnings:&lt;/strong&gt; The career has a large compensation package.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt; The career will develop me in valuable, personal, transferable skills that are useful for furthering my career or otherwise being better at effective altruism.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Connections:&lt;/strong&gt; The career will connect me with people that can help me a lot down the road.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Credentials:&lt;/strong&gt; The career will look good on my resume, improve my impressiveness for employers, and qualify me for better jobs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Information Value:&lt;/strong&gt; The career teaches me more about what career opportunities there are and improves the quality of my future career choices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; The career keeps my options open in terms of allowing me to switch to another career easily.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Enjoyment:&lt;/strong&gt; I would enjoy the career.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Replaceability:&lt;/strong&gt; I’m not doing something that someone else easily would do just as well.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;should-i-do-direct-work&quot;&gt;Should I do direct work?&lt;/h2&gt;
+
+&lt;p&gt;Direct work seemed good on direct impact, skills, connections, flexibility, and enjoyment, but weak on earnings, credentials, information value, and replaceability. I spent a lot of time trying to assess my own replaceability in direct work before a conversation with Satvik Beri outlined an incredibly simple procedure - just ask EA organizations whether they’d rather have you or money. I was in a good position to do this, having just interned for an EA organization.&lt;/p&gt;
+
+&lt;p&gt;While I interned, I felt like I produced above average work, but I didn’t think my work was significantly better and I hadn’t adjusted for the fact that people tend to think more highly of themselves than is justified. When I take these two aspects into account, replaceability becomes a concern.&lt;/p&gt;
+
+&lt;p&gt;However, a larger concern for me that emerged after talking to people was that employment in an EA organization is actually rather difficult to come by, given a limited number of positions and for the time-being has high standards in recruiting due to being a start-up and needing lots of particular skills. This was especially a concern for me given that I am an American citizen but most desire employment in the UK-based Centre for Effective Altruism, as CEA faces some difficulty in hiring Americans full-time.&lt;/p&gt;
+
+&lt;p&gt;A final concern of mine was the possibility of coming to a major disagreement with CEA about what the best approach is for making the world a better place. While this was not a dominant consideration, the flexibility and independence provided by an earning to give career seems like a benefit to me. This seemed especially true if I picked a career that still affords me training in skills relevant to EA direct work and/or gives me a significant amount of time to volunteer for EA causes, as I could transition to direct work if I felt like my skills were better served there than earning. Generally, I felt like it is easier to transition from earning-to-give to direct work than it is to transition from direct work to earning-to-give.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I decided to no longer seek full-time direct work for the time-being. However, I still believe that some kinds of direct work (personal EA side-projects) are higher value to me than spending the time earning a high salary, so I want to choose a career that allows me the flexibility to also have a significant side-project / volunteering component.&lt;/p&gt;
+
+&lt;h2 id=&quot;should-i-go-to-graduate-school&quot;&gt;Should I go to graduate school?&lt;/h2&gt;
+
+&lt;p&gt;If I chose this option, I would pursue a Ph.D. in either political science or psychology. I had considered a Ph.D. in economics, but felt underqualified and felt like I wouldn’t enjoy it enough to make it worthwhile. I was searching for programs that would allow me to study the psychology of civic engagement, volunteerism, and/or donating. For example, I became very attracted to the work of Elizabeth Dunn at the University of British Columbia and considered trying to apply there (see &lt;a href=&quot;http://www.thelifeyoucansave.org/Blog/tabid/107/ID/45/Flipping-the-Philanthropy-Switch.aspx&quot;&gt;“Flipping the Philanthropy Switch”&lt;/a&gt; over at The Life You Can Save for more on this kind of work).&lt;/p&gt;
+
+&lt;p&gt;This option seemed to be strong on connections, credentials, enjoyment, replaceability, and skills (though skills is debated as the skills learned may only be useful for academic work). However, it seemed weak on flexibility/risk and earnings. It also would be weak on direct impact depending on what program I chose.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I decided against graduate school and while I did take the GRE (the US admissions test for grad schools), I chose not to move forward on any applications. While I found research to be high-value, my intuition was that I would have more influence in making key research happen by funding research rather than carrying it out. Also, I felt like I could do a large majority of the research I want to do (currently, mostly stuff related to studying vegetarianism) without taking on the costs of graduate school. Lastly, I felt like there were enough people already working in the graduate programs I had considered that I wouldn’t add much (one could think of this as having no “room for more people”, as an analogy to “room for more funding” in GiveWell top charities).&lt;/p&gt;
+
+&lt;p&gt;While I think it’s unlikely, I wouldn’t rule out trying to apply to graduate schools in late 2014 or late 2015, however.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-good-is-law-for-earning-to-give&quot;&gt;How good is law for earning to give?&lt;/h2&gt;
+
+&lt;p&gt;With graduate school and direct work out of the way, I focused up more on earning to give. The first I focused on was law as I saw that it had the highest salary potential of the options I was considering. If I pursued law, I would aim to enter corporate law, which pays at $160K per year and then rises by ~$10K/year for ten years before you have an opportunity to make partner and earn $500K/year to millions a year depending on the firm. Law seemed strong on salary, connections, replaceability, and credentials, but had drawbacks in skills, direct impact, information value, and enjoyment. It is also utterly terrible in flexibility, considering I would have to pay money into three years of law school before I would earn anything.&lt;/p&gt;
+
+&lt;p&gt;I was pretty keen on law for several months as a top choice, but I ultimately stopped valuing it as much as I started to place more emphasis on personal enjoyment, skills development, and flexibility. Eventually, having to commit three years and $50-$150K to law school with no promise that I would end up in a situation that worked well for me was a pretty clear deal-breaker.&lt;/p&gt;
+
+&lt;p&gt;Another aspect of law that I came to really not like was the expected long hours of the job, which would prevent me from being able to spend significant amounts of time on EA side projects. Since I expect that I will be able to do side projects that produce more EA value than earning to give, this also made me not like law as much relative to the more 40-60 hour a week careers.&lt;/p&gt;
+
+&lt;p&gt;I still took the LSAT (the US entrance exam for law schools) anyway, because I had prepared for it a lot, and thought it would be nice to have the score. I ended up doing well on it, but not well enough that my admittance to the top 10 law schools would be likely. (Common wisdom suggests that one needs to be in a top 10 law school in order to have a good shot at a corporate law job.) So, unless I retake the LSAT, this option was pretty much over whether I wanted it to be or not. Given that I had already decided before seeing my LSAT score that I didn’t want to do law, I wasn’t that upset.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-good-is-market-research-for-earning-to-give&quot;&gt;How good is market research for earning to give?&lt;/h2&gt;
+
+&lt;p&gt;The general idea is that I’d seek employment doing statistics for a market research firm. This seemed strong on skills, flexibility, enjoyment, replaceability, and information value and not particularly weak on much, though salary, credentials, and connections seem weaker than other options, relatively.&lt;/p&gt;
+
+&lt;p&gt;Salaries are lower in market research, with starting salaries in the $40K-$60K range and less indication of upward movement in salaries with promotion. But one potential advantage I hadn’t considered much is that few EAs, if any, had gone into market research, so it could be a ripe new field to explore for EA potential, especially if marketing principles could then be applied directly to the EA movement. Therefore, I’m still seeking employment in market research.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-good-is-programming-for-earning-to-give&quot;&gt;How good is programming for earning to give?&lt;/h2&gt;
+
+&lt;p&gt;I also considered computer programming as an earning to give career, which is quite popular in the effective altruism movement. Like market research, this also seemed strong on skills, flexibility, enjoyment, replaceability, and information value and not particularly weak on much. Salaries are good, starting in the $50-$80K range and rising upward to $120-$200K, I think.&lt;/p&gt;
+
+&lt;p&gt;The interesting thing about computer programming for me is that, while I was a long-time hobbyist programmer, I had never really pursued programming seriously, I didn’t have a tremendous amount of experience, and I lacked a computer science degree. So I needed to spend a significant amount of time learning programming. Luckily, the market for programming jobs is good and a lot of companies are willing to focus on “on-the-job learning” if you can demonstrate your general aptitude and your ability to learn quickly.&lt;/p&gt;
+
+&lt;p&gt;This sounds good to me, so I’m still seeking employment in programming.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-my-final-decision&quot;&gt;What was my “final” decision?&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, I decided to go with a model where I would mix both direct work and earning to give by seeking full-time employment for 40-60 hours a week, but then spending significant portion of my “free time” volunteering and doing EA side projects. I liked this model the most because I expect the side projects to be worth more than additional salary and it should teach me more about the comparison between earning to give and direct work.&lt;/p&gt;
+
+&lt;p&gt;Six months after starting my plan to learn about jobs (and one month after sending applications), I received an offer of an 8-week “trial hire” internship from &lt;a href=&quot;http://www.avantcredit.com&quot;&gt;AvantCredit&lt;/a&gt;, a web development start-up that offers online loans to people with near-prime credit ratings. I got this offer on the basis of experience in both web development and statistics. I accepted the offer and I’m excited to be employed there.&lt;/p&gt;
+
+&lt;p&gt;AvantCredit offers a mixture of interesting challenges in both programming and statistics, which are two skill-bases of mine I want to improve. The office culture sounds pretty awesome. Additionally, I’ll gain experience about what it’s like to be in a start-up and learn more about finance and financial risk, in case I want to look more in finance. I also think there’s a strong chance I might end up staying with AvantCredit long-term.&lt;/p&gt;
+
+&lt;p&gt;Longer-term, I’m still looking at careers in market research and computer programming. I’m also looking into jobs that offer &lt;a href=&quot;http://doublethedonation.com/matching-grant-resources/list-matching-gifts-companies/&quot;&gt;particularly high donation matching&lt;/a&gt;, which is basically &lt;a href=&quot;http://80000hours.org/blog/168-how-to-double-your-donations-with-no-extra-effort&quot;&gt;like a raise for effective altruists&lt;/a&gt;, though I haven’t explored this much in depth.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-learn&quot;&gt;What did I learn?&lt;/h2&gt;
+
+&lt;p&gt;I really liked the methodology I ended up using. Initially, I was worried that writing up information about my career choice publicly could lead to employers viewing my application more negatively and hurting my chances at receiving offers. I still can’t rule this out, but I do think the benefits of publicly publishing have more than made up for it. Publishing the work lead to people commenting on it who became great contacts that I would not have made any other way. One of these contacts ended up telling me about AvantCredit and giving me an internal referral. I don’t think I would have received the offer without his help, let alone known to apply in the first place.&lt;/p&gt;
+
+&lt;p&gt;I also think it was a really good idea to take an internship at Giving What We Can, which I actually considered not doing at one point (because I was worried about not seeing my family for most of the summer). There really is no substitute for joining an EA hub directly and meeting tons of EAs in person.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I learned that you apparently can train yourself to learn enough programming to get a job offer at a moderately quick pace, though I may have got lucky with a variety of things. I spent 10 hours a week on programming over a period of about 10 weeks, and about 5 hours a week on programming for the 10 weeks before that, prior to receiving the AvantCredit offer. In doing so, I was able to significantly increase my knowledge of jQuery, Ruby on Rails, and R. I hope to up this commitment to make sure I’m even more ready when I get there and when looking at other companies. Notably, I received an offer from AvantCredit also based on knowledge of statistics and from having an internal referral, so I don’t know if I will end up having enough experience to interview well at other companies.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-would-i-have-done-differently-if-i-could-start-over&quot;&gt;What would I have done differently, if I could start over?&lt;/h2&gt;
+
+&lt;p&gt;I wish I was able to more quickly identify that grad school and law school wouldn’t pan out and therefore not “waste” the time studying for and doing the GRE and LSAT. There definitely were warning signs I could have seen respectively if I had spent more time comparing the careers to my other options. Also, I could have seen the lack of good graduate school programs and the problem with having unrealistic expectations about the kind of LSAT scores I could achieve.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I’d be worried that heuristics that would have saved me time via the GRE and the LSAT would also have cut out computer programming, however, as I was also concerned that training in programming quickly was too much of a dream and I wouldn’t know enough fast enough, which turned out to be wrong.&lt;/p&gt;
+
+&lt;p&gt;While much less significant of an issue, I also wish I had refined my decision criteria a bit more. The nine factor model I used in this essay actually was an 11-factor model that included “risk” and “cost”, but both of these considerations ended up being unnecessary. Additionally, my thinking in some of the other categories could be refined. I like the five-factor model offered in &lt;a href=&quot;http://80000hours.org/blog/280-a-comparison-of-medical-research-and-earning-to-give&quot;&gt;“A Comparison of Medical Research and Earning to Give”&lt;/a&gt; and probably would adopt that if making broad comparisons again in the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-impact-did-80000-hours-have-in-this-decision-process&quot;&gt;What impact did 80,000 Hours have in this decision process?&lt;/h2&gt;
+
+&lt;p&gt;Overall, the existence of 80,000 Hours completely changed my career, but the choice to pursue additional coaching did not further assist in making my decision.&lt;/p&gt;
+
+&lt;p&gt;Before I looked into 80,000 Hours, I was pretty intent on pursuing a Ph.D. in political science for a long time, and thought that would be a great career path for me. (I still do think it would be very enjoyable; I just think it’s less impactful than my other options.) Despite engagement with effective altruism, I hadn’t considered that maybe this career path was wasn’t the best route until I had a conversation with William MacAskill. I think 80,000 Hours has done a lot to put the idea of career choice into the general EA zeitgeist. I am nearly certain I would not have spent any time considering the ethics of career choice if 80,000 Hours did not exist.&lt;/p&gt;
+
+&lt;p&gt;The actual career advice session was not useful to me, but I suspect this is because I was an unusual case - (a) I had already come in to the advice session having done a significant amount of research on my own that I would have done otherwise; (b) I was already very familiar with 80,000 Hours’s content having read all of their research material, completed a workshop with them, and worked in their office; and (c) my particular decision most hinged on very particular details about salaries and career capital that no one had done comprehensive research on yet.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the workshop I had completed for 80,000 Hours was impactful because it moved me away from thinking solely about the impact of my career and more about thinking about the skills and career capital I would develop in my career, which I agree &lt;a href=&quot;http://80000hours.org/blog/237-your-career-is-like-a-startup&quot;&gt;is a better model for thinking about careers&lt;/a&gt;. Additionally, the conversations I had with people working for 80,000 Hours – Jess Whittlestone, Roman Duda, William Macaskill, Benjamin Todd, Nick Beckstead, and Pablo Stafforini – as a part of my personal research were all helpful in thinking more about my career choice. Therefore, I strongly suspect that a careers advising session with 80,000 Hours would be beneficial to many people thinking about their careers.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I did heavily rely on research done by 80,000 Hours to inform my decision - both in assisting my initial selection of high-impact options and in comparing them. The existence of 80,000 Hours moved me away from pursuing a Ph.D. program in political science toward earning to give in web development. 80,000 Hours very much impacted my decision.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This was originally written &lt;a href=&quot;http://80000hours.org/blog/289-case-study-choosing-between-working-at-effective-altruist-organisations-earning-to-give-and-graduate-school&quot;&gt;for the 80,000 Hours Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;My Case Study: I (Mostly) Finished Choosing Between Careers&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 13, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[EverydayUtilitarian's Top Ten in 2013]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/everydayutilitarians-top-ten-in-2013/" />
+  <id>http://localhost:4000/essays/everydayutilitarians-top-ten-in-2013</id>
+  <published>2014-01-07T23:47:42Z</published>
+  <updated>2014-01-07T23:47:42Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Someone asked me what the top ten posts are on Everyday Utilitarian.  I use Google Analytics, so this was a pretty easy thing to find out.  I looked at page visits for each essay over all of 2013.  Of course, this isn’t a perfect metric, as essays written later in the year have less of a chance of getting viewed, and the “hits” metric is skewed a lot toward what I choose to publicize via Facebook and LessWrong and what I don’t.&lt;/p&gt;
+
+&lt;p&gt;So this isn’t much of a “top ten” by quality, I suppose.  But here it goes, anyway:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-i-am-productive/&quot;&gt;How I Am Productive&lt;/a&gt; (1618 pageviews)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-much-does-it-cost-to-buy-a-vegetarian/&quot;&gt;How Much Does it Cost to Buy a Vegetarian&lt;/a&gt; (606)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/who-is-this-peter-guy/&quot;&gt;Who is This Peter Guy?&lt;/a&gt; (543)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/a-meta-ethics-faq/&quot;&gt;A Meta-Ethics FAQ&lt;/a&gt; (539)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/what-is-utilitarianism/&quot;&gt;What is Utilitarianism?&lt;/a&gt; (501)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-ruairi-donnelly/&quot;&gt;Interview with Ruairí Donnelly&lt;/a&gt; (439)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/for-happiness-keep-a-gratitude-journal/&quot;&gt;For Happiness, Keep a Gratitude Journal&lt;/a&gt; (422)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-strategic-plan/&quot;&gt;My Strategic Plan&lt;/a&gt; (375)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-careers-plan/&quot;&gt;My Careers Plan&lt;/a&gt; (375)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/why-eat-less-meat/&quot;&gt;Why Eat Less Meat&lt;/a&gt; (286)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/everydayutilitarians-top-ten-in-2013/&quot;&gt;EverydayUtilitarian's Top Ten in 2013&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunday Links #21]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/sunday-links-21/" />
+  <id>http://localhost:4000/essays/sunday-links-21</id>
+  <published>2014-01-05T16:52:09Z</published>
+  <updated>2014-01-05T16:52:09Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;I &lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-20/#comment-2824&quot;&gt;promised to make the link roundups relate a little better&lt;/a&gt;, so here you go:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Millennium_Development_Goals&quot;&gt;The Millenium Development Goals&lt;/a&gt; set priorities for governments and NGOs working to help the developing world.  However, the current set only covers 2000-2015, so &lt;a href=&quot;http://www.post2015hlp.org/the-report/&quot;&gt;a new set&lt;/a&gt; is being developed for 2015-2030.  What should be included?  &lt;a href=&quot;http://givingwhatwecan.org/blog/2013-07-30/measuring-what-matters-two-key-indicators-for-the-successor-development-goals&quot;&gt;Toby Ord suggests&lt;/a&gt; including a metric of “healthy life expectancy”, or life expectancy weighted by quality of life, and “log income”, which correlates pretty highly with life satisfaction.&lt;/p&gt;
+
+&lt;p&gt;The implications of “log income” is that giving money to the poorest should more easily boost total world satisfaction than giving the money most other places.  Luckily, there’s an organization, &lt;a href=&quot;http://www.givedirectly.org&quot;&gt;Give Directly&lt;/a&gt;, that does just that, who I’ve &lt;a href=&quot;http://www.everydayutilitarian.com/essays/givedirectly-the-best-gift-you-can-make-this-christmas/&quot;&gt;profiled earlier&lt;/a&gt;.  They’re also profiled in Tina Rosenberg’s Fixes Column entry &lt;a href=&quot;http://opinionator.blogs.nytimes.com/2013/08/28/the-benefits-of-cash-without-conditions&quot;&gt;“The Benefits of Cash Without Conditions”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Peter Singer argues that if you’d save the life of a small child near you, &lt;a href=&quot;http://www.alternet.org/story/146958/peter_singer%3A_would_you_save_the_life_of_a_child&quot;&gt;you should also be willing to donate to one of these charities&lt;/a&gt;.  After all, the idea of distance mattering in ethics &lt;a href=&quot;http://slatestarcodex.com/2013/05/17/newtonian-ethics/&quot;&gt;is quite weird indeed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in a related note, Carl Shulman works &lt;a href=&quot;http://reflectivedisequilibrium.blogspot.com/2014/01/turning-log-consumption-into-measure-of.html&quot;&gt;to try and turn log-income and log-consumption into better metrics of human welfare&lt;/a&gt;.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.govexec.com/excellence/promising-practices/2013/01/googles-8-simple-rules-being-better-manager/60882/&quot;&gt;Google has eight simple rules for being a better manager:&lt;/a&gt; (1) be a good coach, (2) empower your team and don’t micromanage, (3) express interest in team members’ success and personal well-being, (4) be productive and results-oriented, (5) be a good communicator, (6) help employees with career development, (7) have a clear vision and strategy, and (8) have key technical skills so you can be an advisor.&lt;/p&gt;
+
+&lt;p&gt;In a related note, &lt;a href=&quot;http://www.spring.org.uk/2013/09/6-psych-tips-for-creating-the-ideal-workspace.php&quot;&gt;“Six Psych Tips for Creating the Ideal Workspace”&lt;/a&gt;: (1) avoid open-plan; (2) both messy and untidy desks have their place, depending on the type of outcome you are looking for; (3) prefer curvy environments over straight edges, (4) have a room with a view or a picture of a view, (5) include lots of plants, and (6) decorate.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.philosophyetc.net/2012/11/ethics-as-whats-worth-caring-about.html&quot;&gt;“Ethics as What’s Worth Caring About”:&lt;/a&gt; “The utilitarian can simply say, ‘I care about people!  I want everyone to be as well-off as possible.’  And that seems a pretty attractive goal!  There seems no doubt that people’s welfare (and, more broadly, the welfare of sentient beings) is worth caring about.  Is anything else comparably important, or worth caring about?  Take promises.  People sometimes criticize utilitarianism on the grounds that it affords no intrinsic significance to promise-keeping, so utilitarians may be expected to break promises (at least when it’s sufficiently clear that it really would be for the best).  But does it really make sense to care about promises more than people?  That sounds terribly perverse!  Promises can be a useful tool for coordination, and hence serving our collective interests.  But when promise-keeping and human welfare diverge, surely it’s the latter that really matters.”&lt;/p&gt;
+
+&lt;p&gt;A somewhat related triumph for utilitarianism comes from the &lt;a href=&quot;http://lesswrong.com/lw/bk/the_trouble_with_good/&quot;&gt;The Trouble With “Good”&lt;/a&gt;: “One person can go on and on for months about all the reasons the Israelis are totally right and the Palestinians are completely in the wrong, and another person can go on just as long about how the Israelis are evil oppressors and the Palestinians just want freedom. And then if you ask them about an action, or a decision, or a state - they’ve never thought about it. They’ll both answer something like ‘I dunno, the two-state solution or something?’. And if they still disagree at this level, you can suddenly apply the full power of utilitarianism to the problem in a way that tugs sideways to all of their personal prejudices.  In general, any debate about whether something is ‘good’ or ‘bad’ is sketchy, and can be changed to a more useful form by converting the thing to an action and applying utilitarianism.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.huffingtonpost.com/kathy-freston/religion-vegetarianism-_b_3874652.html?utm_hp_ref=tw&quot;&gt;“God, Christianity, and Meat”&lt;/a&gt; – an interesting religious perspective on vegetarianism: “I was delighted to learn about this rich tradition of incorporating vegetarian diets into spiritual practice, but I admit that it first surprised me. It certainly is not something most Christians in America know about. If you do some searching like I did, though – even simply by searching “Christianity and vegetarianism” on the Internet – it’s easy to see just how important the idea of peace between all creatures has been in the Christian moral imagination.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mathwithbaddrawings.com/2013/04/25/were-all-bad-at-math-1-i-feel-stupid-too/&quot;&gt;“What it Feels Like to Be Bad at Math”&lt;/a&gt; (also applicable to all other hard subjects and things): “As I procrastinated, spending more time at dinner complaining about topology than in the library doing topology, I realized that procrastination isn’t just about laziness. It’s about anxiety. To work on something you don’t understand means facing your doubts and confusions head-on. Procrastination pushes back that painful confrontation.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.givewell.org/files/conversations/Gara%20LaMarche%20-%20May%20and%20June%202013%20(public).pdf&quot;&gt;Some notes from GiveWell on philanthropy in political advocacy&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/sunday-links-21/&quot;&gt;Sunday Links #21&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Introducing .impact]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/introducing-impact/" />
+  <id>http://localhost:4000/essays/introducing-impact</id>
+  <published>2014-01-05T16:28:57Z</published>
+  <updated>2014-01-05T16:28:57Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;I’ve talked about .impact in a few other places, but now we’ve finally written a summary of it and have launched a new website. Look here to see what we’re up to!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dotimpact.im/2014/01/05/introducing-dotimpact/&quot;&gt;“Introducing .impact”&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are many project ideas that could be really useful for the effective altruist community. There are people with the skills and free time to make things happen but who lack guidance or support. .impact aims to provide infrastructure to get people and useful projects together. We hope to help volunteers learn useful skills, meet great people, and create something substantial.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We’re soon launching &lt;a href=&quot;http://skillshare.im/&quot;&gt;Skillshare.im&lt;/a&gt;, a place to share skills and services for free. We collaborated on several Trello boards to &lt;a href=&quot;https://trello.com/b/npVl3e9d/effective-altruist-project-board&quot;&gt;organize projects&lt;/a&gt;, &lt;a href=&quot;https://trello.com/b/shY5TwCm/effective-altruist-research-topics&quot;&gt;research topics&lt;/a&gt;, and &lt;a href=&quot;https://trello.com/b/F3O577AH/ea-productivity-resources&quot;&gt;useful resources&lt;/a&gt;. We’ve brainstormed and started outlining projects like a &lt;a href=&quot;https://impact.hackpad.com/Studying-Vegetarian-Advocacy-m11aW51ENVW&quot;&gt;vegetarian advocacy study&lt;/a&gt;, an &lt;a href=&quot;https://impact.hackpad.com/EA-Wiki-y8z6wp5yCxD&quot;&gt;EA wiki&lt;/a&gt;, and &lt;a href=&quot;https://impact.hackpad.com/Argument-Mapper-hNKt3IU7gAv&quot;&gt;argument mapping software&lt;/a&gt;. We’ve had &lt;a href=&quot;http://dotimpact.im/meetings.html&quot;&gt;several weekly group hangouts and discussions&lt;/a&gt; with a variety of individuals. Most of our general discussion holds place in &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/&quot;&gt;our Facebook group&lt;/a&gt;, which now has &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/members/&quot;&gt;114 members&lt;/a&gt; and seems to be growing organically at a rate of 5 per week.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/introducing-impact/&quot;&gt;Introducing .impact&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Year of Mostly New Years Resolutions]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/a-year-of-mostly-new-years-resolutions/" />
+  <id>http://localhost:4000/essays/a-year-of-mostly-new-years-resolutions</id>
+  <published>2014-01-03T03:11:18Z</published>
+  <updated>2014-01-03T03:11:18Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/new-years-resolutions-december-edition/&quot;&gt;“New Years Resolutions: December Edition”&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, happy new year, everyone!&lt;/p&gt;
+
+&lt;p&gt;Many people may come to this new year armed with new years resolutions.  I, however, come armed with the resolutions I brought all the way from January 2013.  I did it – a full year of (mostly) sticking to my new years resolutions.&lt;/p&gt;
+
+&lt;p&gt;In this essay, I’ll overview how I did in December, overview how I did in 2013 overall, and then set up resolutions for January 2014.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-december-go&quot;&gt;How Did December Go?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Points:&lt;/strong&gt;  My goal was to score 17205 “daypoints” over the month according to my scoring system where different habits of mine are assigned different point values for each day.  Overall, I earned 16725 points, which was 97.2% of my goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time on task:&lt;/strong&gt; This month I spent an average of 8.98 hours a day working (a 62.86 hour work week), which is down from November’s 74.06 week, October’s 74.9 hour work week, and September’s 81.5 hour work week, which means I’m still trending downward, which could be problematic.  (Note that work includes everything I do that’s not sleep, reading, eating, exercising, showering, getting dressed, hanging out with friends/family, video games, spacing out, watching TV, and other commonsense things.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time with friends/family:&lt;/strong&gt; I spent an average of 4.72 hours a day with friends/family, which is up from 4.2hrs/day in November and up from 3.3 hours a day in October.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exercise:&lt;/strong&gt; I spent an average of 31.45 minutes a day &lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-is-peter-exercising/&quot;&gt;doing exercise&lt;/a&gt; – &lt;a href=&quot;http://www.stronglifts.com/&quot;&gt;Stronglifts&lt;/a&gt; and some running (down from 58.3 minutes/day in November and 64.5 minutes/day in October).  I improved my deadlift (215lbs to 235lbs) and squat (from 190lbs to 200lbs), but I did not improve my benchpress (stayed at 85lbs), or running distance (stayed at 6.2mi).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Goals:&lt;/strong&gt; I met my goals for sleeping 69% (down from 75%) of the time, breakfast 81% (down from 90%) of the time, lunch 87% (down from 90%), dinner 71% (up from 50%), not snacking 16% (down from 45%), cleanliness 81% (down from 93%), and order 93% (up from 88%).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall:&lt;/strong&gt; Overall, I have not failed my resolutions, but I have backslid on a lot of them, noticeably.  I’m going to need to turn this around for 2014.&lt;/p&gt;
+
+&lt;h2 id=&quot;overall&quot;&gt;2013 Overall&lt;/h2&gt;
+
+&lt;p&gt;Being disappointed at sliding away from my resolutions from October through December, it’s hard to remember the sorry state that I was in back in January 2013 and how much better I am compared to that.  Things have transformed a lot – what started as a goal to publicly precommit ended up transforming into the Monthly Review as a part of &lt;a href=&quot;&quot;&gt;David Allen’s &lt;strong&gt;Getting Things Done&lt;/strong&gt;&lt;/a&gt;, with a complex point system.&lt;/p&gt;
+
+&lt;h4 id=&quot;diet&quot;&gt;Diet&lt;/h4&gt;
+
+&lt;p&gt;I started out on &lt;a href=&quot;http://www.nosdiet.com/&quot;&gt;the No S Diet&lt;/a&gt; (No Snacks, No Sweets, No Seconds, except (Sometimes) on Saturdays, Sundays, and Special days).  For this, I had 100% success (Jan) and 90.9% success (Feb).  I then amended the diet to be Friday/Saturday instead of Saturday/Sunday, allowed myself to have Raisin Bran and Chocolate Milk, and allowed myself to accept snacks given out by others.  I continued to have 100% success (Mar) and 100% success (April).&lt;/p&gt;
+
+&lt;p&gt;For May, I adopted diet goals to (1) eat less than 2438kcal to ensure I lose weight, (2) eat at least 56g of protein each day, and (3) drink at least 2.5 liters of water each day, but I was unsuccessful because I was on a program that provided meals for me and my diet was largely out of my control.&lt;/p&gt;
+
+&lt;p&gt;For June, I switched to the point system I currently have and assigned point values to those three goals and added another goal: I would eat at least one fruit and one vegetable.  I fell a bit short on each goal, consuming on average 2/2.5L of water, 100g/56g of protein, 70% success at eating a fruit and vegetable, and 47% success at eating less than 2174kcal.&lt;/p&gt;
+
+&lt;p&gt;For July, I decided to restrict my diet even less and modified my goals to drink 5 cups of water and 5 cups of milk a day and consume a daily protein bar.  I stayed on the water habit 80% of the time and the milk habit 55% of the time, but was not able to find protein bars in England, where I was staying.&lt;/p&gt;
+
+&lt;p&gt;For August, I kept the milk and water goals and added a goal to eat broccoli each day and avoid sweets and fried foods.  I stayed on the water habit 100% of the time, the milk habit 87% of the time, broccoli 26%, avoiding sweets 45%, and avoiding fried foods 97%.&lt;/p&gt;
+
+&lt;p&gt;For September, I followed the &lt;a href=&quot;&quot;&gt;food plate&lt;/a&gt; and set a goal to drink 5 cups of water, 4 cups of milk, 2 servings of fruit, 5 servings of grains, and 4 servings of vegetables.  My average was 4.23/5 water, 3.67/4 milk, 1.97/2 fruit, 4.2/5 grains, and 3.1/4 vegetables.&lt;/p&gt;
+
+&lt;p&gt;For October through Decemeber, I noticed that since I was doing my own grocery shopping and don’t mind not having variety, I could just set a particular diet for every day and use &lt;a href=&quot;http://www.cronometer.com&quot;&gt;Cronometer&lt;/a&gt; to ensure good macronutrients, micronutrients, and calories.  I then divided these goals into “breakfast”, “lunch”, “dinner”, and “no snacks” goals.  Overall I was successful at breakfast 90%, 90%, and 81% of the time; lunch 90%, 90%, 87%; dinner 50%, 50%, 71%; and not snacking 45%, 45%, 16%.&lt;/p&gt;
+
+&lt;h4 id=&quot;exercise&quot;&gt;Exercise&lt;/h4&gt;
+
+&lt;p&gt;I started out pledging to &lt;a href=&quot;http://www.coolrunning.com/engine/2/2_3/181.shtml&quot;&gt;Couch to 5K&lt;/a&gt;, &lt;a href=&quot;http://www.hundredpushups.com/#sthash.oy6Cm6ax.4S9wegRE.dpbs&quot;&gt;One Hundred Pushups&lt;/a&gt;, and &lt;a href=&quot;http://www.twohundredsitups.com/&quot;&gt;Two Hundred Situps&lt;/a&gt;.  I stayed on goal 95% of the time.&lt;/p&gt;
+
+&lt;p&gt;By February, I dropped that completely, switching instead to running as much as I could of a 5K and walking what I couldn’t and did a modified version of the Mount Holyoke &lt;a href=&quot;http://www.youtube.com/watch?v=s_D_IjuAUl8&quot;&gt;No Excuses Workout&lt;/a&gt;.  I stayed on goal 88% of the time.  I did the same for March, but fell off the wagon and only stayed on goal 47% of the time.  For April, I was on goal 89% of the time.&lt;/p&gt;
+
+&lt;p&gt;On the 23rd of April, I switched out the No Excuses workout for &lt;a href=&quot;http://www.stronglifts.com&quot;&gt;Stronglifts 5x5&lt;/a&gt; (along with running once a week).  On May, I stayed on goal 95% of the time.  Also, in May I finally did a 5K and now just tried to aim to add more distance each time I ran.&lt;/p&gt;
+
+&lt;p&gt;For June, I added a goal for walking, looking to exercise an average of 20 minutes a day and walk an average of 40 minutes a day (though, of course, not exercising and walking every day).  I ended up having an average of 23/20 minutes of exercise and walked 38/40 minutes a day.&lt;/p&gt;
+
+&lt;p&gt;For July, I ended up losing access to a gym with weights, so I began &lt;a href=&quot;http://www.amazon.com/dp/0938045768&quot;&gt;Convict Conditioning&lt;/a&gt; with the &lt;a href=&quot;http://www.reddit.com/r/bodyweightfitness/comments/1gbfx2/training_for_34_hours_a_day_6_days_a_week_as_ido/&quot;&gt;Reddit modifications&lt;/a&gt; (along with running).  I spent an average of 30 minutes a day exercising.&lt;/p&gt;
+
+&lt;p&gt;For August, I was biking regularly to commute, so I spent an average of 124 minutes a day doing exercise (biking, Convict Conditioning, and running).  In September, I was no longer biking and I spent an average of 36 minutes a day exercising. In October, I resumed Stronglifts and spent an average of 64.5 minutes a day doing exercise, running twice a week for longer.  In November, I spent an average of 58.3 minutes a day doing exercise.  In December, I spent an average of 31.45 minutes a day.&lt;/p&gt;
+
+&lt;p&gt;Overall, I made considerable gains in fitness.  Running went up from a max distance of 0.5mi to 6.2mi.  My benchpress went up from 45lbs (in late April) to 85lbs, squat from 45lbs to 200lbs, and deadlift from 135lbs to 215lbs.  I also went from 210lbs to a low of 172lbs and now currently weigh a healthy 180lbs.&lt;/p&gt;
+
+&lt;h4 id=&quot;productivity&quot;&gt;Productivity&lt;/h4&gt;
+
+&lt;p&gt;For April, I started doing “4x4hr Productivity” where, four days a week, for four hours each, I committed to working with &lt;a href=&quot;http://pomodorotechnique.com/&quot;&gt;The Pomodoro Technique&lt;/a&gt;.  In April, I was successful 76% of the time.  I lost my records for May.  In June, I spent an average of 7 hours a day working.  In July, 10hrs.  August, 9.93hrs.  September, 11.6hrs.  October, 10.7hrs.  November, 10.58hrs.  December, 8.98hrs.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-annual-goals&quot;&gt;The Annual Goals&lt;/h4&gt;
+
+&lt;p&gt;Back in the &lt;a href=&quot;http://www.everydayutilitarian.com/essays/new-years-resolutions/&quot;&gt;first post&lt;/a&gt;, I stated some goals I wanted to accomplish by the end of the year.  I ended up not accomplishing very few of these because my priorities changed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;200 essays in 2013:&lt;/strong&gt; Overall, I wrote 163 essays in 2013.  I had a goal of writing 200.  I decided that it wasn’t worth writing essays just for the sake of writing them and I ended up, on occasion, deciding that doing other work was higher priority than writing, so I didn’t make this goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Add four games to the arcade:&lt;/strong&gt; Likewise, I didn’t end up making much progress on games because I decided that working on games was not the best way to learn programming further.  I think I accomplished the spirit of this goal by rekindling my role as a computer programmer, even though I approached it in a different way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Earn &amp;gt;$6000:&lt;/strong&gt; Similarly, I did not end up earning more than $6000 in income.  This is because I decided that I had higher priority things to do with my time than earn money and I’m in a lucky position where I can spend my time as I want.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spend &amp;lt;$2000:&lt;/strong&gt; Moreover, I did not end up spending &amp;lt;$2000.  I didn’t account for the fact that I would end up buying my own food as a college senior or have other significant expenses like going to London for an internship.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Get my drivers license:&lt;/strong&gt;  I ended up failing this goal as well.  This is the one I do regret not accomplishing and feel a little embarrassed about.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-new-for-january-2014&quot;&gt;What is New for January 2014?&lt;/h2&gt;
+
+&lt;p&gt;I’m going to end up continuing as before, applying a few lessons I’ve learned along the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I still like the point system.&lt;/strong&gt;  Generally it’s a bad idea to say “just one won’t hurt” because people end up taking this too far and derailing from their habits.  But it’s also true that just one really won’t hurt.  The point system lets me reconcile this by allowing me to get away with a little bit without losing too much.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I still like focusing on inputs rather than outputs.&lt;/strong&gt;  It’s very difficult to work with a goal like “get stronger” or “lose weight”, even when they’re specific (“gain 20lbs on squat”, “lose 20lbs”).  This is because you don’t really have a whole lot of direct control over your strength and weight.  But you do have control over what you do to get stronger and lose weight – you can change your diet and exercise.  So I focus on those inputs, diet and exercise, rather than outputs, like strength and weight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I won’t be setting any more year-long goals&lt;/strong&gt; (except for getting my drivers license).  I was really bad at predicting my year-long priorities.  I expect to be similarly bad at predicting my priorities, so I don’t think it will be worth setting these kinds of goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m going to be more focused about taking breaks for harder goals.&lt;/strong&gt;  When I did the No S Diet, I was really good at avoiding snacks.  When I just lost points for eating snacks, I’ve been pretty bad at it.  That’s because I think it was a lot easier knowing to resist snacks when I had particular days I could cheat.  So I think I’ll do the same and pick cheat days for harder goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I need to be more careful when changing environments.&lt;/strong&gt;  A lot of my success at sticking to resolutions is based on a good routine, and routines are disrupted by moving (from college to home and back again, England, etc.).  I need to be more careful about constructing a good routine the moment I move.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/a-year-of-mostly-new-years-resolutions/&quot;&gt;A Year of Mostly New Years Resolutions&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 03, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[How is Peter Exercising? 2014]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/how-is-peter-exercising-2014/" />
+  <id>http://localhost:4000/essays/how-is-peter-exercising-2014</id>
+  <published>2014-01-02T20:07:33Z</published>
+  <updated>2014-01-02T20:07:33Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-is-peter-exercising&quot;&gt;“How is Peter Exercising? 2013”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve made a variety of New Years Resolutions this year to commit to exercise.  I decided that I want a more detailed log to keep track of my progress on these plans so I know where to resume for future exercises and look back on my progress.  I then decided, in the spirit of my &lt;a href=&quot;http://www.everydayutilitarian.com/essays/what-is-peter-reading&quot;&gt;reading list&lt;/a&gt; and &lt;a href=&quot;http://www.everydayutilitarian.com/essays/what-is-peter-watching&quot;&gt;TV list&lt;/a&gt;, why not make this public too?&lt;/p&gt;
+
+&lt;p&gt;Currently, I’m working on (1) &lt;a href=&quot;http://stronglifts.com/stronglifts-5x5-beginner-strength-training-program/&quot;&gt;Stronglifts 5x5 Beginner Strength Training Program&lt;/a&gt; and (2) running once a week.  Whenever I don’t have access to a gym with free weights, I’ll try to substitute with exercise machines or the &lt;a href=&quot;http://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_beginner_routine&quot;&gt;r/bodyweightfitness routine&lt;/a&gt; when possible.&lt;/p&gt;
+
+&lt;p&gt;Nothing in this list is meant to be that awe inspiring.  I recognize myself as below average at fitness, but I’m getting much better.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;index&quot;&gt;Index&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;January&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;February&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;january-2014&quot;&gt;January 2014&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;02:&lt;/strong&gt; &lt;a href=&quot;http://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_beginner_routine&quot;&gt;r/bodyweightfitness routine&lt;/a&gt;: Wall extensions, shoulder rotations, cat camel, full body circles, leg swings, and wrist mobility for warmup.  Then arch (15s), Hollow (5x3s), Elevated Plank (15s), Elevated Reverse Plank (15s), Side Plank (15s ea), Handstand (50s), Support Hold (30s), One Foot Supported L-sit (90s), 3x5 Improvised Rows, 3x5 Pushups, 3x5 Negative Pull-ups, and 2x5 Assisted Pistol Squats.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;06:&lt;/strong&gt; &lt;a href=&quot;http://stronglifts.com/stronglifts-5x5-beginner-strength-training-program/&quot;&gt;Stronglifts 5x5&lt;/a&gt;: 5×5 Squats (190lbs), 5x5 Overhead Presses (75lbs), 1x3 Deadlifts (235lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;08:&lt;/strong&gt; Stronglifts: 5x5 Squats (195lbs), 5x5 Benchpresses (95lbs), and 5x5 Rows (100lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10:&lt;/strong&gt; Stronglifts: 5x5 Squats (195lbs), 5x5 Overhead Presses (80lbs), and 1x5 Deadlifts (225lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13:&lt;/strong&gt; Stronglifts: 5x5 Squats (195lbs), 5x5 Benchpresses (100lbs), and 5x5 Rows (105lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;16:&lt;/strong&gt; Did a 15 machine circuit of exercise machines with my girlfriend.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;21:&lt;/strong&gt; Stronglifts: 5x5 Squats (190lbs) and 5x5 Benchpresses (100lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;23:&lt;/strong&gt; Stronglifts: 5x5 Squats (195lbs), 5/5/2 Overhead Presses (85lbs), and 1x5 Deadlifts (235lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;28:&lt;/strong&gt; Stronglifts: 5x5 Squats (195lbs), 5/5/2 Benchpresses (105lbs), and 5x5 Rows (85lbs).&lt;/p&gt;
+
+&lt;h2 id=&quot;february-2014&quot;&gt;February 2014&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;04:&lt;/strong&gt; Stronglifts: 5x5 Squats (190lbs), 5x5 Overhead Presses (75lbs), and 1x5 Deadlifts (235lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;07:&lt;/strong&gt; Stronglifts: 5x5 Squats 5x5 (195lbs), 3x5,1x2 Benchpresses (100lbs), and 5x5 Rows (90lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11:&lt;/strong&gt; Stronglifts: 5x5 Squats (200lbs), 5x5 Overhead Presses (80lbs), and 1x5 Deadlifts (245lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13:&lt;/strong&gt; Stronglifts: 5x5 Squats (205lbs), 5x5 Benchpresses (100lbs), and 5x5 Rows (85lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;16:&lt;/strong&gt; Stronglifts: 5x5 Squats (210lbs), 1x4 Overhead Presses (85lbs), and 1x5 Deadlifts (255lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;18:&lt;/strong&gt; Stronglifts: 5/5/5/1/0 Squats (215lbs), 5/5/3/2/2 Benchpresses (105lbs), and 5x5 Rows (90lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;25:&lt;/strong&gt; Stronglifts: 5/5/5/5/0 Squats (215lbs), 5/5/5/4/5 Overhead Presses (85lbs), and 1x2 Deadlifts (265lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;26:&lt;/strong&gt; Ran 1.0mi in 8.5min (7mph).  Ran 1.0mi in 8.5min (7mph).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;27:&lt;/strong&gt; Stronglifts: 5x5 Squats (215lbs), 5x5 Benchpresses (105lbs), and 5x5 Rows (100lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;04:&lt;/strong&gt; Stronglifts: 5/5/1/0/0 Squats (220lbs), 5x5 Overhead Presses (85lbs), and 1x2 Deadlifts (265lbs).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11:&lt;/strong&gt; Walked/ran 4.0mi in 47min (5.1mph).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;12:&lt;/strong&gt; Stronglifts: 5x5 Squats (200lbs) and 5/5/5/3/0 Benchpresses (110lbs).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/how-is-peter-exercising-2014/&quot;&gt;How is Peter Exercising? 2014&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunday Links #20]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/sunday-links-20/" />
+  <id>http://localhost:4000/essays/sunday-links-20</id>
+  <published>2013-12-29T05:00:26Z</published>
+  <updated>2013-12-29T05:00:26Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.nerdfitness.com/blog/2012/08/13/productivity/&quot;&gt;“Five Ways to Instantly Become More Productive”:&lt;/a&gt; (1) Don’t multi-task; (2a) track how you spend your time; (2b) consider using apps like &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;RescueTime&lt;/a&gt;, &lt;a href=&quot;https://www.macupdate.com/app/mac/31289/selfcontrol/&quot;&gt;Self-Control&lt;/a&gt;, or &lt;a href=&quot;https://chrome.google.com/webstore/detail/nanny-for-google-chrome-t/cljcgchbnolheggdgaeclffeagnnmhno&quot;&gt;Chrome Nanny&lt;/a&gt;; (2c) understand and be comfortable with struggling for the first couple of weeks, knowing it will make you better in the long-run; (3) only use online chat if you absolutely have to; (4a) turn off automatic email notifications; (4b) don’t check your email first thing; (4c) split your email into two folders, “Action” and “Non-essential” and automatically sort each email you get as you get it, coming back to the “Action” folder later; (4d) unsubscribe from as many things in your email as you can; (5a) declutter as much as you can; (5b) turn off as many notifications as you can; and (6) start slow.  Ok, so that was actually way more than five things, but they’re all good advice and I follow most of them.  For more, I wrote &lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-i-am-productive/&quot;&gt;“How I Am Productive”&lt;/a&gt; and I’ve heard from a half dozen people now that they found it helpful.&lt;/p&gt;
+
+&lt;p&gt;Allison Smith, writing for the Animal Charity Evaluators blog whether &lt;a href=&quot;http://www.animalcharityevaluators.org/blog/do-protests-hurt-animal-activism/&quot;&gt;protests hurt animal activism&lt;/a&gt;, citing a study that finds “participants were more likely to agree with the article when the author was an ‘atypical’ activist or was not described in activist terms at all”.  This leads Smith to wonder whether activists are actually hurting the &lt;a href=&quot;http://en.wikipedia.org/wiki/Animal_rights_movement&quot;&gt;animal rights movement&lt;/a&gt;.  I’d be tempted to think that, however, it’s important to have both hard-hitting activists and diplomatic atypical activists in the movement for reasons Greta Christina mentions about atheists and the LGBT movement in &lt;a href=&quot;http://gretachristina.typepad.com/greta_christinas_weblog/2007/09/good-cop-bad-co.html&quot;&gt;“Good Cop, Bad Cop: Atheist Activism”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In similar news, Nick Cooney &lt;a href=&quot;http://spot.humaneresearch.org/content/changing-vegan-advocacy-art-science&quot;&gt;wants to change vegan advocacy from an art to a science&lt;/a&gt;.  &lt;a href=&quot;http://www.veganoutreach.org/articles/youngmatt.html&quot;&gt;“Letter to a Young Matt”&lt;/a&gt; is also another good resource on the proper frame of mind that is needed for vegan advocacy.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;Eliezer Yudkowsky &lt;a href=&quot;http://lesswrong.com/lw/gq/the_proper_use_of_humility/&quot;&gt;distinguishes good humility from bad humility:&lt;/a&gt; “What about the student who humbly double-checks the answers on his math test?  Again I’d categorize that as good humility.  What about a student who says, ‘Well, no matter how many times I check, I can’t ever be certain my test answers are correct,’ and therefore doesn’t check even once?  Even if this choice stems from an emotion similar to the emotion felt by the previous student, it is less wise.”&lt;/p&gt;
+
+&lt;p&gt;Richard Yetter Chappell does some good work over at Philosophy, Etc. to &lt;a href=&quot;http://www.philosophyetc.net/2013/12/reconciling-scalar-maximizing-and.html&quot;&gt;reconcile scalar, maximizing, and satisficing consequentialisms&lt;/a&gt; by breaking apart two notions of obligation: an “ought of most reason” and the “ought of minimal decency”.&lt;/p&gt;
+
+&lt;p&gt;A pretty good way of understanding public opinion: &lt;a href=&quot;http://themonkeycage.org/blog/2010/06/22/the_public_is_a_thermostat/&quot;&gt;as a thermostat&lt;/a&gt;.  Just like a thermostat cools the room when it gets warm and warms the room when it gets cold, public opinion tends to swing more Republican in Democrat majorities and vice versa.&lt;/p&gt;
+
+&lt;p&gt;Here’s &lt;a href=&quot;http://chrisblattman.com/advising/graduate-advising/&quot;&gt;pretty good advice for students working on research with professors&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mr. Money Mustache on &lt;a href=&quot;http://www.mrmoneymustache.com/2011/06/02/insurance-a-tax-on-people-who-are-bad-at-math/&quot;&gt;why insurance is basically just a tax on people who are bad at math&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Need more Sunday links in your life?  Here’s some more people doing Sunday Links: &lt;a href=&quot;http://foldl.me/&quot;&gt;Foldl&lt;/a&gt;, &lt;a href=&quot;http://abnormalreturns.com/&quot;&gt;Abnormal Returns&lt;/a&gt;, &lt;a href=&quot;http://blogs.seattletimes.com/seahawks/&quot;&gt;Seahawks Blog&lt;/a&gt;, and &lt;a href=&quot;http://simplystatistics.org/tag/sunday-links/&quot;&gt;Simply Statistics&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/sunday-links-20/&quot;&gt;Sunday Links #20&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 29, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Why Utilitarianism Says Donald Trump is a Terrorist]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/essays/why-utilitarianism-says-donald-trump-is-a-terrorist/" />
+  <id>http://localhost:4000/essays/why-utilitarianism-says-donald-trump-is-a-terrorist</id>
+  <published>2013-12-29T00:53:54Z</published>
+  <updated>2013-12-29T00:53:54Z</updated>
+  <author>
+    <name>Peter Hurford</name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Awhile ago Donald Trump made a video &lt;a href=&quot;http://abcnews.go.com/Politics/OTUS/donald-trump-fails-drop-bombshell-offers-cash-obama/story?id=17553670#.UKloh-Oe_2E&quot;&gt;offering to donate $5 million to charity&lt;/a&gt; if only Barack Obama would release his passport and college records.  Of course, Barack Obama ended up refusing the offer, fueling Donald Trump’s long “conspiracy nut” belief that Obama wasn’t really born in America.&lt;/p&gt;
+
+&lt;p&gt;When the due date for the deal passed, however, &lt;a href=&quot;http://www.washingtontimes.com/blog/inside-politics/2012/nov/1/trump-blasts-obama-ignoring-5-million-transcript-o/&quot;&gt;Trump remarked how sad it was&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After the deadline came and went, Mr. Trump posted a video on YouTube calling it a “very, very sad day for the United States of America.” He suggested that the president’s snub prevented him from giving $5 million to a group such as the Wounded Warrior Project, American Cancer Society or to the families of victims from the embassy attack in Benghazi, Libya.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But there’s another way to think about this: why can’t Mr. Trump donate the $5 million anyway?  Certainly, there’s no requirement that Obama do anything for Trump to donate his money.  In a sense, Trump is playing the role of a terrorist – he has it within his ability to easily help the family of victims, wounded warriors, or people with cancer &lt;strong&gt;but chooses to hold these groups hostage until Obama gives into his demands.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;But, of course, there seems to be a critical distinction between declining to help people with your money (allowing them to be harmed through your inaction) and actively holding people hostage (doing harm to them).  However, the consequences are identical – regardless of whether Trump is refusing to make a donation or actively being a terrorist, the wounded veterans and family victims don’t get helped all the same.  Utilitarianism, in focusing on the consequences of the act, doesn’t seem to recognize this critical distinction, commonly called the &lt;em&gt;doing-allowing distinction&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this essay, I aim to further explore utilitarianism by exploring the doing-allowing distinction.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;peter-singers-pond&quot;&gt;Peter Singer’s Pond&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;en.wikipedia.org/wiki/Peter Singer&quot;&gt;Peter Singer&lt;/a&gt; is a famous philosopher, and he is most famous for &lt;a href=&quot;http://www.alternet.org/story/146958/peter_singer%3A_would_you_save_the_life_of_a_child&quot;&gt;a thought experiment involving a pond&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Imagine you come across a small child who has fallen into a pond and is in danger of drowning.  You know that you can easily and safely rescue him, but you are wearing an expensive pair of shoes that will be ruined if you do. It would be wrong–monstrous, in fact–to walk on past the pond, leaving the child to drown, because you don’t want to have to buy a new pair of shoes. You can’t compare a child’s life with a pair of shoes!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Everyone I have talked to endorses saving the child, even at the cost of the shoes.  Yet, as Singer argues, there is a twist – if we would sacrifice our shoes to save a child from a pond, should we not also sacrifice our shoes (or at least the monetary cost of them) to save lives overseas?  Singer continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Yet while we all say that it would be wrong to walk past the child, there are other children whose lives we could save just as easily–and yet we don’t. UNICEF, the United Nations Children’s Fund, estimates that nearly 9 million children under 5 die each year from causes related to poverty. That’s 24,000 a day—a football stadium full of young children, dying every day (along with thousands of older children and adults who die from poverty every day as well). Some die because they don’t have enough to eat or clean water to drink. More die from measles, malaria, diarrhea and pneumonia—diseases that don’t exist in developed nations, or if they do, are easily cured and rarely fatal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Describing a case in Ghana, a man told a researcher from the World Bank: “Take the death of this small boy this morning, for example. The boy died of measles. We all know he could have been cured at the hospital. But the parents had no money and so the boy died a slow and painful death, not of measles but out of poverty.&lt;/p&gt;
+
+&lt;p&gt;Some people are motivated to deny the analogy, and I agree with those who say &lt;a href=&quot;http://goodintents.org/aid-recipient-concerns/singers-analogy&quot;&gt;it really isn’t &lt;em&gt;that&lt;/em&gt; simple&lt;/a&gt;.  But a strong case can be made: &lt;a href=&quot;http://www.givewell.org/giving101/Changing-Someones-Life&quot;&gt;it’s been thoroughly and compellingly established&lt;/a&gt; via ample evidence that $1000-$2000 can prevent a case of an otherwise deadly disease in the developing world – saving someone who would have died at 5 and instead allowing them to live out their natural life, dying instead of old age of 60.  Or, in simpler terms, $1000-$2000 can &lt;em&gt;save a life&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, what is the “morally relevant” difference between drowning someone intentionally (doing) and declining to save someone from drowning (allowing)?  And what would be the difference between giving someone malaria (doing) and declining to save them from malaria via a life-saving donation?  As Peter Singer would argue, there’s little difference at all.&lt;/p&gt;
+
+&lt;h2 id=&quot;bathtubs-and-doing-allowing&quot;&gt;Bathtubs and Doing-Allowing&lt;/h2&gt;
+
+&lt;p&gt;Speaking of the difference between intentionally drowning someone and declining to save someone from drowning, philosopher James Rachels argues that there is no “morally relevant” difference by arguing a “contrasting case” in his paper &lt;a href=&quot;http://www.qcc.cuny.edu/socialSciences/ppecorino/DeathandDying_TEXT/Active%20and%20Passive%20Euthanasia.pdf&quot;&gt;“Active and Passive Euthanasia”&lt;/a&gt; (PDF):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the first, Smith stands to gain a large inheritance if anything should happen to his six-year-old cousin. One  evening while the child is taking his bath, Smith sneaks into the bathroom and drowns the child, and then arranges things so that it will look like an accident.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the second, Jones also stands to gain if anything should happen to his six-year-old cousin. Like Smith. Jones sneaks in planning to drown the child in his bath. However, just as he enters the bathroom Jones sees the child slip and hit his head, and fall face down in the water. Jones is delighted; he stands by, ready to push the child’s head back under if it is necessary, but it is not necessary. With only a little thrashing about, the child drowns all by himself, “accidentally,” as Jones watches and does nothing.&lt;/p&gt;
+
+&lt;p&gt;Is there a relevant distinction to be made between how we evaluate the character of Smith and Jones?  Does one of them seem more malicious than the other?  Here’s Rachels’s analysis:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now Smith killed the child, whereas Jones “merely” let the child die. That is the only difference between them. Did either man behave better, from a moral point of view? If the difference between killing and letting die were in itself a morally important matter, one should say that Jones’s behavior was less eprehensible than Smith’s. But does one really want to say that? I think not. In the first place, both men acted from the same motive, personal gain, and both had exactly the same end in view when they acted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;[…S]uppose Jones pleaded, in his own defense, “After all, I didn’t do anything except just stand there and watch the child drown. I didn’t kill him; I only let him die.” Again, if letting die were in itself less bad than killing, this defense should have at least some weight. But it does not. Such a “defense” can only be regarded as a grotesque perversion of moral reasoning. Morally speaking, it is no defense at all.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-trolley-problem&quot;&gt;The Trolley Problem&lt;/h2&gt;
+
+&lt;p&gt;Based on the bathtub case, it seems intuitive that the doing-allowing distinction doesn’t hold.  But this intuition is challenged by the famous &lt;a href=&quot;http://en.wikipedia.org/wiki/Trolley_problem&quot;&gt;“Trolley Problem”&lt;/a&gt;, a thought experiment first introduced by Phillipa Foot and then extensively modified by Judith Jarvis Thompson, which is perhaps even more famous than Singer’s pond.  It’s typically given in two different scenarios:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Scenario #1:&lt;/strong&gt; A train is hurdling down the tracks with failed breaks.  There are five people on the track ahead of the train who cannot get off in time.  They will die unless the train is diverted onto another track by a switch.  However, that other track has one person on it who will not be able to get off in time.  Should the train be intentionally diverted, killing one person, or allowed to stay on its present course, killing five people?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Typically, people will remark that the train should be intentionally diverted so that more lives can be saved.  It’s important to note, however, that the five people on the train are being &lt;em&gt;allowed&lt;/em&gt; to die by mere inaction on behalf of the switch-flipper.  So how culpable is the person in their deaths?  Consider this additional scenario:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Scenario #1:&lt;/strong&gt; A train is hurdling down the tracks with failed breaks.  There are five people on the track ahead of the train who cannot get off in time.  This time there is no switch, but you are on a ledge with a man who would be fat enough to stop the train in time, should you push him off the ledge to his death in order to save the five.  Should the fat man be intentionally pushed, killing one person, or allowed to stay on the ledge, leading to the death of the five people?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interestingly, in this scenario, a sizable majority of people change their mind and argue that the fat man should not be killed, even though they had just endorsed the “kill one to save five” principle established earlier.  The difference here does seem to be the doing-allowing distinction – in the case of flipping the switch, you are impersonally changing events to allow one person to die instead of allowing five people to die; but in the case of the footbridge, you are &lt;em&gt;killing&lt;/em&gt; (doing) the fat man.&lt;/p&gt;
+
+&lt;h2 id=&quot;of-euthanasia-and-automatic-bank-accounts&quot;&gt;Of Euthanasia and Automatic Bank Accounts&lt;/h2&gt;
+
+&lt;p&gt;Escaping the world of ponds, bathtubs, and trolleys, we can bring the doing-allowing distinction to the more practical world.  Consider the controversial case of euthanasia – if someone is in unbearable pain and is going to die with no hope of rescue, it seems like we should end their pain.  However, it is not acceptable to outright kill the patient – that would be murder!  Instead, the patient can be &lt;em&gt;allowed to die&lt;/em&gt; by declining to continue life supporting treatment, and that’s legal.&lt;/p&gt;
+
+&lt;p&gt;But as Richard Chappell points out in his essay &lt;a href=&quot;http://www.philosophyetc.net/2006/01/doing-and-allowing.html&quot;&gt;“Doing and Allowing”&lt;/a&gt;, we could conceive of a strange life support machine that is set to turn itself off automatically unless the doctor intervenes to push a button to turn it back on.  That way, whenever a decision is made to terminate life support, it is the doctor merely refraining from pushing the button and allowing the patient to die rather than doing something to the patient.&lt;/p&gt;
+
+&lt;p&gt;Likewise, we could conceive of a bank account where we deposit our income that is set to automatically donate 10% of the contents to an effective non-profit organization.  Here, any spending of our income deliberately reduces the pool to be donated and thus deliberately deprives people from receiving life-saving treatment, just like your inaction to actually donate a portion of your income used to.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Here, in these two scenarios, the doing-allowing distinction falls apart.  So what are we to do?  The doing-allowing distinction is on shaky ground, and should be rejected.  But does this mean that Donald Trump should be considered a terrorist and that we are all murderers for refusing to donate as much as possible to charity?&lt;/p&gt;
+
+&lt;p&gt;In the next essay, I’ll sketch out a utilitarian account of blameworthiness that takes into account quality of will, and argues that we should donate income to charity because it is an incredibly worthy action, not because we are monsters for failing to do so.  …Trump, I hope you have your check for $5 million handy.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is &lt;a href=&quot;http://www.greatplay.net/essays/the-doing-allowing-distinction-is-the-only-thing-preventing-donald-trump-from-being-considered-a-terrorist&quot;&gt;a repost from Greatplay.net&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/essays/why-utilitarianism-says-donald-trump-is-a-terrorist/&quot;&gt;Why Utilitarianism Says Donald Trump is a Terrorist&lt;/a&gt; was originally published by Peter Hurford at &lt;a href=&quot;http://localhost:4000&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 29, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>

@@ -1,0 +1,56 @@
+---
+author: admin
+comments: true
+date: 2013-06-17 04:42:10+00:00
+layout: post
+slug: why-i-blog
+title: Why I Blog
+wordpress_id: 298
+categories:
+- All
+- Personal
+---
+
+**Why blog?**  In Harry Potter, Dumbledore stores his thoughts in a [pensieve](http://harrypotter.wikia.com/wiki/Pensieve).  However, such magical technology already exists for us in a less awesome form: diaries and blogs.
+
+The desire to blog nearly has always started with me feeling overwhelmed by having too many thoughts in my head.  I notice that I can't think clearly, because focusing on one thought in particular ends up with me losing some of my other thoughts.  This creates a somewhat unpleasant feeling and loss of focus.
+
+But the pensieve model brings a solution -- I can make use of what has been called by certain academics as an "external memory field", and by most nearly everyone else as "paper" or "word documents" to type up my thoughts.  Then, I can get rid of my thoughts from my (internal) mind and think without worry of loss.
+
+Spencer Greenberg writes that [it's rather pointless to try to read non-fiction with the intent to learn](http://www.spencergreenberg.com/2011/07/do-we-really-read-non-fiction-to-learn/) unless you're also taking notes, potentially doubling the effectiveness of your time spent reading or more.  Since I [read a lot of books](http://www.everydayutilitarian.com/essays/what-is-peter-reading/), it would behoove me to summarize what I've read to make sure that I actually learn the material.
+
+I can then come back to thoughts that I've stored days, weeks, months, or years older and retrieve them.  It's really fun to read what I wrote a year ago and try to shift back into my old frame of mind.  Sometimes, old writing of mine is as unfamiliar to me as the writing of other people.<!-- more -->
+
+
+
+
+
+
+#### Organizing Information
+
+
+For me, however, thoughts aren't really good enough; I want to record thoughts _in action_.  Writing thoughts not only stores them, but gives them greater clarity and cohesiveness than they ever would have had in my head.  I also can make use of hyperlinks to string thoughts together, and reference the thoughts of others.
+
+I can also revisit and build upon thoughts that I have stored in a way that wouldn't be possible inside my own head.  Putting things to paper just gives me more space to work with, and by being goal oriented, I can use this space to hopefully solve tough and interesting problems; perhaps even the most important problems facing us today.
+
+Most importantly to me, this reason and the last reason motivate me to keep up a blog _even when no-one is reading it_.  Luckily for me, this isn't the case, but even it were, I would still blog.  Writing with the intent to get as many people to read it as possible is often self-destructive to the ends of accurately writing about what I think and what interests _me_.  I don't want to worry about readership.
+
+
+
+
+
+
+#### The Benefits of Discussion
+
+
+The past two reasons explain some of why it would be important to keep a diary and why it would be easier to do so _online_.   But why make it public?  Well first, it satisfies my need for a creative outlet; to produce something and give it to the world.  But it also allows me to collect feedback, to hone my craft, and improve my thoughts.
+
+Malcolm Gladwell says [it takes 10,000 hours with constant feedback](http://www.amazon.comdp/0316017930) to become an expert.  There has been [enough](http://www.nytimes.com/2009/11/15/books/review/Pinker-t.html?pagewanted=all) [criticism](http://nymag.com/arts/books/features/52014/index1.html) of [Gladwell](http://www.theregister.co.uk/2008/11/30/malcolm_gladwell_no/) for me to not take that number seriously, but the fact remains that while I've been thinking for over 100,000 hours to date, I have barely any feedback.  I am by no means an expert at thinking.
+
+I hope to use feedback and criticism to improve my own writing and thinking.  I also hope to make it a two-way street and improve the thinking of others.  I even have lofty goals to use my writing to persuade.
+
+We'll see if I ever get to that step.  Perhaps you could [get your own blog](http://www.wordpress.com) and join me.  Or, revive a blog if you have it.  Remember not to worry about whether people are reading it.
+
+-
+
+_**Author’s Note:** An earlier draft of this essay was originally [posted on my old blog](http://www.greatplay.net/essays/why-do-i-blog)._
