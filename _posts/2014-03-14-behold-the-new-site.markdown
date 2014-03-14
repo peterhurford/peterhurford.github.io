@@ -4,7 +4,7 @@ comments: true
 date: 2014-03-14 09:39:00-05:00
 layout: post
 slug: behold-the-new-site
-title: 'Notice: Site Speed Problems, Sorry'
+title: 'Behold!  The New Site!'
 wordpress_id: 1293
 categories:
 - All
