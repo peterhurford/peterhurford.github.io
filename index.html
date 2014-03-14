@@ -27,8 +27,10 @@ image: abstract-8.jpg
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content | truncatewords:150 }}
-    <p><a href="{{ site.url }}{{ post.url }}">Read more...</a></p>
+    {{ post.content | split:'<!-- more -->' | first }}
+   {% if post.content contains '<!-- more -->' %}
+      <p><a href="{{ post.url }}">read more...</a></p>
+   {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
