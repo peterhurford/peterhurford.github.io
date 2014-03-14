@@ -35,7 +35,25 @@
         {% if page.modified %}(revised: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%m/%d/%Y" }}</time></span>){% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if site.disqus_shortname and page.comments %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+    {% if site.disqus_shortname and page.comments %}
+     <section id="disqus_thread">
+      <div id="disqus_thread">
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'everydayutilitarian'; // required: replace example with your forum shortname
+            var disqus_url = "http://domain.com{{ page.url | replace:'index.html','' }}";
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
+      </section><!-- /#disqus_thread -->
+    {% endif %}
 
   </article>
 </div><!-- /#main -->
