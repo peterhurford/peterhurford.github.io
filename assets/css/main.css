@@ -45,17 +45,6 @@ html {
       -ms-text-size-adjust: 100%;
 }
 
-a:focus {
-  outline: thin dotted #333;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
-}
-
-a:hover,
-a:active {
-  outline: 0;
-}
-
 sub,
 sup {
   position: relative;
@@ -293,29 +282,6 @@ h6 {
 h1 {
   font-size: 32px;
   font-size: 2rem;
-}
-
-a {
-  color: #222222;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #555555;
-}
-
-a:hover {
-  color: #000000;
-}
-
-a:focus {
-  color: #000000;
-  outline: thin dotted;
-}
-
-a:hover,
-a:active {
-  outline: 0;
 }
 
 .link-arrow {
@@ -3317,13 +3283,16 @@ body {
   line-height: 1.625;
 }
 
+a,
 .entry-content p > a,
 .entry-content li > a,
+.entry-title li > a,
 .footer-wrapper a {
   color: #308cbc;
   border-bottom: 1px dotted #a2a2a2;
 }
 
+a:hover,
 .entry-content p > a:hover,
 .entry-content li > a:hover,
 .footer-wrapper a:hover {

@@ -26,19 +26,21 @@ image: abstract-4.jpg
 {% for tag in site.categories %} 
 	{% unless tag[0] == "all" %} 
 		<article>
-		<h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
-			<ul>
-			{% assign pages_list = tag[1] %}  
-			{% for post in pages_list %}
-				{% if post.title != null %}
-					{% if group == null or group == post.group %}
-						<li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<div class="entry-content">
+				<h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+				<ul>
+				{% assign pages_list = tag[1] %}  
+				{% for post in pages_list %}
+					{% if post.title != null %}
+						{% if group == null or group == post.group %}
+							<li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+						{% endif %}
 					{% endif %}
-				{% endif %}
-			{% endfor %}
-			{% assign pages_list = nil %}
-			{% assign group = nil %}
-			</ul>
+				{% endfor %}
+				{% assign pages_list = nil %}
+				{% assign group = nil %}
+				</ul>
+			</div>
 		</article><!-- /.hentry -->
 	{% endunless %}
 {% endfor %}
