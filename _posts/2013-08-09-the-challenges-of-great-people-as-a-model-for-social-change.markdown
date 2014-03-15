@@ -79,7 +79,3 @@ Again, Ashoka seems to be doing good, useful work. But given what I know about i
 **The bottom line is that helping people is hard... especially when you're looking for dramatic nation-changing large-scale high-impact work.** It's extraordinarily difficult to have a great idea that turns out to actually work. And it's extraordinarily easy to look at an idea that _looks_ great and _seems_ to actually work, until it turns out that it doesn't really.
 
 I'd be willing to bet the folks at Ashoka are brilliant people, their fellows are brilliant people, and that they know what they're doing. But I also know that having a nation-changing idea is hard, exceptionally harder than most people think, and very easy to underestimate. If I'm going to buy into Ashoka's work and trust their trust of their fellows, I'd like a demonstration that their selection process does well.
-
--
-
-_**Author’s Note:** This essay was originally posted on [The Denison Venture Philanthropy Club Blog](http://denisonvpc.wordpress.com/), a blog I co-write for, dedicated to discussing articles and ideas related to philanthropy and social change. It was also [posted to my old blog](http://www.greatplay.net/essays/the-challenges-of-great-people)._
