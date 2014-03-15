@@ -3284,6 +3284,7 @@ body {
 }
 
 a { text-decoration: none; }
+a:visited { text-decoration: none; }
 
 .entry-content p > a,
 .entry-content li > a,
