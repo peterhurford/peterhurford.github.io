@@ -16,7 +16,7 @@ My birthday is December 11. Christmas, my December holiday of choice, is Decembe
 
 
 
-**#1.) Donations to [GiveDirectly](http://www.givedirectly.org/).**  GiveDirectly is a new charity that will take any cash you donate it and give it directly, no strings attached, to extremely poor families in Africa.  Surprisingly, they've found that such transfers result in useful spending like buying food, investing in their homes, paying school fees, or increasing their savings.  Very few recipients use it on alcohol or tobacco.
+**1.) Donations to [GiveDirectly](http://www.givedirectly.org/).**  GiveDirectly is a new charity that will take any cash you donate it and give it directly, no strings attached, to extremely poor families in Africa.  Surprisingly, they've found that such transfers result in useful spending like buying food, investing in their homes, paying school fees, or increasing their savings.  Very few recipients use it on alcohol or tobacco.
 
 GiveDirectly has been thoroughly vetted and is supported by [multiple studies](http://www.givedirectly.org/evidence.php) and is currently one of the three top recommendations of [GiveWell](http://www.givewell.org), a very selective independent charity evaluator.  Additionally, the foundation [Good Ventures](http://www.goodventures.org) has promised to [match any donation to GiveDirectly](http://www.goodventures.org/about-us/press/good-ventures-announces-5-million-in-matching-funds-for-givedirectly) up to $100K, so any donation you give will be doubled!
 
@@ -27,13 +27,13 @@ To be honest, I already have lots of the things I need or the means to get them 
 
 If you don't want to donate to GiveDirectly, here are some books I really would like to get:
 
-**#2.) [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](http://www.amazon.com/dp/B005GSZZ24) by Olivia Fox Cabane.**  I like receiving books and don't mind if they're used, as long as they're still legible!
+**2.) [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](http://www.amazon.com/dp/B005GSZZ24) by Olivia Fox Cabane.**  I like receiving books and don't mind if they're used, as long as they're still legible!
 
-#3.) [Decisive: How to Make Better Choices in Life and Work](http://www.amazon.com/dp/0307956393) by Chip and Dan Heath.
+3.) [Decisive: How to Make Better Choices in Life and Work](http://www.amazon.com/dp/0307956393) by Chip and Dan Heath.
 
-#4.) [The Copywriter's Handbook, Third Edition: A Step-By-Step Guide To Writing Copy That Sells](http://www.amazon.com/dp/B003JH8MHO) by Robert W. Bly.
+4.) [The Copywriter's Handbook, Third Edition: A Step-By-Step Guide To Writing Copy That Sells](http://www.amazon.com/dp/B003JH8MHO) by Robert W. Bly.
 
-#5.) [The Science of Giving: Experimental Approaches to the Study of Charity](http://www.amazon.com/dp/1848728859) by 
+5.) [The Science of Giving: Experimental Approaches to the Study of Charity](http://www.amazon.com/dp/1848728859) by 
 Daniel M. Oppenheimer and Christopher Y. Olivol.
 
 

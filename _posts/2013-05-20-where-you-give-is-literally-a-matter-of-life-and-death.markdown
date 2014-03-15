@@ -14,7 +14,10 @@ categories:
 Imagine you came across a store offering the following options:
 
 **Blue Coffee Mug:** $1
+
 **Red Coffee Mug:** $1050
+
+-
 
 After thorough inspection, you discover that both mugs are of precisely equal quality.  The only difference in the mugs is their color.  Which would you rather buy?
 
@@ -23,12 +26,7 @@ After thorough inspection, you discover that both mugs are of precisely equal qu
 Now why does this matter?  Because, I’d argue, the same kind of decisions are made when we donate, except most people make little effort to figure out which coffee mug is which.  And instead of the downside being wasting your own money on a coffee mug that is far too expensive, **the downside of this mistake is that people die who otherwise wouldn't have to.**<!-- more -->
 
 
-
-
-
-
 ## Doing More For the Same Cost
-
 
 One of the most surprising findings is just how much difference there can be when giving the same amount of money to one organization or the other.  One can **cure** blindness for **one hundred** people in Africa [for the same cost](http://www.jefftk.com/news/2012-11-05) it takes to buy **one** seeing eye dog to **help** someone with blindness in America.
 
@@ -37,48 +35,31 @@ GiveWell, a non-profit evaluator, finds that [one can save a life for $2500](htt
 How is this possible?  This isn't because the non-profits are wasteful or ineffective -- they're just working in the wrong area.  Africans have a lot more problems that can be treated a lot more easily because they lack a lot of wealth.  Keep in mind that [the median American family income](http://en.wikipedia.org/wiki/Household_income_in_the_United_States) is about $45K, whereas [the median African family income](http://www.salaryexplorer.com/salary-survey.php?loc=201&loctype=1) is definitely less than $10K.  Someone earning at the poverty line in the US [is richer than](http://givingwhatwecan.org/why-give/how-rich-am-i) 90% of people in the world.  So, for example, the eye defects in Africa that occur at birth would have already been easily treated here in the US, but aren't treated in Africa because the families lack the resources to do so.
 
 
-
-
-
-
 ## The Urgency of Comparing Costs
-
 
 Definitely one piece of writing that has inspired me a lot in my focus on utilitarianism and whole-heartedly deserves the respect it gets is Scott Alexander's ["Efficient Charity: Do Unto Others..."](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/).  One of my favorite passages:
 
-
-
 > In the "Buy A Brushstroke" campaign, eleven thousand British donors gave a total of £550,000 to keep the famous painting "Blue Rigi" in a UK museum. If they had given that £550,000 to buy better sanitation systems in African villages instead, the latest statistics suggest it would have saved the lives of about one thousand two hundred people from disease. Each individual $50 donation could have given a year of normal life back to a Third Worlder afflicted with a disabling condition like blindness or limb deformity...
 
-Most of those 11,000 donors genuinely wanted to help people by preserving access to the original canvas of a beautiful painting. And most of those 11,000 donors, if you asked, would say that a thousand people's lives are more important than a beautiful painting, original or no. But these people didn't have the proper mental habits to realize that was the choice before them, and so a beautiful painting remains in a British museum and somewhere in the Third World a thousand people are dead.
-
-
-
-
+> Most of those 11,000 donors genuinely wanted to help people by preserving access to the original canvas of a beautiful painting. And most of those 11,000 donors, if you asked, would say that a thousand people's lives are more important than a beautiful painting, original or no. But these people didn't have the proper mental habits to realize that was the choice before them, and so a beautiful painting remains in a British museum and somewhere in the Third World a thousand people are dead.
 
 I think this bluntness captures my feelings of reservation with how most people in the world think about donation.  Personally, I'm really excited about art.  Art inspires me, and I think it's worth funding.  And I'm really excited whenever anyone decides they want to spend money on the well-being of others, regardless of how they choose to spend that money.  But at the same time, we must recognize that everything comes at a cost.
 
 Economists would tell you that whatever you spend your money on, you are not spending your money on something else.  So I give a little sigh every time I hear about more philanthropic money being devoted to cultivating the arts, when so many people are in need.
 
+-
+
 In the essay ["On Triage"](http://80000hours.org/blog/49-on-triage), Brian Tomasik asks us to imagine a military doctor who comes across a battlefield laden with hundreds of injured soldiers in severe pain, with backup medical units unable to arrive for quite some time  Should the doctor spend most of his limited supply of pain killer on the mildly injured patients nearest to him, even though many of those a bit farther away are in absolute agony?  Brian concludes:
-
-
 
 > [T]he answer ought to be ‘no’. Rather, triage - giving greatest medical attention to those who can be helped most in the least amount of time - represents the ethical imperative under these circumstances.  In the real world, though, we can’t do everything. Resources are limited, and we inevitably face choices between helping one being or another. Triage is not an act of harshness; it represents the highest form of mercy and compassion.
 
 
-
-
-
-
-
-
 ## Conclusion
-
 
 Think back again to the coffee mugs.  Would you buy the $100 blue one over the $1 red one, when the only difference is color?  Now imagine you're faced with a choice of this:
 
 **Fred Hollows Foundation - Cure blindness:** $40
+
 **Guide Dogs of America - Train one seeing eye dog:** $42000
 
 Sure, you can do a lot by deciding to give _more_ money than you otherwise would.  If you previously only gave 1% of your income and now [you give 10%](http://www.givingwhatwecan.org), you're likely doing about 10x as much good.  But if you only gave 1% of your income and switched to the Fred Hollows Foundation instead of giving to the Guide Dogs of America, you're actually doing more than 100x as good.  And by failing to make that switch, 99 people are blind that otherwise didn't have to be. _...If only you did some more research_.

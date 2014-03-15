@@ -132,7 +132,3 @@ Singer, being consistent with a more politically liberal tradition, even suggest
 The Joint Committee on Taxation has estimated this would bring in roughly an extra $42 billion per year, which combined with the current aid budget would be enough to fully fund the Millenium Development Goals with an extra $9 billion annually left over.  Another way to get the $60 billion per year would be to just cut the US Defense Budget by 10%.
 
 Now, I don't suggest that any of these changes would be wise -- I just do this to suggest that making very serious and significant strides toward eliminating extreme poverty, extreme hunger, and disease is possible, with equally serious and significant changes in our priorities.  Remember that $60 billion annually is a simple $200 per person per year in the United States.  Such an amount is hardly out of our reach.
-
--
-
-_**Author’s Note:** This essay was originally posted on [The Denison Venture Philanthropy Club Blog](http://denisonvpc.wordpress.com/), a blog I co-write for, dedicated to discussing articles and ideas related to philanthropy and social change.  It was then [posted on my old blog](http://www.greatplay.net/essays/the-failures-of-foreign-aid-and-some-potential-fixes)._

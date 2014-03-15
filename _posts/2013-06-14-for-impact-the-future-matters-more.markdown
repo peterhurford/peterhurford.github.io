@@ -18,12 +18,7 @@ Thinking about [analyzing cost-effectiveness for vegetarian outreach](http://www
 I don't condemn any of those motivations -- I think they're wonderful, local communities do deserve support, and there's something to be said for "paying it forward" and giving back to those who have set you up for success.  But I'm mostly concerned with what one should do with the goal to [improve the world as much as possible]() (on the assumption that all interests count equally), and I've changed the way I think.<!-- more -->
 
 
-
-
-
-
 ## My (Previous) Way of Thinking
-
 
 The way I have always thought about philanthropy, however, was to be _cause blind_, and think solely on giving wherever I could do the most.  If one opportunity came up where I could help someone cope with blindness by spending $50000 to get them a seeing eye dog, and another opportunity came up where I could cure blindness altogether through $25 cataract surgery, I would jump at the opportunity to fund the $25 surgery.  I wouldn't care if that person were all the way in Africa and the blind person needing the seeing eye dog were in my local community.
 
@@ -34,12 +29,7 @@ This is the general philosophy of [GiveWell](http://www.givewell.org), [Giving W
 However, I've recently come to see that this way of thinking is incomplete; perhaps even mistaken.
 
 
-
-
-
-
 ## The Far Future Blind Spot
-
 
 When I've been thinking about giving opportunities and their quantification, I've been thinking firmly in the present.  In my previous way of thinking, I would look at [Against Malaria Foundation](http://www.againstmalaria.com/) and see that it can save a life for about $2000.  I'd then compare it to my cost-estimates and other cost-estimates, weigh the differences in quality of evidence, and arrive at a decision.
 
@@ -49,7 +39,7 @@ But I'm also not considering the further impacts of extending this life.  It tur
 
 So where is my actual impact?  More realistically, it's not in "saving a life", but rather in reducing overpopulation, helping to reduce concerns from malaria, and helping turn people's attention to better and happier things.  In saving a life, I'm really helping to develop the developing world.
 
-
+-
 
 The same is true in considering Vegan Outreach.  Sure my two pennies might, under more optimistic assumptions, [be all that is needed to prevent a year of intense animal suffering](http://www.everydayutilitarian.com/essays/how-much-does-it-cost-to-buy-a-vegetarian/).  But my real impact is going to be from making the person I've helped indirectly convert to vegetarianism more compassionate, more likely to recruit others, and more likely to get the ball rolling on ending factory farming.
 
@@ -60,36 +50,25 @@ If I can change the present a little bit, I may help the people alive now a litt
 To be fair, GiveWell has been looking away from the "cost of a life" metric and toward measures of economic development.  But this way of thinking for the far future is pretty alien to most people, and was alien to me even back in Dec 2012.  I don't think we should discard quantification altogether, of course.  But I do think it needs to be retooled in our thoughts toward focusing on where the real impact may lie, not in quantifying our marginal, more minimal impact on the present.
 
 
-
-
-
-
 ## The Streetlight Dilemma
-
 
 An old parable goes as follows:
 
-
-
 > Late one evening a police officer comes across a man on the way home from a party. He is quite drunk and looking for something under a streetlight.
 
-"What are you looking for?" asks the policeman.
+> "What are you looking for?" asks the policeman.
 
-"My keys," the man replies, pointing down the road a little way, "I dropped them somewhere way over there."
+> "My keys," the man replies, pointing down the road a little way, "I dropped them somewhere way over there."
 
-The policeman is baffled, "Then why are you looking for them here?".
+> The policeman is baffled, "Then why are you looking for them here?".
 
-"Because there’s no light over there.  The light is over here"
-
-
-
-
+> "Because there’s no light over there.  The light is over here"
 
 Obviously, we would reject the behavior of the drunk man in the parable as irrational -- no matter how much light is over where he's looking, he's not going to find his keys, because they're not in the light.
 
 The bottom goal of all of my donating has been to have the largest impact per dollar, in utilitarian terms of making lives go better.  Currently, I've been looking at the opportunities that can be easily quantified.  **However, I have been ignoring the opportunities that cannot be quantified.**
 
-
+-
 
 Applying the metaphor of the streetlight, quantification is that very light -- only certain things can be quantified easily.  I, put not so kindly, are the drunk person, searching in the light of easy quantification because... well... that's where the quantification is.  Even if the best opportunity for maximal impact exists somewhere else.
 
@@ -99,19 +78,14 @@ But on the other end, a lot still needs to be done with the streetlight.  Abusin
 
 But if we stick only on expanding the streetlight and never on any of the things we find, then we'll never get anything done.
 
-
+-
 
 Ditching the metaphor for some clarity, the tension I'm exploring is that of first-order tasks vs. second-order tasks that make the first-order tasks go better.  Especially when applying long-term thinking, there's a lot of impact to be had from improving first-order tasks.  There's likely also a lot of impact to be had from improving second-order tasks as well.
 
 And, of course, the distinction between what's in the streetlight and what's outside the streetlight isn't as distinct as bright light vs. dark night.  Instead, there are shades of grey upon which reasonable guesses about impact can be made, even amid uncertainty.  The point is not to take these rough estimates as given (instead, we should probably subject them to lots of skepticism, perhaps even more than is typical) nor to give up quantification altogether, but rather to use these less certain conclusions to inform our decisions and not restrict ourselves to a particular level of confidence.
 
 
-
-
-
-
 ## Going Meta With My Money
-
 
 So where am I planning on giving my (meager college student) money now?
 

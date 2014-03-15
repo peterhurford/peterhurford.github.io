@@ -19,17 +19,13 @@ However, it’s now becoming a bit easier to understand.  Abhijit V. Banerjee an
 
 Here's an informative summary of their research.<!-- more -->
 
-
-
-[caption id="attachment_1243" align="aligncenter" width="383"]![An extremely poor village in Kenya](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.23.26-AM.png) An extremely poor village in Kenya[/caption]
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/village.png" alt="">
+	<figcaption>An extremely poor village in Kenya.</figcaption>
+</figure></center>
 
 
 ## Families Compared
-
 
 The typical extremely poor households tends to be much larger than a US family.  The extremely poor households have a median of 8 people living in them, compared to 2.5 in the US.  However, it’s not typically a couple with many children like one might expect -- there actually is a median of 3 adults in a household.  This suggests a family structure where people live with their parents, siblings, uncles, cousins, etc., which makes sense given it is easier to pool resources when you are sharing a space.
 
@@ -37,18 +33,13 @@ However, poor households do have more children than US households, having about 
 
 This helps to explain why interventions targeted on children, such as school deworming, can have a large impact on the future of these countries - most of the population is young. It also helps to explain higher rates of violence or political instability in poor countries, as violence everywhere is overwhelmingly committed by young men according to Steven Pinker’s [**Better Angels of Our Nature**](http://www.amazon.com/The-Better-Angels-Our-Nature/dp/1455883115).
 
-
-
-
-[caption id="attachment_1245" align="aligncenter" width="417"][![Children in an extremely poor family in Kenya.](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.24.41-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-1.24.41-AM.png) Children in an extremely poor family in Kenya.[/caption]
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/kids.png" alt="">
+	<figcaption>Children in an extremely poor family in Kenya.</figcaption>
+</figure></center>
 
 
 ## What is Being Extremely Poor Like?
-
 
 One of the most common traits of being extremely poor is weakness and disease.  Because of low food consumption and poor nutrition, 65% of the poor in Udaipur, India (the area with the best data) are underweight.
 
@@ -58,18 +49,12 @@ Despite constant sickness, self-reported levels of health and happiness are not 
 
 Furthermore, infant mortality is still high.  Surveys have asked women about the outcomes of their pregnancies, including whether the child is still alive.  Infant mortality is the number of children who die before reaching their first birthday, as a percentage of the number of live births.  Among the poor, this number is at a low of 3.4% in Indonesia and a high of 16.7% in Pakistan, compared to 0.5% in Europe.  Notably, these numbers are likely to be underestimates because not all children are remembered, especially if they die very early.
 
-
-
-
-[![eat](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.19-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.19-AM.png)
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/love.png" alt="">
+</figure></center>
 
 
 ## What Do the Poor Eat?
-
 
 The typical poor person could spend about 30% more on food if they wanted to, cutting out all other spending and all savings.  Also, the poor don’t buy food optimally.  In a surveyed region of India, the cheapest way to eat (in terms of calories per dollar) was to buy the grain "millet".  However, in this region, only about two-thirds of food spending was on millet, with another 20% on rice (which costs about twice as much per calorie), another 10% on wheat (70% more expensive than millets per calorie), and almost 7% on sugar (which is the most expensive per calorie and has no other nutritional value).  I don't know if this is true of other areas, though.
 
@@ -81,14 +66,10 @@ GiveDirectly, one of GiveWell’s top charities that gives cash transfers to the
 
 One type of food that is frequently bought in South India is a dosa, or a rice and beans pancakes that almost everyone eats for breakfast.  This can be bought frequently for a rupee, which is approximately 15 US cents (PPP adjusted).
 
-
-
-
-[![love is better](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.28-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.28-AM.png)
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/hello.png" alt="">
+	<figcaption>Children in an extremely poor family in Kenya.</figcaption>
+</figure></center>
 
 
 ## What Do the Poor Buy?
@@ -104,14 +85,10 @@ Why would the poor spend money on entertainment at the cost of more essential it
 
 Another possibility is that entertainment is a strongly felt need that provides an escape from thinking about economic problems. Festivals and similar events also contribute to social bonds that are very important to everyone, but particularly those in poverty who live in riskier environments and more frequently require support from their connections to deal with financial or other difficulties.
 
-
-
-
-[caption id="attachment_1248" align="aligncenter" width="349"][![A school in Kenya](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.36-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.36-AM.png) A school in Kenya[/caption]
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/school.png" alt="">
+	<figcaption>A school in Kenya.</figcaption>
+</figure></center>
 
 
 ## What Does a Poor Person Own?
@@ -123,12 +100,10 @@ The poor generally don’t own many productive assets, but some do have some lan
 
 Other goods that could be used for productivity are in short supply.  In nearly all the areas surveyed, less than 14% of poor households owned a bicycle.  Less than 1% of poor households had sewing machines, bullock cart, motorized cycle, or tractor.  Houses are also pretty sparse.  Banerjee and Duflo’s data showed that while most households had at least one bed or cot, only 10% had a chair or stool and only 5% had a table.  However, [GiveWell’s site visit of Give Directly’s targeted areas](http://www.givewell.org/international/site-visits/november-2012#GiveDirectly) in Kenya showed that living rooms they saw typically had many chairs, tables, and couches and that most homes owned a bicycle, but few houses had radios or television.
 
-
-
-
-[caption id="attachment_1249" align="aligncenter" width="391"][![A bicycle owned by an extremely poor person in Kenya.](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.47-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.47-AM.png) A bicycle owned by an extremely poor person in Kenya.[/caption]
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/bike.png" alt="">
+	<figcaption>A bicycle owned by an extremely poor person in Kenya.</figcaption>
+</figure></center>
 
 
 The poor also tend to lack access to basic infrastructure, but it is highly variable.  Access to water varies from a minimum of 0% in Udaipar to 36% in Guatemala.  Electricity varies from 1.3% in Tanzania to 99% in Mexico.  Access to toilets range from 0% in Udaipur to 100% in Nicaragua.  Moreover, infrastructure doesn’t always appear together.  While 97% of poor households in Indonesia have electricity, only 6% have tap water.
@@ -137,13 +112,10 @@ GiveWell anecdotally noted that of the fifteen households they visited, most hom
 
 GiveWell also observed that people would hang old calendars (like from 2003) for decoration and used kerosene lamps for light because there was no electricity.  They also heard that people walk about 5-20 minutes daily to obtain drinking water.  Furthermore, they observed people owning about 1-2 cows and 4-5 chickens for livestock.
 
-
-
-[![playing](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.06-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.06-AM.png)
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/play.png" alt="">
+	<figcaption>Children in an extremely poor family in Kenya.</figcaption>
+</figure></center>
 
 
 ## How Do Poor People Get Money?
@@ -159,14 +131,10 @@ Additionally, about 76% of the poor report at least one member of their househol
 
 Another interesting question is how the poor would spend additional money, if they got it.  GiveDirectly, by giving cash transfers in $1000 chunks, has been able to find out.  An informal survey conducted by them and shared with GiveWell found that 67% of the money spent went into home improvement (replacing a thatched roof with an iron-sheet roof), 9% went to other (like school uniforms or a motorcycle), 9% went to livestock, and 4% went to food.  However, this survey was only in Kenya, and other areas might spend differently.
 
-
-
-
-[caption id="attachment_1250" align="aligncenter" width="380"][![A pen for holding livestock in Kenya.](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.56-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.38.56-AM.png) A pen for holding livestock in Kenya.[/caption]
-
-
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/pen.png" alt="">
+	<figcaption>A pen for holding livestock in Kenya.</figcaption>
+</figure></center>
 
 
 ## How Do the Poor Save and Get Credit?
@@ -179,10 +147,6 @@ There also is little access to insurance.  Less than 6% of the poor have access 
 This lack of insurance or saving leads the poor to under-invest because they cannot accumulate financial assets, or afford to take risks.  Poor families do not specialize in skills and they operate their businesses at a remarkably small scale.  Poor families have access to very limited markets and infrastructure and suffer from a lack of access to credit.
 
 
-
-
-
-
 ## Conclusion
 
 
@@ -191,21 +155,18 @@ Overall, a life in extreme poverty is one that can be endured and survived, but 
 However, it’s not quite as terrible as it sounds.  The extremely poor people still smile, still laugh, and still play.  They put money into their families and their festivals.  They still appear to be happy, for the most part.   Their lives still contain joy.
 
 
-
-
 Some people have told me that it’s pointless to try and cure the extremely poor of malaria, because this means that they’ll just continue their miserable lives and catch a new disease a few months later, and die from that.  However, this is contradicted by the evidence.  Curing people of malaria still allows them to live a better life than they otherwise would and helps contribute to the economic development necessary to make things better.  And people who survive beyond their fifth birthday [are more likely than not to live a full life](http://www.givewell.org/international/technical/additional/Standard-of-Living#MortalityandMorbiditywhatarethemajorhealthproblemsinthedevelopingworld).
 
 As GiveWell writes in ["What a ‘Life Saved’ Means"](http://blog.givewell.org/2007/12/04/what-a-life-saved-means/): 
 
-
-
-> maybe the life you saved is a life without iPhones, but we’re still talking about a person who, at the very least, can be expected to grow up, make friends, fall in love, get in arguments, watch the sunset, have ups and downs, etc.”  I agree.  I’d never say things “aren’t that bad”, because they are.  Things are bad.  But not impossible.
-
-
+> Maybe the life you saved is a life without iPhones, but we’re still talking about a person who, at the very least, can be expected to grow up, make friends, fall in love, get in arguments, watch the sunset, have ups and downs, etc.”  I agree.  I’d never say things “aren’t that bad”, because they are.  Things are bad.  But not impossible.
 
 We can turn things around, and we should.
 
-[![woman](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.15-AM.png)](http://www.everydayutilitarian.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-17-at-10.39.15-AM.png)
+<center><figure>
+	<img src="{{siteurl}}/images/posts/how-do-the-extremely-poor-live/stern.png" alt="">
+	<figcaption>Children in an extremely poor family in Kenya.</figcaption>
+</figure></center>
 
 -
 

@@ -16,12 +16,7 @@ I'm pretty down on the concept of a Presidential "debate", or just how President
 But there's a bigger concern.  It's not just that people think that a discussion on the role of government can be done in two minutes, it's that people are so confident about their own opinions on the role of government that they don't notice anything is missing.<!-- more -->
 
 
-
-
-
-
 ## The Uninformed Voter
-
 
 This essay isn't a standard "voters are dumb lol" article, but it's true that voters _are_ notoriously uninformed.  Winston Churchill allegedly said "the best argument against democracy is a five-minute conversation with the average voter".  For example, let's take a little quiz.  Without looking up, do you know which political party is the majority party in the House of Representatives?  If so, you're more politically saavy than 37% of the voting population, according to [National Election Survey data](http://www.electionstudies.org/).  (The answer: Republican)
 
@@ -30,16 +25,13 @@ Let's up the ante.  Can you name the Senate Majority Leader?  If so, congratulat
 And it doesn't just have to be a game of political who's who.  Daniel B. Klein [asks questions like](http://www.theatlantic.com/magazine/archive/2011/12/i-was-wrong-and-so-are-you/308713/) "Does free trade tend to lead to unemployment?" and "Do immigrants reduce the economic well-being of American citizens"?  The answers here also left a lot to be desired.  (Answers: No and no)  Also, [only 11% of Americans know how much Paul Ryan's budget would cut spending](http://themonkeycage.org/blog/2012/10/11/debate-prep-11-of-americans-grasp-the-ryan-budget/).
 
 
-
-
-
-
 ## The Overconfident Voter
-
 
 But it's not just that the non-savvy voters get things wrong.  It's that voters -- savvy and non-savvy alike -- both dramatically overestimate how much they know about politics.  Let me explain to you a nonscientific yet apt and hilarious concept referred to "Mount Stupid":
 
-![2142_491691737518509_151941220_n](http://www.everydayutilitarian.com/wp-content/uploads/2013/06/2142_491691737518509_151941220_n.jpg)
+<center><figure>
+	<img src="{{siteurl}}/images/posts/youre-not-entitled-to-your-policy-opinions/stupid.png" alt="">
+</figure></center>
 
 I'd add to Mount Stupid nearly every discussion I've ever had on how the economy works.
 
@@ -48,12 +40,7 @@ I think some people underestimate how scientific economics can be, and how much 
 But obviously there is little consensus on what combination of tax increases/cuts and government spending increases/decreases are optimal, especially given that there are many different types of taxes and many different programs where spending should be increased or decreased.  My personal study has led me to slant toward [Keynesian economics](http://en.wikipedia.org/wiki/Keynesian_economics), but I still wouldn't put much confidence in it.  And if you've never heard of the term ["tax multiplier"](http://en.wikipedia.org/wiki/Fiscal_multiplier) or don't know what ["crowding out"](http://en.wikipedia.org/wiki/Crowding_out_(economics)) means, chances are strong that you don't know enough to be confident in your economic opinions either.
 
 
-
-
-
-
 ## Where Does Good Policy Come From?
-
 
 As I said, I'm interested in the question "how ought the world, or at least our nation, be?"  I interpret this via a [utilitarian](http://www.everydayutilitarian.com/essays/what-is-utilitarianism/) standpoint, seeking to maximize global welfare with the best possible policy positions.  But what are those positions?  Obama doesn't know.  Romney doesn't know.  Ron Paul doesn't know.  The economists definitely don't know for sure, though they do have fairly good guesses.  And I certainly don't, knowing much less than all of them about how the economy works.
 
@@ -61,21 +48,12 @@ But there is the big problem.  Recall the Presidential debate, or really any deb
 
 But creating good policy cannot be like that.  As Holden Karnofsky [explains well](http://blog.givewell.org/2007/09/25/politics-2/):
 
-
-
 > [If] I want to form a theory (about, say, how to close the achievement gap)[, I] read what others have already done to test the theory; revise my theory; then try my theory out on a small scale; test it; revise it again. [The overconfident] are sure they already know how to close the achievement gap (they generally, though not always, inherit their solution from their party), and spend all their time fighting to get their idea implemented across the whole nation, which is of course a battle that takes decades and leaves no room for testing or learning about their solution. [...]
 
 Yes, there are some issues that I think are clear-cut, and I respect the people that fight for the right side. But I wish more people would step back and say, "Helping people is hard, not easy. My guess at how to do it is a guess, not a divine truth opposed only by evil people and the dupes who listen to them."  There are evil people and interest groups on every issue, but even if we struck them down, we’d be left with the question of what to do. That’s the question I’m interested in.
 
 
-
-
-
-
-
-
 ## Take It Down a Notch, For America
-
 
 They say everyone is entitled to their own opinions, just not their own facts.  I'm not even sure people are entitled to their own opinions.  In so far as opinions are supposed to reflect facts (which I hope they are), then any strong confidence in your policy opinions is probably not deserved.
 
@@ -84,7 +62,3 @@ I don't say all this to denigrate your intelligence, or to suggest that I'm some
 All I ask is that if you have large amounts of confidence in policy opinions -- if you have strong feelings that tax cuts/increases are the way to go, that spending cuts/increases are what we need, that the budget deficit is our biggest concern/not a worry -- take all of these feelings and think carefully about what you really know.  Do you really deserve to have such strong opinions?  Does anyone, based on how well these problems are actually understood?
 
 The one and only thing I'm confident in when it comes to policy opinions is that the answer is no.  We're not entitled to our own policy opinions, and we need to take a whole new level of humility to them.  ...A level of humility that is sadly not seen in politics much at all.
-
--
-
-_**Author's Note:** An earlier draft of this essay [appeared on my old blog](www.greatplay.net/essays/youre-not-entitled-to-your-policy-opinions)._

@@ -71,6 +71,8 @@ Some potential ideas:
 
 I'd be willing to make this happen if people were interested.
 
+-
+
 **Update 30 Jan 2014:** I'm now maintaining the list of jobs over at the [.impact Project page](https://impact.hackpad.com/Job-Board-G2ZocnkVTsc) instead.
 
 _This was also [cross-posted on LessWrong](http://lesswrong.com/r/discussion/lw/icg/effective_altruist_job_board/)._

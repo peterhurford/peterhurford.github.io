@@ -11,7 +11,7 @@ categories:
 - Self Reviews
 ---
 
-_Follow up to ["New Years Resolutions: November Edition"](http://www.everydayutilitarian.com/essays/new-years-resolutions-november-edition/)_
+_Follow up to ["New Years Resolutions: November Edition"](http://www.everydayutilitarian.com/essays/new-years-resolutions-november-edition/)._
 
 Last January, I [outlined some New Years Resolutions](http://www.everydayutilitarian.com/essays/new-years-resolutions), and then did what I thought impossible -- used the power of blogging, precommitment, and betting to _actually stick to my plans_.  Following up [my last report in November](http://www.everydayutilitarian.com/essays/new-years-resolutions-november-edition/), I present my December update, which tracks how well I did in... November.  Sorry that's a bit confusing and that this was posted so late.
 
@@ -47,4 +47,4 @@ I think this is going decently well, so I want to try this again for the third t
 
 -
 
-_Followed up in ["A Year of Mostly New Years Resolutions_
+_Followed up in ["A Year of Mostly New Years Resolutions"](http://everydayutilitarian.com/essays/a-year-of-mostly-new-years-resolutions/)._

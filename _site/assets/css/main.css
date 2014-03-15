@@ -3283,7 +3283,9 @@ body {
   line-height: 1.625;
 }
 
-a,
+a { text-decoration: none; }
+a:visited { text-decoration: none; }
+
 .entry-content p > a,
 .entry-content li > a,
 .entry-title li > a,
@@ -3292,7 +3294,6 @@ a,
   border-bottom: 1px dotted #a2a2a2;
 }
 
-a:hover,
 .entry-content p > a:hover,
 .entry-content li > a:hover,
 .footer-wrapper a:hover {

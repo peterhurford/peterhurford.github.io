@@ -14,29 +14,18 @@ categories:
 
 One interesting idea comes from ["How Students Can Support a Millennium Village?"](http://thelifeyoucansave.blogspot.com/2009/06/special-guest-blog.html), which talks about, obviously, funding a Millenium Village:  (See also [the school's news report](http://newsroom.carleton.ca/2009/04/02/carleton-students-approve-student-levy-for-millennium-villages-project/).)
 
-
-
 > Last year at Carleton University our group, Students To End Extreme Poverty, worked to get a question to referendum where students voted on whether or not they would all have to automatically pay an additional $6 in tuition fees ($5352 instead of $5346) to help support a Millennium Village. It worked. Carleton students now contribute over $110,000 annually.
 
-Here is our hope: By getting enough universities and organizations to support Millennium Villages (aside from helping a couple communities help themselves out of extreme poverty) it would raise enough awareness, get enough media attention, engage enough people, foster enough cooperation, and generate enough civil society will to see policy changes: more and better aid, fairer trade, and debt cancellation.
+> Here is our hope: By getting enough universities and organizations to support Millennium Villages (aside from helping a couple communities help themselves out of extreme poverty) it would raise enough awareness, get enough media attention, engage enough people, foster enough cooperation, and generate enough civil society will to see policy changes: more and better aid, fairer trade, and debt cancellation.
 
 Worst case scenario: thousands of people, many of whom would otherwise be dead, will have the basic tools they need to lift themselves out of extreme poverty.
-
-
-
-
 
 Might this be a plausible thing to try and do on other college campuses?<!-- more -->
 
 With an additional $6 per student, at my university, Denison University, we could raise $12,792 per year in philanthropy.  To reach Carleton's level, we'd need $51.80 per student per year.  At $12,792, we could fund 213 people to [live in a Millenium Village](http://www.millenniumvillages.org/the-villages).
 
 
-
-
-
-
 ## The Impact of College Philanthropy
-
 
 What exactly is the impact of college philanthropy?  Philanthropic dollars certainly aren't useless, and the age-old saying that "anything helps" is certainly true.  But many social problems would require money on the scale of millions, if not billions, of dollars to help solve.  Student giving is typically on the scale of thousands.  Raise $10 from each of Denison's students, and you'll be getting $21320, assuming everyone contributes.  What's that worth?
 
@@ -49,21 +38,12 @@ What exactly is the impact of college philanthropy?  Philanthropic dollars certa
 **It improves the reputation and desirability of the university.** People would see students engaged in this kind of project and understand that students at this university do come together and care about social problems outside their world; they're not just trapped in a bubble.  And the university could get favorable press coverage from the new policy.
 
 
-
-
-
-
 ## Thinking Through the Idea
-
 
 However, I have some questions:
 
 
-
-
-
 #### Is Millenium Villages the best philanthropy?
-
 
 The trade-off I imagine here is between the impact-per-person of the chosen cause and the likeliness that students will choose to endorse it.  GiveWell, a non-profit evaluator, [has criticized](http://blog.givewell.org/2012/05/18/millennium-villages-project/) Millenium Village has not yet "demonstrated cost-effective or sustainable benefits".  GiveWell's [top charities](http://www.givewell.org/charities/top-charities) would likely do better.  Much stranger causes, like vegan outreach or existential risk, I think potentially have even higher impact, but are extremely unlikely to attract people to signing on.
 
@@ -72,20 +52,13 @@ One might also consider helping the local community surrounding the college; in 
 Perhaps we could consider splitting?  Or perhaps the split would just confuse people, making them overall less likely to support the idea?
 
 
-
-
-
-
 #### Is the tuition raise the best model?
-
 
 The interesting thing about Carleton's model is that they're not just getting behind tables and asking students who walk by to put money in a box.  Instead, students were voting on whether to pass the small levy onto all students.  It was optional in the sense that students could have voted the levy down and rejected the increase, but it's mandatory in the sense that the levy passing meant that even students who voted no would be coerced into donation as part of their student fees.
 
 This plan has some important benefits.  I think the coercion is an important effect -- people are more likely to donate when others around them are doing so and being secure in the knowledge that everyone will have to contribute the same should make people more likely to get engaged.  And it also is a lot more successful at raising money than normal fundraisers, given that 100% participation is very unlikely.
 
 However, there are drawbacks.  By introducing the levy and then forgetting about it, one gains the initial donation, but loses the opportunity to raise awareness or set students up to be _future_ donors, which probably has more impact than the initial donation itself.  And there's an issue of unfairness -- those who vote "no" are still being coerced and given that students also graduate and are slowly replaced, it might be unfair to pass this cost on to future students as well.
-
-
 
 There are some alternatives that could get most of the benefits while also getting rid of some of the drawbacks.
 
@@ -96,12 +69,7 @@ Furthermore, perhaps the levy could come up for a vote every year.  Assuming the
 I suppose one could also ditch the levy model altogether and go back to the fundraising behind the table kind of deal that's pretty popular (and occasionally still enormously successful) with senior class gifts already.
 
 
-
-
-
-
 #### Is $6 per student the best target?
-
 
 There's also the trade-off of being able to raise even more money by asking for more, but turning off those who won't give the higher amount, but would have given a lower amount.
 
@@ -114,12 +82,7 @@ When I first heard of the Millenium Village idea, I thought Carleton was able to
 Though, overall, I think one could get more by requesting more than $6.  Right now, my best guess is the ideal target would be $9, taking advantage of [psychological pricing](http://en.wikipedia.org/wiki/Psychological_pricing) -- as compared to, say, asking for $10, which seems a lot higher, though I haven't seen any evidence that psychological pricing happens in philanthropy.  $9 per year would put the individual Denisonian down for $36 in his or her undergraduate career and would raise $19,107 a year.
 
 
-
-
-
-
 #### Is there a way to leverage this for more money?
-
 
 One other potential idea I would have is to explore the idea of matching gifts.  Perhaps not only would the students commit to $9/year (or some amount), but the administrators (and perhaps even trustees, staff, faculty, or other people) of the college would also commit to matching the total amount raised by the students this way (or even more, or less, or their own specific amount per year, or something).
 

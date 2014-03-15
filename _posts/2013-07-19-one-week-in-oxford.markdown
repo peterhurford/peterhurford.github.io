@@ -14,6 +14,7 @@ categories:
 Earlier, I [mentioned I had flown off to Oxford, England](http://www.everydayutilitarian.com/essays/off-to-oxford/) to be a full-time intern for [Giving What We Can](http://www.givingwhatwecan.org).  Now that I've spent a week here, I'd like to provide some observations about being an American living in British culture.<!-- more -->
 
 **Two caveats before we begin**
+
 1.) This is a little off-topic from the whole "utilitarianism" thing.  Normally, I put off-topic stuff in [the writing section](http://www.peterhurford.com/writing.html) of [personal website](http://www.peterhurford.com).  But, by popular demand, it's here instead.
 
 2.) For some of these cases, it's difficult to tell if my remarks are for all of the United Kingdom, or just the Oxford area.  Also, I'm not sure if it's a regional thing (being in more of a city area than a suburb area) or a United Kingdom thing.

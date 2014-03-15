@@ -25,6 +25,6 @@ So, yeah, the people who have policy opinions that disagree with you [probably a
 
 ["Maximizing Your Donations via a Job"](http://80000hours.org/blog/230-maximizing-your-donations-via-a-job).  Basically a how-to guide to getting a higher salary job in computer programming careers.
 
-["The Roots of Morality: Does Religion Play a Role or is the Tail Wagging the Dog?" The title of this YouTube video is technically a false dichotomy, but the video is still interesting.  Presents a lot of modern moral psychology in a compelling way.
+["The Roots of Morality: Does Religion Play a Role or is the Tail Wagging the Dog?"](https://www.youtube.com/watch?v=U7EUIGpKhmY) The title of this YouTube video is technically a false dichotomy, but the video is still interesting.  Presents a lot of modern moral psychology in a compelling way.
 
 [Philosophical landmines](http://lesswrong.com/lw/gm9/philosophical_landmines/) are concepts in philosophy which tend to unnecessarily complicate and derail an otherwise useful conversation.

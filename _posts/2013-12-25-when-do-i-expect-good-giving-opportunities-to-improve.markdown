@@ -37,7 +37,7 @@ Brad [continues in his comment](http://www.effective-altruism.com/where-im-givin
 
 > There will always be the possibility that there's some as-yet undiscovered opportunity that's better than the ones available. You could almost turn this sentence from your post: "It’s very easy to do things and not learn about them and end up spinning in circles, especially with theoretical work." into this sentence: "It's very easy to learn about things and not do anything, and end up spinning in circles, especially with theoretical work."
 
-[...] I'm probably painting this much more extremely than you're viewing it, but I'm sceptical that there will ever be universal agreement on the "best" causes or the "best" charities, and at some point you may want to embrace imperfection and perhaps settle for not literally doing the most good but the most good given the information currently available.
+> [...] I'm probably painting this much more extremely than you're viewing it, but I'm sceptical that there will ever be universal agreement on the "best" causes or the "best" charities, and at some point you may want to embrace imperfection and perhaps settle for not literally doing the most good but the most good given the information currently available.
 
 
 

@@ -11,7 +11,7 @@ categories:
 - Sunday Links
 ---
 
-I [promised to make the link roundups relate a little better](http://www.everydayutilitarian.com/essays/sunday-links-20/#comment-2824), so here you go:
+I [promised to make the link roundups relate a little better](http://everydayutilitarian.com/essays/sunday-links-20/#comment-1284119265), so here you go:
 
 ***
 

@@ -16,23 +16,12 @@ _Follow up to ["My Strategic Plan"](http://www.everydayutilitarian.com/essays/my
 I do [weekly reviews](http://www.everydayutilitarian.com/essays/how-i-am-productive/) to make sure that I'm prioritizing my daily tasks well.  I do [monthly reviews](http://www.everydayutilitarian.com/essays/category/resolutions/) to track my adherence to important habits.  However, now I'd like to do something still a bit new -- a _six-month_ review that basically checks to make sure everything is going to plan from an even higher, more abstract level of review.<!-- more -->
 
 
-
-
-
-
-
 ## How Did The Last Six Months Go?
-
 
 Back in May, I wrote ["My Strategic Plan"](http://www.everydayutilitarian.com/essays/my-strategic-plan/) to outline my first six-month review where I enumerated some projects I wanted to focus on.  Here's how I've been doing on them.
 
 
-
-
-
-
 #### Thinking Through Complex Issues
-
 
 **"What should I do when I graduate?"**  I've been spending a lot of time on this one, writing three essays on career choice: ["My Careers Plan"](http://www.everydayutilitarian.com/essays/my-careers-plan/), ["I Now Have Approximately Five Career Categories"](http://www.everydayutilitarian.com/essays/i-now-have-approximately-five-career-categories/), and ["Comparing Across My Five Career Categories"](http://www.everydayutilitarian.com/essays/comparing-across-my-five-career-categories/).  I also summarized some links on career choice in ["Sunday Links #17: Altruistic Careers Advice Edition"](http://www.everydayutilitarian.com/essays/sunday-links-17-altruistic-careers-advice-edition/).  Lastly, I interviewed three people on careers: [Jon Behar](http://www.everydayutilitarian.com/essays/interview-with-jon-behar/), [Holden Karnofsky](http://www.everydayutilitarian.com/essays/my-careers-conversation-with-holden-karnofsky/), and [Satvik Beri](http://www.everydayutilitarian.com/essays/my-conversation-with-satvik-beri/).
 
@@ -47,10 +36,6 @@ Back in May, I wrote ["My Strategic Plan"](http://www.everydayutilitarian.com/es
 **"How, if at all, should I change my lifestyle?"** Beyond [my monthly reviews](http://www.everydayutilitarian.com/essays/category/resolutions/), I haven't done any additional work on this.
 
 
-
-
-
-
 #### Blogging, Generally
 
 
@@ -61,25 +46,14 @@ Another suspicion I have is audience.  I suspect that writing essays here is imp
 I could spent an unlimited amount of time on any of these three tasks (blogging, volunteering, programming), so deciding how to allocate my time between these tasks is an important thing to focus on.  Right now, I don't have any answers on this, but I intend to do a more thorough review sometime soon.
 
 
-
-
-
-
 #### Volunteering for Like-Minded Communities
-
 
 I've recently been volunteering for [Effective Fundraising](http://www.effectivefundraising.net) (EF), [Giving What We Can](http://www.givingwhatwecan.org) (GWWC), and [Effective Animal Activism](http://www.effectiveanimalactivism.org) (EAA).  I'm happy with my current engagement with EF (very low-time commitment editing and reviewing), but feel like I ought to put more time into EAA (to accomplish the same amount of work on a faster time-table) and/or put more time into GWWC (to actually accomplish work).  I also could consider volunteering for more organizations, like [The Life You Can Save](http://www.thelifeyoucansave.org) (TLYCS).
 
 There is a bit of a tension here because on one hand it makes sense to focus narrowly on the organization I think I can produce the most impact with and do better work there but on the other hand organizations take awhile to review your work and get back to you, so there's time to work for multiple organizations if you can alternate correctly.  I need to do more work here too in order to decide whether to scale-down or scale-up and which organizations to focus on.
 
 
-
-
-
-
-
 #### Making Denison University a Better Place
-
 
 I also resolved to work on making Denison a better place (1) for the non-utilitarian sake of it, (2) to gain experience that I can use to apply utilitarian ends, and (3) for résumé boosting.
 
@@ -96,12 +70,7 @@ I also resolved to work on making Denison a better place (1) for the non-utilita
 **Senior Research:** I'm doing senior research on the experience of election loss as a motivator to reduced political participation, with a particular focus on looking at how optimism moderates this effect.  I think it's unlikely that the research itself will be impactful, but I still think it's pretty good training in study methods and design so I'm excited to work on this more as well.  I should put more time into this.
 
 
-
-
-
-
 #### Other
-
 
 **Finding and Talking to Cool People:** I had mentioned that I wanted to spend more time identifying and networking with cool people, mostly within the effective altruist and rationalist movements.  I think I've definitely succeeded at this, developing a lot of relationships through my internship with Giving What We Can.  I'm pretty happy with how this is going.
 
@@ -110,37 +79,28 @@ I also resolved to work on making Denison a better place (1) for the non-utilita
 **De-emphasizing campus job:** I still took a position as a stats tutor, but I decided not to look for a 10hr/week job like I had originally thought of looking for.
 
 
-
-
-
-
-
 ## How Am I Spending My Time, More Particularly?
-
 
 I've tracked my time a bit day-by-day, but I've never broke things down by each activity before.  So I looked at my time logs for a representative slice of time -- 25 October through 25 November -- and looked at what I've been spending my time on.
 
 Here's the information in table form...
 
-![month-table](http://www.everydayutilitarian.com/wp-content/uploads/2013/11/month-table.png)
+<center><figure>
+	<img src="{{siteurl}}/images/posts/six-month-review-ii-june-november-2013/month-table.png" alt="">
+</figure></center>
 
 ...and graph form...
 
-![month-graph](http://www.everydayutilitarian.com/wp-content/uploads/2013/11/month-graph.png)
-
-
+<center><figure>
+	<img src="{{siteurl}}/images/posts/six-month-review-ii-june-november-2013/month-graph.png" alt="">
+</figure></center>
 
 To clarify some potentially confusing categories: "Friends+" means time spent with friends plus family and my girlfriend (this includes things like Gaming Guild), "class" is time spent actually in the classroom, "ACE" is working for Effective Animal Activism (soon to be renamed Animal Charity Evaluators or ACE), "Programming" includes learning programming languages and work on the  EA Projects Group, "Careers" is time spent looking for and applying to jobs, and "Uncat." is uncategorized; my "other" catch-all for when it (1) counted as being on-task doing something important, but (2) didn't fit in another category and (3) wasn't notable enough to deserve it's own category.
 
 A few things stand out to me looking back on this -- I spent more time with friends and learning how to program than I expected.  I also didn't notice how large the time commitments to Moot Court and Beta were, though I do think this month was atypical for both (being the month of Moot Court competition and fraternity initiation), so that should sort out itself next month (especially now that Moot Court is over forever).
 
 
-
-
-
-
 ## Goals for the Next Six Months
-
 
 **I need to more deeply evaluate how I should spend my time,** potentially looking to apply my [careers reasoning](http://www.everydayutilitarian.com/essays/comparing-across-my-five-career-categories/) to choosing between how to allocate time between various projects and activities.  I claim to be a full-time student but the time logs show I'm only putting 23.44 hours a week toward being a student, so I have plenty more time to do whatever I want and I ought to use it effectively.  In general, I'm looking to scale down involvement with DVP, Beta, and Gaming Guild and potentially scale up involvement with DCA, blogging, programming, volunteering, and senior research as discussed above.
 
