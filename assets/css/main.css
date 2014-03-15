@@ -3283,6 +3283,8 @@ body {
   line-height: 1.625;
 }
 
+a { text-decoration: none; }
+
 .entry-content p > a,
 .entry-content li > a,
 .entry-title li > a,
