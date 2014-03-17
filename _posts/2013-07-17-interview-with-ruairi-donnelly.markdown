@@ -124,9 +124,9 @@ Luckily some people have started talking about these possibilities and it looks 
 
 > What would you say if someone came along and said, "Hey, we want to genetically engineer mentally retarded human infants! For reasons of scientific progress we need infants with certain cognitive and emotional deficits in order to study their postnatal psychological development — we urgently need some funding for this important and innovative kind of research!"
 
-You would certainly think this was not only an absurd and appalling but also a dangerous idea. It would hopefully not pass any ethics committee in the democratic world.
+> You would certainly think this was not only an absurd and appalling but also a dangerous idea. It would hopefully not pass any ethics committee in the democratic world.
 
-However, what today’s ethics committees don’t see is how the first machines satisfying a minimally sufficient set of constraints for conscious experience could be just like such mentally retarded infants. They would suffer from all kinds of functional and representational deficits too. But they would now also subjectively experience those deficits. In addition, they would have no political lobby — no representatives in any ethics committee.
+> However, what today’s ethics committees don’t see is how the first machines satisfying a minimally sufficient set of constraints for conscious experience could be just like such mentally retarded infants. They would suffer from all kinds of functional and representational deficits too. But they would now also subjectively experience those deficits. In addition, they would have no political lobby — no representatives in any ethics committee.
 
 
 
