@@ -2,7 +2,6 @@
 layout: post-index
 title: Everyday Utilitarian
 description: "Join me on my everyday journey to create a more utilful world."
-image: abstract-3.jpg
 ---
 
 {% for post in paginator.posts %}
@@ -19,16 +18,12 @@ image: abstract-3.jpg
         </span>
       {% endif %}
     </div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}#title" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
   </header>
   <div class="entry-content">
     {{ post.content | split:'<!-- more -->' | first }}
    {% if post.content contains '<!-- more -->' %}
-      <p><a href="{{ post.url }}">read more...</a></p>
+      <p><a href="{{ site.url }}{{ post.url }}#title">read more...</a></p>
    {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
