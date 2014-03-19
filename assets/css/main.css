@@ -3237,6 +3237,8 @@ body {
   border-bottom: none;
 }
 
+.entry-title a:hover { border-bottom: none; }
+
 a,
 .entry-content p > a,
 .entry-content li > a,
@@ -3385,6 +3387,8 @@ a:hover,
 
 .entry-meta a {
   color: #bbbbbb;
+  text-decoration: none;
+  border-bottom: none;
 }
 
 .entry-meta .vcard:before {
