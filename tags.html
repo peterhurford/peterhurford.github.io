@@ -26,7 +26,7 @@ title: Tag Archive
 	{% unless tag[0] == "all" %} 
 		<article>
 			<div class="entry-content">
-				<h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+				<h2 class="tag-header" id="{{ tag[0] }}">{{ tag[0] }}</h2>
 				<ul>
 				{% assign pages_list = tag[1] %}  
 				{% for post in pages_list %}

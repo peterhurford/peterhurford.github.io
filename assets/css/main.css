@@ -3464,6 +3464,8 @@ a:hover,
   }
 }
 
+.entry-content .tag-header { text-transform: uppercase; }
+
 #post #disqus_thread,
 #page #disqus_thread {
   padding: 10px 15px;
