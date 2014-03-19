@@ -7,8 +7,7 @@ slug: everydayutilitarians-top-ten-in-2013
 title: EverydayUtilitarian's Top Ten in 2013
 wordpress_id: 1170
 categories:
-- All
-- Logs
+- Site
 ---
 
 Someone asked me what the top ten posts are on Everyday Utilitarian.  I use Google Analytics, so this was a pretty easy thing to find out.  I looked at page visits for each essay over all of 2013.  Of course, this isn't a perfect metric, as essays written later in the year have less of a chance of getting viewed, and the "hits" metric is skewed a lot toward what I choose to publicize via Facebook and LessWrong and what I don't.

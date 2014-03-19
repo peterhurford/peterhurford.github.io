@@ -7,8 +7,6 @@ slug: new-years-resolutions-july-edition
 title: 'New Year''s Resolutions: July Edition'
 wordpress_id: 403
 categories:
-- All
-- Logs
 - Self Reviews
 ---
 

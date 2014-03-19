@@ -7,8 +7,6 @@ slug: resolutions-update-may-edition
 title: 'Resolutions Update: May Edition'
 wordpress_id: 12
 categories:
-- All
-- Logs
 - Self Reviews
 ---
 

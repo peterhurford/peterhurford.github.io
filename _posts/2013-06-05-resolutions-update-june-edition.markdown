@@ -7,8 +7,6 @@ slug: resolutions-update-june-edition
 title: 'Resolutions Update: June Edition'
 wordpress_id: 162
 categories:
-- All
-- Logs
 - Self Reviews
 ---
 

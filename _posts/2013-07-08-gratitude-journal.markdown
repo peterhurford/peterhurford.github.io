@@ -7,8 +7,7 @@ slug: gratitude-journal
 title: Gratitude Journal
 wordpress_id: 420
 categories:
-- All
-- Logs
+- Personal
 ---
 
 What am I grateful for?  I'm keeping a log here, to reflect!  I'm doing this because [psychology research shows it will boost my happiness](http://www.everydayutilitarian.com/essays/for-happiness-keep-a-gratitude-journal/).

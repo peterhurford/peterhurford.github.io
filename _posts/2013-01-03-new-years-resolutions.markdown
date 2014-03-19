@@ -7,12 +7,8 @@ slug: new-years-resolutions
 title: New Years Resolutions
 wordpress_id: 5
 categories:
-- All
-- Logs
 - Self Reviews
 ---
-
-_**Note:** This essay originally appeared on my previous blog, [Greatplay.net](http://www.greatplay.net), and has been moved here. As such, it links back to essays on the original blog._
 
 I've come to realize that a large portion of habit formation (at least for me) is [publicly pre-committing](http://www.greatplay.net/essays/in-giving-it-pays-to-precommit) to things. I've also come to realize that blogs are generally more interesting when you get to learn more about the personal life of the person who writes them. These two realizations join in one place: blogging about my New Years Resolutions.
 
@@ -112,4 +108,4 @@ Besides all that, I can find surprisingly little immediate information about hab
 
 Well, most importantly, let's see if I actually keep these habits.
 
-**Followed up in: [Resolutions Update: February Edition](http://www.everydayutilitarian.com/essays/resolutions-update-february-edition)**
+_Followed up in [Resolutions Update: February Edition](http://www.everydayutilitarian.com/essays/resolutions-update-february-edition)._
