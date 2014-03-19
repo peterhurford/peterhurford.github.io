@@ -923,8 +923,8 @@ svg:not(:root) {
 }
 
 .btn-info:hover {
-  color: #308cbc;
-  background-color: #ffffff;
+  background-color: #8c544f;
+  border-color: #555555;
 }
 
 .well {
@@ -1501,24 +1501,6 @@ a [class*=" icon-"] {
   background-image: none;
   background-position: 0 0%;
   background-repeat: repeat;
-}
-
-/* more sprites.less reset */
-
-.icon-white,
-.nav-pills > .active > a > [class^="icon-"],
-.nav-pills > .active > a > [class*=" icon-"],
-.nav-list > .active > a > [class^="icon-"],
-.nav-list > .active > a > [class*=" icon-"],
-.navbar-inverse .nav > .active > a > [class^="icon-"],
-.navbar-inverse .nav > .active > a > [class*=" icon-"],
-.dropdown-menu > li > a:hover > [class^="icon-"],
-.dropdown-menu > li > a:hover > [class*=" icon-"],
-.dropdown-menu > .active > a > [class^="icon-"],
-.dropdown-menu > .active > a > [class*=" icon-"],
-.dropdown-submenu:hover > a > [class^="icon-"],
-.dropdown-submenu:hover > a > [class*=" icon-"] {
-  background-image: none;
 }
 
 /* keeps Bootstrap styles with and without icons the same */
@@ -3237,7 +3219,10 @@ body {
   border-bottom: none;
 }
 
-.entry-title a:hover { border-bottom: none; }
+.entry-title a:hover {
+  color: #555555;
+  border-bottom: none;
+}
 
 a,
 .entry-content p > a,
@@ -3252,6 +3237,7 @@ a:hover,
 .entry-content p > a:hover,
 .entry-content li > a:hover,
 .footer-wrapper a:hover {
+  color: #8c544f;
   border-bottom-style: solid;
 }
 
@@ -3389,6 +3375,10 @@ a:hover,
   color: #bbbbbb;
   text-decoration: none;
   border-bottom: none;
+}
+
+.entry-meta a:hover {
+  text-decoration: underline;
 }
 
 .entry-meta .vcard:before {
