@@ -9,7 +9,13 @@ description: "Join me on my everyday journey to create a more utilful world."
   <header>
     <div class="entry-meta">
       <span class="entry-date date published updated">
-        <time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
+        <time datetime="{{ post.date | date_to_xmlschema }}">Published by
+          {% if post.author == "admin" %}
+            <a href="http://everydayutilitarian.com/essays/who-is-this-peter-guy/">Peter Hurford</a>
+          {% else %}
+            <a href="{{post.author-url}}">{{post.author}}</a>
+          {% endif %}
+          on <a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time>
       </span>
     </span>
       {% if site.disqus_shortname and post.comments %}
