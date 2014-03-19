@@ -1,5 +1,6 @@
 ---
-author: admin
+author: Alonzo Fyfe
+author-url: http://secularite.com/real-world-ethics-alonzo-fyfe/
 comments: true
 date: 2014-02-19 05:00:34+00:00
 layout: post
