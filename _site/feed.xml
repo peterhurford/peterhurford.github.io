@@ -4,13 +4,349 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://everydayutilitarian.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://everydayutilitarian.com" />
-<updated>2014-03-19T12:03:15-04:00</updated>
+<updated>2014-03-24T10:43:00-04:00</updated>
 <id>http://everydayutilitarian.com/</id>
 <author>
   <name></name>
   <uri>http://everydayutilitarian.com/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Interview with Ryan Carey]]></title>
+ <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/interview-with-ryan-carey/" />
+  <id>http://everydayutilitarian.com/essays/interview-with-ryan-carey</id>
+  <published>2014-03-24T14:42:19Z</published>
+  <updated>2014-03-24T14:42:19Z</updated>
+  <author>
+    <name></name>
+    <uri>http://everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
+
+&lt;p&gt;Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, &lt;a href=&quot;http://www.felicifia.org/&quot;&gt;Felicifia&lt;/a&gt;, to co-creating an “effective altruist” meetup group in Melbourne, Australia.  He is now currently working with &lt;a href=&quot;http://www.leverageresearch.org/&quot;&gt;Leverage Research&lt;/a&gt; and the &lt;a href=&quot;http://centreforeffectivealtruism.org/&quot;&gt;Centre for Effective Altruism&lt;/a&gt; on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on &lt;a href=&quot;http://careyryan.com/&quot;&gt;his personal blog&lt;/a&gt;. &lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;figure&gt;
+	&lt;img src=&quot;/images/posts/interview-with-ryan-carey/profile.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Hi Ryan, good to talk to you. Let’s start off with your origin story. How did you first get interested in effective altruism?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Ah, I learnt about effective altruism through the idea of utilitarianism. I had been reading philosophers like Daniel Dennett, and neuroscientists like VS Ramachandran.  I wanted to know about big questions relating to consciousness and ethics.&lt;/p&gt;
+
+&lt;p&gt;I was in high-school, and I had mentioned to my mother some of the things that I had been reading, and it came to her mind that there was an old professor who had once taught her some lessons in bioethics and she had a book for me by that author… That book was &lt;a href=&quot;http://www.amazon.com/Practical-Ethics-Peter-Singer/dp/0521707684&quot;&gt;Practical Ethics&lt;/a&gt; by Peter Singer!&lt;/p&gt;
+
+&lt;p&gt;When I read his ideas about animals, poverty, and ethics in general, it just clicked for me - he seemed so reasonable and rational.  I went on to learn about this philosophy and gather others who shared that interest online. Many years later when the effective altruist and rationality movements developed, that just crystallized my thinking about how to make the world better and drove me to take more concrete actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Cool!  I was influenced from utilitarianism to effective altruism myself.  But I know a lot of other utilitarians who aren’t effective altruists and just are content to speculate and philosophize without doing anything.  It frustrates me.  What do you think compelled you made this jump to action?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; If only I knew – then we could just swing by all of the utilitarians and activate them!&lt;/p&gt;
+
+&lt;p&gt;What I know is that knowing that suffering is bad, or that you would like people’s experienced to be improved, is very far from feeling empowered to do something about it.  I’d speculate that there are personality factors involved - some people are naturally conscientious. A cynic might say naturally compelled by guilt, although that’s not my experience.&lt;/p&gt;
+
+&lt;p&gt;Personally, every time I’ve been involved with other people who are motivated, then I become socially engaged with that group, and it drives me to do more things that I think that they will find exciting and impressive. So I’ve passed through &lt;a href=&quot;http://www.felicifia.org&quot;&gt;Felicifia&lt;/a&gt;, my utilitarian forum, and then into &lt;a href=&quot;http://www.lesswrong.com&quot;&gt;LessWrong&lt;/a&gt;, and through the effective altruist community as well, and at every step I’ve found a lot of people who I like and enjoy being around.&lt;/p&gt;
+
+&lt;p&gt;That would certainly be &lt;a href=&quot;http://www.overcomingbias.com/&quot;&gt;the Hansonian explanation&lt;/a&gt; - that charity is not about doing good, it’s about getting social points. And I guess my experience is pretty consistent with the idea that social points have played a factor at driving me to do more every step of the way.  But I’ve just been lucky in that the people I surround myself with and respect tend to care very much about productivity. So I get social points by starting projects that have a large expected impact.&lt;/p&gt;
+
+&lt;p&gt;And I guess Robin would agree that we can signal an expectation of effectiveness from others - I’ve mostly been activated by enjoying the company of other EAs - social signalling used for good, and I think there should be more of it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;A brutally honest and self-aware answer, as much as I’d like to hope there’s more to EA than runaway signalling!  Even so, do you think there’s a way we could harness this desire for social points to get more people to want to do good?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Yes, well I think it already happens, and it’s really good. I think that effective altruist groups are popping up all over the world.  Some of them are branded by EA in general, like my new group in Melbourne, but most of them are broadly under the umbrellas of &lt;a href=&quot;http://www.givingwhatwecan.org&quot;&gt;Giving What We Can&lt;/a&gt; and &lt;a href=&quot;http://www.80000hours.org&quot;&gt;80,000 Hours&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I think these groups deliver a lot of value to attendees, people learn a lot of fascinating ideas and get to build really close social relationships.  But at the same time, these groups challenge people to integrate a lot of challenging ideas into their behaviour, like the idea of earning to give and the idea that researching the future is important and neglected.&lt;/p&gt;
+
+&lt;p&gt;I think of LessWrong as an effective altruist group too. It’s nominally a group for rationality, but almost everyone is altruistic when you get down far enough. LessWrong shares EAs’ affinity for the scientific method and for evaluating consequences.  In turn, EAs frequently share LW-esque views about biases and epistemology.  They’re sister groups in Melbourne, and I think everywhere, so I think all of these communities are tremendously important for encouraging people to do good.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;It’s certainly cool that you’ve got to be a part of the effective altruism wave with &lt;a href=&quot;http://careyryan.com/end-of-year-review-of-effective-altruism-melbourne/&quot;&gt;EA Melbourne&lt;/a&gt;.  But that’s a pretty big initiative.  How did EA Melbourne get it’s start?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; It started when we were contacted by Giving What We Can Central.  I was notified that Rangi de Silva was in Melbourne - another doctor in training who was interested in starting a group there.  So I contacted absolutely everyone I could think of - the central coordinators of Giving What We Can, 80,000 Hours, THINK, Leverage Research, everyone I knew from the Monash University’s philosophy society, and from the local LessWrong group, as well as some old friends.&lt;/p&gt;
+
+&lt;p&gt;A few of us met in a coffee shop to decide what we wanted to do and the very first social event was well attended right away, which was excellent.  I’m glad to see that they’ve continued to go from strength to strength after I’ve left and my co-collaborator Brayden stepped down, by hosting CFAR, who spoke to an audience of 70.&lt;/p&gt;
+
+&lt;p&gt;It takes regular, reliable timely work to coordinate things and a network who will attend, I think those are the main things.  That’s what I would suggest to someone trying to launch an EA group, and it’s glad to see that EA Melbourne certainly still has those going on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think anything else made EA Melbourne a success, or was it just sheer hard work?  What would be some tips you might give to people who want to organize EA groups in their own local communities?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that the amount of work required is pretty patchy. You can’t just disappear from the planet and spend two months without organizing anything. In particular, you need to be present to arrange things on a weekly basis at the start.  But it’s mostly just basic logistics like setting a venue, a topic, and maybe a speaker, and inviting people.&lt;/p&gt;
+
+&lt;p&gt;You just need to make sure that you give people a reason to come, they need to know somebody who will be there, and the group need to be nice people - as of course most EAs are - and they need to have something interesting to talk about.&lt;/p&gt;
+
+&lt;p&gt;To start a group, I recommend contacting the central EA groups to get them to introduce you to anyone interested who lives locally and gathering a few people who are willing to throw their social networks into the project.  The Central EA groups can offer a little support remotely, but mostly having a kind, sociable and gender-balanced seed-group seems to often lead to a virtuous cycle that grows itself.  It just takes strong existing social networks and a couple of months of good events to bootstrap that.  I’ve elaborated on these tips in &lt;a href=&quot;http://careyryan.com/ten-simple-tricks-to-meet-effective-altruists-and-you-wont-believe-what-happened-next/&quot;&gt;an article on my blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;That’s great advice.  Thanks!  But you’ve moved on from EA Melbourne.  What lead you to give all that up?  What are you doing now?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The thing with EA groups is that people always ask you questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What is the purpose of this group&lt;/li&gt;
+  &lt;li&gt;How can I volunteer for you or others?&lt;/li&gt;
+  &lt;li&gt;Who should I donate to?&lt;/li&gt;
+  &lt;li&gt;What is the most important work to do, apart from recruitment. i.e. we can build social networks for so long, but what should we do afterwards?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These questions are interesting, important and complex. So I set out to develop better answers to these questions. I feel that the answers lie in the area of improving the far future. However, it’s very unclear what we can do to best prepare society to flourish in even 10 or 100 years from now and so I decided that I had to find out an answer to that.&lt;/p&gt;
+
+&lt;p&gt;My best plan for doing this was to travel to the hubs of EA and rationality to get up to speed on others’ progress. I’ve begun 2013 by being in San Francisco where I have collaborated with The Center for Applied Rationality and Leverage Research and I will do a similar thing in Oxford later this year.&lt;/p&gt;
+
+&lt;p&gt;All the way the goal is to learn how to produce a better future, including a major subquestion: what kind of people we need to do that work? I am currently doing some research on some of those questions while also trying to build a movement of people to help. I’ll probably be split evenly between research and movement-building over the coming six months.&lt;/p&gt;
+
+&lt;p&gt;So basically, EA Melbourne was a valuable project but now I’m running out of new ideas to share with them and I think I need to meet experts who have thought about things for longer in greater detail to keep learning. Also during the time when I was doing EA Melbourne I was working as a doctor there and now that I have finished my internship year I have the option to take on other responsibilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What made you think that producing a better future is more important than, say, working on global poverty or nonhuman animal rights?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The best version that I have heard of the argument is &lt;a href=&quot;https://www.youtube.com/watch?v=GctnYAYcMhI&quot;&gt;a lecture by Max Tegmark at an old Singularity Summit&lt;/a&gt;. His idea is that future is so vast, in terms of time and space, and yet its value comes from the fact that we are here to see it. Now we can determine whether our civilization will grow across the universe or conversely whether nothing interesting happens again anywhere ever.&lt;/p&gt;
+
+&lt;p&gt;I value the lives of people in a vilization a million years from now the same as lives of people now, so it seems so much worse if we muck things up cosmically.&lt;/p&gt;
+
+&lt;p&gt;Although it’s grandiose to want to save the world, it is egotistical to think that everything important is going to happen in one time and space, when we live in a universe that is so much larger - to think that our current experiences are the best that the universe has to offer.&lt;/p&gt;
+
+&lt;p&gt;How exactly to secure our future, and ensure that everyone has better lives, including non-human animals is a very complex question, but i think that it is also the most important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think of the current work being done on this topic?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that &lt;a href=&quot;http://yudkowsky.net/&quot;&gt;Eliezer Yudkowsky&lt;/a&gt; and &lt;a href=&quot;http://www.nickbostrom.com/&quot;&gt;Nick Bostrom&lt;/a&gt; have done the most in performing and popularizing this research.  I think they have robust arguments that artificial intelligence poses the largest extinction risk over the next century. Consider that one by one, computers have basically taken on tasks that are more impressive and complicated like chess, go, jeopardy and now driving.  The extent to which we are using computers, the diversity of jobs for which we turn to them in our day to day lives has greatly increased over the last decade. Our computers are networked much more closely and we spend much more time with them.&lt;/p&gt;
+
+&lt;p&gt;If computers continue to get more intelligent in slightly more abstract ways year upon year for another few decades, the world will already look very strange to humans today.  If these systems take on ever more of the properties of autonomy and goal-directedness of high-frequency trading systems and military robots, then we can envisage machines overtaking the intelligence of humans.&lt;/p&gt;
+
+&lt;p&gt;If you reached such a situation, it very quickly becomes important that the robots are embedded with some kind of ethics or human values and I think the folks at MIRI have good arguments that we can expect computing to be increasingly goal-directed, that this could happen quickly, and that it would take some extreme kind of precision to create a machine intelligence with values that create a happy outcome for humans.&lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence is one issue that plays a big part in many people’s models of the future, and I think it’s an important one.  However it’s only one issue.  There are a range of other global catastrophic risks including asteroids, supervolcanoes, bioterrorism, and nuclear war.&lt;/p&gt;
+
+&lt;p&gt;Holden has recently argued that we should consider our developmental trajectory as a civilisation to be anomalous by historical standards and that any of a number of global catastrophic risks could cause civilisation to take humanity off its favourable developmental trajectory.  I agree with him that research on Global Catastrophic Risks in general is important.&lt;/p&gt;
+
+&lt;p&gt;He also advocates that a bunch of strategies like alleviating poverty can have positive flow-through effects that will set our civilisation on a better long-run trajectory and I think that there are lots of conceivable interventions that Nick Beckstead would describe as broad-based including improving collaboration and rationality, that could conceivably make things go a lot better in the long run.  We could also enhance human intelligence or human morality.  There are almost endless possibilities.&lt;/p&gt;
+
+&lt;p&gt;At this stage, I find the narrower research on global catastrophic risks and artificial intelligence has the most compelling case for improving the far future, but I’m not sure if I have good reasons for that and I think that the field could easily be broken wide-open by an academic is informed and able to think more clearly about these things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think you could be that kind of informed academic who breaks the field open?  If not, what do you expect to do?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I doubt I can outdo all of Eliezer, Paul Christiano, Carl Shulman and all of &lt;a href=&quot;http://www.fhi.ox.ac.uk/&quot;&gt;FHI&lt;/a&gt;.  But I hope that I can understand the field enough to know what kind of people are required, what kind of infrastructure can be provided to support their work, to publicise it and to reach out to gifted young people who might be interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you have specific plans of action yet?  Or are you still thinking?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Both! And I think I always plan to be!  Actually, mostly the second one, because my plans mostly involve gathering more people together to help me think.&lt;/p&gt;
+
+&lt;p&gt;MY two projects are &lt;a href=&quot;https://impact.hackpad.com/EA-Blog-Compilation-Introduction-B87PSZopY4f&quot;&gt;an EA Handbook&lt;/a&gt; and &lt;a href=&quot;https://impact.hackpad.com/Effective-Altruist-Community-Blog-using-LW-Codebase-lGglK2kN3Ll&quot;&gt;an Online Community called The Most Good&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The EA Handbook is a document that will introduce people to effective altruism and bring them up to speed on these questions. I’m preparing this with Will MacAskill. So far, we have collected many existing essays and a few authors have agreed to write some more to describe how everybody can contribute to existing organisations. This project should be finished by the middle of 2014.&lt;/p&gt;
+
+&lt;p&gt;The online community The Most Good will provide a central location for EA blog posts, discussion and meetups.  To avoid duplicating work, we’re using &lt;a href=&quot;http://trikeapps.com/&quot;&gt;Trike Apps&lt;/a&gt;, who will build the software using the LessWrong codebase. This website is currently in the design stage, but hopefully it will be completed by mid-year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; _If you don’t mind me asking, why are you doing all this yourself?  Earlier you said you were training to be a doctor.  I’ll bet on a doctor’s salary you could “&lt;a href=&quot;http://www.effective-altruism.com/what-earning-give-0/&quot;&gt;earn to give&lt;/a&gt;” and hire multiple people to work on these projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I might end up going back to being a doctor, but there are three reasons that I’m not doing that right now: (1) I don’t know who to fund, (2) I think that many of these future-oriented projects are more time than money constrained, and (3) my uncertainties around my skill and fit are greater for research and activism.&lt;/p&gt;
+
+&lt;p&gt;On (1), in global poverty reduction, we think that charities vary in up to 100x effectiveness.  &lt;a href=&quot;http://www.cser.org/&quot;&gt;Center for the Study of Existential Risk&lt;/a&gt;, &lt;a href=&quot;http://www.intelligence.org&quot;&gt;Machine Intelligence Research Institute&lt;/a&gt;, FHI, &lt;a href=&quot;http://www.gcrinstitute.org/&quot;&gt;Global Catostrophic Risk Institute&lt;/a&gt; and &lt;a href=&quot;http://www.centreforeffectivealtruism.org&quot;&gt;Centre for Effective Altruism&lt;/a&gt; are all working on issues relating to the far future, and I currently have very little idea which is the most effective. In research in particular, we know that some like &lt;a href=&quot;http://en.wikipedia.org/wiki/Norman_Borlaug&quot;&gt;Norman Borlaug&lt;/a&gt; can be enormously effective.&lt;/p&gt;
+
+&lt;p&gt;In general, in terms of citations, we know that &lt;a href=&quot;http://80000hours.org/blog/65-should-you-go-into-research-part-1&quot;&gt;some researchers outperform others by many orders of magnitude&lt;/a&gt;. In future-oriented research in particular, this seems to remain the case. Some futurists clearly have very poor intellectual methodologies and so I expect that in future-oriented research, I think this should remain the case. Moreover, there are no good metrics for the impact of future-oriented research. Nick Bostrom and Eliezer Yudkowsky are not merely aiming for publications and citations, and neither should they be. So these can only be a small part of my assessment. I can ask experts that I respect whose research they value the most, and I think that this is an important part of the solution, but it is also somewhat circular. It is hard to decide who to respect without any technical understanding, and this can be biased by halo effects that come from their attractiveness, demeanor or social competence. So I think at this stage, I need greater technical understanding in order to decide who to give to.&lt;/p&gt;
+
+&lt;p&gt;On (2), I think that many of these future-oriented projects are more time than money constrained. I know less than a hundred people who are interested and able to perform research into the far future and build a surrounding movement. By contrast, I know several people who have demonstrated their willingness to support ambitious research agendas, such as &lt;a href=&quot;http://en.wikipedia.org/wiki/Peter_Thiel&quot;&gt;Peter Thiel&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Jaan_Tallinn&quot;&gt;Jaan Tallin&lt;/a&gt;, Matt Wage and Matt Fallshaw. &lt;/p&gt;
+
+&lt;p&gt;One has to ask what we know that Peter Thiel doesn’t that is preventing him from giving all his funding to the MIRI or Jaan to the CSER. I think they know that their ability to turn cash into recruiting and employing valuable researchers is limited, or at least the marginal returns will decline at some point. Another line of reasoning is that many people are currently pursuing earn-to-give careers in finance and entrepreneurship that will take 3-10 years to pay off, and so it should soon become easier to get effective projects funded. Also most thought-leaders and organization-leaders who I have talked to consider that their organizations are more constrained by talent that funding. Of course, these statements are misleading or false if taken as absolutes. They make sense only when one talks about how much funding weighed against how much talent or recruitment ability. &lt;/p&gt;
+
+&lt;p&gt;On (3), given this information about the wide range of usefulness of far-future oriented research, I am highly uncertain about my impact there. I am also pretty uncertain about my value as an entrepreneur, but less so. Medicine is by far the most reliable option. Currently, it seems best to narrow my uncertainty on my impact as a researcher or in performing recruitment and movement-building. Then, I might move on to start-ups. If all this falls through, then I’ll happily be a doctor and pool my funding with the rest. Although even then it seems good to live in or visit the EA hubs to stay motivated and inform my donations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;How were you able to quickly integrate yourself with the San Francisco and Oxford EA communities in order to get involved?  What could an aspiring EA do to follow in your footsteps and also work on making a better future?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Professionally, I think EAs and rationalists can easily see your value if you are conscientious or have achieved some broad competencies. I recommend asking to be introduced to some of the leaders of these organizations by your best connected EA friends or cold-emailing them.&lt;/p&gt;
+
+&lt;p&gt;Socially, I think EAs and wonderful and inclusive people. If you have some social skills, or even if you don’t have many social skills, but you have interesting ideas, people will tend to like you.&lt;/p&gt;
+
+&lt;p&gt;My advice regarding integrating into the San Francisco and Oxford communities would be - just do it - I think that travelling to Oxford and San Francisco’s Bay Area are key steps in my intellectual development. Interning at the Center for Applied Rationality or the Center for Effective Altruism are good steps.  Or, one can attend a &lt;a href=&quot;http://www.rationality.org/&quot;&gt;CFAR workshop&lt;/a&gt; or get career counselling from 80,000 Hours.  And I am always happy to be contacted to answer questions and help with introductions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What is a typical day for you like these days?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Every day I read about topics that I think might improve my strategic understanding.  I try to research techniques recommended by people I respect. Recently I’ve been researching intelligence - I take creatine every day and measure its effect with a 20 minute battery of cognitive tests.  For the last fortnight I have been practising speed-reading, because I think that it is important to front-load the acquisition of skills that will help further productivity and research. I am doing emails to prepare the handbook. I discuss with researchers at Leverage and the Center for Applied Rationality regarding to how we can be smarter, more emotionally stable, and less biased. When I learn something new or useful, I write it down on my blog.&lt;/p&gt;
+
+&lt;p&gt;Of these professional jobs, I’m most confident in the importance of speed-reading, movement-building, and researching creatine. My ongoing plan is contingent on what works and I expect I’ll answer very differently two months from now.&lt;/p&gt;
+
+&lt;p&gt;Outside of EA, I like to see blues, funk and soul music, and comedy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think is the most important thing you’re not doing?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Probably what &lt;a href=&quot;http://en.wikipedia.org/wiki/Jason_Gaverick_Matheny&quot;&gt;Gaverick Matheny&lt;/a&gt; is doing.  He is the project manager at IARPA responsible for &lt;a href=&quot;http://www.iarpa.gov/Programs/ia/ACE/ace.html&quot;&gt;the Aggregative Contingent Estimation program&lt;/a&gt; in which the good judgement project are competing and aggregating opinions to improve probabilistic forecasts of real events. I think that improving collective prediction and collective decision-making is important for stability and cooperation between governments and that it’s important to improve the sanity level of populations and large govenrments, and this work seems like a step in the right direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Well, I think I’m out of questions.  It was great getting a chance to talk with you and learn more about you.  Do you have anything else you want to pass on to EAs before we leave?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I would say congrats on being one of the special few who is keen to change the world. By meeting others in your hometown and in EA hubs, you can learn faster and become more productive. Try to learn about the questions that expert EAs are asking themselves, and think about how you might fit in. EA is in a fascinating sociological and intellectual position, and I hope there are great things to come.&lt;/p&gt;
+
+&lt;p&gt;And thanks for the interview Peter!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Interview with Ryan Carey]]></title>
+ <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/interview-with-ryan-carey/" />
+  <id>http://everydayutilitarian.com/essays/interview-with-ryan-carey</id>
+  <published>2014-03-23T15:11:19Z</published>
+  <updated>2014-03-23T15:11:19Z</updated>
+  <author>
+    <name></name>
+    <uri>http://everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
+
+&lt;p&gt;Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, &lt;a href=&quot;http://www.felicifia.org/&quot;&gt;Felicifia&lt;/a&gt;, to co-creating an “effective altruist” meetup group in Melbourne, Australia.  He is now currently working with &lt;a href=&quot;http://www.leverageresearch.org/&quot;&gt;Leverage Research&lt;/a&gt; and the &lt;a href=&quot;http://centreforeffectivealtruism.org/&quot;&gt;Centre for Effective Altruism&lt;/a&gt; on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on &lt;a href=&quot;http://careyryan.com/&quot;&gt;his personal blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;&lt;figure&gt;
+	&lt;img src=&quot;/images/posts/interview-with-ryan-carey/profile.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Hi Ryan, good to talk to you. Let’s start off with your origin story. How did you first get interested in effective altruism?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Ah, I learnt about effective altruism through the idea of utilitarianism. I had been reading philosophers like Daniel Dennett, and neuroscientists like VS Ramachandran.  I wanted to know about big questions relating to consciousness and ethics.&lt;/p&gt;
+
+&lt;p&gt;I was in high-school, and I had mentioned to my mother some of the things that I had been reading, and it came to her mind that there was an old professor who had once taught her some lessons in bioethics and she had a book for me by that author… That book was &lt;a href=&quot;http://www.amazon.com/Practical-Ethics-Peter-Singer/dp/0521707684&quot;&gt;Practical Ethics&lt;/a&gt; by Peter Singer!&lt;/p&gt;
+
+&lt;p&gt;When I read his ideas about animals, poverty, and ethics in general, it just clicked for me - he seemed so reasonable and rational.  I went on to learn about this philosophy and gather others who shared that interest online. Many years later when the effective altruist and rationality movements developed, that just crystallized my thinking about how to make the world better and drove me to take more concrete actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Cool!  I was influenced from utilitarianism to effective altruism myself.  But I know a lot of other utilitarians who aren’t effective altruists and just are content to speculate and philosophize without doing anything.  It frustrates me.  What do you think compelled you made this jump to action?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; If only I knew – then we could just swing by all of the utilitarians and activate them!&lt;/p&gt;
+
+&lt;p&gt;What I know is that knowing that suffering is bad, or that you would like people’s experienced to be improved, is very far from feeling empowered to do something about it.  I’d speculate that there are personality factors involved - some people are naturally conscientious. A cynic might say naturally compelled by guilt, although that’s not my experience.&lt;/p&gt;
+
+&lt;p&gt;Personally, every time I’ve been involved with other people who are motivated, then I become socially engaged with that group, and it drives me to do more things that I think that they will find exciting and impressive. So I’ve passed through &lt;a href=&quot;http://www.felicifia.org&quot;&gt;Felicifia&lt;/a&gt;, my utilitarian forum, and then into &lt;a href=&quot;http://www.lesswrong.com&quot;&gt;LessWrong&lt;/a&gt;, and through the effective altruist community as well, and at every step I’ve found a lot of people who I like and enjoy being around.&lt;/p&gt;
+
+&lt;p&gt;That would certainly be &lt;a href=&quot;http://www.overcomingbias.com/&quot;&gt;the Hansonian explanation&lt;/a&gt; - that charity is not about doing good, it’s about getting social points. And I guess my experience is pretty consistent with the idea that social points have played a factor at driving me to do more every step of the way.  But I’ve just been lucky in that the people I surround myself with and respect tend to care very much about productivity. So I get social points by starting projects that have a large expected impact.&lt;/p&gt;
+
+&lt;p&gt;And I guess Robin would agree that we can signal an expectation of effectiveness from others - I’ve mostly been activated by enjoying the company of other EAs - social signalling used for good, and I think there should be more of it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;A brutally honest and self-aware answer, as much as I’d like to hope there’s more to EA than runaway signalling!  Even so, do you think there’s a way we could harness this desire for social points to get more people to want to do good?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Yes, well I think it already happens, and it’s really good. I think that effective altruist groups are popping up all over the world.  Some of them are branded by EA in general, like my new group in Melbourne, but most of them are broadly under the umbrellas of &lt;a href=&quot;http://www.givingwhatwecan.org&quot;&gt;Giving What We Can&lt;/a&gt; and &lt;a href=&quot;http://www.80000hours.org&quot;&gt;80,000 Hours&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I think these groups deliver a lot of value to attendees, people learn a lot of fascinating ideas and get to build really close social relationships.  But at the same time, these groups challenge people to integrate a lot of challenging ideas into their behaviour, like the idea of earning to give and the idea that researching the future is important and neglected.&lt;/p&gt;
+
+&lt;p&gt;I think of LessWrong as an effective altruist group too. It’s nominally a group for rationality, but almost everyone is altruistic when you get down far enough. LessWrong shares EAs’ affinity for the scientific method and for evaluating consequences.  In turn, EAs frequently share LW-esque views about biases and epistemology.  They’re sister groups in Melbourne, and I think everywhere, so I think all of these communities are tremendously important for encouraging people to do good.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;It’s certainly cool that you’ve got to be a part of the effective altruism wave with &lt;a href=&quot;http://careyryan.com/end-of-year-review-of-effective-altruism-melbourne/&quot;&gt;EA Melbourne&lt;/a&gt;.  But that’s a pretty big initiative.  How did EA Melbourne get it’s start?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; It started when we were contacted by Giving What We Can Central.  I was notified that Rangi de Silva was in Melbourne - another doctor in training who was interested in starting a group there.  So I contacted absolutely everyone I could think of - the central coordinators of Giving What We Can, 80,000 Hours, THINK, Leverage Research, everyone I knew from the Monash University’s philosophy society, and from the local LessWrong group, as well as some old friends.&lt;/p&gt;
+
+&lt;p&gt;A few of us met in a coffee shop to decide what we wanted to do and the very first social event was well attended right away, which was excellent.  I’m glad to see that they’ve continued to go from strength to strength after I’ve left and my co-collaborator Brayden stepped down, by hosting CFAR, who spoke to an audience of 70.&lt;/p&gt;
+
+&lt;p&gt;It takes regular, reliable timely work to coordinate things and a network who will attend, I think those are the main things.  That’s what I would suggest to someone trying to launch an EA group, and it’s glad to see that EA Melbourne certainly still has those going on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think anything else made EA Melbourne a success, or was it just sheer hard work?  What would be some tips you might give to people who want to organize EA groups in their own local communities?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that the amount of work required is pretty patchy. You can’t just disappear from the planet and spend two months without organizing anything. In particular, you need to be present to arrange things on a weekly basis at the start.  But it’s mostly just basic logistics like setting a venue, a topic, and maybe a speaker, and inviting people.&lt;/p&gt;
+
+&lt;p&gt;You just need to make sure that you give people a reason to come, they need to know somebody who will be there, and the group need to be nice people - as of course most EAs are - and they need to have something interesting to talk about.&lt;/p&gt;
+
+&lt;p&gt;To start a group, I recommend contacting the central EA groups to get them to introduce you to anyone interested who lives locally and gathering a few people who are willing to throw their social networks into the project.  The Central EA groups can offer a little support remotely, but mostly having a kind, sociable and gender-balanced seed-group seems to often lead to a virtuous cycle that grows itself.  It just takes strong existing social networks and a couple of months of good events to bootstrap that.  I’ve elaborated on these tips in &lt;a href=&quot;http://careyryan.com/ten-simple-tricks-to-meet-effective-altruists-and-you-wont-believe-what-happened-next/&quot;&gt;an article on my blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;That’s great advice.  Thanks!  But you’ve moved on from EA Melbourne.  What lead you to give all that up?  What are you doing now?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The thing with EA groups is that people always ask you questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What is the purpose of this group&lt;/li&gt;
+  &lt;li&gt;How can I volunteer for you or others?&lt;/li&gt;
+  &lt;li&gt;Who should I donate to?&lt;/li&gt;
+  &lt;li&gt;What is the most important work to do, apart from recruitment. i.e. we can build social networks for so long, but what should we do afterwards?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These questions are interesting, important and complex. So I set out to develop better answers to these questions. I feel that the answers lie in the area of improving the far future. However, it’s very unclear what we can do to best prepare society to flourish in even 10 or 100 years from now and so I decided that I had to find out an answer to that.&lt;/p&gt;
+
+&lt;p&gt;My best plan for doing this was to travel to the hubs of EA and rationality to get up to speed on others’ progress. I’ve begun 2013 by being in San Francisco where I have collaborated with The Center for Applied Rationality and Leverage Research and I will do a similar thing in Oxford later this year.&lt;/p&gt;
+
+&lt;p&gt;All the way the goal is to learn how to produce a better future, including a major subquestion: what kind of people we need to do that work? I am currently doing some research on some of those questions while also trying to build a movement of people to help. I’ll probably be split evenly between research and movement-building over the coming six months.&lt;/p&gt;
+
+&lt;p&gt;So basically, EA Melbourne was a valuable project but now I’m running out of new ideas to share with them and I think I need to meet experts who have thought about things for longer in greater detail to keep learning. Also during the time when I was doing EA Melbourne I was working as a doctor there and now that I have finished my internship year I have the option to take on other responsibilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What made you think that producing a better future is more important than, say, working on global poverty or nonhuman animal rights?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The best version that I have heard of the argument is &lt;a href=&quot;https://www.youtube.com/watch?v=GctnYAYcMhI&quot;&gt;a lecture by Max Tegmark at an old Singularity Summit&lt;/a&gt;. His idea is that future is so vast, in terms of time and space, and yet its value comes from the fact that we are here to see it. Now we can determine whether our civilization will grow across the universe or conversely whether nothing interesting happens again anywhere ever.&lt;/p&gt;
+
+&lt;p&gt;I value the lives of people in a vilization a million years from now the same as lives of people now, so it seems so much worse if we muck things up cosmically.&lt;/p&gt;
+
+&lt;p&gt;Although it’s grandiose to want to save the world, it is egotistical to think that everything important is going to happen in one time and space, when we live in a universe that is so much larger - to think that our current experiences are the best that the universe has to offer.&lt;/p&gt;
+
+&lt;p&gt;How exactly to secure our future, and ensure that everyone has better lives, including non-human animals is a very complex question, but i think that it is also the most important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think of the current work being done on this topic?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that &lt;a href=&quot;http://yudkowsky.net/&quot;&gt;Eliezer Yudkowsky&lt;/a&gt; and &lt;a href=&quot;http://www.nickbostrom.com/&quot;&gt;Nick Bostrom&lt;/a&gt; have done the most in performing and popularizing this research.  I think they have robust arguments that artificial intelligence poses the largest extinction risk over the next century. Consider that one by one, computers have basically taken on tasks that are more impressive and complicated like chess, go, jeopardy and now driving.  The extent to which we are using computers, the diversity of jobs for which we turn to them in our day to day lives has greatly increased over the last decade. Our computers are networked much more closely and we spend much more time with them.&lt;/p&gt;
+
+&lt;p&gt;If computers continue to get more intelligent in slightly more abstract ways year upon year for another few decades, the world will already look very strange to humans today.  If these systems take on ever more of the properties of autonomy and goal-directedness of high-frequency trading systems and military robots, then we can envisage machines overtaking the intelligence of humans.&lt;/p&gt;
+
+&lt;p&gt;If you reached such a situation, it very quickly becomes important that the robots are embedded with some kind of ethics or human values and I think the folks at MIRI have good arguments that we can expect computing to be increasingly goal-directed, that this could happen quickly, and that it would take some extreme kind of precision to create a machine intelligence with values that create a happy outcome for humans.&lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence is one issue that plays a big part in many people’s models of the future, and I think it’s an important one.  However it’s only one issue.  There are a range of other global catastrophic risks including asteroids, supervolcanoes, bioterrorism, and nuclear war.&lt;/p&gt;
+
+&lt;p&gt;Holden has recently argued that we should consider our developmental trajectory as a civilisation to be anomalous by historical standards and that any of a number of global catastrophic risks could cause civilisation to take humanity off its favourable developmental trajectory.  I agree with him that research on Global Catastrophic Risks in general is important.&lt;/p&gt;
+
+&lt;p&gt;He also advocates that a bunch of strategies like alleviating poverty can have positive flow-through effects that will set our civilisation on a better long-run trajectory and I think that there are lots of conceivable interventions that Nick Beckstead would describe as broad-based including improving collaboration and rationality, that could conceivably make things go a lot better in the long run.  We could also enhance human intelligence or human morality.  There are almost endless possibilities.&lt;/p&gt;
+
+&lt;p&gt;At this stage, I find the narrower research on global catastrophic risks and artificial intelligence has the most compelling case for improving the far future, but I’m not sure if I have good reasons for that and I think that the field could easily be broken wide-open by an academic is informed and able to think more clearly about these things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think you could be that kind of informed academic who breaks the field open?  If not, what do you expect to do?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I doubt I can outdo all of Eliezer, Paul Christiano, Carl Shulman and all of &lt;a href=&quot;http://www.fhi.ox.ac.uk/&quot;&gt;FHI&lt;/a&gt;.  But I hope that I can understand the field enough to know what kind of people are required, what kind of infrastructure can be provided to support their work, to publicise it and to reach out to gifted young people who might be interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you have specific plans of action yet?  Or are you still thinking?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Both! And I think I always plan to be!  Actually, mostly the second one, because my plans mostly involve gathering more people together to help me think.&lt;/p&gt;
+
+&lt;p&gt;MY two projects are &lt;a href=&quot;https://impact.hackpad.com/EA-Blog-Compilation-Introduction-B87PSZopY4f&quot;&gt;an EA Handbook&lt;/a&gt; and &lt;a href=&quot;https://impact.hackpad.com/Effective-Altruist-Community-Blog-using-LW-Codebase-lGglK2kN3Ll&quot;&gt;an Online Community called The Most Good&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The EA Handbook is a document that will introduce people to effective altruism and bring them up to speed on these questions. I’m preparing this with Will MacAskill. So far, we have collected many existing essays and a few authors have agreed to write some more to describe how everybody can contribute to existing organisations. This project should be finished by the middle of 2014.&lt;/p&gt;
+
+&lt;p&gt;The online community The Most Good will provide a central location for EA blog posts, discussion and meetups.  To avoid duplicating work, we’re using &lt;a href=&quot;http://trikeapps.com/&quot;&gt;Trike Apps&lt;/a&gt;, who will build the software using the LessWrong codebase. This website is currently in the design stage, but hopefully it will be completed by mid-year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; _If you don’t mind me asking, why are you doing all this yourself?  Earlier you said you were training to be a doctor.  I’ll bet on a doctor’s salary you could “&lt;a href=&quot;http://www.effective-altruism.com/what-earning-give-0/&quot;&gt;earn to give&lt;/a&gt;” and hire multiple people to work on these projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I might end up going back to being a doctor, but there are three reasons that I’m not doing that right now: (1) I don’t know who to fund, (2) I think that many of these future-oriented projects are more time than money constrained, and (3) my uncertainties around my skill and fit are greater for research and activism.&lt;/p&gt;
+
+&lt;p&gt;On (1), in global poverty reduction, we think that charities vary in up to 100x effectiveness.  &lt;a href=&quot;http://www.cser.org/&quot;&gt;Center for the Study of Existential Risk&lt;/a&gt;, &lt;a href=&quot;http://www.intelligence.org&quot;&gt;Machine Intelligence Research Institute&lt;/a&gt;, FHI, &lt;a href=&quot;http://www.gcrinstitute.org/&quot;&gt;Global Catostrophic Risk Institute&lt;/a&gt; and &lt;a href=&quot;http://www.centreforeffectivealtruism.org&quot;&gt;Centre for Effective Altruism&lt;/a&gt; are all working on issues relating to the far future, and I currently have very little idea which is the most effective. In research in particular, we know that some like &lt;a href=&quot;http://en.wikipedia.org/wiki/Norman_Borlaug&quot;&gt;Norman Borlaug&lt;/a&gt; can be enormously effective.&lt;/p&gt;
+
+&lt;p&gt;In general, in terms of citations, we know that &lt;a href=&quot;http://80000hours.org/blog/65-should-you-go-into-research-part-1&quot;&gt;some researchers outperform others by many orders of magnitude&lt;/a&gt;. In future-oriented research in particular, this seems to remain the case. Some futurists clearly have very poor intellectual methodologies and so I expect that in future-oriented research, I think this should remain the case. Moreover, there are no good metrics for the impact of future-oriented research. Nick Bostrom and Eliezer Yudkowsky are not merely aiming for publications and citations, and neither should they be. So these can only be a small part of my assessment. I can ask experts that I respect whose research they value the most, and I think that this is an important part of the solution, but it is also somewhat circular. It is hard to decide who to respect without any technical understanding, and this can be biased by halo effects that come from their attractiveness, demeanor or social competence. So I think at this stage, I need greater technical understanding in order to decide who to give to.&lt;/p&gt;
+
+&lt;p&gt;On (2), I think that many of these future-oriented projects are more time than money constrained. I know less than a hundred people who are interested and able to perform research into the far future and build a surrounding movement. By contrast, I know several people who have demonstrated their willingness to support ambitious research agendas, such as &lt;a href=&quot;http://en.wikipedia.org/wiki/Peter_Thiel&quot;&gt;Peter Thiel&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Jaan_Tallinn&quot;&gt;Jaan Tallin&lt;/a&gt;, Matt Wage and Matt Fallshaw. &lt;/p&gt;
+
+&lt;p&gt;One has to ask what we know that Peter Thiel doesn’t that is preventing him from giving all his funding to the MIRI or Jaan to the CSER. I think they know that their ability to turn cash into recruiting and employing valuable researchers is limited, or at least the marginal returns will decline at some point. Another line of reasoning is that many people are currently pursuing earn-to-give careers in finance and entrepreneurship that will take 3-10 years to pay off, and so it should soon become easier to get effective projects funded. Also most thought-leaders and organization-leaders who I have talked to consider that their organizations are more constrained by talent that funding. Of course, these statements are misleading or false if taken as absolutes. They make sense only when one talks about how much funding weighed against how much talent or recruitment ability. &lt;/p&gt;
+
+&lt;p&gt;On (3), given this information about the wide range of usefulness of far-future oriented research, I am highly uncertain about my impact there. I am also pretty uncertain about my value as an entrepreneur, but less so. Medicine is by far the most reliable option. Currently, it seems best to narrow my uncertainty on my impact as a researcher or in performing recruitment and movement-building. Then, I might move on to start-ups. If all this falls through, then I’ll happily be a doctor and pool my funding with the rest. Although even then it seems good to live in or visit the EA hubs to stay motivated and inform my donations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;How were you able to quickly integrate yourself with the San Francisco and Oxford EA communities in order to get involved?  What could an aspiring EA do to follow in your footsteps and also work on making a better future?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Professionally, I think EAs and rationalists can easily see your value if you are conscientious or have achieved some broad competencies. I recommend asking to be introduced to some of the leaders of these organizations by your best connected EA friends or cold-emailing them.&lt;/p&gt;
+
+&lt;p&gt;Socially, I think EAs and wonderful and inclusive people. If you have some social skills, or even if you don’t have many social skills, but you have interesting ideas, people will tend to like you.&lt;/p&gt;
+
+&lt;p&gt;My advice regarding integrating into the San Francisco and Oxford communities would be - just do it - I think that travelling to Oxford and San Francisco’s Bay Area are key steps in my intellectual development. Interning at the Center for Applied Rationality or the Center for Effective Altruism are good steps.  Or, one can attend a &lt;a href=&quot;http://www.rationality.org/&quot;&gt;CFAR workshop&lt;/a&gt; or get career counselling from 80,000 Hours.  And I am always happy to be contacted to answer questions and help with introductions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What is a typical day for you like these days?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Every day I read about topics that I think might improve my strategic understanding.  I try to research techniques recommended by people I respect. Recently I’ve been researching intelligence - I take creatine every day and measure its effect with a 20 minute battery of cognitive tests.  For the last fortnight I have been practising speed-reading, because I think that it is important to front-load the acquisition of skills that will help further productivity and research. I am doing emails to prepare the handbook. I discuss with researchers at Leverage and the Center for Applied Rationality regarding to how we can be smarter, more emotionally stable, and less biased. When I learn something new or useful, I write it down on my blog.&lt;/p&gt;
+
+&lt;p&gt;Of these professional jobs, I’m most confident in the importance of speed-reading, movement-building, and researching creatine. My ongoing plan is contingent on what works and I expect I’ll answer very differently two months from now.&lt;/p&gt;
+
+&lt;p&gt;Outside of EA, I like to see blues, funk and soul music, and comedy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think is the most important thing you’re not doing?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Probably what &lt;a href=&quot;http://en.wikipedia.org/wiki/Jason_Gaverick_Matheny&quot;&gt;Gaverick Matheny&lt;/a&gt; is doing.  He is the project manager at IARPA responsible for &lt;a href=&quot;http://www.iarpa.gov/Programs/ia/ACE/ace.html&quot;&gt;the Aggregative Contingent Estimation program&lt;/a&gt; in which the good judgement project are competing and aggregating opinions to improve probabilistic forecasts of real events. I think that improving collective prediction and collective decision-making is important for stability and cooperation between governments and that it’s important to improve the sanity level of populations and large govenrments, and this work seems like a step in the right direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Well, I think I’m out of questions.  It was great getting a chance to talk with you and learn more about you.  Do you have anything else you want to pass on to EAs before we leave?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I would say congrats on being one of the special few who is keen to change the world. By meeting others in your hometown and in EA hubs, you can learn faster and become more productive. Try to learn about the questions that expert EAs are asking themselves, and think about how you might fit in. EA is in a fascinating sociological and intellectual position, and I hope there are great things to come.&lt;/p&gt;
+
+&lt;p&gt;And thanks for the interview Peter!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 23, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1145,130 +1481,6 @@
 &lt;p&gt;Need more Sunday links in your life?  Here’s some more people doing Sunday Links: &lt;a href=&quot;http://foldl.me/&quot;&gt;Foldl&lt;/a&gt;, &lt;a href=&quot;http://abnormalreturns.com/&quot;&gt;Abnormal Returns&lt;/a&gt;, &lt;a href=&quot;http://blogs.seattletimes.com/seahawks/&quot;&gt;Seahawks Blog&lt;/a&gt;, and &lt;a href=&quot;http://simplystatistics.org/tag/sunday-links/&quot;&gt;Simply Statistics&lt;/a&gt;.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-20/&quot;&gt;Sunday Links #20&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 29, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Why Utilitarianism Says Donald Trump is a Terrorist]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/why-utilitarianism-says-donald-trump-is-a-terrorist/" />
-  <id>http://everydayutilitarian.com/essays/why-utilitarianism-says-donald-trump-is-a-terrorist</id>
-  <published>2013-12-29T00:53:54Z</published>
-  <updated>2013-12-29T00:53:54Z</updated>
-  <author>
-    <name></name>
-    <uri>http://everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;Awhile ago Donald Trump made a video &lt;a href=&quot;http://abcnews.go.com/Politics/OTUS/donald-trump-fails-drop-bombshell-offers-cash-obama/story?id=17553670#.UKloh-Oe_2E&quot;&gt;offering to donate $5 million to charity&lt;/a&gt; if only Barack Obama would release his passport and college records.  Of course, Barack Obama ended up refusing the offer, fueling Donald Trump’s long “conspiracy nut” belief that Obama wasn’t really born in America.&lt;/p&gt;
-
-&lt;p&gt;When the due date for the deal passed, however, &lt;a href=&quot;http://www.washingtontimes.com/blog/inside-politics/2012/nov/1/trump-blasts-obama-ignoring-5-million-transcript-o/&quot;&gt;Trump remarked how sad it was&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;After the deadline came and went, Mr. Trump posted a video on YouTube calling it a “very, very sad day for the United States of America.” He suggested that the president’s snub prevented him from giving $5 million to a group such as the Wounded Warrior Project, American Cancer Society or to the families of victims from the embassy attack in Benghazi, Libya.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;But there’s another way to think about this: why can’t Mr. Trump donate the $5 million anyway?  Certainly, there’s no requirement that Obama do anything for Trump to donate his money.  In a sense, Trump is playing the role of a terrorist – he has it within his ability to easily help the family of victims, wounded warriors, or people with cancer &lt;strong&gt;but chooses to hold these groups hostage until Obama gives into his demands.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;But, of course, there seems to be a critical distinction between declining to help people with your money (allowing them to be harmed through your inaction) and actively holding people hostage (doing harm to them).  However, the consequences are identical – regardless of whether Trump is refusing to make a donation or actively being a terrorist, the wounded veterans and family victims don’t get helped all the same.  Utilitarianism, in focusing on the consequences of the act, doesn’t seem to recognize this critical distinction, commonly called the &lt;em&gt;doing-allowing distinction&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this essay, I aim to further explore utilitarianism by exploring the doing-allowing distinction.&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;peter-singers-pond&quot;&gt;Peter Singer’s Pond&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;en.wikipedia.org/wiki/Peter Singer&quot;&gt;Peter Singer&lt;/a&gt; is a famous philosopher, and he is most famous for &lt;a href=&quot;http://www.alternet.org/story/146958/peter_singer%3A_would_you_save_the_life_of_a_child&quot;&gt;a thought experiment involving a pond&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Imagine you come across a small child who has fallen into a pond and is in danger of drowning.  You know that you can easily and safely rescue him, but you are wearing an expensive pair of shoes that will be ruined if you do. It would be wrong–monstrous, in fact–to walk on past the pond, leaving the child to drown, because you don’t want to have to buy a new pair of shoes. You can’t compare a child’s life with a pair of shoes!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Everyone I have talked to endorses saving the child, even at the cost of the shoes.  Yet, as Singer argues, there is a twist – if we would sacrifice our shoes to save a child from a pond, should we not also sacrifice our shoes (or at least the monetary cost of them) to save lives overseas?  Singer continues:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Yet while we all say that it would be wrong to walk past the child, there are other children whose lives we could save just as easily–and yet we don’t. UNICEF, the United Nations Children’s Fund, estimates that nearly 9 million children under 5 die each year from causes related to poverty. That’s 24,000 a day—a football stadium full of young children, dying every day (along with thousands of older children and adults who die from poverty every day as well). Some die because they don’t have enough to eat or clean water to drink. More die from measles, malaria, diarrhea and pneumonia—diseases that don’t exist in developed nations, or if they do, are easily cured and rarely fatal.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Describing a case in Ghana, a man told a researcher from the World Bank: “Take the death of this small boy this morning, for example. The boy died of measles. We all know he could have been cured at the hospital. But the parents had no money and so the boy died a slow and painful death, not of measles but out of poverty.&lt;/p&gt;
-
-&lt;p&gt;Some people are motivated to deny the analogy, and I agree with those who say &lt;a href=&quot;http://goodintents.org/aid-recipient-concerns/singers-analogy&quot;&gt;it really isn’t &lt;em&gt;that&lt;/em&gt; simple&lt;/a&gt;.  But a strong case can be made: &lt;a href=&quot;http://www.givewell.org/giving101/Changing-Someones-Life&quot;&gt;it’s been thoroughly and compellingly established&lt;/a&gt; via ample evidence that $1000-$2000 can prevent a case of an otherwise deadly disease in the developing world – saving someone who would have died at 5 and instead allowing them to live out their natural life, dying instead of old age of 60.  Or, in simpler terms, $1000-$2000 can &lt;em&gt;save a life&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, what is the “morally relevant” difference between drowning someone intentionally (doing) and declining to save someone from drowning (allowing)?  And what would be the difference between giving someone malaria (doing) and declining to save them from malaria via a life-saving donation?  As Peter Singer would argue, there’s little difference at all.&lt;/p&gt;
-
-&lt;h2 id=&quot;bathtubs-and-doing-allowing&quot;&gt;Bathtubs and Doing-Allowing&lt;/h2&gt;
-
-&lt;p&gt;Speaking of the difference between intentionally drowning someone and declining to save someone from drowning, philosopher James Rachels argues that there is no “morally relevant” difference by arguing a “contrasting case” in his paper &lt;a href=&quot;http://www.qcc.cuny.edu/socialSciences/ppecorino/DeathandDying_TEXT/Active%20and%20Passive%20Euthanasia.pdf&quot;&gt;“Active and Passive Euthanasia”&lt;/a&gt; (PDF):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the first, Smith stands to gain a large inheritance if anything should happen to his six-year-old cousin. One  evening while the child is taking his bath, Smith sneaks into the bathroom and drowns the child, and then arranges things so that it will look like an accident.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the second, Jones also stands to gain if anything should happen to his six-year-old cousin. Like Smith. Jones sneaks in planning to drown the child in his bath. However, just as he enters the bathroom Jones sees the child slip and hit his head, and fall face down in the water. Jones is delighted; he stands by, ready to push the child’s head back under if it is necessary, but it is not necessary. With only a little thrashing about, the child drowns all by himself, “accidentally,” as Jones watches and does nothing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Is there a relevant distinction to be made between how we evaluate the character of Smith and Jones?  Does one of them seem more malicious than the other?  Here’s Rachels’s analysis:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Now Smith killed the child, whereas Jones “merely” let the child die. That is the only difference between them. Did either man behave better, from a moral point of view? If the difference between killing and letting die were in itself a morally important matter, one should say that Jones’s behavior was less eprehensible than Smith’s. But does one really want to say that? I think not. In the first place, both men acted from the same motive, personal gain, and both had exactly the same end in view when they acted.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[…S]uppose Jones pleaded, in his own defense, “After all, I didn’t do anything except just stand there and watch the child drown. I didn’t kill him; I only let him die.” Again, if letting die were in itself less bad than killing, this defense should have at least some weight. But it does not. Such a “defense” can only be regarded as a grotesque perversion of moral reasoning. Morally speaking, it is no defense at all.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;the-trolley-problem&quot;&gt;The Trolley Problem&lt;/h2&gt;
-
-&lt;p&gt;Based on the bathtub case, it seems intuitive that the doing-allowing distinction doesn’t hold.  But this intuition is challenged by the famous &lt;a href=&quot;http://en.wikipedia.org/wiki/Trolley_problem&quot;&gt;“Trolley Problem”&lt;/a&gt;, a thought experiment first introduced by Phillipa Foot and then extensively modified by Judith Jarvis Thompson, which is perhaps even more famous than Singer’s pond.  It’s typically given in two different scenarios:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Scenario #1:&lt;/strong&gt; A train is hurdling down the tracks with failed breaks.  There are five people on the track ahead of the train who cannot get off in time.  They will die unless the train is diverted onto another track by a switch.  However, that other track has one person on it who will not be able to get off in time.  Should the train be intentionally diverted, killing one person, or allowed to stay on its present course, killing five people?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Typically, people will remark that the train should be intentionally diverted so that more lives can be saved.  It’s important to note, however, that the five people on the train are being &lt;em&gt;allowed&lt;/em&gt; to die by mere inaction on behalf of the switch-flipper.  So how culpable is the person in their deaths?  Consider this additional scenario:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Scenario #2:&lt;/strong&gt; A train is hurdling down the tracks with failed breaks.  There are five people on the track ahead of the train who cannot get off in time.  This time there is no switch, but you are on a ledge with a man who would be fat enough to stop the train in time, should you push him off the ledge to his death in order to save the five.  Should the fat man be intentionally pushed, killing one person, or allowed to stay on the ledge, leading to the death of the five people?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Interestingly, in this scenario, a sizable majority of people change their mind and argue that the fat man should not be killed, even though they had just endorsed the “kill one to save five” principle established earlier.  The difference here does seem to be the doing-allowing distinction – in the case of flipping the switch, you are impersonally changing events to allow one person to die instead of allowing five people to die; but in the case of the footbridge, you are &lt;em&gt;killing&lt;/em&gt; (doing) the fat man.&lt;/p&gt;
-
-&lt;h2 id=&quot;of-euthanasia-and-automatic-bank-accounts&quot;&gt;Of Euthanasia and Automatic Bank Accounts&lt;/h2&gt;
-
-&lt;p&gt;Escaping the world of ponds, bathtubs, and trolleys, we can bring the doing-allowing distinction to the more practical world.  Consider the controversial case of euthanasia – if someone is in unbearable pain and is going to die with no hope of rescue, it seems like we should end their pain.  However, it is not acceptable to outright kill the patient – that would be murder!  Instead, the patient can be &lt;em&gt;allowed to die&lt;/em&gt; by declining to continue life supporting treatment, and that’s legal.&lt;/p&gt;
-
-&lt;p&gt;But as Richard Chappell points out in his essay &lt;a href=&quot;http://www.philosophyetc.net/2006/01/doing-and-allowing.html&quot;&gt;“Doing and Allowing”&lt;/a&gt;, we could conceive of a strange life support machine that is set to turn itself off automatically unless the doctor intervenes to push a button to turn it back on.  That way, whenever a decision is made to terminate life support, it is the doctor merely refraining from pushing the button and allowing the patient to die rather than doing something to the patient.&lt;/p&gt;
-
-&lt;p&gt;Likewise, we could conceive of a bank account where we deposit our income that is set to automatically donate 10% of the contents to an effective non-profit organization.  Here, any spending of our income deliberately reduces the pool to be donated and thus deliberately deprives people from receiving life-saving treatment, just like your inaction to actually donate a portion of your income used to.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Here, in these two scenarios, the doing-allowing distinction falls apart.  So what are we to do?  The doing-allowing distinction is on shaky ground, and should be rejected.  But does this mean that Donald Trump should be considered a terrorist and that we are all murderers for refusing to donate as much as possible to charity?&lt;/p&gt;
-
-&lt;p&gt;In the next essay, I’ll sketch out a utilitarian account of blameworthiness that takes into account quality of will, and argues that we should donate income to charity because it is an incredibly worthy action, not because we are monsters for failing to do so.  …Trump, I hope you have your check for $5 million handy.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/why-utilitarianism-says-donald-trump-is-a-terrorist/&quot;&gt;Why Utilitarianism Says Donald Trump is a Terrorist&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 29, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[GiveDirectly: The Best Gift You Can Make This Christmas]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/givedirectly-the-best-gift-you-can-make-this-christmas/" />
-  <id>http://everydayutilitarian.com/essays/givedirectly-the-best-gift-you-can-make-this-christmas</id>
-  <published>2013-12-25T16:02:00Z</published>
-  <updated>2013-12-25T16:02:00Z</updated>
-  <author>
-    <name></name>
-    <uri>http://everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;strong&gt;In Christmas, gift giving is important.  However, it’s also important to take a moment to think about how the spirit of giving can be extended to those who don’t have enough money to afford Christmas.&lt;/strong&gt;  &lt;a href=&quot;http://www.givedirectly.org&quot;&gt;GiveDirectly&lt;/a&gt; is a new charity that will take any cash you donate it and give it directly, no strings attached, to extremely poor families in Africa.&lt;/p&gt;
-
-&lt;p&gt;While GiveDirectly is very successful, they don’t spend donors’ money on advertising, so they rely on people like me to spread the word about direct giving.  GiveDirectly has been thoroughly vetted and is supported by &lt;a href=&quot;http://www.givedirectly.org/evidence.php&quot;&gt;multiple studies&lt;/a&gt; and is currently one of the three top recommendations of &lt;a href=&quot;http://www.givewell.org&quot;&gt;GiveWell&lt;/a&gt;, a very selective independent charity evaluator.  Surprisingly, they’ve found that such transfers result in useful spending like buying food, investing in their homes, paying school fees, or increasing their savings.  Very few recipients use it on alcohol or tobacco.&lt;/p&gt;
-
-&lt;p&gt;Additionally, the foundation &lt;a href=&quot;http://www.goodventures.org&quot;&gt;Good Ventures&lt;/a&gt; has promised to &lt;a href=&quot;http://www.goodventures.org/about-us/press/good-ventures-announces-5-million-in-matching-funds-for-givedirectly&quot;&gt;match any donation to GiveDirectly&lt;/a&gt;, so any donation you give will be doubled!  So far they’ve raised $1.7 million that will be matched dollar-for-dollar by Good Ventures, which translates into over $3 million that will be transferred directly to families living in extreme poverty.  However, there’s still 40 days until the end of the matching challenge and $3.3 million in opportunity waiting.&lt;/p&gt;
-
-&lt;p&gt;If you’re able to, I encourage you take advantage of this opportunity to double the value of your holiday charitable giving.  There’s no way to put into words what that will mean for the recipients.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/givedirectly-the-best-gift-you-can-make-this-christmas/&quot;&gt;GiveDirectly: The Best Gift You Can Make This Christmas&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

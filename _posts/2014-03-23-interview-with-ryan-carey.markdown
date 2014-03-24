@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: true
-date: 2014-03-24 09:42:19-05:00
+date: 2014-03-23 10:11:19-05:00
 layout: post
 slug: interview-with-ryan-carey
 title: "Interview with Ryan Carey"
@@ -11,7 +11,7 @@ categories:
 
 Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.
 
-Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, [Felicifia](http://www.felicifia.org/), to co-creating an "effective altruist" meetup group in Melbourne, Australia.  He is now currently working with [Leverage Research](http://www.leverageresearch.org/) and the [Centre for Effective Altruism](http://centreforeffectivealtruism.org/) on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on [his personal blog](http://careyryan.com/). <!-- more -->
+Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, [Felicifia](http://www.felicifia.org/), to co-creating an "effective altruist" meetup group in Melbourne, Australia.  He is now currently working with [Leverage Research](http://www.leverageresearch.org/) and the [Centre for Effective Altruism](http://centreforeffectivealtruism.org/) on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on [his personal blog](http://careyryan.com/).
 
 <center><figure>
 	<img src="{{siteurl}}/images/posts/interview-with-ryan-carey/profile.png" alt="">
@@ -25,7 +25,6 @@ I was in high-school, and I had mentioned to my mother some of the things that I
 
 When I read his ideas about animals, poverty, and ethics in general, it just clicked for me - he seemed so reasonable and rational.  I went on to learn about this philosophy and gather others who shared that interest online. Many years later when the effective altruist and rationality movements developed, that just crystallized my thinking about how to make the world better and drove me to take more concrete actions.
 
--
 
 **PH:** _Cool!  I was influenced from utilitarianism to effective altruism myself.  But I know a lot of other utilitarians who aren't effective altruists and just are content to speculate and philosophize without doing anything.  It frustrates me.  What do you think compelled you made this jump to action?_
 
@@ -39,7 +38,6 @@ That would certainly be [the Hansonian explanation](http://www.overcomingbias.co
 
 And I guess Robin would agree that we can signal an expectation of effectiveness from others - I've mostly been activated by enjoying the company of other EAs - social signalling used for good, and I think there should be more of it!
 
--
 
 **PH:** _A brutally honest and self-aware answer, as much as I'd like to hope there's more to EA than runaway signalling!  Even so, do you think there's a way we could harness this desire for social points to get more people to want to do good?_
 
@@ -49,7 +47,6 @@ I think these groups deliver a lot of value to attendees, people learn a lot of 
 
 I think of LessWrong as an effective altruist group too. It's nominally a group for rationality, but almost everyone is altruistic when you get down far enough. LessWrong shares EAs' affinity for the scientific method and for evaluating consequences.  In turn, EAs frequently share LW-esque views about biases and epistemology.  They're sister groups in Melbourne, and I think everywhere, so I think all of these communities are tremendously important for encouraging people to do good.
 
--
 
 **PH:** _It’s certainly cool that you’ve got to be a part of the effective altruism wave with [EA Melbourne](http://careyryan.com/end-of-year-review-of-effective-altruism-melbourne/).  But that’s a pretty big initiative.  How did EA Melbourne get it’s start?_
 
@@ -59,7 +56,6 @@ A few of us met in a coffee shop to decide what we wanted to do and the very fir
 
 It takes regular, reliable timely work to coordinate things and a network who will attend, I think those are the main things.  That's what I would suggest to someone trying to launch an EA group, and it's glad to see that EA Melbourne certainly still has those going on.
 
--
 
 **PH:** _Do you think anything else made EA Melbourne a success, or was it just sheer hard work?  What would be some tips you might give to people who want to organize EA groups in their own local communities?_
 
@@ -69,7 +65,6 @@ You just need to make sure that you give people a reason to come, they need to k
 
 To start a group, I recommend contacting the central EA groups to get them to introduce you to anyone interested who lives locally and gathering a few people who are willing to throw their social networks into the project.  The Central EA groups can offer a little support remotely, but mostly having a kind, sociable and gender-balanced seed-group seems to often lead to a virtuous cycle that grows itself.  It just takes strong existing social networks and a couple of months of good events to bootstrap that.  I've elaborated on these tips in [an article on my blog](http://careyryan.com/ten-simple-tricks-to-meet-effective-altruists-and-you-wont-believe-what-happened-next/).
 
--
 
 **PH:** _That’s great advice.  Thanks!  But you’ve moved on from EA Melbourne.  What lead you to give all that up?  What are you doing now?_
 
@@ -88,7 +83,6 @@ All the way the goal is to learn how to produce a better future, including a maj
 
 So basically, EA Melbourne was a valuable project but now I’m running out of new ideas to share with them and I think I need to meet experts who have thought about things for longer in greater detail to keep learning. Also during the time when I was doing EA Melbourne I was working as a doctor there and now that I have finished my internship year I have the option to take on other responsibilities.
 
--
 
 **PH:** _What made you think that producing a better future is more important than, say, working on global poverty or nonhuman animal rights?_
 
@@ -100,7 +94,6 @@ Although it’s grandiose to want to save the world, it is egotistical to think 
 
 How exactly to secure our future, and ensure that everyone has better lives, including non-human animals is a very complex question, but i think that it is also the most important.
 
--
 
 **PH:** _What do you think of the current work being done on this topic?_
 
@@ -118,13 +111,11 @@ He also advocates that a bunch of strategies like alleviating poverty can have p
 
 At this stage, I find the narrower research on global catastrophic risks and artificial intelligence has the most compelling case for improving the far future, but I'm not sure if I have good reasons for that and I think that the field could easily be broken wide-open by an academic is informed and able to think more clearly about these things.
 
--
 
 **PH:** _Do you think you could be that kind of informed academic who breaks the field open?  If not, what do you expect to do?_
 
 **RC:** I doubt I can outdo all of Eliezer, Paul Christiano, Carl Shulman and all of [FHI](http://www.fhi.ox.ac.uk/).  But I hope that I can understand the field enough to know what kind of people are required, what kind of infrastructure can be provided to support their work, to publicise it and to reach out to gifted young people who might be interested.
 
--
 
 **PH:** _Do you have specific plans of action yet?  Or are you still thinking?_
 
@@ -136,7 +127,6 @@ The EA Handbook is a document that will introduce people to effective altruism a
 
 The online community The Most Good will provide a central location for EA blog posts, discussion and meetups.  To avoid duplicating work, we're using [Trike Apps](http://trikeapps.com/), who will build the software using the LessWrong codebase. This website is currently in the design stage, but hopefully it will be completed by mid-year.
 
--
 
 **PH:** _If you don't mind me asking, why are you doing all this yourself?  Earlier you said you were training to be a doctor.  I'll bet on a doctor's salary you could "[earn to give](http://www.effective-altruism.com/what-earning-give-0/)" and hire multiple people to work on these projects.
 
@@ -152,7 +142,6 @@ One has to ask what we know that Peter Thiel doesn’t that is preventing him fr
 
 On (3), given this information about the wide range of usefulness of far-future oriented research, I am highly uncertain about my impact there. I am also pretty uncertain about my value as an entrepreneur, but less so. Medicine is by far the most reliable option. Currently, it seems best to narrow my uncertainty on my impact as a researcher or in performing recruitment and movement-building. Then, I might move on to start-ups. If all this falls through, then I'll happily be a doctor and pool my funding with the rest. Although even then it seems good to live in or visit the EA hubs to stay motivated and inform my donations.
 
--
 
 **PH:** _How were you able to quickly integrate yourself with the San Francisco and Oxford EA communities in order to get involved?  What could an aspiring EA do to follow in your footsteps and also work on making a better future?_
 
@@ -162,7 +151,6 @@ Socially, I think EAs and wonderful and inclusive people. If you have some socia
 
 My advice regarding integrating into the San Francisco and Oxford communities would be - just do it - I think that travelling to Oxford and San Francisco's Bay Area are key steps in my intellectual development. Interning at the Center for Applied Rationality or the Center for Effective Altruism are good steps.  Or, one can attend a [CFAR workshop](http://www.rationality.org/) or get career counselling from 80,000 Hours.  And I am always happy to be contacted to answer questions and help with introductions.
 
--
 
 **PH:** _What is a typical day for you like these days?_
 
@@ -172,18 +160,17 @@ Of these professional jobs, I'm most confident in the importance of speed-readin
 
 Outside of EA, I like to see blues, funk and soul music, and comedy.
 
--
 
 **PH:** _What do you think is the most important thing you're not doing?_
 
 **RC:** Probably what [Gaverick Matheny](http://en.wikipedia.org/wiki/Jason_Gaverick_Matheny) is doing.  He is the project manager at IARPA responsible for [the Aggregative Contingent Estimation program](http://www.iarpa.gov/Programs/ia/ACE/ace.html) in which the good judgement project are competing and aggregating opinions to improve probabilistic forecasts of real events. I think that improving collective prediction and collective decision-making is important for stability and cooperation between governments and that it's important to improve the sanity level of populations and large govenrments, and this work seems like a step in the right direction.
 
--
 
 **PH:** _Well, I think I'm out of questions.  It was great getting a chance to talk with you and learn more about you.  Do you have anything else you want to pass on to EAs before we leave?_
 
 **RC:** I would say congrats on being one of the special few who is keen to change the world. By meeting others in your hometown and in EA hubs, you can learn faster and become more productive. Try to learn about the questions that expert EAs are asking themselves, and think about how you might fit in. EA is in a fascinating sociological and intellectual position, and I hope there are great things to come.
 
 And thanks for the interview Peter!
+
 
 **PH:** _Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!_
