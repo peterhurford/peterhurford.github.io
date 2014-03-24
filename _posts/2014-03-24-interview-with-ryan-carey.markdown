@@ -94,7 +94,7 @@ So basically, EA Melbourne was a valuable project but now I’m running out of n
 
 **RC:** The best version that I have heard of the argument is [a lecture by Max Tegmark at an old Singularity Summit](https://www.youtube.com/watch?v=GctnYAYcMhI). His idea is that future is so vast, in terms of time and space, and yet its value comes from the fact that we are here to see it. Now we can determine whether our civilization will grow across the universe or conversely whether nothing interesting happens again anywhere ever.
 
-I value the lives of people in a vilization a million years from now the same as lives of people now, so it seems so much worse if we muck things up cosmically.
+I value the lives of people in a civilization a million years from now the same as lives of people now, so it seems so much worse if we muck things up cosmically.
 
 Although it’s grandiose to want to save the world, it is egotistical to think that everything important is going to happen in one time and space, when we live in a universe that is so much larger - to think that our current experiences are the best that the universe has to offer.
 
