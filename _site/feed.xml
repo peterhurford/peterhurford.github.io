@@ -2,139 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Everyday Utilitarian</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-03-25T21:21:53-04:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://www.everydayutilitarian.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com" />
+<updated>2014-03-26T01:31:12-04:00</updated>
+<id>http://www.everydayutilitarian.com/</id>
 <author>
   <name></name>
-  <uri>/</uri>
+  <uri>http://www.everydayutilitarian.com/</uri>
   <email></email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Personal Productivity Analysis]]></title>
- <link rel="alternate" type="text/html" href="/essays/personal-productivity-analysis/" />
-  <id>/essays/personal-productivity-analysis</id>
-  <published>2014-03-31T05:00:00Z</published>
-  <updated>2014-03-31T05:00:00Z</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">
-
-  &lt;p&gt;&lt;a href=&quot;/essays/personal-productivity-analysis/&quot;&gt;Personal Productivity Analysis&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Fyfe-Hurford Debate: My Round One]]></title>
- <link rel="alternate" type="text/html" href="/essays/fyfe-hurford-debate-peter-round-one/" />
-  <id>/essays/fyfe-hurford-debate-peter-round-one</id>
-  <published>2014-03-28T05:00:00Z</published>
-  <updated>2014-03-28T05:00:00Z</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;Over at Felicifia, Alonzo Fyfe, blogger at &lt;a href=&quot;http://atheistethicist.blogspot.com/&quot;&gt;Atheist Ethicist&lt;/a&gt; and &lt;a href=&quot;http://secularite.com/real-world-ethics-alonzo-fyfe/&quot;&gt;The Secularite&lt;/a&gt;, and I &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;had a debate&lt;/a&gt; on “Which is a better theory of utilitarianism – Alonzo Fyfe’s desirism or Peter Hurford’s two-level utilitarianism?”.  I wanted to reprint that debate here.  Here’s the second entry (of eight).  This entry was written by me.  This is a continuiation of the &lt;a href=&quot;http://everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one&quot;&gt;previous entry written by Alonzo&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;I want to first spend some of my precious word count mentioning how much of an honor it is to be engaging with Alonzo Fyfe on this important issue.  In many ways I owe Alonzo a lot for where I am today.  In 2011, I was a huge fan of desirism.  I learned many aspects of moral philosophy from reading Fyfe and became interested in ethics due to following Alonzo’s journey to figure out the right thing.  Perhaps ironically the first place I learned about the “two level utilitarianism” was from Fyfe himself. &lt;/p&gt;
-
-&lt;p&gt;In this debate, I offer “two-level utilitarianism” as a better view of utilitarianism.  However, I agree with Alonzo that this is more of a friendly discussion than a debate.  I must admit it might be hard for Alonzo to give up desirism after spending so much of his life defending it, just as it would be hard for me to give up utilitarianism after having a blog called &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;“The Everyday Utilitarian”&lt;/a&gt;.  But I rest assured that we are both beholden to the truth more than our particular brands of utilitarianism and believe we can be trusted to update our beliefs in the face of new arguments.&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-two-level-utilitarianism&quot;&gt;What is “Two-Level Utilitarianism”?&lt;/h2&gt;
-
-&lt;p&gt;In 1981, R. M Hare wrote a book called &lt;a href=&quot;http://www.amazon.com/Moral-Thinking-Levels-Methods-Point/dp/0198246609&quot;&gt;&lt;strong&gt;Moral Thinking: It’s Levels, Method, and Point&lt;/strong&gt;&lt;/a&gt;, in which he defends preference utilitarianism in theory, but argues that the human condition requires two levels of utilitarianism in practice – an intuitive level of rule utilitarianism and a critical level of act utilitarianism.&lt;/p&gt;
-
-&lt;p&gt;Hare notes that throughout much of our life we operate at an intuitive level where we don’t have the time to think through a situation and we have to act on habit and internalized thinking.  At this intuitive level, we implement rule utilitarianism, where we internalize a set of rules and follow them.&lt;/p&gt;
-
-&lt;p&gt;However, Hare argued that, as often as is possible, we should re-evaluate these rules for ourselves and engage in full and deliberate reflection.  At this critical level we implement act utilitarianism and perhaps resolve a particularly difficult moral problem and figure out ways to update our moral rules so that they better guide us to maximize utility in our intuitive moments.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-makes-one-utilitarianism-better-than-another&quot;&gt;What Makes One Utilitarianism Better Than Another?&lt;/h4&gt;
-
-&lt;p&gt;In this debate, we seek to find the “best” version of utilitarianism.  But, in doing so, we need some method to make judgments about what makes a theory of utilitarianism better than another.  Alonzo did not overtly outline any specific criteria, so I thought I would suggest one: if the best utilitarian act is the act that maximizes utility and the best utilitarian rule is the rule that maximizes utility, I suggest that the best version of utilitarianism is the version that maximizes utility.&lt;/p&gt;
-
-&lt;p&gt;This principle of meta-utilitarianism makes sense – utilitarianism should not be self-defeating when followed, so we therefore should adopt whatever theory actually accomplishes utilitarian ends.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-the-case-for-two-level-utilitarianism&quot;&gt;What is the Case for Two-Level Utilitarianism?&lt;/h4&gt;
-
-&lt;p&gt;I call “stereotypical act utilitarianism the naïve strawman theory of utilitarianism that we should, in practice, be straightforward utilitarians exactly as described in the textbook – from the moment we wake up to the moment we go to sleep, we should analyze every option available to us and choose only that which maximizes utility.&lt;/p&gt;
-
-&lt;p&gt;Many theorists have pointed out that stereotypical act utilitarianism doesn’t work because of problems like how difficult it is to calculate utility for everything and how we will often suffer from imperfect information.  Faced with these methodological and motivational problems to utilitarianism, I suggest we abandon stereotypical act utilitarianism in practice while keeping it in theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.princeton.edu/~kahneman/docs/attention_and_effort/Attention_lo_quality.pdf&quot;&gt;Kahneman (1973)&lt;/a&gt; points out that we only have a finite amount of energy to allocate to each decision in our life.  Research in psychology has put forth “dual processing theory” where we have a “System I” style of thought that is quick, reflexive, and intuitive and a “System II” style of thought that is slow, reflective, and analytical.  This dual processing theory fits two-level utilitarianism perfectly.&lt;/p&gt;
-
-&lt;p&gt;If we’re realistic, we have to be comfortable with the fact that many of our decisions will be intuitive.  Indeed, making an intuitive snap decision without fully calculating out all the options will actually be the act utilitarian thing to do when we account for the fact that these calculations drain our energy and take time away from our ability to focus on other things.&lt;/p&gt;
-
-&lt;p&gt;However, that doesn’t mean we should stop there.  In fact, I think that while we shouldn’t strive to be act utilitarians at all times, the vast majority of people would become better at producing utility if they were more reflective and self-aware, not less.  When we have time to reflect, we can deliberately engage in “System II” processes (or operate at the critical level, as Hare calls it) and reflect upon our rules to sharpen them.&lt;/p&gt;
-
-&lt;p&gt;This divide provides us with the need for a two-level utilitarianism in order to fit it pragmatically.  It’s also this divide between situations that prevents rule utilitarianism from collapsing into act utilitarianism, which was a worry of Alonzo’s.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-makes-rules-better-than-desires&quot;&gt;What Makes Rules Better Than Desires?&lt;/h4&gt;
-
-&lt;p&gt;Desirism asks us to desire that which we have many and strong reasons to desire.  From a moral standpoint, this means adopting desires that help satisfy the desires of others.  However, it is far harder to alter your desires on a fundamental level than it is to maintain a desire to follow the best rules (out of a desire to be moral, perhaps) and then alter the rules you possess.  There’s also a &lt;a href=&quot;http://commonsenseatheism.com/?p=11191&quot;&gt;concern that desires do not exist&lt;/a&gt;, while rules certainly do exist.&lt;/p&gt;
-
-&lt;p&gt;Moreover, desirism does not elaborate on the role of reflection like two-level utilitarianism does.  What process are we engaging in when we decide what desires to adopt?  How do we change our own desires?  In answering these two questions, how is desirism different from rule utilitarianism?&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-utility--dont-know-but-not-intrinsic-value&quot;&gt;What is Utility?  Don’t Know, But Not Intrinsic Value.&lt;/h4&gt;
-
-&lt;p&gt;One area where our moral systems seem to diverge is in attitudes toward utility.  Alonzo is fond of how desirism need only operate on desires and does not need any “intrinsic value” or “value-laden term”.  I agree with Alonzo in his critique of brain-state theories of value.  Personally, I have not yet found a satisfactory reduction of utility that is sufficiently rigorous and resolves moral dilemmas in a way that satisfies me.&lt;/p&gt;
-
-&lt;p&gt;Luckily, for now, the utilitarian choices are pretty clear pragmatically without a robust theory of utility.  What’s important for the sake of this debate is that, like desirism, my version of two-level utilitarianism also does not rely on any “intrinsic value” or spooky stuff in order to work.  Instead, utility matters because people (and other beings capable of experience) matter, and these lives matter to me simply because I have a desire to make their lives better.  I consider myself to be a moral anti-realist and have therefore constructed an anti-realist version of utilitarianism.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-ought-we-do-in-an-exotic-situation&quot;&gt;What Ought We Do in an Exotic Situation?&lt;/h4&gt;
-
-&lt;p&gt;Another possible divergence is the “10000 Sadist Problem”.  Because this situation is so bizarre and unlike situations we encounter in everyday life, it’s likely that our normal rules and intuitions might fail to maximize utility.  Therefore, we should go to the critical level if time allows.&lt;/p&gt;
-
-&lt;p&gt;First, I’d like to mention that the better utilitarian theory is the one that maximizes utility, not the one that gives the response to hypothetical scenarios that satisfies people’s intuitions.  This is what Luke Muelhauser calls &lt;a href=&quot;http://commonsenseatheism.com/?p=523&quot;&gt;the wrong test for moral theories&lt;/a&gt;, precisely because we don’t have a reason to expect the correct moral answer to always be the intuitive one.&lt;/p&gt;
-
-&lt;p&gt;That being said, I don’t think two-level utilitarianism would have you give up the kid to the 10000 sadists.  Many people think that utilitarianism suggests that the needs of the many outweigh the needs of the few.  This isn’t precisely right, because utilitarianism also takes the strength of the need into account.  In this case, the need of the kid to avoid being tortured is intensely strong.  So strong, I’d suspect, that it still outweighs the satisfaction that the 10000 sadists get.  Generally, pain hurts a lot more than pleasure satisfies both in intensity and duration, and therefore can be expected to dominate in this calculation.&lt;/p&gt;
-
-&lt;h4 id=&quot;just-how-utilitarian-is-desirism-anyway&quot;&gt;Just How Utilitarian is Desirism, Anyway?&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Does Desirism Actually Maximize?&lt;/em&gt;
-Alonzo suggests that desirism resolves the 10000 Sadists by suggesting we look at the desire to torture and ask if we need that desire.  Because we don’t possess reasons for a desire to torture, we can safely discard it.&lt;/p&gt;
-
-&lt;p&gt;However, who possesses the reasons for having or discarding desires?  The 10000 sadists themselves certainly have many reasons to keep their desire to torture – they get satisfaction from doing so.  The “10000 Sadists Problem” attacks utilitarianism’s maximization process, arguing (naïvely) that the utility gained by the 10000 sadists outweighs the utility lost by the tortured kid.  In order to discard the desire to torture, desirism must go against this grain of maximization and do something else.  I’m not sure what this process is.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why Does Desirism Not Count Future People?&lt;/em&gt;
-Secondly, from a theoretical standpoint, I worry that desirism does not take desires into account that do not yet exist.  Perhaps Alonzo feels this is a feature and not a bug, and certainly “person-affecting” theories of utilitarianism are held among many theorists.  However, most utilitarian theories believe that future people matter just as much as present people, and we shouldn’t discriminate against them in our analysis just because they don’t yet exist.  I don’t know what Alonzo’s reasoning is for making this distinction into a morally relevant one.&lt;/p&gt;
-
-&lt;p&gt;Also, while I don’t believe matching intuitions is important, this desire to help future people does match our intuitions – think of the desire to curb global warming or tackle large social challenges that will only benefit people several generations from now.  The very desire to leave a better Earth for future generations presupposes that future generations matter.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Does Desirism Hear The Strongest Needs?&lt;/em&gt;
-Lastly, from a pragmatic standpoint, I worry that desirism does not do a good enough job identifying which desires are the most numerous and most strong.  Right now, I believe one of the most pressing needs is extreme poverty in the developing world.  Two-level utilitarianism explicitly states we should evaluate needs objectively, and therefore brings extreme poverty to our attention.  However, the desires of these people to be free from extreme poverty don’t speak very loudly and don’t weigh much on the minds of us Americans.  When we Americans think of desires we have strong reasons to support, we think of those desires that speak to us loudly and end up supporting many first-world causes.  I think this is a utilitarian mistake and would hope the utilitarian theory we adopt guides people easily to this understanding.&lt;/p&gt;
-
-&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
-
-&lt;p&gt;I offer two-level utilitarianism as the utilitarian theory that is better suited to maximize utility when implemented in practice.  I’ve argued in favor of two-level utilitarianism because it (a) fits with findings in psychology that we have two processing systems and limited attention to allocate to every event in the world.&lt;/p&gt;
-
-&lt;p&gt;This theory is more practical than desirism because (b) rules are more malleable than desires, (c) the role of reflection in desirism is less clear, (d) desires may not exist, and (e) two-level utilitarianism makes it clearer impartial attitudes matter when considering what problems ought to be prioritized morally.&lt;/p&gt;
-
-&lt;p&gt;Additionally, I’ve argued that desirism falls short of utilitarianism because it (f) has a strange attitude toward maximization and (g) does not take the welfare of future people into account.&lt;/p&gt;
-
-&lt;p&gt;Lastly, I’ve answered Alonzo’s problem with utility by agreeing with him and arguing that two-level utilitarianism also only relies on entities that exist.  I also answered Alonzo’s 10000 Sadist Challenge by arguing that it is the wrong test for a moral theory.  And I answered Alonzo’s concern that rule utilitarianism collapses into act utilitarianism by showing the impossibility of being act utilitarian all the time.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/essays/fyfe-hurford-debate-peter-round-one/&quot;&gt;Fyfe-Hurford Debate: My Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 28, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Personal Review for December 2013 - February 2014]]></title>
- <link rel="alternate" type="text/html" href="/essays/personal-review-for-december-2013-february-2014/" />
-  <id>/essays/personal-review-for-december-2013-february-2014</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/" />
+  <id>http://www.everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014</id>
   <published>2014-03-26T05:00:00Z</published>
   <updated>2014-03-26T05:00:00Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://everydayutilitarian.com/essays/six-month-review-ii-june-november-2013/&quot;&gt;“Six Month Review II: June-November 2013”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -295,19 +182,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;Overall, I’m telling myself to keep up the good work.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/personal-review-for-december-2013-february-2014/&quot;&gt;Personal Review for December 2013 - February 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/&quot;&gt;Personal Review for December 2013 - February 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Interview with Ryan Carey]]></title>
- <link rel="alternate" type="text/html" href="/essays/interview-with-ryan-carey/" />
-  <id>/essays/interview-with-ryan-carey</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/interview-with-ryan-carey/" />
+  <id>http://www.everydayutilitarian.com/essays/interview-with-ryan-carey</id>
   <published>2014-03-24T14:42:19Z</published>
   <updated>2014-03-24T14:42:19Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
@@ -491,38 +378,38 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Behold!  The New Site!]]></title>
- <link rel="alternate" type="text/html" href="/essays/behold-the-new-site/" />
-  <id>/essays/behold-the-new-site</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/behold-the-new-site/" />
+  <id>http://www.everydayutilitarian.com/essays/behold-the-new-site</id>
   <published>2014-03-14T14:39:00Z</published>
   <updated>2014-03-14T14:39:00Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I think it’s important to keep things fresh.  It seems like at least once a year or so, I change what the site looks like.  This year, server problems, financial costs, and other bloat inspired me to move away from &lt;a href=&quot;http://www.wordpress.org&quot;&gt;Wordpress&lt;/a&gt; and paid hosting on &lt;a href=&quot;http://www.dreamhost.com&quot;&gt;Dreamhost&lt;/a&gt; to the wonderful land of a &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll static blog&lt;/a&gt; hosted by &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;.  Back five years ago when I first signed on with Dreamhost, none of these tools existed.  Now, it’s time that I finally adopt them.&lt;/p&gt;
 
 &lt;p&gt;I’ll still have to get used to writing in Markdown.  But hopefully you find this site faster and easier to use than before.  It sure looks better on mobile phones.  Let me know if you have any comments.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/behold-the-new-site/&quot;&gt;Behold!  The New Site!&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/behold-the-new-site/&quot;&gt;Behold!  The New Site!&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #23]]></title>
- <link rel="alternate" type="text/html" href="/essays/sunday-links-23/" />
-  <id>/essays/sunday-links-23</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/sunday-links-23/" />
+  <id>http://www.everydayutilitarian.com/essays/sunday-links-23</id>
   <published>2014-03-10T01:28:59Z</published>
   <updated>2014-03-10T01:28:59Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;So I still do these…  Yeah.&lt;/p&gt;
@@ -546,19 +433,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/&quot;&gt;Life is a game, this is your strategy guide&lt;/a&gt;.  Cute.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-23/&quot;&gt;Sunday Links #23&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-23/&quot;&gt;Sunday Links #23&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Effective Altruism is Not a Competition]]></title>
- <link rel="alternate" type="text/html" href="/essays/effective-altruism-is-not-a-competition/" />
-  <id>/essays/effective-altruism-is-not-a-competition</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/" />
+  <id>http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition</id>
   <published>2014-03-01T15:08:00Z</published>
   <updated>2014-03-01T15:08:00Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;In the past, some people have suggested that we “gamify” effective altruism some more, and create points for doing altruistic-y things, like donating our money or volunteering our time.  I think this could be a good idea, but rather than seeing individual scores, I’d much rather see a collective team score for EA.  We’d compete as a group to beat our past group selves (make March better than February, for example) rather than compete amongst ourselves as individuals.&lt;/p&gt;
@@ -577,19 +464,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Idea adapted from Brian Tomasik’s &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=10&amp;amp;t=797&quot;&gt;“Teamwork over Envy”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Career Advice for Jacy, Choosing Between Ph.D. Programs]]></title>
- <link rel="alternate" type="text/html" href="/essays/career-advice-for-jacy-choosing-between-ph-d-programs/" />
-  <id>/essays/career-advice-for-jacy-choosing-between-ph-d-programs</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs/" />
+  <id>http://www.everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs</id>
   <published>2014-02-21T05:00:27Z</published>
   <updated>2014-02-21T05:00:27Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Jacy is an effective altruist trying to decide what career to go into after college.  He’s currently choosing between a Ph.D. in neuroscience or a Ph.D. in economics.  He wrote to me asking for advice.  This was my reply.  We both agreed it would be good to publish it so that others thinking about Ph.D. programs can benefit as well.&lt;/em&gt;&lt;/p&gt;
@@ -610,19 +497,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;In addition, you might find it useful to reflect on your open options with criteria on paper, like I did &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;here&lt;/a&gt;.  Then publish it for people to review and critique.  This was the single most helpful thing I did for myself, but I understand it’s not how everyone thinks through things best.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/career-advice-for-jacy-choosing-between-ph-d-programs/&quot;&gt;Career Advice for Jacy, Choosing Between Ph.D. Programs&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs/&quot;&gt;Career Advice for Jacy, Choosing Between Ph.D. Programs&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fyfe-Hurford Debate: Alonzo's Round One]]></title>
- <link rel="alternate" type="text/html" href="/essays/fyfe-hurford-debate-alonzo-round-one/" />
-  <id>/essays/fyfe-hurford-debate-alonzo-round-one</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one/" />
+  <id>http://www.everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one</id>
   <published>2014-02-19T05:00:34Z</published>
   <updated>2014-02-19T05:00:34Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Over at Felicifia, Alonzo Fyfe, blogger at &lt;a href=&quot;http://atheistethicist.blogspot.com/&quot;&gt;Atheist Ethicist&lt;/a&gt; and &lt;a href=&quot;http://secularite.com/real-world-ethics-alonzo-fyfe/&quot;&gt;The Secularite&lt;/a&gt;, and I &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;had a debate&lt;/a&gt; on “Which is a better theory of utilitarianism – Alonzo Fyfe’s desirism or Peter Hurford’s two-level utilitarianism?”.  I wanted to reprint that debate here.  Here’s the first entry (of eight).  This entry was written by Alonzo Fyfe.&lt;/em&gt;&lt;/p&gt;
@@ -733,19 +620,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;My goal here has been to explain the differences between desirism and other forms of utilitarianism in order to highlight its strengths. It is a form of rule utilitarianism that does not collapse into act utilitarianism. As such, it can avoid the objections to act utilitarianism based on exotic cases. Its rules are potential physical entities in the real world. It does not require postulating some type of intrinsic value or any other type of exotic entity. It handles Nozick’s experience machine and provides a real-world answer to the question, “What is value?”&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/fyfe-hurford-debate-alonzo-round-one/&quot;&gt;Fyfe-Hurford Debate: Alonzo's Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one/&quot;&gt;Fyfe-Hurford Debate: Alonzo's Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How Do The Extremely Poor Live?]]></title>
- <link rel="alternate" type="text/html" href="/essays/how-do-the-extremely-poor-live/" />
-  <id>/essays/how-do-the-extremely-poor-live</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/how-do-the-extremely-poor-live/" />
+  <id>http://www.everydayutilitarian.com/essays/how-do-the-extremely-poor-live</id>
   <published>2014-02-17T15:45:11Z</published>
   <updated>2014-02-17T15:45:11Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;What is it like to be extremely poor?&lt;/p&gt;
@@ -896,19 +783,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;This article was originally written for the Giving What We Can blog, but has not yet been published there.  All pictures are from GiveWell’s site visit to Kenya for Give Directly, used with permission from Elie Hassenfeld.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/how-do-the-extremely-poor-live/&quot;&gt;How Do The Extremely Poor Live?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-do-the-extremely-poor-live/&quot;&gt;How Do The Extremely Poor Live?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Could EA Community Building be an Easy and Underfunded Win?]]></title>
- <link rel="alternate" type="text/html" href="/essays/could-ea-community-building-be-an-easy-and-underfunded-win/" />
-  <id>/essays/could-ea-community-building-be-an-easy-and-underfunded-win</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win/" />
+  <id>http://www.everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win</id>
   <published>2014-02-09T15:23:30Z</published>
   <updated>2014-02-09T15:23:30Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;There is a lot of effort in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Effective_altruism&quot;&gt;effective altruist movement&lt;/a&gt; right now.  Community building would include anything broadly related to recruitment and retention for the EA movement, aiming to get existing EAs to become more EA (and less likely to quit EA) as well as getting new people to become EA.  This seems &lt;em&gt;prima facie&lt;/em&gt; to be very high impact for many classical reasons like the &lt;a href=&quot;http://80000hours.org/blog/43-the-haste-consideration&quot;&gt;haste consideration&lt;/a&gt; that recruiting one person now seems to double your impact.&lt;/p&gt;
@@ -929,19 +816,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Also discussed on Facebook &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635723783150649/?stream_ref=3&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635093286547032/?stream_ref=2&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/could-ea-community-building-be-an-easy-and-underfunded-win/&quot;&gt;Could EA Community Building be an Easy and Underfunded Win?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win/&quot;&gt;Could EA Community Building be an Easy and Underfunded Win?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What Have I Been Doing? IV]]></title>
- <link rel="alternate" type="text/html" href="/essays/what-have-i-been-doing-iv/" />
-  <id>/essays/what-have-i-been-doing-iv</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/what-have-i-been-doing-iv/" />
+  <id>http://www.everydayutilitarian.com/essays/what-have-i-been-doing-iv</id>
   <published>2014-02-07T15:07:50Z</published>
   <updated>2014-02-07T15:07:50Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Periodically, in times of blog inactivity, I like to come back and report all the things I’ve been doing while not blogging.  Here’s a complete run down of the more recent:&lt;/p&gt;
@@ -966,19 +853,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;I’m going to be giving a 12-minute &lt;a href=&quot;https://www.ted.com/tedx&quot;&gt;TEDx talk&lt;/a&gt;&lt;/strong&gt; on &lt;a href=&quot;http://www.givewell.org/giving101&quot;&gt;effective giving&lt;/a&gt; at &lt;a href=&quot;http://denison.edu/campus/get-involved/whats-happening/tedxdenisonu&quot;&gt;TEDxDenisonU&lt;/a&gt; on the 1st of March.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/what-have-i-been-doing-iv/&quot;&gt;What Have I Been Doing? IV&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/what-have-i-been-doing-iv/&quot;&gt;What Have I Been Doing? IV&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What is .impact up to?]]></title>
- <link rel="alternate" type="text/html" href="/essays/what-is-impact-up-to/" />
-  <id>/essays/what-is-impact-up-to</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/what-is-impact-up-to/" />
+  <id>http://www.everydayutilitarian.com/essays/what-is-impact-up-to</id>
   <published>2014-02-03T22:37:09Z</published>
   <updated>2014-02-03T22:37:09Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;.impact recently gave a presentation about what the group is up to. Feel free to watch it on YouTube here:&lt;/p&gt;
@@ -987,19 +874,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;It’s a little rough right now, but we’ll get better. Also, check out our website: &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;http://www.dotimpact.im&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/what-is-impact-up-to/&quot;&gt;What is .impact up to?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/what-is-impact-up-to/&quot;&gt;What is .impact up to?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[I've Started a Personal Blog]]></title>
- <link rel="alternate" type="text/html" href="/essays/ive-started-a-personal-blog/" />
-  <id>/essays/ive-started-a-personal-blog</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/ive-started-a-personal-blog/" />
+  <id>http://www.everydayutilitarian.com/essays/ive-started-a-personal-blog</id>
   <published>2014-01-31T20:21:20Z</published>
   <updated>2014-01-31T20:21:20Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;So I haven’t been writing as much as I used to, but one thing I have started getting interested in is writing about “not utilitarianism”.  Thus, I’ve thought it easiest to start a new blog elsewhere: &lt;a href=&quot;http://peterhurford.tumblr.com&quot;&gt;peterhurford.tumblr.com&lt;/a&gt;.&lt;/p&gt;
@@ -1008,19 +895,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;Rest assured, I’ll still be keeping this blog going.&lt;/strong&gt;  But sometimes, I’ll have things that are best said elsewhere.  And now I have an elsewhere to say those things.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/ive-started-a-personal-blog/&quot;&gt;I've Started a Personal Blog&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/ive-started-a-personal-blog/&quot;&gt;I've Started a Personal Blog&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #22]]></title>
- <link rel="alternate" type="text/html" href="/essays/sunday-links-22/" />
-  <id>/essays/sunday-links-22</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/sunday-links-22/" />
+  <id>http://www.everydayutilitarian.com/essays/sunday-links-22</id>
   <published>2014-01-19T03:16:03Z</published>
   <updated>2014-01-19T03:16:03Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.montchrishubbard.com/blog/thegift.html&quot;&gt;A profile of Zell Kravinsky&lt;/a&gt;.  Any biography that opens casually with “Last summer, not long after [he] had given almost his entire forty-five-million-dollar real-estate fortune to charity” has to be good.&lt;/p&gt;
@@ -1057,19 +944,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://lesswrong.com/lw/j10/on_learning_difficult_things/&quot;&gt;How to learn difficult things&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-22/&quot;&gt;Sunday Links #22&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-22/&quot;&gt;Sunday Links #22&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Second Interview with Jon Behar on Giving Games]]></title>
- <link rel="alternate" type="text/html" href="/essays/second-interview-with-jon-behar-on-giving-games/" />
-  <id>/essays/second-interview-with-jon-behar-on-giving-games</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games/" />
+  <id>http://www.everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games</id>
   <published>2014-01-16T17:38:41Z</published>
   <updated>2014-01-16T17:38:41Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-jon-behar/&quot;&gt;“Interview with Jon Behar”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -1152,19 +1039,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Originally written for &lt;a href=&quot;http://www.givingwhatwecan.org/blog/2014-01-15/giving-games-an-interview-with-jon-behar&quot;&gt;the Giving What We Can Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/second-interview-with-jon-behar-on-giving-games/&quot;&gt;Second Interview with Jon Behar on Giving Games&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games/&quot;&gt;Second Interview with Jon Behar on Giving Games&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Case Study: I (Mostly) Finished Choosing Between Careers]]></title>
- <link rel="alternate" type="text/html" href="/essays/my-case-study-i-mostly-finished-choosing-between-careers/" />
-  <id>/essays/my-case-study-i-mostly-finished-choosing-between-careers</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/" />
+  <id>http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers</id>
   <published>2014-01-13T05:00:20Z</published>
   <updated>2014-01-13T05:00:20Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/comparing-across-my-five-career-categories/&quot;&gt;“Comparing Across My Five Career Categories”&lt;/a&gt;, &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-careers-conversation-with-holden-karnofsky/&quot;&gt;“My Careers Conversation with Holden Karnofksy”&lt;/a&gt;, and &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-conversation-with-satvik-beri/&quot;&gt;“My Conversation with Satvik Beri”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -1357,19 +1244,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;This was originally written &lt;a href=&quot;http://80000hours.org/blog/289-case-study-choosing-between-working-at-effective-altruist-organisations-earning-to-give-and-graduate-school&quot;&gt;for the 80,000 Hours Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;My Case Study: I (Mostly) Finished Choosing Between Careers&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;My Case Study: I (Mostly) Finished Choosing Between Careers&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[EverydayUtilitarian's Top Ten in 2013]]></title>
- <link rel="alternate" type="text/html" href="/essays/everydayutilitarians-top-ten-in-2013/" />
-  <id>/essays/everydayutilitarians-top-ten-in-2013</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013/" />
+  <id>http://www.everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013</id>
   <published>2014-01-07T23:47:42Z</published>
   <updated>2014-01-07T23:47:42Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Someone asked me what the top ten posts are on Everyday Utilitarian.  I use Google Analytics, so this was a pretty easy thing to find out.  I looked at page visits for each essay over all of 2013.  Of course, this isn’t a perfect metric, as essays written later in the year have less of a chance of getting viewed, and the “hits” metric is skewed a lot toward what I choose to publicize via Facebook and LessWrong and what I don’t.&lt;/p&gt;
@@ -1410,19 +1297,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 &lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/essays/everydayutilitarians-top-ten-in-2013/&quot;&gt;EverydayUtilitarian's Top Ten in 2013&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013/&quot;&gt;EverydayUtilitarian's Top Ten in 2013&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #21]]></title>
- <link rel="alternate" type="text/html" href="/essays/sunday-links-21/" />
-  <id>/essays/sunday-links-21</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/sunday-links-21/" />
+  <id>http://www.everydayutilitarian.com/essays/sunday-links-21</id>
   <published>2014-01-05T16:52:09Z</published>
   <updated>2014-01-05T16:52:09Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I &lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-20/#comment-1284119265&quot;&gt;promised to make the link roundups relate a little better&lt;/a&gt;, so here you go:&lt;/p&gt;
@@ -1461,19 +1348,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://www.givewell.org/files/conversations/Gara%20LaMarche%20-%20May%20and%20June%202013%20(public).pdf&quot;&gt;Some notes from GiveWell on philanthropy in political advocacy&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-21/&quot;&gt;Sunday Links #21&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-21/&quot;&gt;Sunday Links #21&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introducing .impact]]></title>
- <link rel="alternate" type="text/html" href="/essays/introducing-impact/" />
-  <id>/essays/introducing-impact</id>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/introducing-impact/" />
+  <id>http://www.everydayutilitarian.com/essays/introducing-impact</id>
   <published>2014-01-05T16:28:57Z</published>
   <updated>2014-01-05T16:28:57Z</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I’ve talked about .impact in a few other places, but now we’ve finally written a summary of it and have launched a new website. Look here to see what we’re up to!&lt;/p&gt;
@@ -1488,7 +1375,145 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
   &lt;p&gt;We’re soon launching &lt;a href=&quot;http://skillshare.im/&quot;&gt;Skillshare.im&lt;/a&gt;, a place to share skills and services for free. We collaborated on several Trello boards to &lt;a href=&quot;https://trello.com/b/npVl3e9d/effective-altruist-project-board&quot;&gt;organize projects&lt;/a&gt;, &lt;a href=&quot;https://trello.com/b/shY5TwCm/effective-altruist-research-topics&quot;&gt;research topics&lt;/a&gt;, and &lt;a href=&quot;https://trello.com/b/F3O577AH/ea-productivity-resources&quot;&gt;useful resources&lt;/a&gt;. We’ve brainstormed and started outlining projects like a &lt;a href=&quot;https://impact.hackpad.com/Studying-Vegetarian-Advocacy-m11aW51ENVW&quot;&gt;vegetarian advocacy study&lt;/a&gt;, an &lt;a href=&quot;https://impact.hackpad.com/EA-Wiki-y8z6wp5yCxD&quot;&gt;EA wiki&lt;/a&gt;, and &lt;a href=&quot;https://impact.hackpad.com/Argument-Mapper-hNKt3IU7gAv&quot;&gt;argument mapping software&lt;/a&gt;. We’ve had &lt;a href=&quot;http://dotimpact.im/meetings.html&quot;&gt;several weekly group hangouts and discussions&lt;/a&gt; with a variety of individuals. Most of our general discussion holds place in &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/&quot;&gt;our Facebook group&lt;/a&gt;, which now has &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/members/&quot;&gt;114 members&lt;/a&gt; and seems to be growing organically at a rate of 5 per week.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/essays/introducing-impact/&quot;&gt;Introducing .impact&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/introducing-impact/&quot;&gt;Introducing .impact&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Year of Mostly New Years Resolutions]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/a-year-of-mostly-new-years-resolutions/" />
+  <id>http://www.everydayutilitarian.com/essays/a-year-of-mostly-new-years-resolutions</id>
+  <published>2014-01-03T03:11:18Z</published>
+  <updated>2014-01-03T03:11:18Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/new-years-resolutions-december-edition/&quot;&gt;“New Years Resolutions: December Edition”&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, happy new year, everyone!&lt;/p&gt;
+
+&lt;p&gt;Many people may come to this new year armed with new years resolutions.  I, however, come armed with the resolutions I brought all the way from January 2013.  I did it – a full year of (mostly) sticking to my new years resolutions.&lt;/p&gt;
+
+&lt;p&gt;In this essay, I’ll overview how I did in December, overview how I did in 2013 overall, and then set up resolutions for January 2014.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-december-go&quot;&gt;How Did December Go?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Points:&lt;/strong&gt;  My goal was to score 17205 “daypoints” over the month according to my scoring system where different habits of mine are assigned different point values for each day.  Overall, I earned 16725 points, which was 97.2% of my goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time on task:&lt;/strong&gt; This month I spent an average of 8.98 hours a day working (a 62.86 hour work week), which is down from November’s 74.06 week, October’s 74.9 hour work week, and September’s 81.5 hour work week, which means I’m still trending downward, which could be problematic.  (Note that work includes everything I do that’s not sleep, reading, eating, exercising, showering, getting dressed, hanging out with friends/family, video games, spacing out, watching TV, and other commonsense things.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time with friends/family:&lt;/strong&gt; I spent an average of 4.72 hours a day with friends/family, which is up from 4.2hrs/day in November and up from 3.3 hours a day in October.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exercise:&lt;/strong&gt; I spent an average of 31.45 minutes a day &lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-is-peter-exercising/&quot;&gt;doing exercise&lt;/a&gt; – &lt;a href=&quot;http://www.stronglifts.com/&quot;&gt;Stronglifts&lt;/a&gt; and some running (down from 58.3 minutes/day in November and 64.5 minutes/day in October).  I improved my deadlift (215lbs to 235lbs) and squat (from 190lbs to 200lbs), but I did not improve my benchpress (stayed at 85lbs), or running distance (stayed at 6.2mi).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Goals:&lt;/strong&gt; I met my goals for sleeping 69% (down from 75%) of the time, breakfast 81% (down from 90%) of the time, lunch 87% (down from 90%), dinner 71% (up from 50%), not snacking 16% (down from 45%), cleanliness 81% (down from 93%), and order 93% (up from 88%).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall:&lt;/strong&gt; Overall, I have not failed my resolutions, but I have backslid on a lot of them, noticeably.  I’m going to need to turn this around for 2014.&lt;/p&gt;
+
+&lt;h2 id=&quot;overall&quot;&gt;2013 Overall&lt;/h2&gt;
+
+&lt;p&gt;Being disappointed at sliding away from my resolutions from October through December, it’s hard to remember the sorry state that I was in back in January 2013 and how much better I am compared to that.  Things have transformed a lot – what started as a goal to publicly precommit ended up transforming into the Monthly Review as a part of &lt;a href=&quot;&quot;&gt;David Allen’s &lt;strong&gt;Getting Things Done&lt;/strong&gt;&lt;/a&gt;, with a complex point system.&lt;/p&gt;
+
+&lt;h4 id=&quot;diet&quot;&gt;Diet&lt;/h4&gt;
+
+&lt;p&gt;I started out on &lt;a href=&quot;http://www.nosdiet.com/&quot;&gt;the No S Diet&lt;/a&gt; (No Snacks, No Sweets, No Seconds, except (Sometimes) on Saturdays, Sundays, and Special days).  For this, I had 100% success (Jan) and 90.9% success (Feb).  I then amended the diet to be Friday/Saturday instead of Saturday/Sunday, allowed myself to have Raisin Bran and Chocolate Milk, and allowed myself to accept snacks given out by others.  I continued to have 100% success (Mar) and 100% success (April).&lt;/p&gt;
+
+&lt;p&gt;For May, I adopted diet goals to (1) eat less than 2438kcal to ensure I lose weight, (2) eat at least 56g of protein each day, and (3) drink at least 2.5 liters of water each day, but I was unsuccessful because I was on a program that provided meals for me and my diet was largely out of my control.&lt;/p&gt;
+
+&lt;p&gt;For June, I switched to the point system I currently have and assigned point values to those three goals and added another goal: I would eat at least one fruit and one vegetable.  I fell a bit short on each goal, consuming on average 2/2.5L of water, 100g/56g of protein, 70% success at eating a fruit and vegetable, and 47% success at eating less than 2174kcal.&lt;/p&gt;
+
+&lt;p&gt;For July, I decided to restrict my diet even less and modified my goals to drink 5 cups of water and 5 cups of milk a day and consume a daily protein bar.  I stayed on the water habit 80% of the time and the milk habit 55% of the time, but was not able to find protein bars in England, where I was staying.&lt;/p&gt;
+
+&lt;p&gt;For August, I kept the milk and water goals and added a goal to eat broccoli each day and avoid sweets and fried foods.  I stayed on the water habit 100% of the time, the milk habit 87% of the time, broccoli 26%, avoiding sweets 45%, and avoiding fried foods 97%.&lt;/p&gt;
+
+&lt;p&gt;For September, I followed the &lt;a href=&quot;&quot;&gt;food plate&lt;/a&gt; and set a goal to drink 5 cups of water, 4 cups of milk, 2 servings of fruit, 5 servings of grains, and 4 servings of vegetables.  My average was 4.23/5 water, 3.67/4 milk, 1.97/2 fruit, 4.2/5 grains, and 3.1/4 vegetables.&lt;/p&gt;
+
+&lt;p&gt;For October through Decemeber, I noticed that since I was doing my own grocery shopping and don’t mind not having variety, I could just set a particular diet for every day and use &lt;a href=&quot;http://www.cronometer.com&quot;&gt;Cronometer&lt;/a&gt; to ensure good macronutrients, micronutrients, and calories.  I then divided these goals into “breakfast”, “lunch”, “dinner”, and “no snacks” goals.  Overall I was successful at breakfast 90%, 90%, and 81% of the time; lunch 90%, 90%, 87%; dinner 50%, 50%, 71%; and not snacking 45%, 45%, 16%.&lt;/p&gt;
+
+&lt;h4 id=&quot;exercise&quot;&gt;Exercise&lt;/h4&gt;
+
+&lt;p&gt;I started out pledging to &lt;a href=&quot;http://www.coolrunning.com/engine/2/2_3/181.shtml&quot;&gt;Couch to 5K&lt;/a&gt;, &lt;a href=&quot;http://www.hundredpushups.com/#sthash.oy6Cm6ax.4S9wegRE.dpbs&quot;&gt;One Hundred Pushups&lt;/a&gt;, and &lt;a href=&quot;http://www.twohundredsitups.com/&quot;&gt;Two Hundred Situps&lt;/a&gt;.  I stayed on goal 95% of the time.&lt;/p&gt;
+
+&lt;p&gt;By February, I dropped that completely, switching instead to running as much as I could of a 5K and walking what I couldn’t and did a modified version of the Mount Holyoke &lt;a href=&quot;http://www.youtube.com/watch?v=s_D_IjuAUl8&quot;&gt;No Excuses Workout&lt;/a&gt;.  I stayed on goal 88% of the time.  I did the same for March, but fell off the wagon and only stayed on goal 47% of the time.  For April, I was on goal 89% of the time.&lt;/p&gt;
+
+&lt;p&gt;On the 23rd of April, I switched out the No Excuses workout for &lt;a href=&quot;http://www.stronglifts.com&quot;&gt;Stronglifts 5x5&lt;/a&gt; (along with running once a week).  On May, I stayed on goal 95% of the time.  Also, in May I finally did a 5K and now just tried to aim to add more distance each time I ran.&lt;/p&gt;
+
+&lt;p&gt;For June, I added a goal for walking, looking to exercise an average of 20 minutes a day and walk an average of 40 minutes a day (though, of course, not exercising and walking every day).  I ended up having an average of 23/20 minutes of exercise and walked 38/40 minutes a day.&lt;/p&gt;
+
+&lt;p&gt;For July, I ended up losing access to a gym with weights, so I began &lt;a href=&quot;http://www.amazon.com/dp/0938045768&quot;&gt;Convict Conditioning&lt;/a&gt; with the &lt;a href=&quot;http://www.reddit.com/r/bodyweightfitness/comments/1gbfx2/training_for_34_hours_a_day_6_days_a_week_as_ido/&quot;&gt;Reddit modifications&lt;/a&gt; (along with running).  I spent an average of 30 minutes a day exercising.&lt;/p&gt;
+
+&lt;p&gt;For August, I was biking regularly to commute, so I spent an average of 124 minutes a day doing exercise (biking, Convict Conditioning, and running).  In September, I was no longer biking and I spent an average of 36 minutes a day exercising. In October, I resumed Stronglifts and spent an average of 64.5 minutes a day doing exercise, running twice a week for longer.  In November, I spent an average of 58.3 minutes a day doing exercise.  In December, I spent an average of 31.45 minutes a day.&lt;/p&gt;
+
+&lt;p&gt;Overall, I made considerable gains in fitness.  Running went up from a max distance of 0.5mi to 6.2mi.  My benchpress went up from 45lbs (in late April) to 85lbs, squat from 45lbs to 200lbs, and deadlift from 135lbs to 215lbs.  I also went from 210lbs to a low of 172lbs and now currently weigh a healthy 180lbs.&lt;/p&gt;
+
+&lt;h4 id=&quot;productivity&quot;&gt;Productivity&lt;/h4&gt;
+
+&lt;p&gt;For April, I started doing “4x4hr Productivity” where, four days a week, for four hours each, I committed to working with &lt;a href=&quot;http://pomodorotechnique.com/&quot;&gt;The Pomodoro Technique&lt;/a&gt;.  In April, I was successful 76% of the time.  I lost my records for May.  In June, I spent an average of 7 hours a day working.  In July, 10hrs.  August, 9.93hrs.  September, 11.6hrs.  October, 10.7hrs.  November, 10.58hrs.  December, 8.98hrs.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-annual-goals&quot;&gt;The Annual Goals&lt;/h4&gt;
+
+&lt;p&gt;Back in the &lt;a href=&quot;http://www.everydayutilitarian.com/essays/new-years-resolutions/&quot;&gt;first post&lt;/a&gt;, I stated some goals I wanted to accomplish by the end of the year.  I ended up not accomplishing very few of these because my priorities changed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;200 essays in 2013:&lt;/strong&gt; Overall, I wrote 163 essays in 2013.  I had a goal of writing 200.  I decided that it wasn’t worth writing essays just for the sake of writing them and I ended up, on occasion, deciding that doing other work was higher priority than writing, so I didn’t make this goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Add four games to the arcade:&lt;/strong&gt; Likewise, I didn’t end up making much progress on games because I decided that working on games was not the best way to learn programming further.  I think I accomplished the spirit of this goal by rekindling my role as a computer programmer, even though I approached it in a different way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Earn &amp;gt;$6000:&lt;/strong&gt; Similarly, I did not end up earning more than $6000 in income.  This is because I decided that I had higher priority things to do with my time than earn money and I’m in a lucky position where I can spend my time as I want.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spend &amp;lt;$2000:&lt;/strong&gt; Moreover, I did not end up spending &amp;lt;$2000.  I didn’t account for the fact that I would end up buying my own food as a college senior or have other significant expenses like going to London for an internship.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Get my drivers license:&lt;/strong&gt;  I ended up failing this goal as well.  This is the one I do regret not accomplishing and feel a little embarrassed about.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-new-for-january-2014&quot;&gt;What is New for January 2014?&lt;/h2&gt;
+
+&lt;p&gt;I’m going to end up continuing as before, applying a few lessons I’ve learned along the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I still like the point system.&lt;/strong&gt;  Generally it’s a bad idea to say “just one won’t hurt” because people end up taking this too far and derailing from their habits.  But it’s also true that just one really won’t hurt.  The point system lets me reconcile this by allowing me to get away with a little bit without losing too much.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I still like focusing on inputs rather than outputs.&lt;/strong&gt;  It’s very difficult to work with a goal like “get stronger” or “lose weight”, even when they’re specific (“gain 20lbs on squat”, “lose 20lbs”).  This is because you don’t really have a whole lot of direct control over your strength and weight.  But you do have control over what you do to get stronger and lose weight – you can change your diet and exercise.  So I focus on those inputs, diet and exercise, rather than outputs, like strength and weight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I won’t be setting any more year-long goals&lt;/strong&gt; (except for getting my drivers license).  I was really bad at predicting my year-long priorities.  I expect to be similarly bad at predicting my priorities, so I don’t think it will be worth setting these kinds of goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m going to be more focused about taking breaks for harder goals.&lt;/strong&gt;  When I did the No S Diet, I was really good at avoiding snacks.  When I just lost points for eating snacks, I’ve been pretty bad at it.  That’s because I think it was a lot easier knowing to resist snacks when I had particular days I could cheat.  So I think I’ll do the same and pick cheat days for harder goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I need to be more careful when changing environments.&lt;/strong&gt;  A lot of my success at sticking to resolutions is based on a good routine, and routines are disrupted by moving (from college to home and back again, England, etc.).  I need to be more careful about constructing a good routine the moment I move.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/a-year-of-mostly-new-years-resolutions/&quot;&gt;A Year of Mostly New Years Resolutions&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 03, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sunday Links #20]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/sunday-links-20/" />
+  <id>http://www.everydayutilitarian.com/essays/sunday-links-20</id>
+  <published>2013-12-29T05:00:26Z</published>
+  <updated>2013-12-29T05:00:26Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.nerdfitness.com/blog/2012/08/13/productivity/&quot;&gt;“Five Ways to Instantly Become More Productive”:&lt;/a&gt; (1) Don’t multi-task; (2a) track how you spend your time; (2b) consider using apps like &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;RescueTime&lt;/a&gt;, &lt;a href=&quot;https://www.macupdate.com/app/mac/31289/selfcontrol/&quot;&gt;Self-Control&lt;/a&gt;, or &lt;a href=&quot;https://chrome.google.com/webstore/detail/nanny-for-google-chrome-t/cljcgchbnolheggdgaeclffeagnnmhno&quot;&gt;Chrome Nanny&lt;/a&gt;; (2c) understand and be comfortable with struggling for the first couple of weeks, knowing it will make you better in the long-run; (3) only use online chat if you absolutely have to; (4a) turn off automatic email notifications; (4b) don’t check your email first thing; (4c) split your email into two folders, “Action” and “Non-essential” and automatically sort each email you get as you get it, coming back to the “Action” folder later; (4d) unsubscribe from as many things in your email as you can; (5a) declutter as much as you can; (5b) turn off as many notifications as you can; and (6) start slow.  Ok, so that was actually way more than five things, but they’re all good advice and I follow most of them.  For more, I wrote &lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-i-am-productive/&quot;&gt;“How I Am Productive”&lt;/a&gt; and I’ve heard from a half dozen people now that they found it helpful.&lt;/p&gt;
+
+&lt;p&gt;Allison Smith, writing for the Animal Charity Evaluators blog whether &lt;a href=&quot;http://www.animalcharityevaluators.org/blog/do-protests-hurt-animal-activism/&quot;&gt;protests hurt animal activism&lt;/a&gt;, citing a study that finds “participants were more likely to agree with the article when the author was an ‘atypical’ activist or was not described in activist terms at all”.  This leads Smith to wonder whether activists are actually hurting the &lt;a href=&quot;http://en.wikipedia.org/wiki/Animal_rights_movement&quot;&gt;animal rights movement&lt;/a&gt;.  I’d be tempted to think that, however, it’s important to have both hard-hitting activists and diplomatic atypical activists in the movement for reasons Greta Christina mentions about atheists and the LGBT movement in &lt;a href=&quot;http://gretachristina.typepad.com/greta_christinas_weblog/2007/09/good-cop-bad-co.html&quot;&gt;“Good Cop, Bad Cop: Atheist Activism”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In similar news, Nick Cooney &lt;a href=&quot;http://spot.humaneresearch.org/content/changing-vegan-advocacy-art-science&quot;&gt;wants to change vegan advocacy from an art to a science&lt;/a&gt;.  &lt;a href=&quot;http://www.veganoutreach.org/articles/youngmatt.html&quot;&gt;“Letter to a Young Matt”&lt;/a&gt; is also another good resource on the proper frame of mind that is needed for vegan advocacy.&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;Eliezer Yudkowsky &lt;a href=&quot;http://lesswrong.com/lw/gq/the_proper_use_of_humility/&quot;&gt;distinguishes good humility from bad humility:&lt;/a&gt; “What about the student who humbly double-checks the answers on his math test?  Again I’d categorize that as good humility.  What about a student who says, ‘Well, no matter how many times I check, I can’t ever be certain my test answers are correct,’ and therefore doesn’t check even once?  Even if this choice stems from an emotion similar to the emotion felt by the previous student, it is less wise.”&lt;/p&gt;
+
+&lt;p&gt;Richard Yetter Chappell does some good work over at Philosophy, Etc. to &lt;a href=&quot;http://www.philosophyetc.net/2013/12/reconciling-scalar-maximizing-and.html&quot;&gt;reconcile scalar, maximizing, and satisficing consequentialisms&lt;/a&gt; by breaking apart two notions of obligation: an “ought of most reason” and the “ought of minimal decency”.&lt;/p&gt;
+
+&lt;p&gt;A pretty good way of understanding public opinion: &lt;a href=&quot;http://themonkeycage.org/blog/2010/06/22/the_public_is_a_thermostat/&quot;&gt;as a thermostat&lt;/a&gt;.  Just like a thermostat cools the room when it gets warm and warms the room when it gets cold, public opinion tends to swing more Republican in Democrat majorities and vice versa.&lt;/p&gt;
+
+&lt;p&gt;Here’s &lt;a href=&quot;http://chrisblattman.com/advising/graduate-advising/&quot;&gt;pretty good advice for students working on research with professors&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mr. Money Mustache on &lt;a href=&quot;http://www.mrmoneymustache.com/2011/06/02/insurance-a-tax-on-people-who-are-bad-at-math/&quot;&gt;why insurance is basically just a tax on people who are bad at math&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Need more Sunday links in your life?  Here’s some more people doing Sunday Links: &lt;a href=&quot;http://foldl.me/&quot;&gt;Foldl&lt;/a&gt;, &lt;a href=&quot;http://abnormalreturns.com/&quot;&gt;Abnormal Returns&lt;/a&gt;, &lt;a href=&quot;http://blogs.seattletimes.com/seahawks/&quot;&gt;Seahawks Blog&lt;/a&gt;, and &lt;a href=&quot;http://simplystatistics.org/tag/sunday-links/&quot;&gt;Simply Statistics&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-20/&quot;&gt;Sunday Links #20&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on December 29, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
