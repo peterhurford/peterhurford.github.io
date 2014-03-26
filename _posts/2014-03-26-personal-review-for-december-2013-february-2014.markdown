@@ -20,7 +20,7 @@ I find it useful to start this review by stating my plans, and then seeing how w
 
 #### My Plan, Broadly
 
-In ["Where I'm Giving and Why"](http://everydayutilitarian.com/essays/where-im-giving-and-why/), that there is "a huge priority to learn more about opportunities for doing good" and therefore "I’ve decided to spend my money and time trying to figure out how to learn more in reliable ways" (see also [me on unproven causes](http://everydayutilitarian.com/essays/why-im-skeptical-about-unproven-causes-and-you-should-be-too/), my [follow-up to that post](http://everydayutilitarian.com/essays/where-ive-changed-my-mind-on-my-approach-to-speculative-causes/), and [Paul Christiano on cause prioritization](http://www.effective-altruism.com/paul-christiano-on-cause-prioritization-2/)).<!-- more -->
+In ["Where I'm Giving and Why"](http://everydayutilitarian.com/essays/where-im-giving-and-why/), I write that there is "a huge priority to learn more about opportunities for doing good" and therefore "I’ve decided to spend my money and time trying to figure out how to learn more in reliable ways" (see also [me on unproven causes](http://everydayutilitarian.com/essays/why-im-skeptical-about-unproven-causes-and-you-should-be-too/), my [follow-up to that post](http://everydayutilitarian.com/essays/where-ive-changed-my-mind-on-my-approach-to-speculative-causes/), and [Paul Christiano on cause prioritization](http://www.effective-altruism.com/paul-christiano-on-cause-prioritization-2/)).<!-- more -->
 
 
 #### Long-Term (The Three Year Plan)
