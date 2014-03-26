@@ -11,7 +11,7 @@ categories:
 
 Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.
 
-Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, [Felicifia](http://www.felicifia.org/), to co-creating an "effective altruist" meetup group in Melbourne, Australia.  He is now currently working with [Leverage Research](http://www.leverageresearch.org/) and the [Centre for Effective Altruism](http://centreforeffectivealtruism.org/) on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on [his personal blog](http://careyryan.com/). <!-- more -->
+Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, [Felicifia](http://www.felicifia.org/), to co-creating an "effective altruist" meetup group in Melbourne, Australia.  He is now currently collaborating with [Leverage Research](http://www.leverageresearch.org/) and the [Centre for Effective Altruism](http://centreforeffectivealtruism.org/) on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on [his personal blog](http://careyryan.com/). <!-- more -->
 
 <center><figure>
 	<img src="{{siteurl}}/images/posts/interview-with-ryan-carey/profile.png" alt="">
