@@ -2,43 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Everyday Utilitarian</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://everydayutilitarian.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://everydayutilitarian.com" />
-<updated>2014-03-25T21:10:50-04:00</updated>
-<id>http://everydayutilitarian.com/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-03-25T21:17:54-04:00</updated>
+<id>/</id>
 <author>
   <name></name>
-  <uri>http://everydayutilitarian.com/</uri>
+  <uri>/</uri>
   <email></email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Personal Productivity Analysis]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/personal-productivity-analysis/" />
-  <id>http://everydayutilitarian.com/essays/personal-productivity-analysis</id>
+ <link rel="alternate" type="text/html" href="/essays/personal-productivity-analysis/" />
+  <id>/essays/personal-productivity-analysis</id>
   <published>2014-03-31T05:00:00Z</published>
   <updated>2014-03-31T05:00:00Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/personal-productivity-analysis/&quot;&gt;Personal Productivity Analysis&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/personal-productivity-analysis/&quot;&gt;Personal Productivity Analysis&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fyfe-Hurford Debate: My Round One]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/fyfe-hurford-debate-peter-round-one/" />
-  <id>http://everydayutilitarian.com/essays/fyfe-hurford-debate-peter-round-one</id>
+ <link rel="alternate" type="text/html" href="/essays/fyfe-hurford-debate-peter-round-one/" />
+  <id>/essays/fyfe-hurford-debate-peter-round-one</id>
   <published>2014-03-28T05:00:00Z</published>
   <updated>2014-03-28T05:00:00Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Over at Felicifia, Alonzo Fyfe, blogger at &lt;a href=&quot;http://atheistethicist.blogspot.com/&quot;&gt;Atheist Ethicist&lt;/a&gt; and &lt;a href=&quot;http://secularite.com/real-world-ethics-alonzo-fyfe/&quot;&gt;The Secularite&lt;/a&gt;, and I &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;had a debate&lt;/a&gt; on “Which is a better theory of utilitarianism – Alonzo Fyfe’s desirism or Peter Hurford’s two-level utilitarianism?”.  I wanted to reprint that debate here.  Here’s the second entry (of eight).  This entry was written by me.  This is a continuiation of the &lt;a href=&quot;http://everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one&quot;&gt;previous entry written by Alonzo&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -122,19 +122,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;Lastly, I’ve answered Alonzo’s problem with utility by agreeing with him and arguing that two-level utilitarianism also only relies on entities that exist.  I also answered Alonzo’s 10000 Sadist Challenge by arguing that it is the wrong test for a moral theory.  And I answered Alonzo’s concern that rule utilitarianism collapses into act utilitarianism by showing the impossibility of being act utilitarian all the time.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/fyfe-hurford-debate-peter-round-one/&quot;&gt;Fyfe-Hurford Debate: My Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/fyfe-hurford-debate-peter-round-one/&quot;&gt;Fyfe-Hurford Debate: My Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Personal Review for December 2013 - February 2014]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/" />
-  <id>http://everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014</id>
+ <link rel="alternate" type="text/html" href="/essays/personal-review-for-december-2013-february-2014/" />
+  <id>/essays/personal-review-for-december-2013-february-2014</id>
   <published>2014-03-26T05:00:00Z</published>
   <updated>2014-03-26T05:00:00Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://everydayutilitarian.com/essays/six-month-review-ii-june-november-2013/&quot;&gt;“Six Month Review II: June-November 2013”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -147,7 +147,7 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;h4 id=&quot;my-plan-broadly&quot;&gt;My Plan, Broadly&lt;/h4&gt;
 
-&lt;p&gt;In &lt;a href=&quot;http://everydayutilitarian.com/essays/where-im-giving-and-why/&quot;&gt;“Where I’m Giving and Why”&lt;/a&gt;, that there is “a huge priority to learn more about opportunities for doing good” and therefore “I’ve decided to spend my money and time trying to figure out how to learn more in reliable ways” (see also &lt;a href=&quot;http://everydayutilitarian.com/essays/why-im-skeptical-about-unproven-causes-and-you-should-be-too/&quot;&gt;me on unproven causes&lt;/a&gt;, my &lt;a href=&quot;http://everydayutilitarian.com/essays/where-ive-changed-my-mind-on-my-approach-to-speculative-causes/&quot;&gt;follow-up to that post&lt;/a&gt;, and &lt;a href=&quot;http://www.effective-altruism.com/paul-christiano-on-cause-prioritization-2/&quot;&gt;Paul Christiano on cause prioritization&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&quot;http://everydayutilitarian.com/essays/where-im-giving-and-why/&quot;&gt;“Where I’m Giving and Why”&lt;/a&gt;, that there is “a huge priority to learn more about opportunities for doing good” and therefore “I’ve decided to spend my money and time trying to figure out how to learn more in reliable ways” (see also &lt;a href=&quot;http://everydayutilitarian.com/essays/why-im-skeptical-about-unproven-causes-and-you-should-be-too/&quot;&gt;me on unproven causes&lt;/a&gt;, my &lt;a href=&quot;http://everydayutilitarian.com/essays/where-ive-changed-my-mind-on-my-approach-to-speculative-causes/&quot;&gt;follow-up to that post&lt;/a&gt;, and &lt;a href=&quot;http://www.effective-altruism.com/paul-christiano-on-cause-prioritization-2/&quot;&gt;Paul Christiano on cause prioritization&lt;/a&gt;).&lt;!-- more --&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;long-term-the-three-year-plan&quot;&gt;Long-Term (The Three Year Plan)&lt;/h4&gt;
 
@@ -295,19 +295,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;Overall, I’m telling myself to keep up the good work.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/&quot;&gt;Personal Review for December 2013 - February 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/personal-review-for-december-2013-february-2014/&quot;&gt;Personal Review for December 2013 - February 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Interview with Ryan Carey]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/interview-with-ryan-carey/" />
-  <id>http://everydayutilitarian.com/essays/interview-with-ryan-carey</id>
+ <link rel="alternate" type="text/html" href="/essays/interview-with-ryan-carey/" />
+  <id>/essays/interview-with-ryan-carey</id>
   <published>2014-03-24T14:42:19Z</published>
   <updated>2014-03-24T14:42:19Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
@@ -491,38 +491,38 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Behold!  The New Site!]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/behold-the-new-site/" />
-  <id>http://everydayutilitarian.com/essays/behold-the-new-site</id>
+ <link rel="alternate" type="text/html" href="/essays/behold-the-new-site/" />
+  <id>/essays/behold-the-new-site</id>
   <published>2014-03-14T14:39:00Z</published>
   <updated>2014-03-14T14:39:00Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I think it’s important to keep things fresh.  It seems like at least once a year or so, I change what the site looks like.  This year, server problems, financial costs, and other bloat inspired me to move away from &lt;a href=&quot;http://www.wordpress.org&quot;&gt;Wordpress&lt;/a&gt; and paid hosting on &lt;a href=&quot;http://www.dreamhost.com&quot;&gt;Dreamhost&lt;/a&gt; to the wonderful land of a &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll static blog&lt;/a&gt; hosted by &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;.  Back five years ago when I first signed on with Dreamhost, none of these tools existed.  Now, it’s time that I finally adopt them.&lt;/p&gt;
 
 &lt;p&gt;I’ll still have to get used to writing in Markdown.  But hopefully you find this site faster and easier to use than before.  It sure looks better on mobile phones.  Let me know if you have any comments.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/behold-the-new-site/&quot;&gt;Behold!  The New Site!&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/behold-the-new-site/&quot;&gt;Behold!  The New Site!&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #23]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/sunday-links-23/" />
-  <id>http://everydayutilitarian.com/essays/sunday-links-23</id>
+ <link rel="alternate" type="text/html" href="/essays/sunday-links-23/" />
+  <id>/essays/sunday-links-23</id>
   <published>2014-03-10T01:28:59Z</published>
   <updated>2014-03-10T01:28:59Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;So I still do these…  Yeah.&lt;/p&gt;
@@ -546,19 +546,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/&quot;&gt;Life is a game, this is your strategy guide&lt;/a&gt;.  Cute.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-23/&quot;&gt;Sunday Links #23&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-23/&quot;&gt;Sunday Links #23&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Effective Altruism is Not a Competition]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/" />
-  <id>http://everydayutilitarian.com/essays/effective-altruism-is-not-a-competition</id>
+ <link rel="alternate" type="text/html" href="/essays/effective-altruism-is-not-a-competition/" />
+  <id>/essays/effective-altruism-is-not-a-competition</id>
   <published>2014-03-01T15:08:00Z</published>
   <updated>2014-03-01T15:08:00Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;In the past, some people have suggested that we “gamify” effective altruism some more, and create points for doing altruistic-y things, like donating our money or volunteering our time.  I think this could be a good idea, but rather than seeing individual scores, I’d much rather see a collective team score for EA.  We’d compete as a group to beat our past group selves (make March better than February, for example) rather than compete amongst ourselves as individuals.&lt;/p&gt;
@@ -577,19 +577,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Idea adapted from Brian Tomasik’s &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=10&amp;amp;t=797&quot;&gt;“Teamwork over Envy”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Career Advice for Jacy, Choosing Between Ph.D. Programs]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs/" />
-  <id>http://everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs</id>
+ <link rel="alternate" type="text/html" href="/essays/career-advice-for-jacy-choosing-between-ph-d-programs/" />
+  <id>/essays/career-advice-for-jacy-choosing-between-ph-d-programs</id>
   <published>2014-02-21T05:00:27Z</published>
   <updated>2014-02-21T05:00:27Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Jacy is an effective altruist trying to decide what career to go into after college.  He’s currently choosing between a Ph.D. in neuroscience or a Ph.D. in economics.  He wrote to me asking for advice.  This was my reply.  We both agreed it would be good to publish it so that others thinking about Ph.D. programs can benefit as well.&lt;/em&gt;&lt;/p&gt;
@@ -610,19 +610,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;In addition, you might find it useful to reflect on your open options with criteria on paper, like I did &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;here&lt;/a&gt;.  Then publish it for people to review and critique.  This was the single most helpful thing I did for myself, but I understand it’s not how everyone thinks through things best.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/career-advice-for-jacy-choosing-between-ph-d-programs/&quot;&gt;Career Advice for Jacy, Choosing Between Ph.D. Programs&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/career-advice-for-jacy-choosing-between-ph-d-programs/&quot;&gt;Career Advice for Jacy, Choosing Between Ph.D. Programs&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fyfe-Hurford Debate: Alonzo's Round One]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one/" />
-  <id>http://everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one</id>
+ <link rel="alternate" type="text/html" href="/essays/fyfe-hurford-debate-alonzo-round-one/" />
+  <id>/essays/fyfe-hurford-debate-alonzo-round-one</id>
   <published>2014-02-19T05:00:34Z</published>
   <updated>2014-02-19T05:00:34Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Over at Felicifia, Alonzo Fyfe, blogger at &lt;a href=&quot;http://atheistethicist.blogspot.com/&quot;&gt;Atheist Ethicist&lt;/a&gt; and &lt;a href=&quot;http://secularite.com/real-world-ethics-alonzo-fyfe/&quot;&gt;The Secularite&lt;/a&gt;, and I &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=7&amp;amp;t=1024&quot;&gt;had a debate&lt;/a&gt; on “Which is a better theory of utilitarianism – Alonzo Fyfe’s desirism or Peter Hurford’s two-level utilitarianism?”.  I wanted to reprint that debate here.  Here’s the first entry (of eight).  This entry was written by Alonzo Fyfe.&lt;/em&gt;&lt;/p&gt;
@@ -733,19 +733,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;My goal here has been to explain the differences between desirism and other forms of utilitarianism in order to highlight its strengths. It is a form of rule utilitarianism that does not collapse into act utilitarianism. As such, it can avoid the objections to act utilitarianism based on exotic cases. Its rules are potential physical entities in the real world. It does not require postulating some type of intrinsic value or any other type of exotic entity. It handles Nozick’s experience machine and provides a real-world answer to the question, “What is value?”&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/fyfe-hurford-debate-alonzo-round-one/&quot;&gt;Fyfe-Hurford Debate: Alonzo's Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/fyfe-hurford-debate-alonzo-round-one/&quot;&gt;Fyfe-Hurford Debate: Alonzo's Round One&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How Do The Extremely Poor Live?]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/how-do-the-extremely-poor-live/" />
-  <id>http://everydayutilitarian.com/essays/how-do-the-extremely-poor-live</id>
+ <link rel="alternate" type="text/html" href="/essays/how-do-the-extremely-poor-live/" />
+  <id>/essays/how-do-the-extremely-poor-live</id>
   <published>2014-02-17T15:45:11Z</published>
   <updated>2014-02-17T15:45:11Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;What is it like to be extremely poor?&lt;/p&gt;
@@ -896,19 +896,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;This article was originally written for the Giving What We Can blog, but has not yet been published there.  All pictures are from GiveWell’s site visit to Kenya for Give Directly, used with permission from Elie Hassenfeld.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/how-do-the-extremely-poor-live/&quot;&gt;How Do The Extremely Poor Live?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/how-do-the-extremely-poor-live/&quot;&gt;How Do The Extremely Poor Live?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Could EA Community Building be an Easy and Underfunded Win?]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win/" />
-  <id>http://everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win</id>
+ <link rel="alternate" type="text/html" href="/essays/could-ea-community-building-be-an-easy-and-underfunded-win/" />
+  <id>/essays/could-ea-community-building-be-an-easy-and-underfunded-win</id>
   <published>2014-02-09T15:23:30Z</published>
   <updated>2014-02-09T15:23:30Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;There is a lot of effort in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Effective_altruism&quot;&gt;effective altruist movement&lt;/a&gt; right now.  Community building would include anything broadly related to recruitment and retention for the EA movement, aiming to get existing EAs to become more EA (and less likely to quit EA) as well as getting new people to become EA.  This seems &lt;em&gt;prima facie&lt;/em&gt; to be very high impact for many classical reasons like the &lt;a href=&quot;http://80000hours.org/blog/43-the-haste-consideration&quot;&gt;haste consideration&lt;/a&gt; that recruiting one person now seems to double your impact.&lt;/p&gt;
@@ -929,19 +929,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Also discussed on Facebook &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635723783150649/?stream_ref=3&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/groups/effective.altruists/permalink/635093286547032/?stream_ref=2&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/could-ea-community-building-be-an-easy-and-underfunded-win/&quot;&gt;Could EA Community Building be an Easy and Underfunded Win?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/could-ea-community-building-be-an-easy-and-underfunded-win/&quot;&gt;Could EA Community Building be an Easy and Underfunded Win?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What Have I Been Doing? IV]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/what-have-i-been-doing-iv/" />
-  <id>http://everydayutilitarian.com/essays/what-have-i-been-doing-iv</id>
+ <link rel="alternate" type="text/html" href="/essays/what-have-i-been-doing-iv/" />
+  <id>/essays/what-have-i-been-doing-iv</id>
   <published>2014-02-07T15:07:50Z</published>
   <updated>2014-02-07T15:07:50Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Periodically, in times of blog inactivity, I like to come back and report all the things I’ve been doing while not blogging.  Here’s a complete run down of the more recent:&lt;/p&gt;
@@ -966,19 +966,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;I’m going to be giving a 12-minute &lt;a href=&quot;https://www.ted.com/tedx&quot;&gt;TEDx talk&lt;/a&gt;&lt;/strong&gt; on &lt;a href=&quot;http://www.givewell.org/giving101&quot;&gt;effective giving&lt;/a&gt; at &lt;a href=&quot;http://denison.edu/campus/get-involved/whats-happening/tedxdenisonu&quot;&gt;TEDxDenisonU&lt;/a&gt; on the 1st of March.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/what-have-i-been-doing-iv/&quot;&gt;What Have I Been Doing? IV&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/what-have-i-been-doing-iv/&quot;&gt;What Have I Been Doing? IV&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What is .impact up to?]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/what-is-impact-up-to/" />
-  <id>http://everydayutilitarian.com/essays/what-is-impact-up-to</id>
+ <link rel="alternate" type="text/html" href="/essays/what-is-impact-up-to/" />
+  <id>/essays/what-is-impact-up-to</id>
   <published>2014-02-03T22:37:09Z</published>
   <updated>2014-02-03T22:37:09Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;.impact recently gave a presentation about what the group is up to. Feel free to watch it on YouTube here:&lt;/p&gt;
@@ -987,19 +987,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;It’s a little rough right now, but we’ll get better. Also, check out our website: &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;http://www.dotimpact.im&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/what-is-impact-up-to/&quot;&gt;What is .impact up to?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/what-is-impact-up-to/&quot;&gt;What is .impact up to?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on February 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[I've Started a Personal Blog]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/ive-started-a-personal-blog/" />
-  <id>http://everydayutilitarian.com/essays/ive-started-a-personal-blog</id>
+ <link rel="alternate" type="text/html" href="/essays/ive-started-a-personal-blog/" />
+  <id>/essays/ive-started-a-personal-blog</id>
   <published>2014-01-31T20:21:20Z</published>
   <updated>2014-01-31T20:21:20Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;So I haven’t been writing as much as I used to, but one thing I have started getting interested in is writing about “not utilitarianism”.  Thus, I’ve thought it easiest to start a new blog elsewhere: &lt;a href=&quot;http://peterhurford.tumblr.com&quot;&gt;peterhurford.tumblr.com&lt;/a&gt;.&lt;/p&gt;
@@ -1008,19 +1008,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;strong&gt;Rest assured, I’ll still be keeping this blog going.&lt;/strong&gt;  But sometimes, I’ll have things that are best said elsewhere.  And now I have an elsewhere to say those things.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/ive-started-a-personal-blog/&quot;&gt;I've Started a Personal Blog&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/ive-started-a-personal-blog/&quot;&gt;I've Started a Personal Blog&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #22]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/sunday-links-22/" />
-  <id>http://everydayutilitarian.com/essays/sunday-links-22</id>
+ <link rel="alternate" type="text/html" href="/essays/sunday-links-22/" />
+  <id>/essays/sunday-links-22</id>
   <published>2014-01-19T03:16:03Z</published>
   <updated>2014-01-19T03:16:03Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.montchrishubbard.com/blog/thegift.html&quot;&gt;A profile of Zell Kravinsky&lt;/a&gt;.  Any biography that opens casually with “Last summer, not long after [he] had given almost his entire forty-five-million-dollar real-estate fortune to charity” has to be good.&lt;/p&gt;
@@ -1057,19 +1057,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://lesswrong.com/lw/j10/on_learning_difficult_things/&quot;&gt;How to learn difficult things&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-22/&quot;&gt;Sunday Links #22&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-22/&quot;&gt;Sunday Links #22&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Second Interview with Jon Behar on Giving Games]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games/" />
-  <id>http://everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games</id>
+ <link rel="alternate" type="text/html" href="/essays/second-interview-with-jon-behar-on-giving-games/" />
+  <id>/essays/second-interview-with-jon-behar-on-giving-games</id>
   <published>2014-01-16T17:38:41Z</published>
   <updated>2014-01-16T17:38:41Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-jon-behar/&quot;&gt;“Interview with Jon Behar”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -1152,19 +1152,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;Originally written for &lt;a href=&quot;http://www.givingwhatwecan.org/blog/2014-01-15/giving-games-an-interview-with-jon-behar&quot;&gt;the Giving What We Can Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/second-interview-with-jon-behar-on-giving-games/&quot;&gt;Second Interview with Jon Behar on Giving Games&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/second-interview-with-jon-behar-on-giving-games/&quot;&gt;Second Interview with Jon Behar on Giving Games&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Case Study: I (Mostly) Finished Choosing Between Careers]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/" />
-  <id>http://everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers</id>
+ <link rel="alternate" type="text/html" href="/essays/my-case-study-i-mostly-finished-choosing-between-careers/" />
+  <id>/essays/my-case-study-i-mostly-finished-choosing-between-careers</id>
   <published>2014-01-13T05:00:20Z</published>
   <updated>2014-01-13T05:00:20Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://www.everydayutilitarian.com/essays/comparing-across-my-five-career-categories/&quot;&gt;“Comparing Across My Five Career Categories”&lt;/a&gt;, &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-careers-conversation-with-holden-karnofsky/&quot;&gt;“My Careers Conversation with Holden Karnofksy”&lt;/a&gt;, and &lt;a href=&quot;http://www.everydayutilitarian.com/essays/my-conversation-with-satvik-beri/&quot;&gt;“My Conversation with Satvik Beri”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -1357,19 +1357,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;em&gt;This was originally written &lt;a href=&quot;http://80000hours.org/blog/289-case-study-choosing-between-working-at-effective-altruist-organisations-earning-to-give-and-graduate-school&quot;&gt;for the 80,000 Hours Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;My Case Study: I (Mostly) Finished Choosing Between Careers&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;My Case Study: I (Mostly) Finished Choosing Between Careers&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[EverydayUtilitarian's Top Ten in 2013]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013/" />
-  <id>http://everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013</id>
+ <link rel="alternate" type="text/html" href="/essays/everydayutilitarians-top-ten-in-2013/" />
+  <id>/essays/everydayutilitarians-top-ten-in-2013</id>
   <published>2014-01-07T23:47:42Z</published>
   <updated>2014-01-07T23:47:42Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;Someone asked me what the top ten posts are on Everyday Utilitarian.  I use Google Analytics, so this was a pretty easy thing to find out.  I looked at page visits for each essay over all of 2013.  Of course, this isn’t a perfect metric, as essays written later in the year have less of a chance of getting viewed, and the “hits” metric is skewed a lot toward what I choose to publicize via Facebook and LessWrong and what I don’t.&lt;/p&gt;
@@ -1410,19 +1410,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 &lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/everydayutilitarians-top-ten-in-2013/&quot;&gt;EverydayUtilitarian's Top Ten in 2013&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/everydayutilitarians-top-ten-in-2013/&quot;&gt;EverydayUtilitarian's Top Ten in 2013&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sunday Links #21]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/sunday-links-21/" />
-  <id>http://everydayutilitarian.com/essays/sunday-links-21</id>
+ <link rel="alternate" type="text/html" href="/essays/sunday-links-21/" />
+  <id>/essays/sunday-links-21</id>
   <published>2014-01-05T16:52:09Z</published>
   <updated>2014-01-05T16:52:09Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I &lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-20/#comment-1284119265&quot;&gt;promised to make the link roundups relate a little better&lt;/a&gt;, so here you go:&lt;/p&gt;
@@ -1461,19 +1461,19 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 
 &lt;p&gt;&lt;a href=&quot;http://www.givewell.org/files/conversations/Gara%20LaMarche%20-%20May%20and%20June%202013%20(public).pdf&quot;&gt;Some notes from GiveWell on philanthropy in political advocacy&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/sunday-links-21/&quot;&gt;Sunday Links #21&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/sunday-links-21/&quot;&gt;Sunday Links #21&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introducing .impact]]></title>
- <link rel="alternate" type="text/html" href="http://everydayutilitarian.com/essays/introducing-impact/" />
-  <id>http://everydayutilitarian.com/essays/introducing-impact</id>
+ <link rel="alternate" type="text/html" href="/essays/introducing-impact/" />
+  <id>/essays/introducing-impact</id>
   <published>2014-01-05T16:28:57Z</published>
   <updated>2014-01-05T16:28:57Z</updated>
   <author>
     <name></name>
-    <uri>http://everydayutilitarian.com</uri>
+    <uri></uri>
     <email></email>
   </author>
   <content type="html">&lt;p&gt;I’ve talked about .impact in a few other places, but now we’ve finally written a summary of it and have launched a new website. Look here to see what we’re up to!&lt;/p&gt;
@@ -1488,7 +1488,7 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
   &lt;p&gt;We’re soon launching &lt;a href=&quot;http://skillshare.im/&quot;&gt;Skillshare.im&lt;/a&gt;, a place to share skills and services for free. We collaborated on several Trello boards to &lt;a href=&quot;https://trello.com/b/npVl3e9d/effective-altruist-project-board&quot;&gt;organize projects&lt;/a&gt;, &lt;a href=&quot;https://trello.com/b/shY5TwCm/effective-altruist-research-topics&quot;&gt;research topics&lt;/a&gt;, and &lt;a href=&quot;https://trello.com/b/F3O577AH/ea-productivity-resources&quot;&gt;useful resources&lt;/a&gt;. We’ve brainstormed and started outlining projects like a &lt;a href=&quot;https://impact.hackpad.com/Studying-Vegetarian-Advocacy-m11aW51ENVW&quot;&gt;vegetarian advocacy study&lt;/a&gt;, an &lt;a href=&quot;https://impact.hackpad.com/EA-Wiki-y8z6wp5yCxD&quot;&gt;EA wiki&lt;/a&gt;, and &lt;a href=&quot;https://impact.hackpad.com/Argument-Mapper-hNKt3IU7gAv&quot;&gt;argument mapping software&lt;/a&gt;. We’ve had &lt;a href=&quot;http://dotimpact.im/meetings.html&quot;&gt;several weekly group hangouts and discussions&lt;/a&gt; with a variety of individuals. Most of our general discussion holds place in &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/&quot;&gt;our Facebook group&lt;/a&gt;, which now has &lt;a href=&quot;https://www.facebook.com/groups/dotimpact/members/&quot;&gt;114 members&lt;/a&gt; and seems to be growing organically at a rate of 5 per week.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/introducing-impact/&quot;&gt;Introducing .impact&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/essays/introducing-impact/&quot;&gt;Introducing .impact&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Everyday Utilitarian&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

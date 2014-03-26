@@ -2,7 +2,7 @@ title:            Everyday Utilitarian
 description:      Join me on my everyday journey to create a more utilful world.
 disqus_shortname: everydayutilitarian
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://everydayutilitarian.com
+url:              
 
 # Owner/author information
 owner:   Peter Hurford
@@ -41,4 +41,4 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-future: false
+future: true
