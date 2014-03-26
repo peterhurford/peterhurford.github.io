@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: true
-date: 2014-03-26 00:00:00-05:00
+date: 2014-03-28 00:00:00-05:00
 layout: post
 slug: fyfe-hurford-debate-peter-round-one
 title: "Fyfe-Hurford Debate: My Round One"
@@ -18,7 +18,7 @@ _Over at Felicifia, Alonzo Fyfe, blogger at [Atheist Ethicist](http://atheisteth
 
 I want to first spend some of my precious word count mentioning how much of an honor it is to be engaging with Alonzo Fyfe on this important issue.  In many ways I owe Alonzo a lot for where I am today.  In 2011, I was a huge fan of desirism.  I learned many aspects of moral philosophy from reading Fyfe and became interested in ethics due to following Alonzo’s journey to figure out the right thing.  Perhaps ironically the first place I learned about the “two level utilitarianism” was from Fyfe himself. 
 
-In this debate, I offer "two-level utilitarianism" as a better view of utilitarianism.  However, I agree with Alonzo that this is more of a friendly discussion than a debate.  I must admit it might be hard for Alonzo to give up desirism after spending so much of his life defending it, just as it would be hard for me to give up utilitarianism after having a blog called "The Everyday Utilitarian"(http://www.everydayutilitarian.com).  But I rest assured that we are both beholden to the truth more than our particular brands of utilitarianism and believe we can be trusted to update our beliefs in the face of new arguments.
+In this debate, I offer "two-level utilitarianism" as a better view of utilitarianism.  However, I agree with Alonzo that this is more of a friendly discussion than a debate.  I must admit it might be hard for Alonzo to give up desirism after spending so much of his life defending it, just as it would be hard for me to give up utilitarianism after having a blog called ["The Everyday Utilitarian"](http://www.everydayutilitarian.com).  But I rest assured that we are both beholden to the truth more than our particular brands of utilitarianism and believe we can be trusted to update our beliefs in the face of new arguments.<!-- more -->
 
 
 ## What is “Two-Level Utilitarianism”?
