@@ -19,8 +19,8 @@
         </span>
 
         <span>
-          <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></span>
-        {% if page.modified %}(revised: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%m/%d/%Y" }}</time></span>){% endif %}  &nbsp; &bull; &nbsp;
+          <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></span></span>
+        {% if page.modified %}(revised: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%d %b %Y" }}</time></span>){% endif %}  &nbsp; &bull; &nbsp;
           {% if page.author == "admin" %}
             <a href="http://everydayutilitarian.com/essays/who-is-this-peter-guy/">Peter Hurford</a>
           {% else %}
