@@ -1,5 +1,6 @@
 ---
-author: admin
+author: .impact
+author-url: http://www.dotimpact.im
 comments: true
 date: 2014-02-03 22:37:09+00:00
 layout: post
