@@ -8,6 +8,7 @@ slug: a-dot-impact-review
 title: "A .impact Review"
 categories:
 - Projects
+- Self Reviews
 ---
 
 .impact is a group of people who want to volunteer on really useful projects. This means, however, we need some idea of whether or not our projects are actually useful. Thus, the purpose of this essay is to analyze whether or not our projects have been useful, whether putting more time and money into .impact is worth the cost, where .impact has stumbled, and what our plans for the future are.
