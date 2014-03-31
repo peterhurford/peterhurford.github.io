@@ -1,6 +1,6 @@
 ---
 author: .impact
-site: http://www.dotimpact.im
+author-url: http://www.dotimpact.im
 comments: true
 date: 2014-03-31 00:00:00-05:00
 layout: post
