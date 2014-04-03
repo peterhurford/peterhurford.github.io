@@ -6,7 +6,7 @@ layout: post
 slug: brief-notes-on-careers-in-foundations
 title: "Brief Notes on Careers in Foundations"
 categories:
-- Careers
+- Career Choice
 ---
 
 I've recently been looking at some potential careers that may be of interests to effective altruists.  While I'm certainly pretty happy to look into web development, I think another strong career option that is not very frequently mentioned is working in a foundation.  I'd love to look into this more deeply, but I thought it would be good to first offer some preliminary thoughts on the subject.
