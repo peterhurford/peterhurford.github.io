@@ -9,6 +9,7 @@ wordpress_id: 1261
 categories:
 - All
 - Career Choice
+- Coaching
 ---
 
 _Jacy is an effective altruist trying to decide what career to go into after college.  He's currently choosing between a Ph.D. in neuroscience or a Ph.D. in economics.  He wrote to me asking for advice.  This was my reply.  We both agreed it would be good to publish it so that others thinking about Ph.D. programs can benefit as well._
