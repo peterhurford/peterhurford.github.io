@@ -1,8 +1,7 @@
 ---
-author: .impact
-author-url: http://www.dotimpact.im
+author: admin
 comments: true
-date: 2014-04-02 11:00:00-05:00
+date: 2014-04-02 11:03:00-05:00
 layout: post
 slug: brief-notes-on-careers-in-foundations
 title: "Brief Notes on Careers in Foundations"
