@@ -8,7 +8,8 @@ title: Don't Take (My) Advice Too Seriously
 wordpress_id: 78
 categories:
 - All
-- Self-help
+- Productivity
+- Fitness
 ---
 
 This website is about things that have worked _for me_.  The "for me" part is key.  This website isn't about giving you advice, as much as I want other people to share in my lifestyle choices.  Why?  Well, first, I'm not nearly experienced enough to offer you advice.  But second, **the advice probably won't work.**

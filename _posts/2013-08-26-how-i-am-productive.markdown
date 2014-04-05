@@ -7,8 +7,7 @@ slug: how-i-am-productive
 title: How I Am Productive
 wordpress_id: 784
 categories:
-- All
-- Self-help
+- Productivity
 ---
 
 I like to think that I get a lot of stuff done.  I write on this blog nearly four times a week, I volunteer for both local and distant non-profits I like, I'm active in student organizations at college, I study a lot, and I still get my homework done.  Other people have noticed this and asked me how I'm so productive.  This essay is where I try and "share my secrets", so to speak.

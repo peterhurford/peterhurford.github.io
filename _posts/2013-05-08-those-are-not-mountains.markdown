@@ -10,7 +10,6 @@ categories:
 - All
 - Fitness
 - Inspiration
-- Running
 ---
 
 One hundred twenty-six days ago, I was overweight.  I was 6'1" and 220lbs. I needed to do something, so I turned to was exercise.  I started out trying to run.  I could barely run half a mile before I got winded and had to stop.  I couldn't keep going.  Now, 126 days later, I have run my first 5k.  I didn't do an official 5k or anything.  I just ran the 5k distance (3.1 miles) -- run away from my house, go 1.55 miles down the street, turn around, and run 1.55 miles back.

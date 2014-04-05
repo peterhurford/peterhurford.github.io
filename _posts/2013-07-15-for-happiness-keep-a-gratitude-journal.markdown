@@ -9,7 +9,6 @@ wordpress_id: 386
 categories:
 - All
 - Psychology
-- Self-help
 ---
 
 Want to be happier than you already are?  Many people look to self-help books as a way to become happy.  Sometimes they give good advice and sometimes they dont.  However, one of the most robust, enduring findings from psychological studies of increasing people's happiness has been that happiness can be found from journaling, especially when you keep a regular journal of what you're grateful for.<!-- more -->

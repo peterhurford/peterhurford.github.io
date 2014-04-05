@@ -7,8 +7,7 @@ slug: why-its-hard-to-explain-things-inferential-distance
 title: 'Why It''s Hard to Explain Things: Inferential Distance'
 wordpress_id: 359
 categories:
-- All
-- Self-help
+- Psychology
 ---
 
 Some people wonder why it takes so long to explain a point.  Why can't I just explain utilitarianism in a couple of sentences, or just one essay?  Why do they need to read so much?  The answer is because of _the problem of large inferential distance_ which I first encountered in Eliezer Yudkowsky's essay ["Expecting Short Inferential Distances"](http://lesswrong.com/lw/kg/expecting_short_inferential_distances).  I will now, ironically, explain the concept of inferential distance in just one essay.
