@@ -9,7 +9,7 @@ wordpress_id: 752
 categories:
 - All
 - Career Choice
-- Community Building
+- Projects
 ---
 
 An idea I had while talking to Xio Kikauka and Joey Savoie is to run a jobs board for people interested in [effective altruism](http://en.wikipedia.org/wiki/Effective_altruism).  It seems like it actually would be relatively easy to have [a script](http://en.wikipedia.org/wiki/CURL) automatically monitor various job pages and synthesize them all into one area that looks nice.

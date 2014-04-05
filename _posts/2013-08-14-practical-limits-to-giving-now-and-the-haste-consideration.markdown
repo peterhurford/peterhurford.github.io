@@ -10,6 +10,7 @@ categories:
 - All
 - Career Choice
 - Strategic Philanthropy
+- EA Strategy
 ---
 
 _Follow up to ["Giving Now Currently Seems to Beat Giving Later"](http://www.everydayutilitarian.com/essays/giving-now-currently-seems-to-beat-giving-later/)._

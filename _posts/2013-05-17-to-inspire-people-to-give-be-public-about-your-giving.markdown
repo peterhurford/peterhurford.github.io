@@ -9,7 +9,7 @@ wordpress_id: 112
 categories:
 - All
 - Psychology
-- Strategic Philanthropy
+- EA Strategy
 ---
 
 Many people think it would be nicer if people were to give more money to non-profits, especially effective ones.  However, for most people, it doesn't even occur to them that they giving a large share of their salary to charity is something that people actually can do, or [that people are doing on a regular basis](http://www.givingwhatwecan.org).

@@ -8,7 +8,7 @@ title: In Non-Profits, Who Is The Customer?
 wordpress_id: 624
 categories:
 - All
-- Org Development
+- Social Entreprenuership
 ---
 
 For-profit organizations (better known as _businesses_) are in many ways much more simple than non-profit organizations.  When it comes to a pizza place, their goal is to sell me a delicious cheese pizza for $12.95 and my goal is to find the most delicious cheese pizza I can with my $12.95.  When our goals overlap, I give them my money and they give me their pizza.

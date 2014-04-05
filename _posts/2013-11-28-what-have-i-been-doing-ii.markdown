@@ -9,6 +9,7 @@ wordpress_id: 1002
 categories:
 - All
 - Personal
+- Projects
 ---
 
 You may (hopefully) have noticed that this blog has died out again.  Maybe you've even come to miss it.  After all, in past years, I've spent November doing [NaNoWriMo](http://www.nanowrimo.org) for my blog (see [2011](http://www.greatplay.net/essays/the-nanowrimo-reflection) and [2012](http://www.greatplay.net/essays/the-nanowrimo-2012-reflection)), but this year I've done nothing blog-wise.

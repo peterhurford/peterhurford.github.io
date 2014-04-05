@@ -9,6 +9,7 @@ wordpress_id: 1231
 categories:
 - All
 - Community Building
+- EA Strategy
 ---
 
 There is a lot of effort in the [effective altruist movement](http://en.wikipedia.org/wiki/Effective_altruism) right now.  Community building would include anything broadly related to recruitment and retention for the EA movement, aiming to get existing EAs to become more EA (and less likely to quit EA) as well as getting new people to become EA.  This seems _prima facie_ to be very high impact for many classical reasons like the [haste consideration](http://80000hours.org/blog/43-the-haste-consideration) that recruiting one person now seems to double your impact.

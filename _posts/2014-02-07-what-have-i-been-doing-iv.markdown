@@ -9,6 +9,7 @@ wordpress_id: 1226
 categories:
 - All
 - Personal
+- Projects
 ---
 
 Periodically, in times of blog inactivity, I like to come back and report all the things I've been doing while not blogging.  Here's a complete run down of the more recent:

@@ -7,8 +7,6 @@ slug: the-worst-way-of-picking-the-worst-charities
 title: The Worst Way of Picking the Worst Charities
 wordpress_id: 350
 categories:
-- All
-- Org Development
 - Strategic Philanthropy
 ---
 

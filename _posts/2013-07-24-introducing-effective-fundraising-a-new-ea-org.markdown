@@ -8,7 +8,7 @@ title: Introducing Effective Fundraising, a New EA Org
 wordpress_id: 559
 categories:
 - All
-- Strategic Philanthropy
+- Projects
 ---
 
 Many people know about GiveWell and [their top-ranked charities](http://www.givewell.org/charities/top-charities).  But how easy would it be to make a better one?  In ["Why It Should Be Easy to Dominate GiveWell's Recommendations"](http://www.overcomingbias.com/2013/03/why-it-should-be-easy-to-dominate-givewells-recommendations.html), Rob Wiblin notes the simple solution -- fundraise for whatever organizations GiveWell recommends, and raise more than a dollar with each dollar you receive.
