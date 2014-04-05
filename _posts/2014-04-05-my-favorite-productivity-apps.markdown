@@ -15,15 +15,21 @@ I use a lot of different apps on the internet to save time for myself.  I though
 
 **[Workflowy](https://workflowy.com/):** A collapsable outline for taking notes and thinking about ideas.  Can be used to store and organize anything, from recepies to to-do lists.
 
-**[Beeminder](https://www.beeminder.com/):** Automatic commitment contracts to keep you on track in your goals, whatever they may be.
+**[AdBlock Plus](https://adblockplus.org/en/chrome):** Remove ads from the internet.
 
-**[The Time Zone Converter](http://www.thetimezoneconverter.com/):** I frequently correspond with people in Europe, Australia, Chicago, and California, so I need something to keep my time zones straight.  I've tried six different apps for this, and this one is my favorite.<!-- more -->
+**[One Tab](http://www.one-tab.com/):** "Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once."
 
 **[ITTT](https://ifttt.com):** IFTTT (If This, Then That) is probably the most powerful app on the internet in terms of what it can do.  Basically, it's an app that lets you set up custom, automatic responses to certain events.  For example, I use IFTTT to automatically post these blog posts to Facebook and Twitter by using recipes like "If new post in RSS, then post to Twitter".  IFTTT also helps automatically populate the [r/smartgiving subreddit](http://www.reddit.com/r/smartgiving) that I help out with.  And it can be used for dozens of other things, like giving you a warning about rain on your phone, automatically backing up files, having a change in your Facebook profile picture automatically change all your other profile pictures across the internet, automatically log things on Google Calendar, etc.
 
-**[This custom 25min-5min timer](http://www.online-stopwatch.com/full-screen-interval-timer/?c=vxv55r3380)**, that I use for implementing [the Pomodoro technique](http://pomodorotechnique.com/).
+**[The Time Zone Converter](http://www.thetimezoneconverter.com/):** I frequently correspond with people in Europe, Australia, Chicago, and California, so I need something to keep my time zones straight.  I've tried six different apps for this, and this one is my favorite.<!-- more -->
+
+**[Wolfram Alpha](https://www.wolframalpha.com/):** An impressive online calculator ("knowledge engine") that can handle an impressive amount of input, from solving calculus to figuring out probabilities of various Poker hands, with a lot inbetween.
 
 **[Cronometer](https://cronometer.com/):** Cronometer tracks your nutrition (macronutrients and micronutrients) and makes sure you're on track.  Good way to spot check a diet and see if you're missing something important.  A lot of foods are already built-in, so you very infrequently need to enter in things for yourself.
+
+**[Beeminder](https://www.beeminder.com/):** Automatic commitment contracts to keep you on track in your goals, whatever they may be.
+
+**[This custom 25min-5min timer](http://www.online-stopwatch.com/full-screen-interval-timer/?c=vxv55r3380)**, that I use for implementing [the Pomodoro technique](http://pomodorotechnique.com/).
 
 **[Political Wire](http://politicalwire.com/):** So not really an app, technically, but still a time-saver.  It's a really efficient way of learning about what is happening now in the world of US politics.
 
