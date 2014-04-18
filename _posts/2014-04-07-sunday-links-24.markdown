@@ -6,7 +6,7 @@ layout: post
 slug: sunday-links-24
 title: "Sunday Links #24"
 categories:
-- Productivity
+- Sunday Links
 ---
 
 I was recently [interviewed by Ryan Carey](http://careyryan.com/peter-hurford/) about the effective altruist movement, movement building, .impact, and work on the far-future.  Yay!
