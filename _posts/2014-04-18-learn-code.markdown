@@ -22,7 +22,7 @@ There are multiple paths to getting a programming job, learning programming, or 
 
 Additionally, you might find out that programming is not a good fit for your skills and interests, and you have to be okay with that.  Keep in mind that true programming skill only comes from the long haul.  There is no real “learn X language in two hours” -- even 100 hours of learning will only give you a beginner’s knowledge of one particular language.  “Programmer hero” status will only be achieved after many years of work.  So it’s important you really like it and stick with it, if you want to get anywhere.  Programming also seems to come best if you have multiple, uninterrupted, consecutive hours to devote to it -- it appears much harder if it’s just 30 minutes here, 30 minutes there.
 
-Also, let me know ([Peter Hurford on Facebook](https://www.facebook.com/peterhurford) or [peter@peterhurford.com](mailto:peter@peterhurford.com) by email) if you try this guide, so I can get feedback on how it goes for you.  Feel free to also reach out to me with comments.
+Also, let me know ([Peter Hurford on Facebook](https://www.facebook.com/peterhurford) or [peter@peterhurford.com](mailto:peter@peterhurford.com) by email) if you try this guide, so I can get feedback on how it goes for you.  Feel free to also reach out to me with comments on how to improve the guide -- I'm still relatively new to programming myself and have not yet implemented all these steps personally!
 
 
 
