@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.12](#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](#acknowledge))_
+_[v1.6.12](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
