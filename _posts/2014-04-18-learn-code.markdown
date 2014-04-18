@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.12](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.13](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -270,22 +270,42 @@ This advice is based on my personal experience, plus advice given to me (in roug
 
 ## The Changelog <a name="changelog">&nbsp;</a>
 
-v1.0.0 - Initial launch
-v1.0.1 - Added more info to intro
-v1.0.2 - Added version tracker
-v1.1.2 - Added alternatives to Hartl’s tutorial
-v1.1.3 - Added my contact information
-v1.1.4 - Added call for action for feedback
-v1.1.5 - Added Changelog
-v1.1.6 - Added more info about “multiple routes” to intro
-v1.2.6 - Added info on programming bootcamps
-v1.2.7 - Added more info on Python
-v1.3.7 - Added an explicit step for HTML/CSS
-v1.3.8 - Added more info on when one can apply to an internship / Junior position
-v1.4.8 - Added another re-evaluate period
-v1.4.9 - Added Codility to the list of problem sets
-v1.4.10 - Added info on Hack Reactor
-v1.4.11 - Added FizzBuzz test for the first step
-v1.5.11 - Added more info on getting a job
-v1.5.12 - Reorganized some of the steps
-v1.6.12 - Added a step for SQL
+* v1.0.0 - Initial launch
+
+* v1.0.1 - Added more info to intro
+
+* v1.0.2 - Added version tracker
+
+* v1.1.2 - Added alternatives to Hartl’s tutorial
+
+* v1.1.3 - Added my contact information
+
+* v1.1.4 - Added call for action for feedback
+
+* v1.1.5 - Added Changelog
+
+* v1.1.6 - Added more info about “multiple routes” to intro
+
+* v1.2.6 - Added info on programming bootcamps
+
+* v1.2.7 - Added more info on Python
+
+* v1.3.7 - Added an explicit step for HTML/CSS
+
+* v1.3.8 - Added more info on when one can apply to an internship / Junior position
+
+* v1.4.8 - Added another re-evaluate period
+
+* v1.4.9 - Added Codility to the list of problem sets
+
+* v1.4.10 - Added info on Hack Reactor
+
+* v1.4.11 - Added FizzBuzz test for the first step
+
+* v1.5.11 - Added more info on getting a job
+
+* v1.5.12 - Reorganized some of the steps
+
+* v1.6.12 - Added a step for SQL
+
+* v1.6.13 - Minor fixes.
