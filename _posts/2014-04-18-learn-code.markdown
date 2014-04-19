@@ -11,14 +11,14 @@ categories:
 ---
 
 
-_[v1.6.14](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.15](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
 
 So you wanna learn how to code?  Whatever your motivation, computer programming and general computer know-how are good skills to have.  Programming knowledge can be potentially high value for careers or start-up opportunities, and with not too much time investment, you can figure out if programming is something you would enjoy and be good at.<!-- more -->
 
-There are multiple paths to getting a programming job, learning programming, or whatever goal you may have.  There’s going to be a lot of conflicting advice on what is the “best” way to learn, and it’s honestly going to vary person by person, and based on your interests and goals.  I’ve designed a guide here based on my personal experience and had it tweaked based on feedback from other programmers.  This guide is designed with the mind to try and find your interests as soon as possible.  But it still might not be precisely right for you.  Your mileage may vary.  The best thing to do is just start, somewhere.  See if this guide works for you, tweak it if it doesn’t.  Let me know.
+There are multiple paths to getting a programming job, learning programming, or whatever goal you may have.  **There's no "one true way"**, and there’s going to be a lot of conflicting advice on what is the “best” way to learn.  Honestly what is best is going to vary person by person, and based on your interests and goals.  I’ve designed a guide here based on my personal experience and had it tweaked based on feedback from other programmers.  This guide is heavy on web development and Ruby on Rails because those are the things I've had the most experience with, they seem like good places to start, and they seem quite employable.  That doesn't mean that learning other languages is not a good idea.  This guide is designed with the mind to try and find your interests as soon as possible.  But it still might not be precisely right for you.  Your mileage may vary.  **The best thing to do is just start, somewhere.**  See if this guide works for you, tweak if it doesn’t.  Let me know.
 
 Additionally, you might find out that programming is not a good fit for your skills and interests, and you have to be okay with that.  Keep in mind that true programming skill only comes from the long haul.  There is no real “learn X language in two hours” -- even 100 hours of learning will only give you a beginner’s knowledge of one particular language.  “Programmer hero” status will only be achieved after many years of work.  So it’s important you really like it and stick with it, if you want to get anywhere.  Programming also seems to come best if you have multiple, uninterrupted, consecutive hours to devote to it -- it appears much harder if it’s just 30 minutes here, 30 minutes there.
 
@@ -315,3 +315,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.13 - Minor fixes.
 
 * v1.6.14 - Added more information on App Academy.
+
+* v1.6.15 - Tweaked intro..
