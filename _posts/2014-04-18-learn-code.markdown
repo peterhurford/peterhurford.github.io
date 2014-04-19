@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.13](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.14](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -70,7 +70,11 @@ Buck Shlegeris doesn’t like Hartl’s tutorial and prefers that people [comple
 
 If you feel like you enjoy programming and want to make a career about it, but haven’t been doing so well at self-teaching, you could consider going to a programming bootcamp.  These are more-than-full-time intense programs that teach you programming and help you with job placement.  Here, you set aside 10+ weeks, enroll in the site, learn from the program, and hopefully pop out with a job on the way.
 
-A bootcamp is neither necessary nor sufficient to land a good programming job, but it could be a lot better than trying to go through this guide yourself.  If you’ve got the time, it’s definitely at least worth investigating.  [App Academy](http://www.appacademy.io/#p-home) is widely considered to be the best program and [there’s been lots of discussion of it on LessWrong](https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).  Buck and Chris also say that [Hack Reactor](http://www.hackreactor.com/) is the second best program if you’re not able to get into App Academy.
+I've never personally gone to a boot camp (and don't plan to).   Keep in mind that a bootcamp is neither necessary nor sufficient to land a good programming job.  But for people with the time and inclination, it could be _a lot better_ than trying to go through this guide yourself.  If you’ve got the time, it’s definitely at least worth investigating.
+
+[App Academy](http://www.appacademy.io/#p-home) is widely considered to be the best program and [there’s been lots of discussion of it on LessWrong](https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).  App Academy basically does Step 2-17 from this guide, but gives you support, formal teaching, and a good learning environment.  Buck Shlegeris is a TA at App Academy and is happy to be a contact if you're interested in getting more information on applying and/or getting coached through the process.
+
+Buck and Chris Hallquist (who went to App Academy) also say that [Hack Reactor](http://www.hackreactor.com/) is the second-best program if you’re not able to get into App Academy (it is somewhat selective).
 
 
 
@@ -309,3 +313,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.12 - Added a step for SQL
 
 * v1.6.13 - Minor fixes.
+
+* v1.6.14 - Added more information on App Academy.
