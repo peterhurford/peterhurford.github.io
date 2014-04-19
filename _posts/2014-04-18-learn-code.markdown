@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.16](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 19 Apr 2014 11:40AM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.17](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 19 Apr 2014 11:40AM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -172,7 +172,7 @@ Earlier, I mentioned that you knew enough to consider applying to a programming 
 
 #### Step Fifteen -- Get an Intro to Algorithms
 
-Lastly, it could be a good idea to learn some more about algorithms -- this is a good idea even if you’re not aiming for a job.  Try to sign-up for and work through the Coursera class on [Algorithms I](https://www.coursera.org/course/algs4partI) and [Algorithms II](https://www.coursera.org/course/algs4partII).  It’s best if you can do them while they’re live, but not necessary.  You can also supplement this work by skimming through the [“Algorithms” textbook](http://www.beust.com/algorithms.pdf).
+Lastly, it could be a good idea to learn some more about algorithms -- this is a good idea even if you’re not aiming for a job.  First, reaTry to sign-up for and work through the Coursera class on [Algorithms I](https://www.coursera.org/course/algs4partI) and [Algorithms II](https://www.coursera.org/course/algs4partII).  It’s best if you can do them while they’re live, but not necessary.  You can also supplement this work by skimming through the [“Algorithms” textbook](http://www.beust.com/algorithms.pdf).
 
 
 
@@ -245,7 +245,12 @@ Rails handles most of the SQL for you, and you’ve probably already learned som
 
 
 
-#### Optional Step Twenty-three -- Learn Some Data Science
+#### Optional Step Twenty-three -- Skim around with BentoBox
+
+[BentoBox](http://www.bentobox.io/) is another site with a lot of resources for learning programming.  While less structured than this guide, it offers more depth, and provides resources for learning many things that are not contained in this guide.  Maybe you could start learning PHP or Java, maybe you might take up building mobile apps, or who knows?  BentoBox provides some resources to help with all of that as well.
+
+
+#### Optional Step Twenty-four -- Learn Some Data Science
 
 In addition to work in front-end and back-end, another popular programming career is data science.  This is a bit of enthusiasm on my part, but statistical programming can be pretty fun and open up a whole new world about what programming can do.  And statistics is, next to programming, one of the great skills to know.
 
@@ -255,7 +260,7 @@ Once you’re here, if you want to get really serious into Data Science, I’m p
 
 
 
-#### Optional Step Twenty-three -- Celebrate!
+#### Optional Step Twenty-five -- Celebrate!
 
 You should now know enough about programming that you’re off on your own.  If you’ve found a good mentor, they can tell you what to do next.  Or maybe now you can land a programming job and learn programming in a real-world context.  Good luck!
 
@@ -319,3 +324,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.15 - Tweaked intro.
 
 * v1.6.16 - Typo fixes.
+
+* v1.6.17 - Added BentoBox.
