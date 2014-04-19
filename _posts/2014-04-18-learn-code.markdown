@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.15](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 18 Apr 2014 12:20PM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.16](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 19 Apr 2014 11:40AM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -32,9 +32,9 @@ Also, let me know ([Peter Hurford on Facebook](https://www.facebook.com/peterhur
 
 
 
-#### Step One -- CodeAcademy
+#### Step One -- Codecademy
 
-If you don’t know any programming at all, it would be a good idea to get a feel for it on [CodeAcademy](http://www.codecademy.com/dashboard).  Pick either [the Python lesson](http://www.codecademy.com/tracks/python) or the [Ruby lesson](http://www.codecademy.com/tracks/ruby).  Spend about 5-10 hours on one of them (no need to finish it).
+If you don’t know any programming at all, it would be a good idea to get a feel for it on [Codecademy](http://www.codecademy.com/dashboard).  Pick either [the Python lesson](http://www.codecademy.com/tracks/python) or the [Ruby lesson](http://www.codecademy.com/tracks/ruby).  Spend about 5-10 hours on one of them (no need to finish it).
 
 Here’s a good test -- Can you implement [FizzBuzz](http://c2.com/cgi/wiki?FizzBuzzTest) in either Python or Ruby?  Can you implement [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) in either of those languages?  If you answered no to the first question, definitely do this step.  If you answered yes to the first, but no to the second, consider doing this step.  If you answered yes to both, definitely skip this step.
 
@@ -46,7 +46,7 @@ I don’t think it’s necessary to complete the course, but feel free to finish
 
 #### Step Two -- Hartl’s Ruby on Rails Tutorial
 
-I’ve got good news and bad news for you.  The good news -- real programming is actually a lot more fun and interesting than CodeAcademy.  The bad news -- CodeAcademy is not real programming.  CodeAcademy is a good supplemental learning guide, but it isn’t comprehensive enough.  So we’re going to look to something a bit better.
+I’ve got good news and bad news for you.  The good news -- real programming is actually a lot more fun and interesting than Codecademy.  The bad news -- Codecademy is not real programming.  Codecademy is a good supplemental learning guide, but it isn’t comprehensive enough.  So we’re going to look to something a bit better.
 
 At this point, I’m going to recommend to you to complete [Michael Hartl’s Ruby on Rails tutorial](http://ruby.railstutorial.org/).  Ruby on Rails is already a really popular and useful language right now, and is a very employable language to know if you want to go into the start-up / tech world.  The guide also provides useful introductions to many other important supporting technologies, like GitHub, RSpec, and Heroku.  You’ll also learn critical concepts like Model-View-Controller and test driven development.
 
@@ -62,7 +62,7 @@ I personally enjoyed Hartl’s tutorial a lot and think it’s a really great se
 
 Some other ways to learn the right amount of Ruby on Rails to progress to step three is to sign up for [Code School](https://www.codeschool.com/) and [work through all the Ruby classes](https://www.codeschool.com/paths/ruby).  This costs money, but is worth it.  This is a decent method in my opinion and I believe is the preferred method of Ozzie Gooen.
 
-Buck Shlegeris doesn’t like Hartl’s tutorial and prefers that people [complete the CodeAcademy class for Ruby completely](http://www.codecademy.com/tracks/ruby) and then work through [Test First’s Ruby Tutorial](http://testfirst.org/learn_ruby).  I’ve not personally tried this, but Buck seems to have turned out pretty well, so it can’t be that bad.  Buck then says after the Test First tutorial to then also sign up for Code School and work through all the Ruby classes.
+Buck Shlegeris doesn’t like Hartl’s tutorial and prefers that people [complete the Codecademy class for Ruby completely](http://www.codecademy.com/tracks/ruby) and then work through [Test First’s Ruby Tutorial](http://testfirst.org/learn_ruby).  I’ve not personally tried this, but Buck seems to have turned out pretty well, so it can’t be that bad.  Buck then says after the Test First tutorial to then also sign up for Code School and work through all the Ruby classes.
 
 
 
@@ -316,4 +316,6 @@ This advice is based on my personal experience, plus advice given to me (in roug
 
 * v1.6.14 - Added more information on App Academy.
 
-* v1.6.15 - Tweaked intro..
+* v1.6.15 - Tweaked intro.
+
+* v1.6.16 - Typo fixes.
