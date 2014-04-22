@@ -100,13 +100,15 @@ This option has pretty high potential upside, so merits exploration.  Luckily, i
  
 #### Potential Upsides to Economics
 
-Leads to a wide variety of favorable options after attaining a Ph.D. (high-paying finance jobs, government work, good EA research opportunities), but it’s unclear whether a masters would attain the same benefits.
+Leads to a wide variety of favorable options after attaining a Ph.D. (high-paying finance jobs, government work, good EA research opportunities), but it’s unclear whether a masters would attain the same benefits.  Phyllis says there are programs like Master's of Public Administration in International Development that could potentially lead to a job at the World Bank.
 
 Research while getting the degree could be useful to EA.
 
 #### Potential Downsides to Economics
 
 Long time to finish degree.
+
+No guarantee to get into a program, and finishing the degree does not guarantee a good job.
 
 Might end up not matching Phyllis’s interests.
 
