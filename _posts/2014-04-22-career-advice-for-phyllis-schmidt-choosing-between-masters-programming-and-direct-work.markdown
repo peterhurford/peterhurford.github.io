@@ -155,7 +155,9 @@ Working in a foundation has many potential benefits.  Unfortunately, my analysis
 
 ## Conclusion and Next Steps
 
-I generally err against recommending people take on Ph.D. programs without high certainty they’d enjoy and prosper in the field.  Unfortunately, this does not yet appear to be the case for Phyllis.  Moreover, earning to give opportunities seem higher for Phyllis in software engineering and research opportunities seem better for Phyllis in EA orgs.  Therefore, I suggest Phyllis look more heavily into software engineering and direct work in EA orgs.
+I generally err against recommending people take on Ph.D. programs without high certainty they’d enjoy and prosper in the field.  Unfortunately, this does not yet appear to be the case for Phyllis.  Moreover, earning to give opportunities seem higher for Phyllis in software engineering and research opportunities seem better for Phyllis in EA orgs.  Lastly, committing to a lot more school does not fit well with the "best guess and re-evaluate" plan.
+
+Therefore, I suggest Phyllis first look more heavily into software engineering and direct work in EA orgs.
 
 I recommend to Phyllis the following next steps:
 
