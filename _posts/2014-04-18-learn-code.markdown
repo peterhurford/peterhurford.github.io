@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.17](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 19 Apr 2014 11:40AM EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.18](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -74,7 +74,7 @@ I've never personally gone to a boot camp (and don't plan to).   Keep in mind th
 
 [App Academy](http://www.appacademy.io/#p-home) is widely considered to be the best program and [there’s been lots of discussion of it on LessWrong](https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).  App Academy basically does Step 2-17 from this guide, but gives you support, formal teaching, and a good learning environment.  Buck Shlegeris is a TA at App Academy and is happy to be a contact if you're interested in getting more information on applying and/or getting coached through the process.
 
-Buck and Chris Hallquist (who went to App Academy) also say that [Hack Reactor](http://www.hackreactor.com/) is the second-best program if you’re not able to get into App Academy (it is somewhat selective).
+Buck and Chris Hallquist (who went to App Academy) also say that [Hack Reactor](http://www.hackreactor.com/) is the second-best program if you’re not able to get into App Academy (it is somewhat selective).  [Here's a full list of all available bootcamps, with details](http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/).
 
 
 
@@ -326,3 +326,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.16 - Typo fixes.
 
 * v1.6.17 - Added BentoBox.
+
+* v1.6.18 - Added reference to list of Bootcamps.
