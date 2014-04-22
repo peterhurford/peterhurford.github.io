@@ -58,7 +58,7 @@ Phyllis sees I-O as ripe for EA research potential.  I-O psych work aimed at the
 
 Lastly, this career has not been well explored by EAs yet, and learning about the career could be a valuable contribution in itself.
 
-##### Potential Downsides of I-O
+#### Potential Downsides of I-O
 
 Need to take a year of pre-req classes to have a shot at getting into a masters program, which is not guaranteed.
 
