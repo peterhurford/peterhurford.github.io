@@ -11,7 +11,7 @@ categories:
 
 Recently, my university [had a TEDx event](https://www.ted.com/tedx/events/9579), and I was one of the people that got to give a talk:
 
-<iframe width="974" height="548" src="//www.youtube.com/embed/UKX_xzUGEcI" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="281" src="//www.youtube.com/embed/UKX_xzUGEcI" frameborder="0"></iframe>
 
 My goal of the talk was to present the idea that effectiveness in charity choice matters, with particular care to highlight the research of [GiveWell](http://www.givewell.org) and the work of [The Schistosomiasis Control Initiative](http://www3.imperial.ac.uk/schisto).
 
