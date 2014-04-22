@@ -24,7 +24,7 @@ Phyllis is currently considering (roughly ranked):
 
 * Economist working on development (e.g., J-PAL)
 
-* Continue philosophy professor path
+* Continue philosophy professor path <!-- more -->
  
 -
 
@@ -42,7 +42,7 @@ Other options Phyllis is open to include:
 
 -
 
-What follows are my notes to Phyllis on each of the options, followed by general advice:<!-- more -->
+What follows are my notes to Phyllis on each of the options, followed by general advice:
 
 
 
