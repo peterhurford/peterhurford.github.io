@@ -151,7 +151,7 @@ Phyllis could also consider working for American EA organizations or EA-aligned 
 
 ## Working in a Foundation
 
-Working in a foundation has many potential benefits.  Unfortunately, my analysis of foundation jobs shows that positions are very competitive and a Ph.D. is required first.  If Phyllis wishes to work in a Foundation, I recommend pursuing a Ph.D. in economics first.
+Working in a foundation has many potential benefits.  Unfortunately, [my analysis of foundation jobs](http://everydayutilitarian.com/essays/brief-notes-on-careers-in-foundations) shows that positions are very competitive and seem to require a lot of prior specialized education and experience.  If Phyllis wishes to work in a Foundation, I recommend pursuing a Ph.D. in economics first.
 
 
 
