@@ -127,7 +127,7 @@ Potential influencing of students.
 
 Already much of the way through a Ph.D. program (sunk cost)
 
-#### Potential Upsides to Philosophy
+#### Potential Downsides to Philosophy
 
 Positions are very low pay.
 
