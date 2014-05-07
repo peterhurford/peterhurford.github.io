@@ -165,6 +165,4 @@ One of the most exhilarating moments for me was when I found a probably-five-sto
 
 -
 
-**P:** _Wow, that sounds really fun!
-
-Well, thanks for taking the time to let me get to know you!  This was awesome!
+**P:** _Wow, that sounds really fun!  Well, thanks for taking the time to let me get to know you!  This was awesome!_
