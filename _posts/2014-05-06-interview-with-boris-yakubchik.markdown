@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: true
-date: 2014-05-06 16:43:00+00:00
+date: 2014-05-07 02:46:00+00:00
 layout: post
 slug: interview-with-boris-yakubchik
 title: "Interview with Boris Yakubchik"
@@ -11,7 +11,7 @@ categories:
 
 Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.
 
-Today, I sit down with Boris Yakubchik.  He's the co-President of Giving What We Can: Rutgers and has been involved in the effective altruist movement for a long time, regularly giving away 50% of his income to the Against Malaria Foundation.
+Today, I sit down with Boris Yakubchik.  He's the co-President of Giving What We Can: Rutgers and has been involved in the effective altruist movement for a long time, regularly giving away 50% of his income to the Against Malaria Foundation.<!-- more -->
 
 <center><img src="images/posts/interview-with-boris-yakubchik/boris.jpg" alt="Boris Yakubchik" title="Boris Yakubchik"></center>
 
