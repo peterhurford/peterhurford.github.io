@@ -11,9 +11,9 @@ categories:
 
 Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.
 
-Today, I sit down with Boris Yakubchik.  He's the co-President of Giving What We Can: Rutgers and has been involved in the effective altruist movement for a long time, regularly giving away 50% of his income to the Against Malaria Foundation.<!-- more -->
+Today, I sit down with Boris Yakubchik.  He's the co-President of Giving What We Can: Rutgers and has been involved in the effective altruist movement for a long time, regularly giving away 50% of his income to the Against Malaria Foundation. <!-- more -->
 
-<center><img src="images/posts/interview-with-boris-yakubchik/boris.jpg" alt="Boris Yakubchik" title="Boris Yakubchik"></center>
+<center><img src="images/posts/interview-with-boris-yakubchik/boris.jpg" alt="Boris Yakubchik" title="Boris Yakubchik" width="200" height="300"></center>
 
 **Peter Hurford:** _One of the most notable things about you is that you regularly give 50% of your salary to [the Against Malaria Foundation](http://www.againstmalaria.com) without missing a beat.  How did you get to that point in your life?  And do you plan on going any further?_
 
