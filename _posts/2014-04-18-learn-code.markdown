@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.19](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.20](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -186,7 +186,7 @@ If you’re aiming for a Senior Developer job at a tech company, it would be rea
 
 * Create a GitHub account if you haven’t already and put some projects there.
 
-* Create a nice portfolio website for your work (like [Chris’s](http://chrishallquist.com/) or [mine](http://www.peterhurford.com/resume.php)).
+* Create a nice portfolio website for your work (like [Chris’s](http://chrishallquist.com/) or [mine](http://www.peterhurford.com)).
 
 * Read through [Alexei’s account of getting a software job](http://lesswrong.com/lw/hd1/maximizing_your_donations_via_a_job/).
 
@@ -330,3 +330,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.18 - Added reference to list of Bootcamps.
 
 * v1.6.19 - Added link to interview with Buck.
+
+* v1.6.20 - Fixed some broken links.
