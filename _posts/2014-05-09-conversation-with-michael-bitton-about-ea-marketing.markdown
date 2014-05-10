@@ -12,9 +12,7 @@ categories:
 
 Michael Bitton is a graduate student in Media Production in Toronto. For his thesis paper, he's been researching effective uses of media for doing good in the world. He currently sees the most potential in health communication and social marketing in the developing world.  You can find out about his writings at his blog, [A Nice Place to Live](http://a-nice-place-to-live.blogspot.com).  I had [this conversation with him on 26 Feb](https://impact.hackpad.com/Conversation-with-Michael-Bitton-26-Feb-2014-bfP047Kgt3v) via [.impact](http://www.dotimpact.im/), but thought it would be good to cross-post the conversation here.  I've added a bit more from the comments I've received from others.
 
-Note: These notes are a quick summary of our conversation and may not be all that coherent.  They miss a lot of nuance and may not reflect statements that both people agree to.
-
--
+Note: These notes are a quick summary of our conversation and may not be all that coherent.  They miss a lot of nuance and may not reflect statements that both people agree to. <!-- more -->
 
 ## What is the goal of marketing EA?
 
@@ -27,6 +25,7 @@ Note: These notes are a quick summary of our conversation and may not be all tha
 * Create more people who will identify as effective altruists?
 
 * Create more vegetarians / vegans?
+
 
 
 ## Who could the target audience be?
@@ -59,7 +58,7 @@ The core EAs in Switzerland think that getting interested in science/rationality
 
 * Niel Bowerman thinks this would be a great group to tap into more heavily.  His intuition is that many of them would "get" effectiveness and convincing them of the altruism component wouldn't be all that difficult.  He would be interested in hearing from anyone who has tried approaching these communities in more detail.
 
-#### Devoutly religious
+#### Potential Target Group: Devoutly religious
 
 * Pre-existing drive toward altruism
 
@@ -73,9 +72,8 @@ The core EAs in Switzerland think that getting interested in science/rationality
 
 
 
-## What is our pitch?
 
-#### General Ideas
+## What is our pitch?
 
 **Emphasize an "excited altruism" approach.**  While lots of current EAs found the moral-imperative approach compelling, the intuition is that a message of "self-sacrifice" might not be catchy for the mainstream.  But it would be good to test further.  Michael Bitton think people are driven mostly by low motives and thus their decisions will come down to factors besides merely identifying the morally right action. Plenty of people think vegetarianism is the morally superior option and yet eat meat anyway.  Furthermore, the existence of current moral-imperative-EAs is much evidence that that pitch would persuade more people. It could be that the moral-imperative-people would naturally be the first ones to join, for some reason. 
 
@@ -87,6 +85,6 @@ The core EAs in Switzerland think that getting interested in science/rationality
 
 **Concern the EA community is too homogonous.** Even if EA is not a value system or ideology, it's still a somewhat clear identity category (white, atheist, background in STEM, rationalist, "nerdy," introverted, familiar with philosophy, dislike of continental philosophy, "innocent" in the sense of low rates of tattoos, piercings, smoking, heavy drinking, radical physical appearance, etc.)
 
-** Need more on-the-ground research to figure out how normal people think of charity** (e.g., people donate to cancer charities because their parents died of cancer).  Perhaps it would be immediately obvious that saving lives is more important than the arts, but people haven't realized the things are in tension...
+**Need more on-the-ground research to figure out how normal people think of charity** (e.g., people donate to cancer charities because their parents died of cancer).  Perhaps it would be immediately obvious that saving lives is more important than the arts, but people haven't realized the things are in tension...
 
 **Need to learn more about what pitches work** through A-B testing, focus groups, talk with marketers, etc., to create actionable findings that are generally useful for the whole movement.
