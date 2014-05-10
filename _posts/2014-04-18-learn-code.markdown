@@ -88,7 +88,7 @@ This may be hard, but Googling around and [StackOverflow](http://stackoverflow.c
 
 #### Optional Step Four -- Another Rails Tutorial
 
-If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like [Agile Web Development](http://www.peterhurford.com/~/files/ruby-textbook.pdf) with Rails.  No need to do this if you feel like you’re going well, though.
+If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like [Agile Web Development](http://www.peterhurford.com/tilde/files/ruby-textbook.pdf) with Rails.  No need to do this if you feel like you’re going well, though.
 
 
 
@@ -150,7 +150,7 @@ Work your way through [“The Node Beginner Book”](http://www.nodebeginner.org
 
 #### Step Twelve -- Get Intermediate on Ruby
 
-We now seem to know more JavaScript than Ruby, so it would be good to catch up here.  Let’s read through Peter Cooper’s [“Beginning Ruby”](http://www.peterhurford.com/~/files/beginningruby.pdf) and then David Black’s [“The Well Grounded Rubyist”](http://techedu.cu.cc/Programming/ruby/The%20Well-Grounded%20Rubyist/The%20Well-Grounded%20Rubyist.pdf).
+We now seem to know more JavaScript than Ruby, so it would be good to catch up here.  Let’s read through Peter Cooper’s [“Beginning Ruby”](http://www.peterhurford.com/tilde/files/beginningruby.pdf) and then David Black’s [“The Well Grounded Rubyist”](http://techedu.cu.cc/Programming/ruby/The%20Well-Grounded%20Rubyist/The%20Well-Grounded%20Rubyist.pdf).
 
 
 
