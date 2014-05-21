@@ -79,7 +79,7 @@ Lastly, I reached out to Jacy to review [the impact of my prior coaching with hi
 
 #### Project Management
 
-I re-started [.impact](http://www.dotimpact.im/) after a month hiatus.  While three of our members (Ozzie Gooen, Patrick Brinich-Langois, and Ciaran Phillips) have dramatically scaled down their time commitment for .impact in order to pursue finding a programming job, we've added two new committed members -- Tom Ash and Jacy Anthis -- who have started work on different projects, most notably [a survey of effective altruists]() (take it if you haven't already) and several community building tools, such as [a map of EAs] and [a cause-neutral donation registry]().  I don't think my project management or project work here is essential, but it seems somewhat critical, so it appears to be 34 hours well invested during this review cycle.
+I re-started [.impact](http://www.dotimpact.im/) after a month hiatus.  While three of our members (Ozzie Gooen, Patrick Brinich-Langois, and Ciaran Phillips) have dramatically scaled down their time commitment for .impact in order to pursue finding a programming job, we've added two new committed members -- Tom Ash and Jacy Anthis -- who have started work on different projects, most notably [a survey of effective altruists](http://effectivealtruismhub.com/survey) (take it if you haven't already) and several community building tools, such as [a map of EAs] and [a cause-neutral donation registry](http://effectivealtruismhub.com/donations).  I don't think my project management or project work here is essential, but it seems somewhat critical, so it appears to be 34 hours well invested during this review cycle.
 
 
 ## Eating and Exercise
