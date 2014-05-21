@@ -11,8 +11,7 @@ categories:
 
 _Follow up to ["Personal Review for December 2013 - February 2014"](http://everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/)._
 
-I'm doing this review a little bit earlier because (a) I just graduated college and feel like I want to review what I've done within that context and (b) I can get back onto a Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec review cycle by doing a May-Jun review next.  I've also had a shift in goals that fits well within this cycle as I start work at the beginning of July.  This review covers 1 Mar to 17 May.
-
+I'm doing this review a little bit earlier because (a) I just graduated college and feel like I want to review what I've done within that context and (b) I can get back onto a Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec review cycle by doing a May-Jun review next.  I've also had a shift in goals that fits well within this cycle as I start work at the beginning of July.  This review covers 1 Mar to 17 May. <!-- more -->
 
 ## How Did I Spend My Time?
 
@@ -40,7 +39,7 @@ These two months, I was focused on pre-professional prep (learning a lot more st
 [1]: Other includes things like showering, hygeine, prioritizing my work, travelling, packing/unpacking, visiting the dentist, getting a haircut, etc.
 [2]: Class does not include my Computer Science class, which was instead included in Programming.
 
-<!-- more -->
+
 ## What Did I Accomplish?: Pre-professional Prep
 
 I spent 17.2 hours a week (189.3 hours total) learning programming, which is almost a part time job.  This was broken down with 89.8 hours (47.4%) spent on my CS class (Python, C++); 48 hours (25%) redesigning all my websites (lots of CSS, some JavaScript); 28.8 hours (15.2%) spent developing <a href="http://www.jorgestradingpost.com">Jorge's Trading Post</a> (PHP); 10.5 hours (5.5%) learning R; 6.5 hours (3.4%) learning Ruby/Rails; and 6 hours (3%) on other miscellaneous stuff.
