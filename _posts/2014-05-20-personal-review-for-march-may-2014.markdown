@@ -36,7 +36,7 @@ These two months, I was focused on pre-professional prep (learning a lot more st
 	<tr><td>80K</td> <td>0.4</td> <td>0.05</td> <td>0%</td> <td>0%</td></tr>
 </table>
 
-1: Other includes things like showering, hygeine, prioritizing my work, travelling, packing/unpacking, visiting the dentist, getting a haircut, etc.
+1: Other includes things like showering, hygeine, prioritizing, travelling, packing/unpacking, visiting the dentist, getting a haircut, etc.
 
 2: Class does not include my Computer Science class, which was instead included in Programming.
 
