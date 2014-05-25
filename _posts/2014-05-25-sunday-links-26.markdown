@@ -13,7 +13,7 @@ categories:
 
 <i>Meta-note: I've now decided that I like shifting toward doing these less frequently, with less links each, but in much more depth, potentially spinning more lengthy discussion to my Tumblr.  Going forward, I will now also tag each of these posts with "Sunday Links" <i>in addition to</i> tagging them with the categories of the contained links, when appropriate.</i>
 
-***
+-
 
 Longer musing redirected to my Tumblr: <a href="http://peterhurford.tumblr.com/post/86722676721/not-all-arguments-are-nuanced">"Not All Arguments are Nuanced"</a>:
 
@@ -23,7 +23,7 @@ Of course, this type of derailment is <a href="http://www.vox.com/2014/5/15/5720
 
 But I’m still uncomfortable.  I know it’s not all about me, but it’s how I feel as a participant in the discussion.  I feel uncomfortable and now I understand why.</blockquote>
 
-***
+-
 <!-- more -->
 
 Another musing redicted to Tumblr, this time about politics: <a href="http://peterhurford.tumblr.com/post/86724549291/why-are-politicians-crazy-one-potential-theory">Why Are Politicians Crazy?: One Potential Theory</a>:
@@ -36,7 +36,7 @@ The dominant theory is one of multiple intelligences -- they're talented at bein
 
 But I like a third theory.  I call it the "Secret Smarts" theory.</blockquote>
 
-***
+-
 
 Scott Alexander writes that we should <a href="http://slatestarcodex.com/2014/05/08/vote-on-values-outsource-beliefs/">"Vote on Values, Outsource Beliefs"</a>:
 
@@ -50,19 +50,19 @@ This is looking impressively close to prediction markets. Futarchy says “vote 
 
 Think of all the possibilities.</blockquote>
 
-***
+-
 
-There's a game called <a href="http://superhotgame.com/">Super Hot</a>.  It’s part puzzle and part shooter.  You have to deal with limited ammo and a refreshingly realistic one shot kills you, but you’re not stressed as you get enough time to think about your strategy and your shots.  In the end, you get to run around as some sort of (refreshingly unrealistic) super ninja.  (Robin Hanson and Jesse Galef <a href="http://www.overcomingbias.com/2014/05/first-person-em-shooter.html">think the shooter is like what life would be like as a computer emulated brain.)  I’ve been having a bit too much fun with this.
+There's a game called <a href="http://superhotgame.com/">Super Hot</a>.  It’s part puzzle and part shooter.  You have to deal with limited ammo and a refreshingly realistic one shot kills you, but you’re not stressed as you get enough time to think about your strategy and your shots.  In the end, you get to run around as some sort of (refreshingly unrealistic) super ninja.  (Robin Hanson and Jesse Galef <a href="http://www.overcomingbias.com/2014/05/first-person-em-shooter.html">think the shooter is like what life would be like as a computer emulated brain</a>.)
 
-Right now <a href="http://superhotgame.com/play-prototype">it can be played in the browser</a>, but there's also <a href="https://www.kickstarter.com/projects/375798653/superhot">A Kickstarter</a> for a full version of the game (already fully funded, but they're working toward some cooler additional things).
+I’ve been having a bit too much fun with this.  Right now <a href="http://superhotgame.com/play-prototype">it can be played in the browser</a>, but there's also <a href="https://www.kickstarter.com/projects/375798653/superhot">A Kickstarter</a> for a full version of the game (already fully funded, but they're working toward some cooler additional things).
 
-***
+-
 
 Some satire on the idea of pitching effective altruism, from Michael Bitton: <a href="http://a-nice-place-to-live.blogspot.ca/2014/04/the-worlds-worst-meme.html">The World's Worst Meme</a>.  Maybe "self-sacrifice" is not a big seller.
 
 In related news, <a href="http://www.benkuhn.net/outreach">Ben Kuhn writes some reflection about effective altruism outreach gathered from running "Harvard Effective Altruism" for two years</a>.
 
-***
+-
 
 Speaking of effective altruism, here's a good real life example: should Detroit sell off masterpieces in the local art museum to help stabalize the finances of the city?
 
@@ -80,4 +80,4 @@ As <a href="http://slatestarcodex.com/2014/04/21/the-economics-of-art-and-the-ar
 
 Case settled to me.
 
-***
+-
