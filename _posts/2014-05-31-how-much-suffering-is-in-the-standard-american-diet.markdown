@@ -154,3 +154,5 @@ I think these adjustments are important not for coming to a more accurate total 
 * Giving up aquacultured fish is ~23.7x as important as giving up beef.
 
 So this gives a pretty good approach for a "meat reduction" diet, with the most ethical bang-for-the-buck for each animal product given up.  Maybe consider eating all the beef, turkey, and dairy you want, but spare the really important ones -- chicken, eggs, and fish!
+
+In fact, a diet where you only avoid chicken, eggs, and fish is 93% as impactful at preventing animal suffering as a fully vegan diet!
