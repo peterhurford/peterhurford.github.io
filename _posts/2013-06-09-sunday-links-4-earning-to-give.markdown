@@ -9,6 +9,7 @@ wordpress_id: 209
 categories:
 - All
 - Sunday Links
+- Career Choice
 ---
 
 Welcome to the fourth edition of Sunday Links!
