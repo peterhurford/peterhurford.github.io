@@ -3,8 +3,8 @@ author: admin
 comments: true
 date: 2014-03-10 01:28:59+00:00
 layout: post
-slug: sunday-links-23
-title: 'Sunday Links #23'
+slug: sunday-links-24
+title: 'Sunday Links #24'
 wordpress_id: 1290
 categories:
 - All

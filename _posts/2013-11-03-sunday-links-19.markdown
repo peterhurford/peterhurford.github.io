@@ -3,8 +3,8 @@ author: admin
 comments: true
 date: 2013-11-03 17:07:08+00:00
 layout: post
-slug: sunday-links-18
-title: 'Sunday Links #18'
+slug: sunday-links-19
+title: 'Sunday Links #19'
 wordpress_id: 971
 categories:
 - All

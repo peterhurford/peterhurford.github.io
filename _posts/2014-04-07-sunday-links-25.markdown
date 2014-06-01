@@ -3,8 +3,8 @@ author: admin
 comments: true
 date: 2014-04-07 06:41:00+05:00
 layout: post
-slug: sunday-links-24
-title: "Sunday Links #24"
+slug: sunday-links-25
+title: "Sunday Links #25"
 categories:
 - Sunday Links
 ---

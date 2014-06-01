@@ -3,8 +3,8 @@ author: admin
 comments: true
 date: 2014-05-25 00:00:00-05:00
 layout: post
-slug: sunday-links-26
-title: "Sunday Links #26"
+slug: sunday-links-27
+title: "Sunday Links #27"
 categories:
 - Sunday Links
 - Politics
