@@ -112,7 +112,7 @@ So the average American is producing, each year on average...
 * 76 days of suffering via turkey
 * 949 days of suffering via aquacultured fish
 
-...Or a total of 5 years, 6 months, 5 days of animal suffering each year.  Yikes!
+...That means there's a total of 5 years, 6 months, 5 days of animal suffering in each standard American diet, **per year**.  Yikes!
 
 
 #### Adjusting for Context
