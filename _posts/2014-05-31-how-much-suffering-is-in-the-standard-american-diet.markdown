@@ -11,7 +11,7 @@ categories:
 
 We all know that "the standard American diet" is unhealthy, and bad for the environment, and all sorts of things.  But, as we know, it also contains a lot of suffering due to the consumption of factory-farmed meat.  I'm not going to argue for the ethics of a vegetarian diet here ([I've done that elsewhere]()).  Instead, I'm interested in some quantification -- just *how much* suffering is in the standard American diet?
 
-As a caveat, at the moment I'm not looking at environmental impact, though I might expand the analysis later.  As another caveat, it's worth pointing out that the standard American diet may not really exist in any particular person, but it's a useful statistical generalization to talk about.
+As a caveat, at the moment I'm not looking at environmental impact, though I might expand the analysis later.  As another caveat, it's worth pointing out that the standard American diet may not really exist in any particular person, but it's a useful statistical generalization to talk about.  As a third caveat, this analysis ignores the fact that there is an elasticity to supply and demand (e.g., by not eating one pound of cow, you do not cause precisely one pound of cow to not be produced, but rather just a large fraction of it, since a drop in demand leads to a corresponding drop in price, which leads to a corresponding yet smaller re-increase in demand.)
 
 To begin, we need to know three things: (a) how many animal products are in the standard american diet, (b) how many animals does it take to produce that much meat, and (c) how much suffering is brought about by each kind of animal?
 
