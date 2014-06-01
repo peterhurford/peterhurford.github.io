@@ -9,7 +9,7 @@ categories:
 - Meat Reducing
 ---
 
-We all know that "the standard American diet" is unhealthy, and bad for the environment, and all sorts of things.  But, as we know, it also contains a lot of suffering due to the consumption of factory-farmed meat.  I'm not going to argue for the ethics of a vegetarian diet here ([I've done that elsewhere]()).  Instead, I'm interested in some quantification -- just *how much* suffering is in the standard American diet?
+We all know that "the standard American diet" is unhealthy, and bad for the environment, and all sorts of things.  But, as we know, it also contains a lot of suffering due to the consumption of factory-farmed meat.  I'm not going to argue for the ethics of a vegetarian diet here ([I've done that elsewhere](http://everydayutilitarian.com/essays/why-eat-less-meat/)).  Instead, I'm interested in some quantification -- just *how much* suffering is in the standard American diet?
 
 As a caveat, at the moment I'm not looking at environmental impact, though I might expand the analysis later.  As another caveat, it's worth pointing out that the standard American diet may not really exist in any particular person, but it's a useful statistical generalization to talk about.  As a third caveat, this analysis ignores the fact that there is an elasticity to supply and demand (e.g., by not eating one pound of cow, you do not cause precisely one pound of cow to not be produced, but rather just a large fraction of it, since a drop in demand leads to a corresponding drop in price, which leads to a corresponding yet smaller re-increase in demand.)
 
@@ -112,12 +112,14 @@ So the average American is producing, each year on average...
 * 76 days of suffering via turkey
 * 949 days of suffering via aquacultured fish
 
-...That means there's a total of 5 years, 6 months, 5 days of animal suffering in each standard American diet, **per year**.  Yikes!
+...That means there's a total of 5 years, 6 months, 5 days of animal suffering in each standard American diet, **per year**.  Yikes!  ...And this doesn't even include the suffering from the slaughter of the animals themselves.
 
 
 #### Adjusting for Context
 
-But we can get a bit more precise at the cost of being a bit more speculative, if you don't mind me experimenting, because I don't think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.  Brian's table takes this into account, and suggests the following adjustment ratios:
+But we can get a bit more precise at the cost of being a bit more speculative, if you don't mind me experimenting, because I don't think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.
+
+First, let's do differences from intensity of farming conditions.  Brian's table takes this into account, and suggests the following adjustment ratios (higher ratio means more suffering from the farming):
 
 * Beef - 1
 * Dairy - 1.8
@@ -129,15 +131,29 @@ But we can get a bit more precise at the cost of being a bit more speculative, i
 
 I'd like more research into this, but right now I'm willing for Brian's work to be taken at face value.
 
+-
+
+Second, we need some estimates of the differences of capacity to suffer.  Again, these are just my rough intuitions, should not be taken at face value, and can be easily disagreed with.  Feel free to substitute your own numbers.  I arrive at these ratios (higher ratio means more capcacity for suffering):
+
+* Beef - 1
+* Dairy - 1
+* Pork - 1
+* Chicken (meat) - 0.3
+* Chicken (eggs) - 0.3
+* Turkey - 0.3
+* Aquacultured Fish - 0.2
+
+-
+
 Taking these ratios into account, we adjust to the new totals:
 
 * 36 adjusted days of suffering via beef
 * 14 adjusted days of suffering via dairy
 * 79 adjusted days of suffering via pork
-* 997 adjusted days of suffering via chicken meat
-* 867 adjusted days of suffering via eggs
-* 136 adjusted days of suffering via turkey
-* 854 adjusted days of suffering via aquacultured fish
+* 299 adjusted days of suffering via chicken meat
+* 260 adjusted days of suffering via eggs
+* 41 adjusted days of suffering via turkey
+* 171 adjusted days of suffering via aquacultured fish 	900
 
 (The adjustment is technically in units of "days of beef suffering equivalents".)
 
@@ -146,13 +162,13 @@ Taking these ratios into account, we adjust to the new totals:
 
 I think these adjustments are important not for coming to a more accurate total of years of suffering caused per year of American diet, but rather for more accurately determining which food groups are the most important to target.  For example, based on these adjusted numbers, we can tentatively (and perhaps naively) conclude:
 
-* Giving up beef is ~2.5x as important as giving up dairy.
-* Giving up pork is ~2.1x as important as giving up beef.
-* Giving up chicken meat is ~27.7x as important as giving up beef.
-* Giving up eggs is ~24x as important as giving up beef.
-* Giving up turkey is ~3.7x as important as giving up beef.
-* Giving up aquacultured fish is ~23.7x as important as giving up beef.
+* Giving up beef is ~2.6x as important as giving up dairy.
+* Giving up pork is ~2.2x as important as giving up beef.
+* Giving up chicken meat is ~8.3x as important as giving up beef.
+* Giving up eggs is ~7.2x as important as giving up beef.
+* Giving up turkey is ~1.1x as important as giving up beef.
+* Giving up aquacultured fish is ~4.8x as important as giving up beef.
 
 So this gives a pretty good approach for a "meat reduction" diet, with the most ethical bang-for-the-buck for each animal product given up.  Maybe consider eating all the beef, turkey, and dairy you want, but spare the really important ones -- chicken, eggs, and fish!
 
-In fact, a diet where you only avoid chicken, eggs, and fish is 93% as impactful at preventing animal suffering as a fully vegan diet!
+In fact, a diet where you only avoid chicken, eggs, and fish is 81% as impactful at preventing animal suffering as a fully vegan diet!
