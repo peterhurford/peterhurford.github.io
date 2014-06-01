@@ -9,6 +9,7 @@ wordpress_id: 385
 categories:
 - All
 - Sunday Links
+- Politics
 ---
 
 Immigration is in the news with the new reform bill, so I thought it was worthwhile to highlight why I've changed my mind from "don't care much about immigration" to "definitely in favor of making immigration easier".  It turns out that immigration (1) improves the quality of life of the immigrants themselves and (2) improves the quality of life of the immigrants' home families and communities.  These two parts alone make it worth the net cost to the host country, in my opinion.
