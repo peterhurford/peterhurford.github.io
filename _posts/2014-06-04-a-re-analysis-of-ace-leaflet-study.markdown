@@ -318,7 +318,7 @@ If you think people have a hard time with the "vegetarian" label, then you must 
 	</tr>
 </table>
 
-As you can see, the pescetarian label is quite wonky.
+As you can see, the pescetarian label is quite untrustworthy.
 
 
 #### Third Problem: Food Frequency Questionnaires Seem Troublesome
@@ -676,7 +676,7 @@ Interesting that reading patterns for the treatment leaflets are statistically i
 
 -
 
-We can also use this to dig a little bit deeper at red meat reduction, one of the independent variables credited by ACE as being affected by the leaflet.
+We can also use this to dig a little bit deeper at red meat elimination, one of the independent variables credited by ACE as being affected by the leaflet.
 
 * 7 people who received the treatment flyer self-reported eliminating red meat.  Of these...
 
