@@ -9,7 +9,7 @@ categories:
 - Meat Reducing
 ---
 
-Now that I've been doing some research blogging, it's time to continue the trend with something big.  Maybe you've seen [ACE's leafleting study analysis](http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/) and was like "woah, that's long, no way I'm going to read all that".  Instead, my reaction was "that's long, but is there any way I can make it longer?"  So I did.  14.5 + today hours later, I emerge with this:
+Now that I've been doing some research blogging, it's time to continue the trend with something big.  Maybe you've seen [ACE's leafleting study analysis](http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/) and was like "woah, that's long, no way I'm going to read all that".  Instead, my reaction was "that's long, but is there any way I can make it longer?"  So I did.  Fifteen hours later, I emerge with this:
 
 
 ## Introduction
