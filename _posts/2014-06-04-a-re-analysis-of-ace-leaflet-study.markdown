@@ -64,7 +64,7 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 
 * There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see <a href="#challenges">"Challenges to These Variables"</a>).
 
-* The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see <a href="#bonferroni">"How bad is it that the tests were not able to pass Bonferroni corrections?"</a></p>).
+* The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see <a href="#bonferroni">"How bad is it that the tests were not able to pass Bonferroni corrections?"</a>).
 
 * The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see <a href="#changes">"What changes reportedly occurred as a result of the leafleting?"</a>, though also see <a href="#noconnection">"How bad is it that there was no connection between pescatarianism or meat reduction?"</a>).
 
