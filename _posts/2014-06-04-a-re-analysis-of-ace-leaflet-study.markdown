@@ -53,18 +53,20 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 
 * Rates of people becoming entirely vegetarian were quite low at 0.56% (1/178) and this was not statistically significant, even before Bonferroni corrections (see <a href="#redmeat">"Red Meat Elimination"</a>).
 
-* Treatment leaflets appear to have no effect on fish, eggs, or dairy.
-
-* The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections  (see <a href="#redmeat">"Red Meat Elimination"</a>).
-
-* The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see <a href="#changes">"What changes reportedly occurred as a result of the leafleting?"</a>).
+* Treatment leaflets appear to have no effect on fish, eggs, or dairy (see <a href="#important">"How important is reducing red meat and poultry, but not anything else?"</a> and <a href="#mechanism">"Why might the leaflets only be reducing red meat and poultry, and not other food groups?"</a>).
+.
 
 * Less than half of the people in the treatment group who changed their diet specifically attribute their diet change to the leaflet (See <a href="#attribution">"How much can flyers be attributed to these changes?"</a>).
 
 * There was a problem with the control group (see <a href="#control">"What should the treatment and control groups be?"</a>).
 
+* There were sizable problems with whether people were able to recall the leaflets that were handed out to them at the time of the post-treatment assessment three months later (see <a hred="#recollection">"Recollection Errors"</a></a>)
+
 * There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see <a href="#challenges">"Challenges to These Variables").
 
+* The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see <a href="#bonferroni">"How bad is it that the tests were not able to pass Bonferroni corrections?"</a></p>).
+
+* The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see <a href="#changes">"What changes reportedly occurred as a result of the leafleting?"</a>, though also see <a href="#noconnection">"How bad is it that there was no connection between pescatarianism or meat reduction?"</a>).
 
 
 ## Setting up the Dataset
@@ -302,6 +304,10 @@ No?
 Me neither.
 
 But yet this is the alternative method of figuring out whether people go vegetarian or reduce meat consumption -- compare their actual diets from three months ago to now.  These food frequency questionnaires are standard to the nutrition science industry, so they might be the be best we’ve got.  But I’m skeptical of them.
+
+-
+
+That being said, it's possible that these food frequency questionnaires are reliable in the cases of *elimination* as opposed to *reduction*, as *zero* is a pretty hard number to misremember.
 
 
 
@@ -749,12 +755,12 @@ Statistical tests were able to connect the treatment flyers to the cessation of 
 Additionally, statistical tests were not able to reject the null hypothesis that leaflets do not cause wholesale shift to a vegetarian diet.  Therefore, the part of ACE’s claim that leaflets cause “a small percentage of respondents to go vegetarian” may not be established at this time.  However, less robust (but still plausibly reliable) were able to detect one person who responded as we would expect a vegetarian who had been changed by the leaflet to respond.
 
 
-**How bad is it that there was no connection between pescatarianism or meat reduction?**
+**How bad is it that there was no connection between pescatarianism or meat reduction?** <a id="noconnection">&nbsp;</a>
 
 It seems potentially problematic that while there was a reduction of red meat and poultry consumption, there was no corresponding change in people declaring themselves "pescatarian."  However, given how bad people appear to be with just the common "vegetarian" label (e.g., [how self-identified "vegetarians" eating meat](#vegeatmeat)), I wouldn't trust them one bit to understand the "pescatarian" label.
 
 
-**How bad is it that the tests were not able to pass Bonferroni corrections?**
+**How bad is it that the tests were not able to pass Bonferroni corrections?** <a id="bonferroni">&nbsp;</p>
 
 It's true that a statistically robust conclusion should be able to pass Bonferroni corrections.  However, given the sample size of this study [compared to how large the sample size would have to be](#power), it's unlikely that we would be able to detect such robust effects even if they did exist, so I'm not particularly worried.  I'd be inclined to accept that the effects on meat reduction, red meat elimination, and poultry elimination are genuine effects, but that no other real effects exist (e.g., other kinds of meat, or shift to vegetarianism).
 
@@ -769,7 +775,7 @@ It’s curious that this study finds a much smaller amount of vegetarian change 
 The CCC Flyer Study sampled everyone, but only permitted those who received a leaflet to take the survey.  Of course, the language of the survey was strong, asking people to directly attribute their diet change to the leaflet.  But I imagine that this didn’t work as intended, and had they sampled people who did not receive the leaflet, or sampled at a college that had no leaflets distributed, it’s possible they would have found a similar conversion rate.  Therefore, it’s good that this study was done with ACE with a point of comparison, so we can see that the 2% figure does make sense in context.  Including these valuable pseudo-control groups is an important step forward.
 
 
-**Recollection Errors**
+**Recollection Errors** <a id="recollection">&nbsp;</a>
 
 Prior flyer research had attempted to navigate non-response bias (systematic biases in who fills out the survey) and social desirability bias (systematic increases in vegetarianism as people aim to please or look more virtuous).   Much has been done recently to try to work against these two biases.
 
@@ -778,7 +784,7 @@ However, another important aspect of the ACE Study is drawing our attention to a
 This recollection error also undermines the food frequency questionnaires used for meat reduction statistics -- if they can’t remember receiving a leaflet, how can we trust them to remember intricate details about the number of servings of cheese they ate three months ago?  This seems difficult to deal with and suggests that new designs will be necessary for future studies.
 
 
-**How important is reducing red meat and poultry, but not anything else?**
+**How important is reducing red meat and poultry, but not anything else?** <a id="important">&nbsp;</a>
 
 It’s certainly good that the leaflets are doing something, most notably getting about 4% of respondents to give up red meat and another 4% to give up poultry, with no corresponding increases in meat eating elsewhere.  But how important is this?
 
@@ -797,7 +803,7 @@ One potential problem, though, is that it’s unclear whether people would stick
 On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Model for vegetarian conversion, which is summarized with the observation that perhaps pushing people to eliminate poultry and/or red meat is just one stepping stone to getting them to become full vegetarian soon.  It’s definitely a big first step!
 
 
-**Why might the leaflets only be reducing red meat and poultry, and not other food groups?**
+**Why might the leaflets only be reducing red meat and poultry, and not other food groups?** <a href="mechanism">&nbsp;</a>
 
 Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question -- why are people only eliminating red meat and poultry, and not other food groups?
 
