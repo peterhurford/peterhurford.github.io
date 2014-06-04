@@ -59,7 +59,9 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 
 * The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see <a href="#changes">"What changes reportedly occurred as a result of the leafleting?"</a>).
 
-* There was a problem with the control group (see <a href="#control">"What should the treatment and control groups be?").
+* Less than half of the people in the treatment group who changed their diet specifically attribute their diet change to the leaflet (See <a href="#attribution">"How much can flyers be attributed to these changes?"</a>).
+
+* There was a problem with the control group (see <a href="#control">"What should the treatment and control groups be?"</a>).
 
 * There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see <a href="#challenges">"Challenges to These Variables").
 
@@ -249,7 +251,7 @@ As we were looking at whether people were dropping red meat and poultry, I was a
 </table>
 
 
-## Challenges to These Variables <a id="challenges">&nsbp;</a>
+## Challenges to These Variables <a id="challenges">&nbsp;</a>
 
 Why look at eight different independent variables?  One reason was that we were interested in both partial meat elimination and full meat elimination.  But another reason is that it’s really hard to figure out who exactly is vegetarian...
 
@@ -514,7 +516,7 @@ Based on this, the statistically significant effect of treatment flyers is muddl
 Furthermore, it’s also worth noting that ACE did not do any sort of corrections for doing multiple statistical tests.  When we do a Bonferroni correction here, having done fourteen separate analyses, we reduce our threshold for statistical significance from p = 0.05 to p = 0.05/14, or 0.003, which no tests met.  Even a less stringent test, such as starting from p = 0.1 before Bonferroni corrections is not met.
 
 
-## How much can flyers be attributed to these changes?
+## How much can flyers be attributed to these changes? <a id="attributon">&nbsp;</a>
 
 One way we can look a little bit closer is with variables that (a) self-report how much of the leaflet was actually read, (b) self-report how influential the leaflet was, and (c) self-report the reason for changing diets.
 
