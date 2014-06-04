@@ -60,9 +60,9 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 
 * There was a problem with the control group (see <a href="#control">"What should the treatment and control groups be?"</a>).
 
-* There were sizable problems with whether people were able to recall the leaflets that were handed out to them at the time of the post-treatment assessment three months later (see <a hred="#recollection">"Recollection Errors"</a></a>)
+* There were sizable problems with whether people were able to recall the leaflets that were handed out to them at the time of the post-treatment assessment three months later (see <a href="#recollection">"Recollection Errors"</a>)
 
-* There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see <a href="#challenges">"Challenges to These Variables").
+* There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see <a href="#challenges">"Challenges to These Variables"</a>).
 
 * The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see <a href="#bonferroni">"How bad is it that the tests were not able to pass Bonferroni corrections?"</a></p>).
 
@@ -291,7 +291,37 @@ Weird, I know.  But it seems like people report themselves as “vegetarian” o
 </table>
 
 
-#### Second Problem: Food Frequency Questionnaires Seem Troublesome
+#### Second Problem: Pescetarians Underreport Their Pescatarianism <a id="pesce">&nbsp;</a>
+
+If you think people have a hard time with the "vegetarian" label, then you must think people have huge problems with the less popular "pescetarian" label.  Here's a table with whether people label themselves pescetarian and how they respond on the food frequency questionnaires about red meat and poultry (they never ate the two, they no longer eat the two as of the post-survey, or they still eat the two despite self-identifying as pescetarian).
+
+<table>
+	<tr>
+		<th>&nbsp;</th>
+		<th>Not Pescetarian</th>
+		<th>Pescetarian</th>
+	</tr>
+	<tr>
+		<td>Never Ate</td>
+		<td>28</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>No Longer Eat</td>
+		<td>5</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Still Eat</td>
+		<td>12+513</td>
+		<td>15</td>
+	</tr>
+</table>
+
+As you can see, the pescetarian label is quite wonky.
+
+
+#### Third Problem: Food Frequency Questionnaires Seem Troublesome
 
 Quick!  How many servings of cheese did you eat three months ago?
 
@@ -333,7 +363,7 @@ So we’re looking to five different independent variables to track changes in d
 	</tr>
 </table>
 
-EIYLM = Even if You Like Meat, CC = Compassion Over Cruelty, CBTC = Cruelty Behind the Cuteness.  Note: The same respondent may be in multiple categories.
+EIYLM = [Even if You Like Meat](http://www.veganoutreach.org/EIYLM.pdf), CC = [Compassionate Choises](http://www.veganoutreach.org/cc.pdf), CBTC = [Cruelty Behind the Cuteness](http://www.humanesociety.org/assets/pdfs/pets/puppy_mills/cruelty_behind_the_cuteness_flyer.pdf).  Note: The same respondent may be in multiple categories.
 
 
 #### Problems with the Control Group
@@ -757,7 +787,7 @@ Additionally, statistical tests were not able to reject the null hypothesis that
 
 **How bad is it that there was no connection between pescatarianism or meat reduction?** <a id="noconnection">&nbsp;</a>
 
-It seems potentially problematic that while there was a reduction of red meat and poultry consumption, there was no corresponding change in people declaring themselves "pescatarian."  However, given how bad people appear to be with just the common "vegetarian" label (e.g., [how self-identified "vegetarians" eating meat](#vegeatmeat)), I wouldn't trust them one bit to understand the "pescatarian" label.
+It seems potentially problematic that while there was a reduction of red meat and poultry consumption, there was no corresponding change in people declaring themselves "pescatarian."  However, given how bad people appear to be with just the common "vegetarian" label (e.g., [how self-identified "vegetarians" eating meat](#vegeatmeat)), I wouldn't trust them one bit to understand the "pescatarian" label.  And once we do the analysis and see that [people who don't eat red meat or poultry still don't call themselves pescetarian](#pesce)), it's clear this variable is untrustworthy.
 
 
 **How bad is it that the tests were not able to pass Bonferroni corrections?** <a id="bonferroni">&nbsp;</p>
@@ -807,7 +837,7 @@ On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Mode
 
 Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question -- why are people only eliminating red meat and poultry, and not other food groups?
 
-Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets (“Compassionate Choices” and “Even if You Like Meat”) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.
+Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets ([“Compassionate Choices”](http://www.veganoutreach.org/cc.pdf) and [“Even if You Like Meat”](http://www.veganoutreach.org/EIYLM.pdf)) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.
 
 
 #### What future research should be done?
