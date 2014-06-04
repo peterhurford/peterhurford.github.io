@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.everydayutilitarian.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com" />
-<updated>2014-06-04T16:09:50-04:00</updated>
+<updated>2014-06-04T16:16:02-04:00</updated>
 <id>http://www.everydayutilitarian.com/</id>
 <author>
   <name></name>
@@ -565,14 +565,13 @@
 		&lt;td&gt;7 (4%)&lt;/td&gt;
 		&lt;td&gt;9 (5%)&lt;/td&gt;
 	&lt;/tr&gt;
+&lt;/table&gt;
 
+&lt;p&gt;Interesting that reading patterns for the treatment leaflets are statistically identical (p = 0.11), but statistically distinct from the control flyer (p = 0.05).&lt;/p&gt;
 
-Interesting that reading patterns for the treatment leaflets are statistically identical (p = 0.11), but statistically distinct from the control flyer (p = 0.05).
+&lt;p&gt;…Also of problematic interest is how many people claimed never to receive a flyer, yet claimed to have read a flyer anyway.&lt;/p&gt;
 
-...Also of problematic interest is how many people claimed never to receive a flyer, yet claimed to have read a flyer anyway.
-
-
-#### How influential were the leaflets?
+&lt;h4 id=&quot;how-influential-were-the-leaflets&quot;&gt;How influential were the leaflets?&lt;/h4&gt;
 
 &lt;table&gt;
 	&lt;tr&gt;
@@ -623,42 +622,71 @@ Interesting that reading patterns for the treatment leaflets are statistically i
 		&lt;td&gt;39 (22%)&lt;/td&gt;
 		&lt;td&gt;124 (69%)&lt;/td&gt;
 	&lt;/tr&gt;
+&lt;/table&gt;
 
-* 6 people who received the treatment flyer self-reported becoming a vegetarian or vegan.  Of these...
-* 5 out of the 6 reported reading all of the leaflet.
-* 1 out of the 6 report having their diet changed by the leaflet.
-* 2 out of the 6 report the leaflet having zero impact on their diet.
-* 2 out of the 6 report changing their diet for animal cruelty or ethical reasons.
+&lt;p&gt;-&lt;/p&gt;
 
-We can also use this to dig a little bit deeper at red meat reduction, one of the independent variables credited by ACE as being affected by the leaflet.
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;6 people who received the treatment flyer self-reported becoming a vegetarian or vegan.  Of these…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5 out of the 6 reported reading all of the leaflet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 out of the 6 report having their diet changed by the leaflet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 out of the 6 report the leaflet having zero impact on their diet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 out of the 6 report changing their diet for animal cruelty or ethical reasons.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-* 7 people who received the treatment flyer self-reported eliminating red meat.  Of these...
-* 2 out of the 7 reported reading all of the leaflet.
-* 4 out of the 7 report having their diet changed by the leaflet.
-* 1 out of the 7 report the leaflet having zero impact on their diet.
-* 4 out of the 7 report changing their diet for animal cruelty or ethical reasons.
+&lt;p&gt;-&lt;/p&gt;
 
-This is good as a check of our results above -- we have found that some of the people who appear converted by the leaflet also agree that they were converted.  Moreover, I was concerned that people switching to eliminate red meat would be doing so for health reasons alone, and this does not appear to be the case, nearest as we can tell.
+&lt;p&gt;We can also use this to dig a little bit deeper at red meat reduction, one of the independent variables credited by ACE as being affected by the leaflet.&lt;/p&gt;
 
-Though take this all with a grain of salt -- if you have middling confidence in people’s ability to self-report their diet, like I do, you probably should also have middling confidence in people’s ability to understand how much the leaflet affected them.  I do think you can justify slightly higher confidence in these numbers, as it’s more salient and potentially easier to recall than precise numbers about your diet, but people are still generally bad at retrospecting on causal influences on their life.
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;7 people who received the treatment flyer self-reported eliminating red meat.  Of these…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 out of the 7 reported reading all of the leaflet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4 out of the 7 report having their diet changed by the leaflet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 out of the 7 report the leaflet having zero impact on their diet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4 out of the 7 report changing their diet for animal cruelty or ethical reasons.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;-&lt;/p&gt;
 
-#### What are preliminary lower and upper bounds for flyer conversion rates?
+&lt;p&gt;This is good as a check of our results above – we have found that some of the people who appear converted by the leaflet also agree that they were converted.  Moreover, I was concerned that people switching to eliminate red meat would be doing so for health reasons alone, and this does not appear to be the case, nearest as we can tell.&lt;/p&gt;
 
-**Lower Bound**
+&lt;p&gt;Though take this all with a grain of salt – if you have middling confidence in people’s ability to self-report their diet, like I do, you probably should also have middling confidence in people’s ability to understand how much the leaflet affected them.  I do think you can justify slightly higher confidence in these numbers, as it’s more salient and potentially easier to recall than precise numbers about your diet, but people are still generally bad at retrospecting on causal influences on their life.&lt;/p&gt;
 
-178 treatment flyers were given out, and it appears quite plausible (as clear as can be determined by the survey, given that you trust self-reported data) that precisely one person was lead to become a (genuine) vegetarian specifically based on having received the treatment flyer.  One could consider this as establishing a preliminary lower bound on conversion rates at 0.56%, though I would be careful not to generalize from solely one person.
+&lt;h4 id=&quot;what-are-preliminary-lower-and-upper-bounds-for-flyer-conversion-rates&quot;&gt;What are preliminary lower and upper bounds for flyer conversion rates?&lt;/h4&gt;
 
+&lt;p&gt;&lt;strong&gt;Lower Bound&lt;/strong&gt;&lt;/p&gt;
 
-**Upper Bound**
+&lt;p&gt;178 treatment flyers were given out, and it appears quite plausible (as clear as can be determined by the survey, given that you trust self-reported data) that precisely one person was lead to become a (genuine) vegetarian specifically based on having received the treatment flyer.  One could consider this as establishing a preliminary lower bound on conversion rates at 0.56%, though I would be careful not to generalize from solely one person.&lt;/p&gt;
 
-It’s worth noting that the small sample size of this study means that it might have trouble detecting a statistically significant difference in diet change.  This study had a sample size of  623, with 178 having received a flyer.  The past Facebook study had a sample size of 104 and a similar leafleting study had a sample size of “about 500”.
+&lt;p&gt;&lt;strong&gt;Upper Bound&lt;/strong&gt;&lt;/p&gt;
 
-Small changes in diet change can be drowned out by statistical noise.  To figure out what sample size we can use, we can use an “a priori sample size calculator for the two group chi-squared test”.  For this, we need a desired power level (chance of detecting the effect given that the effect exists), a probability level (our threshold p-value), and an estimate of the proportion of people who become vegetarians (or vegans, or reduce meat, etc.) in the control group and treatment group.
+&lt;p&gt;It’s worth noting that the small sample size of this study means that it might have trouble detecting a statistically significant difference in diet change.  This study had a sample size of  623, with 178 having received a flyer.  The past Facebook study had a sample size of 104 and a similar leafleting study had a sample size of “about 500”.&lt;/p&gt;
 
-Any desired sample size is going to be a trade-off between wanting more statistical power and wanting to spend less money collecting the sample.  An additional consideration is that the desired sample size is the number of people we need to take the follow-up survey, which might be a smaller proportion of the total number of people that see the ads, due to inefficiencies in our conversion process.
+&lt;p&gt;Small changes in diet change can be drowned out by statistical noise.  To figure out what sample size we can use, we can use an “a priori sample size calculator for the two group chi-squared test”.  For this, we need a desired power level (chance of detecting the effect given that the effect exists), a probability level (our threshold p-value), and an estimate of the proportion of people who become vegetarians (or vegans, or reduce meat, etc.) in the control group and treatment group.&lt;/p&gt;
 
-Here’s a table with some estimations with the classic probability level = 0.05 and desired power level = 0.8, and our treatment-control proportions found in this survey, here is how much larger our population would need to be to detect the effect with 80% chance, given our current study size and ratios between the treatment and control group:
+&lt;p&gt;Any desired sample size is going to be a trade-off between wanting more statistical power and wanting to spend less money collecting the sample.  An additional consideration is that the desired sample size is the number of people we need to take the follow-up survey, which might be a smaller proportion of the total number of people that see the ads, due to inefficiencies in our conversion process.&lt;/p&gt;
+
+&lt;p&gt;Here’s a table with some estimations with the classic probability level = 0.05 and desired power level = 0.8, and our treatment-control proportions found in this survey, here is how much larger our population would need to be to detect the effect with 80% chance, given our current study size and ratios between the treatment and control group:&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr&gt;
@@ -717,76 +745,65 @@ Here’s a table with some estimations with the classic probability level = 0.05
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-Based on this table and our sample size, it’s possible that the leaflets could be converting people at a rate of 7% (relative to a 1% baseline) and we’d have about an 80% chance of detecting it. So therefore, I feel confidant placing a preliminary upper bound at 6%.  Based on this data, it’s highly unlikely that flyers convert at a rate higher than 6%.
+&lt;p&gt;Based on this table and our sample size, it’s possible that the leaflets could be converting people at a rate of 7% (relative to a 1% baseline) and we’d have about an 80% chance of detecting it. So therefore, I feel confidant placing a preliminary upper bound at 6%.  Based on this data, it’s highly unlikely that flyers convert at a rate higher than 6%.&lt;/p&gt;
 
-Also of note is that if we think the difference between treatment and control is quite small (like 0.5%), we’d need a much larger study to detect it -- 39.4x larger than our current study.  Though if we had an even split between treatment and control, it could be detected 80% of the time with just 16,294 people, or 26x our current population.
+&lt;p&gt;Also of note is that if we think the difference between treatment and control is quite small (like 0.5%), we’d need a much larger study to detect it – 39.4x larger than our current study.  Though if we had an even split between treatment and control, it could be detected 80% of the time with just 16,294 people, or 26x our current population.&lt;/p&gt;
 
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
 
-## Conclusions
+&lt;h4 id=&quot;what-are-the-implications-for-aces-analysis&quot;&gt;What are the implications for ACE’s Analysis?&lt;/h4&gt;
 
-#### What are the implications for ACE’s Analysis?
+&lt;p&gt;ACE concludes in their analysis that “[w]e found support for claims that distributing leaflets from Vegan Outreach (or similar leaflets published by other groups) causes a small percentage of respondents to go vegetarian or give up eating specific types of meat.”  This claim is tepid, but appears somewhat substantiated by my analysis.&lt;/p&gt;
 
-ACE concludes in their analysis that “[w]e found support for claims that distributing leaflets from Vegan Outreach (or similar leaflets published by other groups) causes a small percentage of respondents to go vegetarian or give up eating specific types of meat.”  This claim is tepid, but appears somewhat substantiated by my analysis.
+&lt;p&gt;Statistical tests were able to connect the treatment flyers to the cessation of eating red meat and poultry, but these tests ceased to be statistically significant once Bonferroni corrections were made.  Additionally, they did not connect with any statistically significant finding for declared pescatarianism or meat reduction.&lt;/p&gt;
 
-Statistical tests were able to connect the treatment flyers to the cessation of eating red meat and poultry, but these tests ceased to be statistically significant once Bonferroni corrections were made.  Additionally, they did not connect with any statistically significant finding for declared pescatarianism or meat reduction.
+&lt;p&gt;Additionally, statistical tests were not able to reject the null hypothesis that leaflets do not cause wholesale shift to a vegetarian diet.  Therefore, the part of ACE’s claim that leaflets cause “a small percentage of respondents to go vegetarian” may not be established at this time.  However, less robust (but still plausibly reliable) were able to detect one person who responded as we would expect a vegetarian who had been changed by the leaflet to respond.&lt;/p&gt;
 
-Additionally, statistical tests were not able to reject the null hypothesis that leaflets do not cause wholesale shift to a vegetarian diet.  Therefore, the part of ACE’s claim that leaflets cause “a small percentage of respondents to go vegetarian” may not be established at this time.  However, less robust (but still plausibly reliable) were able to detect one person who responded as we would expect a vegetarian who had been changed by the leaflet to respond.
+&lt;p&gt;&lt;strong&gt;How bad is it that there was no connection between pescatarianism or meat reduction?&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;Text.&lt;/p&gt;
 
-**How bad is it that there was no connection between pescatarianism or meat reduction?**
+&lt;p&gt;&lt;strong&gt;How bad is it that the tests were not able to pass Bonferroni corrections?&lt;/strong&gt;&lt;/p&gt;
 
-Text.
+&lt;p&gt;Text.&lt;/p&gt;
 
+&lt;h4 id=&quot;what-are-the-implications-of-this-study-for-prior-studies-of-veg-outreach&quot;&gt;What are the implications of this study for prior studies of veg outreach?&lt;/h4&gt;
 
-**How bad is it that the tests were not able to pass Bonferroni corrections?**
+&lt;p&gt;It’s curious that this study finds a much smaller amount of vegetarian change attributable to flyers than a past study on leafleting, which found a conversion rate of 2% of leaflet takers becoming pescatarian (CCC Flyer Study), which is very similar to our study.&lt;/p&gt;
 
-Text.
+&lt;p&gt;&lt;strong&gt;The Need for Some Point of Comparison, If Not a Control Group&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;The CCC Flyer Study sampled everyone, but only permitted those who received a leaflet to take the survey.  Of course, the language of the survey was strong, asking people to directly attribute their diet change to the leaflet.  But I imagine that this didn’t work as intended, and had they sampled people who did not receive the leaflet, or sampled at a college that had no leaflets distributed, it’s possible they would have found a similar conversion rate.  Therefore, it’s good that this study was done with ACE with a point of comparison, so we can see that the 2% figure does make sense in context.  Including these valuable pseudo-control groups is an important step forward.&lt;/p&gt;
 
-#### What are the implications of this study for prior studies of veg outreach?
+&lt;p&gt;&lt;strong&gt;Recollection Errors&lt;/strong&gt;&lt;/p&gt;
 
-It’s curious that this study finds a much smaller amount of vegetarian change attributable to flyers than a past study on leafleting, which found a conversion rate of 2% of leaflet takers becoming pescatarian (CCC Flyer Study), which is very similar to our study.
+&lt;p&gt;Prior flyer research had attempted to navigate non-response bias (systematic biases in who fills out the survey) and social desirability bias (systematic increases in vegetarianism as people aim to please or look more virtuous).   Much has been done recently to try to work against these two biases.&lt;/p&gt;
 
+&lt;p&gt;However, another important aspect of the ACE Study is drawing our attention to a third form of bias – recollection errors.  ACE concludes that “[w]e do not know whether this pattern [of decreased meat consumption in our data] reflects real decreases in consumption or only systematic errors in recollection.”&lt;/p&gt;
 
-**The Need for Some Point of Comparison, If Not a Control Group**
+&lt;p&gt;This recollection error also undermines the food frequency questionnaires used for meat reduction statistics – if they can’t remember receiving a leaflet, how can we trust them to remember intricate details about the number of servings of cheese they ate three months ago?  This seems difficult to deal with and suggests that new designs will be necessary for future studies.&lt;/p&gt;
 
-The CCC Flyer Study sampled everyone, but only permitted those who received a leaflet to take the survey.  Of course, the language of the survey was strong, asking people to directly attribute their diet change to the leaflet.  But I imagine that this didn’t work as intended, and had they sampled people who did not receive the leaflet, or sampled at a college that had no leaflets distributed, it’s possible they would have found a similar conversion rate.  Therefore, it’s good that this study was done with ACE with a point of comparison, so we can see that the 2% figure does make sense in context.  Including these valuable pseudo-control groups is an important step forward.
+&lt;p&gt;&lt;strong&gt;How important is reducing red meat and poultry, but not anything else?&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;It’s certainly good that the leaflets are doing something, most notably getting about 4% of respondents to give up red meat and another 4% to give up poultry, with no corresponding increases in meat eating elsewhere.  But how important is this?&lt;/p&gt;
 
-**Recollection Errors**
+&lt;p&gt;In my essay “How Much Suffering is in the Standard American Diet”, I provide figures that show if we take a suffering-per-kilogram point of view to our averting animal products, giving up red meat has 13% of the impact a typical vegan (not vegetarian) conversion would have, giving up poultry has 33.4% of the impact of veganism, and giving up both has 46% of the impact.&lt;/p&gt;
 
-Prior flyer research had attempted to navigate non-response bias (systematic biases in who fills out the survey) and social desirability bias (systematic increases in vegetarianism as people aim to please or look more virtuous).   Much has been done recently to try to work against these two biases.
+&lt;p&gt;This means that a leaflet that converts 2% of people to become pescatarian (giving up red meat and poultry) would have essentially the same impact as a leaflet that converted 0.92% of people to become vegetarian, at least prima facie.  Given that these leaflets appear to have this impact on poultry elimination, that isn’t so bad!&lt;/p&gt;
 
-However, another important aspect of the ACE Study is drawing our attention to a third form of bias -- recollection errors.  ACE concludes that “[w]e do not know whether this pattern [of decreased meat consumption in our data] reflects real decreases in consumption or only systematic errors in recollection.”
+&lt;p&gt;&lt;strong&gt;Vegetarian Recidivism&lt;/strong&gt;&lt;/p&gt;
 
-This recollection error also undermines the food frequency questionnaires used for meat reduction statistics -- if they can’t remember receiving a leaflet, how can we trust them to remember intricate details about the number of servings of cheese they ate three months ago?  This seems difficult to deal with and suggests that new designs will be necessary for future studies.
+&lt;p&gt;One potential problem, though, is that it’s unclear whether people would stick with poultry elimination with the same fervor as one would stick to vegetarianism.  It seems intuitively less likely to me, because there’s less of a culture and moral force surrounding it.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;The 100 Yard Line&lt;/strong&gt;&lt;/p&gt;
 
-**How important is reducing red meat and poultry, but not anything else?**
+&lt;p&gt;On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Model for vegetarian conversion, which is summarized with the observation that perhaps pushing people to eliminate poultry and/or red meat is just one stepping stone to getting them to become full vegetarian soon.  It’s definitely a big first step!&lt;/p&gt;
 
-It’s certainly good that the leaflets are doing something, most notably getting about 4% of respondents to give up red meat and another 4% to give up poultry, with no corresponding increases in meat eating elsewhere.  But how important is this?
+&lt;p&gt;&lt;strong&gt;Why might the leaflets only be reducing red meat and poultry, and not other food groups?&lt;/strong&gt;&lt;/p&gt;
 
-In my essay “How Much Suffering is in the Standard American Diet”, I provide figures that show if we take a suffering-per-kilogram point of view to our averting animal products, giving up red meat has 13% of the impact a typical vegan (not vegetarian) conversion would have, giving up poultry has 33.4% of the impact of veganism, and giving up both has 46% of the impact.
+&lt;p&gt;Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question – why are people only eliminating red meat and poultry, and not other food groups?&lt;/p&gt;
 
-This means that a leaflet that converts 2% of people to become pescatarian (giving up red meat and poultry) would have essentially the same impact as a leaflet that converted 0.92% of people to become vegetarian, at least prima facie.  Given that these leaflets appear to have this impact on poultry elimination, that isn’t so bad!
-
-
-**Vegetarian Recidivism**
-
-One potential problem, though, is that it’s unclear whether people would stick with poultry elimination with the same fervor as one would stick to vegetarianism.  It seems intuitively less likely to me, because there’s less of a culture and moral force surrounding it.
-
-
-**The 100 Yard Line**
-
-On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Model for vegetarian conversion, which is summarized with the observation that perhaps pushing people to eliminate poultry and/or red meat is just one stepping stone to getting them to become full vegetarian soon.  It’s definitely a big first step!
-
-
-**Why might the leaflets only be reducing red meat and poultry, and not other food groups?**
-
-Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question -- why are people only eliminating red meat and poultry, and not other food groups?
-
-Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets (“Compassionate Choices” and “Even if You Like Meat”) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.
-&lt;/table&gt;&lt;/table&gt;
+&lt;p&gt;Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets (“Compassionate Choices” and “Even if You Like Meat”) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/a-re-analysis-of-ace-leaflet-study/&quot;&gt;A Re-Analysis of ACE's Leaflet Study&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
 </entry>
