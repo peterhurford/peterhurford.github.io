@@ -313,7 +313,7 @@ If you think people have a hard time with the "vegetarian" label, then you must 
 	</tr>
 	<tr>
 		<td>Still Eat</td>
-		<td>12+513</td>
+		<td>525</td>
 		<td>15</td>
 	</tr>
 </table>
