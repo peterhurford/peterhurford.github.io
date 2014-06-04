@@ -9,7 +9,7 @@ categories:
 - Meat Reducing
 ---
 
-Now that I've been doing some research blogging, it's time to continue the trend with something big.  Maybe you've seen [ACE's leafleting study analysis](http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/) and was like "woah, that's long, no way I'm going to read all that".  Instead, my reaction was "that's long, but is there any way I can make it longer?"  So I did.  Fifteen hours later, I emerge with this:
+Now that I've been doing some research blogging, it's time to continue the trend with something big.  Maybe you've seen [ACE's leafleting study analysis](http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/) and was like "woah, that's long, no way I'm going to read all that".  Instead, my reaction was "that's long, but is there any way I can make it longer?"  So I did.  Sixteen hours later, I emerge with this:
 
 
 ## Introduction
@@ -38,7 +38,7 @@ I think ACE should be appluaded for having a good degree of self-skepticism, a h
 
 Overall, one’s attitude toward these results depends really on how skeptical and negative one wants to be:
 
-#### Reasons for positivity toward leafleting
+#### Reasons for positivity
 
 * Rates of people eliminating both red meat and poultry after receiving the treatment leaflet were quite high at 2.5% (4/161) (see <a href="#redmeat">"Red Meat Elimination"</a>).
 
@@ -49,7 +49,7 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 * The sample size of this study was underpowered enough that it could have missed an effect under 6% with >20% chance, and almost certainly would miss an effect at 1% or below (see <a href="#power">"Upper Bound"</a>).
 
 
-#### Reasons for negativity toward leafleting
+#### Reasons for negativity
 
 * Rates of people becoming entirely vegetarian were quite low at 0.56% (1/178) and this was not statistically significant, even before Bonferroni corrections (see <a href="#redmeat">"Red Meat Elimination"</a>).
 
@@ -67,6 +67,8 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 * The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see <a href="#bonferroni">"How bad is it that the tests were not able to pass Bonferroni corrections?"</a></p>).
 
 * The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see <a href="#changes">"What changes reportedly occurred as a result of the leafleting?"</a>, though also see <a href="#noconnection">"How bad is it that there was no connection between pescatarianism or meat reduction?"</a>).
+
+* There also appeared to be errors in how the survey was designed (see <a href="#design">"Survey Design Errors"</a>).
 
 
 ## Setting up the Dataset
@@ -814,7 +816,12 @@ However, another important aspect of the ACE Study is drawing our attention to a
 This recollection error also undermines the food frequency questionnaires used for meat reduction statistics -- if they can’t remember receiving a leaflet, how can we trust them to remember intricate details about the number of servings of cheese they ate three months ago?  This seems difficult to deal with and suggests that new designs will be necessary for future studies.
 
 
-**How important is reducing red meat and poultry, but not anything else?** <a id="important">&nbsp;</a>
+**Survey Design Errors** <a id="design">&nbsp;</a>
+
+Another problem was the design of [the survey](http://www.animalcharityevaluators.org/wp-content/uploads/2014/03/Leafleting-Survey-Packet.pdf).  According to Joey and Xio, who designed the study and helped hand out many of the questionnaires, people were struggling with taking the survey as it was too long and complicated.  One large problem was that people were skimming and had trouble understanding that the two food frequency questionnaires were different items.
+
+
+#### How important is reducing red meat and poultry, but not anything else? <a id="important">&nbsp;</a>
 
 It’s certainly good that the leaflets are doing something, most notably getting about 4% of respondents to give up red meat and another 4% to give up poultry, with no corresponding increases in meat eating elsewhere.  But how important is this?
 
@@ -833,7 +840,7 @@ One potential problem, though, is that it’s unclear whether people would stick
 On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Model for vegetarian conversion, which is summarized with the observation that perhaps pushing people to eliminate poultry and/or red meat is just one stepping stone to getting them to become full vegetarian soon.  It’s definitely a big first step!
 
 
-**Why might the leaflets only be reducing red meat and poultry, and not other food groups?** <a href="mechanism">&nbsp;</a>
+#### Why might the leaflets only be reducing red meat and poultry, and not other food groups? <a href="mechanism">&nbsp;</a>
 
 Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question -- why are people only eliminating red meat and poultry, and not other food groups?
 
