@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.20](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.6.21](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -88,7 +88,7 @@ This may be hard, but Googling around and [StackOverflow](http://stackoverflow.c
 
 #### Optional Step Four -- Another Rails Tutorial
 
-If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like [Agile Web Development](http://www.peterhurford.com/tilde/files/ruby-textbook.pdf) with Rails.  No need to do this if you feel like you’re going well, though.
+If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like ["Agile Web Development with Rails"](http://www.peterhurford.com/tilde/files/ruby-textbook.pdf).  No need to do this if you feel like you’re going well, though.
 
 
 
@@ -132,7 +132,7 @@ We’ll start with the undisputed base language for front-end development -- Jav
 
 #### Step Nine -- JavaScript Design Patterns
 
-Design patterns are reusable solutions to common programming problems.  They’re really good to know.  Let’s learn some JavaScript design patterns.  Work your way through [“JavaScript Design Patterns”](https://github.com/addyosmani/essential-js-design-patterns).
+Design patterns are reusable solutions to common programming problems.  They’re really good to know.  Let’s learn some JavaScript design patterns.  Work your way through [“JavaScript Design Patterns”](http://addyosmani.com/resources/essentialjsdesignpatterns/book/).
 
 
 
@@ -332,3 +332,5 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.19 - Added link to interview with Buck.
 
 * v1.6.20 - Fixed some broken links.
+
+* v1.6.21 - Fixed two typos.
