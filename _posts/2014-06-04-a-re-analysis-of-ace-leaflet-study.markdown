@@ -792,7 +792,7 @@ Additionally, statistical tests were not able to reject the null hypothesis that
 It seems potentially problematic that while there was a reduction of red meat and poultry consumption, there was no corresponding change in people declaring themselves "pescatarian."  However, given how bad people appear to be with just the common "vegetarian" label (e.g., [how self-identified "vegetarians" eating meat](#vegeatmeat)), I wouldn't trust them one bit to understand the "pescatarian" label.  And once we do the analysis and see that [people who don't eat red meat or poultry still don't call themselves pescetarian](#pesce)), it's clear this variable is untrustworthy.
 
 
-**How bad is it that the tests were not able to pass Bonferroni corrections?** <a id="bonferroni">&nbsp;</p>
+**How bad is it that the tests were not able to pass Bonferroni corrections?** <a id="bonferroni">&nbsp;</a>
 
 It's true that a statistically robust conclusion should be able to pass Bonferroni corrections.  However, given the sample size of this study [compared to how large the sample size would have to be](#power), it's unlikely that we would be able to detect such robust effects even if they did exist, so I'm not particularly worried.  I'd be inclined to accept that the effects on meat reduction, red meat elimination, and poultry elimination are genuine effects, but that no other real effects exist (e.g., other kinds of meat, or shift to vegetarianism).
 
