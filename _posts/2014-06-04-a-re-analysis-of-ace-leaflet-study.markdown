@@ -56,7 +56,7 @@ Overall, one’s attitude toward these results depends really on how skeptical a
 * Treatment leaflets appear to have no effect on fish, eggs, or dairy (see <a href="#important">"How important is reducing red meat and poultry, but not anything else?"</a> and <a href="#mechanism">"Why might the leaflets only be reducing red meat and poultry, and not other food groups?"</a>).
 .
 
-* Less than half of the people in the treatment group who changed their diet specifically attribute their diet change to the leaflet (See <a href="#attribution">"How much can flyers be attributed to these changes?"</a>).
+* Less than half of the people in the treatment group who changed their diet specifically attribute their diet change to the leaflet (See <a href="#attribution">"How much can these changes be attributed to the flyers?"</a>).
 
 * There was a problem with the control group (see <a href="#control">"What should the treatment and control groups be?"</a>).
 
@@ -554,7 +554,7 @@ Based on this, the statistically significant effect of treatment flyers is muddl
 Furthermore, it’s also worth noting that ACE did not do any sort of corrections for doing multiple statistical tests.  When we do a Bonferroni correction here, having done fourteen separate analyses, we reduce our threshold for statistical significance from p = 0.05 to p = 0.05/14, or 0.003, which no tests met.  Even a less stringent test, such as starting from p = 0.1 before Bonferroni corrections is not met.
 
 
-## How much can flyers be attributed to these changes? <a id="attributon">&nbsp;</a>
+## How much can these changes be attributed to the flyers? <a id="attributon">&nbsp;</a>
 
 One way we can look a little bit closer is with variables that (a) self-report how much of the leaflet was actually read, (b) self-report how influential the leaflet was, and (c) self-report the reason for changing diets.
 
