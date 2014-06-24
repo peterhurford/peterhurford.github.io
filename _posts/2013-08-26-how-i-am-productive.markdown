@@ -107,7 +107,7 @@ Also, note the inclusion of "waiting" here as one of the tabs in my to-do list. 
 
 #### Timeboxing: Plan Your Day in Advance
 
-The next prioritization thing to master is _planning your day in advance_.  You do this through making "time boxes" for things, or periods of time where you'll do something predefined.  For example, I'll set aside some time to work through my to-do list or to work on particular projects.  For bigger projects, I'll decide how much I want to work on them in any particular day or week and set them aside from my to-do list.  I'll then block out time for them on my calendar and end up with [days like this](http://www.everydayutilitarian.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-26-at-1.07.28-PM.png).
+The next prioritization thing to master is _planning your day in advance_.  You do this through making "time boxes" for things, or periods of time where you'll do something predefined.  For example, I'll set aside some time to work through my to-do list or to work on particular projects.  For bigger projects, I'll decide how much I want to work on them in any particular day or week and set them aside from my to-do list.  I'll then block out time for them on my calendar and end up with [days like this]({{siteurl}}/images/posts/how-i-am-productive/day.png).
 
 Since I plan my days in advance using this timebox method, I just plan every minute of the calendar in advance and have a plan so I always know what to be doing and never miss a beat.  Of course, things come up and you'll have to change your plan for the day, but that's better than having no plan at all.
 
