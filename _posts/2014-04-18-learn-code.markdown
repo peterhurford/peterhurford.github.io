@@ -11,7 +11,7 @@ categories:
 ---
 
 
-_[v1.6.21](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
+_[v1.8.22](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
 
 ## The Introduction
@@ -24,6 +24,9 @@ Additionally, you might find out that programming is not a good fit for your ski
 
 Also, let me know ([Peter Hurford on Facebook](https://www.facebook.com/peterhurford) or [peter@peterhurford.com](mailto:peter@peterhurford.com) by email) if you try this guide, so I can get feedback on how it goes for you.  Feel free to also reach out to me with comments on how to improve the guide -- I'm still relatively new to programming myself and have not yet implemented all these steps personally!
 
+-
+
+**UPDATE:** Thanks to someone in the comments, I found a new resource for learning programming called [The Odin Project](http://www.theodinproject.com), and dare I say it, I think it's better than my guide.  [I took detailed notes on it here](http://everydayutilitarian.com/essays/notes-on-the-odin-project), and I urge you to read them if you're interested in a slightly different take on learning programming.
 
 
 
@@ -75,6 +78,8 @@ I've never personally gone to a boot camp (and don't plan to).   Keep in mind th
 [App Academy](http://www.appacademy.io/#p-home) is widely considered to be the best program and [there’s been lots of discussion of it on LessWrong](https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).  App Academy basically does Step 2-17 from this guide, but gives you support, formal teaching, and a good learning environment.  Buck Shlegeris is a TA at App Academy and is happy to be a contact if you're interested in getting more information on applying and/or getting coached through the process.  [Here's an interview with Buck about App Academy](http://80000hours.org/blog/329-interview-with-buck-shlegeris-from-app-academy) for more information.
 
 Buck and Chris Hallquist (who went to App Academy) also say that [Hack Reactor](http://www.hackreactor.com/) is the second-best program if you’re not able to get into App Academy (it is somewhat selective).  [Here's a full list of all available bootcamps, with details](http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/).
+
+It's worth noitng that App Academy might be best for people in the US.  [Maker's Academy](http://www.makersacademy.com/) seems pretty good for people near London, though.
 
 
 
@@ -279,43 +284,43 @@ This advice is based on my personal experience, plus advice given to me (in roug
 
 ## The Changelog <a name="changelog">&nbsp;</a>
 
-* v1.0.0 - Initial launch
+* v1.0.0 - Initial launch.
 
-* v1.0.1 - Added more info to intro
+* v1.0.1 - Added more info to intro.
 
-* v1.0.2 - Added version tracker
+* v1.0.2 - Added version tracker.
 
-* v1.1.2 - Added alternatives to Hartl’s tutorial
+* v1.1.2 - Added alternatives to Hartl’s tutorial.
 
-* v1.1.3 - Added my contact information
+* v1.1.3 - Added my contact information.
 
-* v1.1.4 - Added call for action for feedback
+* v1.1.4 - Added call for action for feedback.
 
-* v1.1.5 - Added Changelog
+* v1.1.5 - Added Changelog.
 
-* v1.1.6 - Added more info about “multiple routes” to intro
+* v1.1.6 - Added more info about “multiple routes” to intro.
 
-* v1.2.6 - Added info on programming bootcamps
+* v1.2.6 - Added info on programming bootcamps.
 
-* v1.2.7 - Added more info on Python
+* v1.2.7 - Added more info on Python.
 
-* v1.3.7 - Added an explicit step for HTML/CSS
+* v1.3.7 - Added an explicit step for HTML/CSS.
 
-* v1.3.8 - Added more info on when one can apply to an internship / Junior position
+* v1.3.8 - Added more info on when one can apply to an internship / Junior position.
 
-* v1.4.8 - Added another re-evaluate period
+* v1.4.8 - Added another re-evaluate period.
 
-* v1.4.9 - Added Codility to the list of problem sets
+* v1.4.9 - Added Codility to the list of problem sets.
 
-* v1.4.10 - Added info on Hack Reactor
+* v1.4.10 - Added info on Hack Reactor.
 
-* v1.4.11 - Added FizzBuzz test for the first step
+* v1.4.11 - Added FizzBuzz test for the first step.
 
-* v1.5.11 - Added more info on getting a job
+* v1.5.11 - Added more info on getting a job.
 
-* v1.5.12 - Reorganized some of the steps
+* v1.5.12 - Reorganized some of the steps.
 
-* v1.6.12 - Added a step for SQL
+* v1.6.12 - Added a step for SQL.
 
 * v1.6.13 - Minor fixes.
 
@@ -334,3 +339,9 @@ This advice is based on my personal experience, plus advice given to me (in roug
 * v1.6.20 - Fixed some broken links.
 
 * v1.6.21 - Fixed two typos.
+
+* v1.7.21 - Added information about The Odin Project.
+
+* v1.7.22 - Made punctuation consistent in changelog.
+
+* v1.8.22 - Added clarification for people who live outside the US.

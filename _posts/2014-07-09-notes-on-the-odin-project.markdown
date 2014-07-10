@@ -148,6 +148,8 @@ I've never personally gone to a boot camp (and don't plan to).   Keep in mind th
 
 Buck and Chris Hallquist (who went to App Academy) also say that [Hack Reactor](http://www.hackreactor.com/) is the second-best program if you’re not able to get into App Academy (it is somewhat selective).  [Here's a full list of all available bootcamps, with details](http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/).
 
+It's worth noitng that App Academy might be best for people in the US.  [Maker's Academy](http://www.makersacademy.com/) seems pretty good for people near London, though.
+
 
 
 
