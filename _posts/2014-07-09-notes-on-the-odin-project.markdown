@@ -9,6 +9,8 @@ categories:
 - Programming
 ---
 
+_Follow up to ["So You Wanna Learn How to Code? Going from Zero to Programmer Hero in One Guide, for Great Justice"](http://everydayutilitarian.com/essays/learn-code/)._
+
 I'm currently working as a computer programmer at a start-up in Chicago.  I'm getting paid to write code.  It's pretty neat.  Most notably, I was not a Computer Science major in college, and I only took two CS classes.  I got the job nearly entirely through about 700 hours of self study.
 
 Best of all, you can do it too!
@@ -178,6 +180,10 @@ As a project, make a Coffescript function that prints out the first twenty numbe
 -
 
 It could be a good idea to learn Knockout.js.  Do this tutorial: [http://learn.knockoutjs.com/#/?tutorial=intro](http://learn.knockoutjs.com/#/?tutorial=intro)
+
+-
+
+You might want to learn some Data Science.  This deserves a post of it's own, but you could thumb back to "Optional Step Twenty-four – Learn Some Data Science" [in my guide](http://everydayutilitarian.com/essays/learn-code/).
 
 
 
