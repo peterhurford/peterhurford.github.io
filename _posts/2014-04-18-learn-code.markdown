@@ -269,6 +269,9 @@ Once you’re here, if you want to get really serious into Data Science, I’m p
 
 You should now know enough about programming that you’re off on your own.  If you’ve found a good mentor, they can tell you what to do next.  Or maybe now you can land a programming job and learn programming in a real-world context.  Good luck!
 
+-
+
+_Followed up in ["A Better Way to Learn Programming? Notes on The Odin Project"](http://everydayutilitarian.com/essays/notes-on-the-odin-project/)._
 
 
 
