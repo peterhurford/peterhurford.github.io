@@ -89,43 +89,43 @@ When you get to ["Ruby Programming >> Intermediate Ruby >> 1: Object Oriented Pr
 
 For "Javascript and jQuery >> The Basics and the Browser >> 2: Javascript Basics", I think now is a better time to do some of the readings that TOP puts off for later.  So read the following links now and not later:
 
-1.) http://agentcooper.github.io/js-ruby-comparison/
+1.) [http://agentcooper.github.io/js-ruby-comparison/](http://agentcooper.github.io/js-ruby-comparison/)
 
-2.) http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/
+2.) [http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/](http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/)
 
 -
 
 For "Javascript and jQuery >> Deeper into Javascript" and "Javascript and jQuery >> Advanced Browser Work", I have different opinions than the authors of the Odin Project.  In my opinion, the readings make more sense when they are presented like this:
 
-1.) http://javascriptissexy.com/javascript-objects-in-detail/
+1.) [http://javascriptissexy.com/javascript-objects-in-detail/](http://javascriptissexy.com/javascript-objects-in-detail/)
 
-2.) http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+2.) [http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 
-3.) http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+3.) [http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 
 ...Now, pause to build something object oriented.  I don't think re-creating Tic-tac-toe in JavaScript is necessary -- Minesweeper and Snake should already be enough.  So build something object oriented, but simpler.  I'm not very good at exercises, but maybe build a town full of people objects, and then make professions (like doctor, police officer, etc.) that inherit from "person" but do special things.
 
 ...Now back to reading.
 
-4.) http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/
+4.) [http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
-5.) http://javascriptissexy.com/understand-javascript-closures-with-ease/
+5.) [http://javascriptissexy.com/understand-javascript-closures-with-ease/](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 
-6.) http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+6.) [http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
-7.) http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms (a reading not in TOP that I added)
+7.) [http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms (a reading not in TOP that I added)](http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms (a reading not in TOP that I added))
 
-8.) http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/
+8.) [http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/](http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/)
 
-9.) http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+9.) [http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
-10.) http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
+10.) [http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 
-11.) http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/
+11.) [http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/](http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/)
 
-12.) http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed
+12.) [http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed](http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed)
 
-13.) http://alistapart.com/article/the-design-of-code-organizing-javascript
+13.) [http://alistapart.com/article/the-design-of-code-organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)
 
 ...Now do [the Minesweeper project](http://www.theodinproject.com/javascript-and-jquery/minesweeper).
 
