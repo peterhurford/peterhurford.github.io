@@ -113,7 +113,7 @@ For "Javascript and jQuery >> Deeper into Javascript" and "Javascript and jQuery
 
 6.) [http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
-7.) [http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms (a reading not in TOP that I added)](http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms (a reading not in TOP that I added))
+7.) [http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms](http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms) (a reading not in TOP that I added)
 
 8.) [http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/](http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/)
 
