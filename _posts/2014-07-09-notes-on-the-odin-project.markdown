@@ -167,18 +167,17 @@ Once you've completed all of TOP, I really think you should start applying for j
 
 -
 
-ERB, which you have been using to display Ruby in HTML, is nice, but HAML is also popular.  Haml makes a trade-off that allows you to write code faster, but has a steeper learning curve and is hard to understand.  Read through http://haml.info/tutorial.html.  For a project, take a project you have done where you wrote views in ERB, and re-write all those views in Haml.  Make sure it works.
+ERB, which you have been using to display Ruby in HTML, is nice, but HAML is also popular.  Haml makes a trade-off that allows you to write code faster, but has a steeper learning curve and is hard to understand.  Read through [http://haml.info/tutorial.html](http://haml.info/tutorial.html).  For a project, take a project you have done where you wrote views in ERB, and re-write all those views in Haml.  Make sure it works.
 
 -
 
-It could be a good idea to learn CoffeeScript.  Skim through http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027, then through http://coffeescript.org/.  Next, do the tutorial at http://coffeescript.carbonfive.com/.  Finally, watch Coffeescript in action here: http://railscasts.com/episodes/267-coffeescript-basics.
+It could be a good idea to learn CoffeeScript.  Skim through [http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027](http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027), then through http://coffeescript.org/.  Next, do the tutorial at [http://coffeescript.carbonfive.com/](http://coffeescript.carbonfive.com/).  Finally, watch Coffeescript in action here: [http://railscasts.com/episodes/267-coffeescript-basics](http://railscasts.com/episodes/267-coffeescript-basics).
 
-As a project, make a Coffescript function that prints out the first twenty numbers in the Fibonacci sequence.  That should be good enough, but feel free to re-do some of your JS stuff in CoffeeScript if you'd like.  You also might want to read through http://coffeescript.org/ a little more thoroughly to get a better understanding of what it can do.  You'll also benefit from reading through http://css-tricks.com/jquery-coffeescript/ to get an idea of how to do jQuery stuff with Coffeescript.
+As a project, make a Coffescript function that prints out the first twenty numbers in the Fibonacci sequence.  That should be good enough, but feel free to re-do some of your JS stuff in CoffeeScript if you'd like.  You also might want to read through http://coffeescript.org/ a little more thoroughly to get a better understanding of what it can do.  You'll also benefit from reading through [http://css-tricks.com/jquery-coffeescript/](http://css-tricks.com/jquery-coffeescript/) to get an idea of how to do jQuery stuff with Coffeescript.
 
 -
 
-It could be a good idea to learn Knockout.js.  Do this tutorial: http://learn.knockoutjs.com/#/?tutorial=intro
-
+It could be a good idea to learn Knockout.js.  Do this tutorial: [http://learn.knockoutjs.com/#/?tutorial=intro](http://learn.knockoutjs.com/#/?tutorial=intro)
 
 
 
