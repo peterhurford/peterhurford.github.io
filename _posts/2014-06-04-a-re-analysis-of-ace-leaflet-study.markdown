@@ -79,9 +79,9 @@ My [R script for doing the re-analysis is here](https://github.com/peterhurford/
 
 
 
-## What should the independent variable be?
+## What should the dependent variable be?
 
-Once I set up the dataset, I looked into how we should represent the independent variable -- the amount of change in diet caused by the survey.
+Once I set up the dataset, I looked into how we should represent the dependent variable -- the amount of change in diet caused by the survey.
 
 #### Meat Elimination
 
@@ -257,7 +257,7 @@ As we were looking at whether people were dropping red meat and poultry, I was a
 
 ## Challenges to These Variables <a id="challenges">&nbsp;</a>
 
-Why look at eight different independent variables?  One reason was that we were interested in both partial meat elimination and full meat elimination.  But another reason is that it’s really hard to figure out who exactly is vegetarian...
+Why look at eight different dependent variables?  One reason was that we were interested in both partial meat elimination and full meat elimination.  But another reason is that it’s really hard to figure out who exactly is vegetarian...
 
 
 #### First Problem: Vegetarians and Vegans Eat Meat <a id="vegeatmeat">&nbsp;</a>
@@ -345,7 +345,7 @@ That being said, it's possible that these food frequency questionnaires are reli
 
 ## What should the relevant treatment and control groups be? <a id="control">&nbsp;</a>
 
-So we’re looking to five different independent variables to track changes in diet.  But we’re really interested in the impact of leafleting.  The study was designed well -- there was a control leaflet and two different treatment leaflets.
+So we’re looking to five different dependent variables to track changes in diet.  But we’re really interested in the impact of leafleting.  The study was designed well -- there was a control leaflet and two different treatment leaflets.
 
 <table>
 	<caption>Leaflets Recognized by Follow-up Survey Respondents</caption>
@@ -398,7 +398,7 @@ Also, ACE mentions that more than sixty people also mention receiving a treatmen
 
 ## What changes reportedly occurred as a result of the leafleting? <a id="changes">&nbsp;</a>
 
-So now that we have eight potential independent variables and three groups to look at, how did things actually turn out?
+So now that we have eight potential dependent variables and three groups to look at, how did things actually turn out?
 
 <table>
 	<tr>
@@ -678,7 +678,7 @@ Interesting that reading patterns for the treatment leaflets are statistically i
 
 -
 
-We can also use this to dig a little bit deeper at red meat elimination, one of the independent variables credited by ACE as being affected by the leaflet.
+We can also use this to dig a little bit deeper at red meat elimination, one of the dependent variables credited by ACE as being affected by the leaflet.
 
 * 7 people who received the treatment flyer self-reported eliminating red meat.  Of these...
 
@@ -851,7 +851,7 @@ Unfortunately, we can only speculate, but it seems quite plausible that the reas
 
 I think we are getting very close to understanding the impact of leafleting, but I don't think we're quite there yet.  We could use further research (as always).
 
-I think the most important future research should focus on addressing the methodological issues here, trying to come up with better independent variables or better ways to mitigate the drawbacks that have been discovered with these independent variables.  For example, I'd propose further research into how the public understands terms like "vegetarian" or "pescetarian" or more research into leaflet recall after a few months.  Perhaps we could make use of more reliable panel studies, where we know we'd have access to the same participants after a few months.
+I think the most important future research should focus on addressing the methodological issues here, trying to come up with better dependent variables or better ways to mitigate the drawbacks that have been discovered with these dependent variables.  For example, I'd propose further research into how the public understands terms like "vegetarian" or "pescetarian" or more research into leaflet recall after a few months.  Perhaps we could make use of more reliable panel studies, where we know we'd have access to the same participants after a few months.
 
 Additionally, the next step to settle this question as much as it can be settled would be to do a large sample size study with a control group.  Having a couple thousand people in each group should do the trick and place a worthwhile upper bound on what the size of the effects would be, even if we don't yet know the true lower bound (because it might remain too small to detect).
 
