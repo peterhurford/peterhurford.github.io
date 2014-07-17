@@ -22,7 +22,7 @@ Some people have asked me how I make these personal reviews.  I'm here to tell y
 * I go through my time report and combine things into categories.
 * I publish those categories and compare them against my goals.
 
-
+<!-- more -->
 
 ## Having Goals
 
