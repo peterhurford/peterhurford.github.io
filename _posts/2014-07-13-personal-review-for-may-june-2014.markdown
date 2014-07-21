@@ -54,26 +54,30 @@ Since some people asked last time, I've broken down the "other" category:
 	<tr><td>Tasks[1]</td> <td>6.5</td></tr>
 	<tr><td>Daily/Weekly Reviews</td> <td>5.9</td></tr>
 	<tr><td>Shower/Hygeine</td> <td>3.2</td></tr>
-	<tr><td>Email</td> <td>1.8</td></tr>
-	<tr><td>Clean/Pack/Unpack[2]</td> <td>1.5</td></tr>
-	<tr><td>Clothes Shopping</td> <td>1.3</td></tr>
+	<tr><td>Email[2]</td> <td>1.8</td></tr>
+	<tr><td>Clean/Pack/Unpack[3]</td> <td>1.5</td></tr>
+	<tr><td>Clothes Shopping[4]</td> <td>1.3</td></tr>
 	<tr><td>Errands</td> <td>1.1</td></tr>
 	<tr><td>Banking/Finances</td> <td>0.7</td></tr>
-	<tr><td>Notes[3]</td> <td>0.5</td></tr>
+	<tr><td>Notes[5]</td> <td>0.5</td></tr>
 	<tr><td>Haircut</td> <td>0.3</td></tr>
-	<tr><td>Prepare Food</td> <td>0.3</td></tr>
+	<tr><td>Prepare Food[2]</td> <td>0.3</td></tr>
 	<tr><td>Employment Forms</td> <td>0.2</td></tr>
 	<tr><td>Dentist</td> <td>0.2</td></tr>
 	<tr><td>Laundry</td> <td>0.1</td></tr>
 	<tr><td>Research</td> <td>0.4</td></tr>
-	<tr><td>Travel[2]</td> <td>0.4</td></tr>
+	<tr><td>Travel[3]</td> <td>0.4</td></tr>
 </table>
 
 1: This consists of doing assorted small things from my to-do list.
 
-2: Not counting what was related to moving to Chicago.
+2: For both preparing food and email, some of these times were in "Tasks" instead.  I estimate that my actual time spent preparing food is ~e1hr a week and doing email is ~3.5hrs a week.
 
-3: This mostly involves thinking about ideas and recording them.
+3: Not counting what was related to moving to Chicago.
+
+4: This was a one-day 9hr shopping spree to do a once-in-three-years wardrobe update to prepare for the professional world.  Not typical.
+
+5: This mostly involves thinking about ideas and recording them.
 
 
 
@@ -122,3 +126,7 @@ Back in January in ["My Case Study: I (Mostly) Finished Choosing Between Careers
 The next review will be on November 1.  However, my lease and internship here runs out by the end of August.  So by the next review, I should be settled into whatever my next opportunity will be, even if it's a permanent position at my current place.
 
 It's time to bucle down and see if this plan works and what I can learn from it.
+
+-
+
+_Curious how this review was made?  See ["The Making of the Personal Review: Behind the Scenes"](http://everydayutilitarian.com/essays/the-making-of-the-personal-review) for more._
