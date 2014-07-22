@@ -115,9 +115,47 @@ So the average American is producing, each year on average...
 ...That means there's a total of 5 years, 6 months, 5 days of animal suffering in each standard American diet, **per year**.  Yikes!  ...And this doesn't even include the suffering from the slaughter of the animals themselves.
 
 
-#### Adjusting for Context
 
-But we can get a bit more precise at the cost of being a bit more speculative, if you don't mind me experimenting, because I don't think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.
+## Adjusting for Product Elasticity
+
+However, as is commonly known by economists, when you choose to not buy a product, you lower the demand ever so slightly, which lowers the price ever so slightly, which turns out to re-increase the demand ever so slightly.  Therefore, forgoing one pound of meat means that less than one pound of meat actually gets prevented from being factory farmed.  So vegetarianism does have an effect on reducing the amount of animals farmed, but a little less than we might naïvely think.  F. Bailey Norwoord's [Compassion by the Pound](http://www.amazon.com/Compassion-Pound-Economics-Animal-Welfare/dp/0199551162) gives the following figures:
+
+* If someone gives up one pound of beef, the product falls by 0.68 lbs
+* One Pound of Milk... 0.56lbs.
+* One Pound of Pork... 0.74 lbs
+* One Pound of Chicken... 0.76 lbs
+* One Egg... 0.91 Egg.
+
+#### Cheese, Turkey, and Fish Elasticity
+
+However, Norwood is missing figures for the rest of dairy, and for turkey and fish, so we need to add a bit more information.  Luckily, the organization [Animal Charity Evaluators](http://www.animalcharityevaluators.com) has done some more research on this.
+
+ACE cites [this paper](http://ageconsearch.umn.edu/bitstream/14745/1/wp9808.pdf) for a dairy elasticity of 0.65, such that if someone gives up one pound of dairy, the product falls by 0.65 lbs.
+
+For turkey, [this paper](http://ageconsearch.umn.edu/bitstream/31190/1/23020558.pdf) gives an elasticity of 0.26.
+
+For fish, [this paper](http://oregonstate.edu/dept/IIFET/Japan/proceedupdates/306.pdf) gives an elasticity of 0.75.
+
+Though it's important to note that this science is somewhat imprecise, and ACE cites figures that conflict with some of Norwood's figures.  It's also curious why turkey elasticity is so low compared to Norwood's estimates for chicken.
+
+
+#### Putting it together...
+
+With these adjustments, in actuality, the average American is producing, each year on average...
+
+* 20.1 days of suffering via beef
+* 5.2 days of suffering via dairy
+* 32.6 days of suffering via pork
+* 421 days of suffering via chicken meat
+* 315.7 days of suffering via eggs
+* 20 days of suffering via turkey
+* 711.7 days of suffering via aquacultured fish
+
+ 
+
+## Adjusting for Context
+
+That isn't all the adjusting I think we should do, however.  We can get a bit more precise at the cost of being a bit more speculative, if you don't mind me experimenting, because I don't think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.
 
 First, let's do differences from intensity of farming conditions.  Brian's table takes this into account, and suggests the following adjustment ratios (higher ratio means more suffering from the farming):
 
@@ -147,13 +185,13 @@ Second, we need some estimates of the differences of capacity to suffer.  Again,
 
 Taking these ratios into account, we adjust to the new totals:
 
-* 36 adjusted days of suffering via beef
-* 14 adjusted days of suffering via dairy
-* 79 adjusted days of suffering via pork
-* 299 adjusted days of suffering via chicken meat
-* 260 adjusted days of suffering via eggs
-* 41 adjusted days of suffering via turkey
-* 171 adjusted days of suffering via aquacultured fish 	900
+* 20.1 adjusted days of suffering via beef
+* 9.4 adjusted days of suffering via dairy
+* 58.9 adjusted days of suffering via pork
+* 227.3 adjusted days of suffering via chicken meat
+* 236.7 adjusted days of suffering via eggs
+* 10.8 adjusted days of suffering via turkey
+* 128.1 adjusted days of suffering via aquacultured fish
 
 (The adjustment is technically in units of "days of beef suffering equivalents".)
 
@@ -162,13 +200,17 @@ Taking these ratios into account, we adjust to the new totals:
 
 I think these adjustments are important not for coming to a more accurate total of years of suffering caused per year of American diet, but rather for more accurately determining which food groups are the most important to target.  For example, based on these adjusted numbers, we can tentatively (and perhaps naively) conclude:
 
-* Giving up beef is ~2.6x as important as giving up dairy.
-* Giving up pork is ~2.2x as important as giving up beef.
-* Giving up chicken meat is ~8.3x as important as giving up beef.
-* Giving up eggs is ~7.2x as important as giving up beef.
-* Giving up turkey is ~1.1x as important as giving up beef.
-* Giving up aquacultured fish is ~4.8x as important as giving up beef.
+* Giving up beef is ~2.1x as important as giving up dairy.
+* Giving up beef is ~1.9x as important as giving up turkey.
+* Giving up pork is ~2.9x as important as giving up beef.
+* Giving up chicken meat is ~11.3x as important as giving up beef.
+* Giving up eggs is ~11.8x as important as giving up beef.
+* Giving up aquacultured fish is ~6.4x as important as giving up beef.
 
 So this gives a pretty good approach for a "meat reduction" diet, with the most ethical bang-for-the-buck for each animal product given up.  Maybe consider eating all the beef, turkey, and dairy you want, but spare the really important ones -- chicken, eggs, and fish!
 
-In fact, a diet where you only avoid chicken, eggs, and fish is 81% as impactful at preventing animal suffering as a fully vegan diet!
+In fact, a diet where you only avoid chicken, eggs, and fish is 85.6% as impactful at preventing animal suffering as a fully vegan diet!
+
+-
+
+_Updated 21 Jul to add information about elasticity._
