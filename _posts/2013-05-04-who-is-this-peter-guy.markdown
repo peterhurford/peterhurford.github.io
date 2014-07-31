@@ -13,7 +13,7 @@ categories:
 
 Hi.
 
-My name is Peter Hurford.  I attend [Denison University](http://www.denison.edu/) as an undergraduate senior.  That's a small liberal arts college a little bit outside Columbus, Ohio.  There I study political science and psychology, and I have a concentration in organizational studies.  If you want to know more about me as a pre-professional, I have a personal website located at [PeterHurford.com](http://www.peterhurford.com).
+My name is Peter Hurford.  Right now, I'm a software developer at [Avant Credit](http://www.avantcredit.com), an online loan start-up in Chicago, IL.  I've been enjoying the big city.  Back in May 2014, I graduated from Denison University](http://www.denison.edu/), a small liberal arts college a little bit outside Columbus OH, with dual degrees in political science and psychology, and a concentration in organizational studies.  If you want to know more about me as a professional, I have a personal website located at [PeterHurford.com](http://www.peterhurford.com).
 
 I used to write a blog called [Greatplay.net](http://www.greatplay.net/) for many years, starting blogging in 2009.  In the fall of 2010, I read Richard Carrier's **[Sense and Goodness Without God](http://www.amazon.com/dp/1420802933)** and Nicholas Everitt's **[The Nonexistence of God](http://www.amazon.com/dp/0415301068)**.  I can't say that I believed in God prior to reading these books, but I definitely didn't believe in God after reading these books, and I promptly shifted my blog to a large discussion of why that was the case.  Philosophy of religion mattered a lot to me then, and I wrote about it frequently.  Around this time, I got involved with the community website [Less Wrong](http://www.lesswrong.com).
 
