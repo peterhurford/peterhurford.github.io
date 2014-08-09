@@ -86,7 +86,7 @@ In spring 2005, my public-policy teacher used the word “utilitarian” in clas
 
 Caring about animals led me to discover Vegan Outreach, from which I contacted Matt Ball, who passed me along to another utilitarian friend of his. That friend introduced me to the ideas of Yew-Kwang Ng, Ray Kurzweil, Nick Bostrom, David Pearce, and many others.
 
-In June 2006, I read David Pearce’s [Hedonistic Imperative](http://hedweb.com/), after which I wrote to David with comments. I included the collection of utilitarian-related essays that I had been accumulating since roughly 2004. David wrote back: “My first (and utilitarian!) response was: how can I encourage you to get a website?” David soon gave me the domain utilitarian-essays.com and still helps maintain my site too this day.
+In June 2006, I read David Pearce’s [Hedonistic Imperative](http://hedweb.com/), after which I wrote to David with comments. I included the collection of utilitarian-related essays that I had been accumulating since roughly 2004. David wrote back: “My first (and utilitarian!) response was: how can I encourage you to get a website?” David soon gave me the domain utilitarian-essays.com and still helps maintain my site to this day.
 
 -
 
