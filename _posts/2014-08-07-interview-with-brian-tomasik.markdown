@@ -151,7 +151,8 @@ Taking an average across all days might give something like the following breakd
 * 2 hours: random small tasks, including little jobs for other people and monitoring Google Grants, Wikipedia updates, website traffic, my to-do list, etc.
 
 * 2.5 hours: tangible altruism-related work like fixing a website, Animal Charity Evaluators board meetings, or discussing strategy
-4 hours: reading and writing (with more emphasis on the reading part).
+
+* 4 hours: reading and writing (with more emphasis on the reading part).
 
 I think it’s important to read a lot (or listen to audio content) in order to produce useful writing. Elijah Young [has said](http://leftshoecreative.com/2011/09/workshop-1-blogging-elijah-young/): “If you can't think of anything to write, you’re probably not reading enough.” Of course, some of my writings are based on personal experience, long-term observations, and/or theory. But especially on empirical topics, good writing generally requires good background knowledge.
 
