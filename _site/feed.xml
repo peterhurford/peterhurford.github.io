@@ -4,13 +4,607 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.everydayutilitarian.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com" />
-<updated>2014-06-04T16:16:02-04:00</updated>
+<updated>2014-08-10T22:47:51-04:00</updated>
 <id>http://www.everydayutilitarian.com/</id>
 <author>
   <name></name>
   <uri>http://www.everydayutilitarian.com/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Interview with Brian Tomasik]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/interview-with-brian-tomasik/" />
+  <id>http://www.everydayutilitarian.com/essays/interview-with-brian-tomasik</id>
+  <published>2014-08-07T10:10:00Z</published>
+  <updated>2014-08-07T10:10:00Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place.  I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
+
+&lt;p&gt;Today, I sit down with Brian Tomasik.  Brian worked at Microsoft as a computer programmer, earning a sizable salary that he then donated to important causes.  Throughout this time, he also wrote on his blog, &lt;a href=&quot;http://www.utilitarian-essays.com&quot;&gt;Utilitarian Essays&lt;/a&gt;, and he is noted for being one of the first people to consider &lt;a href=&quot;http://www.utilitarian-essays.com/make-money.html&quot;&gt;earning to give&lt;/a&gt; and &lt;a href=&quot;http://www.utilitarian-essays.com/veg-ads.html&quot;&gt;donating to vegan outreach&lt;/a&gt;, two concepts that are now commonly found in the “effective altruism” community.
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;http://www.everydayutilitarian.com/images/posts/interview-with-brian-tomasik/brian.jpg&quot; alt=&quot;Brian Tomasik&quot; title=&quot;Brian Tomasik&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;Peter Hurford:&lt;/strong&gt; Hi Brian.  When we last talked, you were working on Bing at Microsoft.  But I’ve heard that you’ve since left your job there to pursue other projects.  What changed?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brian Tomasik:&lt;/strong&gt; Microsoft was a great place to work. My job was intellectually interesting, allowed a flexible schedule, paid well per hour, and brought me in contact with really smart people. I appreciated Microsoft’s $12K/year matching-donations limit (now $15K) and the fact that I could use a treadmill desk in my office without people complaining.
+While earning money was great, I began to realize how many open altruism-related questions I faced in deciding where to donate. Because my approach to ethics is somewhat unique, I didn’t know of anyone else I could pay to work on these questions for me. I knew that these topics would probably take many years to explore and were beyond what I could do in my free time. So, in early 2013, I began plans for starting my own organization to work on basic-research questions in altruism. My collaborators and I eventually decided to call it &lt;a href=&quot;http://foundational-research.org/&quot;&gt;Foundational Research Institute&lt;/a&gt; (FRI). I left Microsoft in October 2013 to spend more time reading, writing, and thinking about issues like artificial intelligence, consciousness, cooperation, and future trajectories from the perspective of aiming primarily to reduce suffering.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; That sounds like a lot to give up.  With all your compensation at Microsoft, you could be funding a lot of people to do research instead of doing it yourself.  Why do you think it might be higher value for you to work on these projects instead?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; It’s a tough decision, and I still think a lot about where my efforts would accomplish the most. Right now, FRI is my top priority for a few reasons.&lt;/p&gt;
+
+&lt;p&gt;Figuring out what you value, what actions best advance those values, and what charities best contribute toward those actions is a lifelong process of exploration. It’s easier if you have relatively mainstream values, because then you might take the recommendations of a charity evaluator or other friends who have thought hard about this question. However, that’s less feasible in my case. I’m not aware of any existing organization with the foremost goal of reducing suffering that has systematically explored interventions to shape the far future in light of artificial intelligence and other crucial considerations. This is new ground that needs breaking.&lt;/p&gt;
+
+&lt;p&gt;Potentially I could have tried to hire others to study these questions for me, but in practice, I’m not aware of many other people I could have hired. (I’d love to find more!) Many of my collaborators on these questions feel that my contributions to this field have been non-replaceable. These people helped persuade me that my ideas were sufficiently valuable that they would be worth giving up my Microsoft income to explore further. I also personally feel that I contribute some perspectives that others have overlooked, and I need to exercise some degree of due diligence rather than just trusting the opinions of others who explore these questions.&lt;/p&gt;
+
+&lt;p&gt;Finally, it’s worth remembering that the cost to hire a researcher is often more than her salary; it also includes the opportunity costs of what she would have been doing instead, which might include earning to give in her own right. The best researchers are likely to have higher opportunity costs. So it’s not clear that my Microsoft income could have paid for &lt;em&gt;several&lt;/em&gt; good FRI researchers.&lt;/p&gt;
+
+&lt;p&gt;The situation may change in the future. Perhaps in 5 years FRI will have additional researchers to explore ways to shape the future with an eye toward reducing the most suffering. It’s also likely that I’ll have a better overall picture of the world and diminishing marginal insights. At that point I can re-evaluate my options, and earning to give would be on the table. By that point the question of where to donate would be more clear, since I would then be able to donate to a self-sustaining FRI.&lt;/p&gt;
+
+&lt;p&gt;Alan Kay famously &lt;a href=&quot;https://en.wikiquote.org/wiki/Alan_Kay&quot;&gt;said&lt;/a&gt;, “The best way to predict the future is to invent it.” Analogously, if you have unusual values, one way to find an effective charity is to create it. I don’t mean that FRI is likely to be more efficient by objective metrics like output or influence per dollar than other charities. The principle of mediocrity argues against that. Rather I mean that adjusted for value differences relative to other organizations, FRI’s work is likely to be among the most useful per dollar for those whose focus is reducing suffering. And even if not, then FRI can point to other charities that seem to be more effective than itself.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; So it seems like you’re intensely interested in the question of reducing suffering.  Most of my friends aren’t like this – instead, they’re concerned with a specific kind of suffering, like getting rid of cancer, and even then, that concern doesn’t inform &lt;em&gt;everything&lt;/em&gt; they do.  Why is suffering in general so interesting to you, as opposed to specific kinds of suffering, and why is that concern so dominating in your life?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; I’ll start with the second part – why is suffering so dominating? Subjectively, the reason is that when I see or imagine extreme suffering – such as being eaten alive or fried to death in a &lt;a href=&quot;https://en.wikipedia.org/wiki/Brazen_bull&quot;&gt;brazen bull&lt;/a&gt; – it seems overwhelmingly apparent that preventing such experiences is the most important thing in the world, and nothing else can compare.&lt;/p&gt;
+
+&lt;p&gt;This intuition seems clear enough to most of us when we imagine the suffering happening nearby. If someone was being tortured in a way that could be prevented in the room next door, few of us would hesitate to stop whatever we were doing and go help. But when distance and uncertainty stand in the way, this intuition fades, and people become preoccupied with goals like ensuring interesting, complex, and &lt;a href=&quot;http://lesswrong.com/lw/g7y/morality_is_awesome/&quot;&gt;awesome&lt;/a&gt; futures. Of course, I get plenty distracted as well – doing so is only human, and it’s necessary for our emotional wellbeing. But I know in my heart that these other pursuits are only instrumentally valuable, and nothing besides reducing extreme suffering really matters when people and animals are being tortured as we speak.&lt;/p&gt;
+
+&lt;p&gt;What I’ve described is analogous to Peter Singer’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality&quot;&gt;drowning-child&lt;/a&gt; thought experiment. But in addition to making the case for altruism, my analogy further argues for a kind of prioritarianism in which preventing extreme suffering is more urgent than, say, creating additional happy lives or beautiful art or other forms of value. Because torture-level suffering will likely always exist in some form somewhere within the reach of our influence to prevent it, prioritarianism is in practice equivalent to a focus on reducing suffering over and above other goals.&lt;/p&gt;
+
+&lt;p&gt;While I see this argument as relatively convincing on its own merits, I seem more persuaded by it than many people. I think one reason is that I experienced a great deal of physical pain in 2002, when I was &lt;a href=&quot;http://www.utilitarian-essays.com/personal-suffering-compassion.html#esophagitis&quot;&gt;dealing with&lt;/a&gt; a condition called esophagitis. The pain continued in mild form for a few years thereafter. I think this has rewired my brain to show me just how overriding suffering is compared with other goals. Matt Ball &lt;a href=&quot;http://www.utilitarian-essays.com/horror-of-suffering.html&quot;&gt;expressed a similar sentiment&lt;/a&gt; when describing his youth:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Back then, I worried about abstractions and words and principles; I argued about exploitation, oppression, liberation, etc. I didn’t take suffering seriously. Now, knowing what suffering really is, and knowing how much there is in the world, all my previous concerns seem - well, to put it kindly, ridiculous.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s easier to answer why I care about any form of extreme suffering rather than just particular forms. I can generalize from knowing that particular experiences I’ve seen or witnessed were agonizingly terrible to realizing that similar sorts of experiences from other causes would also be agonizingly terrible. I have not personally suffered nearly as much as most torture victims or dying wild animals, but I can take what I have experienced and multiply it in my imagination to attempt some degree of comprehension of the horror they have endured.&lt;/p&gt;
+
+&lt;p&gt;Based on my own experience and intuitions of others, I think extreme suffering is in some sense qualitatively different from mundane suffering. There’s something so much worse about extreme suffering that even comparing torture with, say, stubbing your toe seems to trivialize torture. Only the really intense forms of suffering demand moral urgency.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Have you come to any important realizations from your research yet?  What do you think the impact of your research is so far?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; For concreteness, I’ll define “my research” as things I’ve realized and written about in the last 1.5 years. There have been many course-changing insights. They’ve affected not just me but many of my Swiss colleagues and some other people I know through Facebook. The most tangible impacts may have been to shift where some people donate and where FRI applies future research resources, but the long-run changes to our frameworks for thinking about these questions are likely much bigger.&lt;/p&gt;
+
+&lt;p&gt;Some examples of insights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I now think the work of &lt;a href=&quot;https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute&quot;&gt;the Machine Intelligence Research Institute&lt;/a&gt; (MIRI) is more likely to reduce expected suffering than increase it, and I now think MIRI is among the best places to donate. In early 2013, I had no idea whether MIRI’s work was more likely good or bad. I still have significant uncertainty, but I’d say there’s maybe a ~70% chance I’ll continue to support MIRI ten years from now.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think cooperation – both at the &lt;a href=&quot;http://foundational-research.org/publications/possible-ways-to-promote-compromise/&quot;&gt;international level&lt;/a&gt; and the &lt;a href=&quot;http://foundational-research.org/publications/reasons-to-be-nice-to-other-value-systems/&quot;&gt;interpersonal level&lt;/a&gt; – is more important than I had previously realized. AI arms races may be a significant driving force behind dangerous AI in coming decades. Interventions that improve cooperation, social norms, discourse, reflectiveness, and institutions for positive-sum improvements seem reasonably likely to be &lt;a href=&quot;http://foundational-research.org/publications/charity-cost-effectiveness-in-an-uncertain-world/&quot;&gt;robustly positive&lt;/a&gt;. I now support the principle of &lt;a href=&quot;http://wiki.lesswrong.com/wiki/Coherent_Extrapolated_Volition&quot;&gt;coherent extrapolated volition&lt;/a&gt; (CEV) for reasons of strategic compromise. Even though CEV will never happen in practice, we can work toward approximations, like democracy and philosophical sophistication. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve downshifted my probability for a &lt;a href=&quot;https://en.wikipedia.org/wiki/Recursive_self-improvement#Hard_vs._soft_takeoff&quot;&gt;hard AI takeoff&lt;/a&gt; in favor of &lt;a href=&quot;http://foundational-research.org/robots-ai-intelligence-explosion/#A_soft_takeoff_seems_more_likely&quot;&gt;soft-takeoff&lt;/a&gt; scenarios. This means that society as a whole is more likely to play a role in AI development than I would have thought, and military, economic, political, and social dynamics around AI are likely to be important.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve changed from seeing consciousness as having a narrow, relatively clear cutoff to being a broad, fuzzy continuum. I now realize that sentience should be considered a &lt;a href=&quot;http://www.utilitarian-essays.com/computations-i-care-about.html#graded-sentience&quot;&gt;graded property&lt;/a&gt; of systems, and &lt;a href=&quot;http://www.utilitarian-essays.com/flavors-of-computation.html&quot;&gt;every system is at least slightly conscious&lt;/a&gt;. Subjectively, I feel this has been one of the biggest Copernican shifts of my life, and I think I have a much better understanding of the issues at play than a year ago, even if other philosophers disagree with my conclusions. In practical terms, this realization has made it more apparent that the instrumental computations of even a rogue, uncontrolled AI would be somewhat morally problematic. I also now care a little bit about &lt;a href=&quot;http://www.utilitarian-essays.com/bacteria.html&quot;&gt;plants and bacteria&lt;/a&gt;, although not nearly as much as I care about &lt;a href=&quot;http://www.utilitarian-essays.com/bug-populations.html&quot;&gt;insects&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are just some highlights, and in reality, many of the pieces I’ve written since early 2013 represent updates in my views. That said, I have noticed some decline in insights per unit time recently, which may suggest increased convergence in my thinking. On the other hand, I thought my views were pretty well converged in 2010-2012, but then I had a huge number of discoveries in 2013. I expect that many priority shifts due to known and unknown unknowns remain on the horizon.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; How did you get started at writing on &lt;a href=&quot;http://www.utilitarian-essays.com&quot;&gt;utilitarian-essays.com&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; In 11th grade, I had an English teacher who focused his class around philosophy. Most high schools never teach philosophy, so I was fortunate to be exposed to the subject. My teacher assigned his students a 500-word journal entry every week, typically on a philosophical topic. This got me into the habit of writing philosophical essays, and I continued doing so on my own after the class ended.&lt;/p&gt;
+
+&lt;p&gt;One of the philosophers that we learned about was Epicurus, and his idea of subjective experience as the ultimate good resonated with me. I noticed how, selfishly, I only cared about my own feelings, and hence altruistically I would care about the feelings of everyone who had feelings. I only really thought about humans at this point, because I mistakenly believed that animals probably didn’t have feelings due to lacking language and true self-reflection. (This position is not dissimilar from &lt;a href=&quot;https://www.facebook.com/yudkowsky/posts/10152588738904228&quot;&gt;Eliezer Yudkowsky’s&lt;/a&gt;, though obviously I didn’t have his degree of sophistication at the time.)&lt;/p&gt;
+
+&lt;p&gt;I also noticed how people were often irrational in apportioning resources (e.g., fighting terrorism getting vastly more funding than addressing world hunger, even though the latter kills orders of magnitude more than the former). I suggested using cost-benefit analysis to evaluate policies, taking into account opportunity costs and counterfactual reasoning.&lt;/p&gt;
+
+&lt;p&gt;In spring 2005, my public-policy teacher used the word “utilitarian” in class, and I didn’t know what it meant. Once I got home, I looked it up, and I discovered a philosophy called “utilitarianism”, including a wonderful site of Utilitarian Philosophers by Pablo Stafforini. I began eating up the Peter Singer articles on that site. One topic that I found particularly important was Singer’s defense of animal sentience, which revolutionized my view of the world’s priorities. I began writing more about utilitarianism in my private essay collection.&lt;/p&gt;
+
+&lt;p&gt;Caring about animals led me to discover Vegan Outreach, from which I contacted Matt Ball, who passed me along to another utilitarian friend of his. That friend introduced me to the ideas of Yew-Kwang Ng, Ray Kurzweil, Nick Bostrom, David Pearce, and many others.&lt;/p&gt;
+
+&lt;p&gt;In June 2006, I read David Pearce’s &lt;a href=&quot;http://hedweb.com/&quot;&gt;Hedonistic Imperative&lt;/a&gt;, after which I wrote to David with comments. I included the collection of utilitarian-related essays that I had been accumulating since roughly 2004. David wrote back: “My first (and utilitarian!) response was: how can I encourage you to get a website?” David soon gave me the domain utilitarian-essays.com and still helps maintain my site to this day.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; It seems like you might have more influence if you wrote for a wider audience, such as at &lt;a href=&quot;http://www.lesswrong.com&quot;&gt;LessWrong&lt;/a&gt;.  Why haven’t you chosen to do that?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; Writing on LessWrong or related forums is a reasonable suggestion. I do share my essays on Facebook when they’re published. The reasons I haven’t posted on LessWrong more are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think my essays look more authoritative on a stand-alone site than in a forum setting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sometimes what I write about is not of sufficient interest elsewhere, and I don’t want to bore people&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It might look bad if I didn’t reply to comments, but I’m also not sure that reading comments and engaging in discussions is the best use of time. It may or may not be depending on the issue. In general I try to read more famous authors or at least peer-reviewed publications, which I find can be more insightful per paragraph than comments on Internet forums, though this depends a lot on the topic and the forum. For some relatively uncharted questions, forum comments are like gold.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; A lot of your writing these days seems to focus on Wikipedia, and you have racked up an impressive list of contributions there.  Could you briefly outline why you think editing Wikipedia is such an important outlet for your research?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; I wrote &lt;a href=&quot;http://www.utilitarian-essays.com/wikipedia.html&quot;&gt;an essay&lt;/a&gt; listing many reasons to favor contributing to Wikipedia on altruism-relevant subjects, including not reinventing the wheel by writing what has already been written, large readership, credibility, peer review, and being forced to maintain a balanced perspective on a topic. When I want to learn about an issue, Wikipedia is typically the first place I go, and I suspect the same is true for many people reading this interview. Wikipedia is an immense public good that we may often take for granted.&lt;/p&gt;
+
+&lt;p&gt;I’m trying to take a big-picture view of many issues before getting deeply engrossed in technical minutiae, so that I can pick areas of focus that I find most important. This contrasts with the standard approach in academia where you often have to zero in on a microscopic piece of one subject area in order to make novel contributions. Because I’m mostly not making novel contributions but rather am absorbing knowledge that already exists, Wikipedia is a great place for me to be. It allows me to accomplish something with my reading beyond just privately improving my own understanding of the world.&lt;/p&gt;
+
+&lt;p&gt;On a few occasions I’ve had the experience of proposing a research topic and then hearing people reply, “Oh, that has been discussed in papers A, B, C, D, and E.” I think to myself, “Thanks – that’s great. But I need to get the information from papers A-E into my head. That takes time. In addition, there are probably papers F-Z that would also be relevant that I haven’t found yet.” Most of the effort in cause-prioritization research is not in inventing novel findings but rather in accumulating nuggets of insight from a vast sea of information that already exists. Wikipedia is a natural way to attack this problem because Wikipedia is the world’s definitive summary of a topic. If you read papers A-E, you should consider adding a sentence or two describing each of them to relevant Wikipedia articles, so that others who want an overview can read your summaries, get a big-picture understanding, and have links to the papers if needed. And because Wikipedia is coherently organized, readers will be able to absorb the insights in a sensible and content-addressable fashion. In many ways, Wikipedia is the ultimate platform for altruism research.&lt;/p&gt;
+
+&lt;p&gt;Some altruists prefer to summarize existing knowledge on their own websites in order to increase traffic to their organizations. In general, effective altruists may underestimate the value of Wikipedia because it mainly benefits people outside their movement. I think these ideas rely on a &lt;a href=&quot;http://utilitarian-essays.com/why-charities-do-not-differ-astronomically.html&quot;&gt;false assumption&lt;/a&gt; that effective-altruist organizations are vastly more important than what everyone else in the world is doing. It’s easy to see your own work with rose-tinted glasses and assume that the efforts of others aren’t as useful. This is a bias on our part. Many people throughout the world are doing immensely valuable projects, even if they don’t realize it or label those projects as altruism. Wikipedia contributions help many people whom we will never meet and whose future contributions we’ll never find out about; that doesn’t mean we didn’t facilitate their work.&lt;/p&gt;
+
+&lt;p&gt;Of course, the world contains many harmful and risk-increasing projects as well. For this reason, I recommend “differential Wikipedia progress” in which we contribute mainly on topics where additional knowledge seems likely to be used beneficially. That said, I suspect ~95% of Wikipedia articles are either net good for the world (e.g., the &lt;a href=&quot;https://en.wikipedia.org/wiki/Wild_animal_suffering&quot;&gt;wild animal suffering&lt;/a&gt; article) or basically neutral (celebrity biographies, TV episode guides, etc.). A few of the contributions I’ve made to Wikipedia have been just for fun or my own personal edification rather than altruistic impact.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Contributing to Wikipedia feels like a good idea for someone doing a lot of research on their own, but do you think there are ways a more typical person could still contribute?  Would that be worthwhile?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; It’s actually not hard to make small contributions to Wikipedia. If you read an academic paper or news article on a topic you want to share with others, you can do a search like {author-surname keyword site:wikipedia.org} to see if what you want to cite is already mentioned somewhere. If not, you can find a relevant article and add a sentence or two with your citation. The whole process could take just a few minutes. If it feels daunting at first, that may be just because you’re not used to it.&lt;/p&gt;
+
+&lt;p&gt;I think Wikipedia is one of the easiest ways to make a meaningful contribution in one’s free time, and the work can be neatly packed into small, discrete chunks. But of course there are other things you can do as well. I have &lt;a href=&quot;http://www.utilitarian-essays.com/wild-animal-volunteering.html&quot;&gt;a page&lt;/a&gt; describing some ideas for spreading concern for wild-animal suffering, but many of those suggestions apply to other causes. And you can probably invent many ideas on your own.&lt;/p&gt;
+
+&lt;p&gt;I find that it’s often better to just try something on your own and see how it goes than to over-analyze whether it’s the best thing to do or create bureaucracy in order for it to get done. Keep learning, experimenting, and changing course based on how things turn out. I’m thinking of my personal experience when saying this, but we can see similar patterns in companies, where big companies stereotypically may be slow to innovate because they over-analyze and over-bureaucratize. Wikipedia’s model seems better: Be bold, just do what you planned to do, and let other people get involved in an organic, asynchronous fashion. That said, I can imagine legitimate debate about these issues. For instance, if you don’t have bureaucracy, it may be harder to divide labor with comparative advantage in mind. There are structural and efficiency reasons why small, fast companies become big and slow.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; I also saw that you’ve recently been working on a &lt;a href=&quot;https://www.youtube.com/user/Prioritarian/videos&quot;&gt;small video series&lt;/a&gt;.  What do you think you’ve gotten out of this?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; At the moment I have two videos on YouTube. I created them because I woke up one day and decided it would be fun to make a video and see how it would come out. This relates directly to what I said in my previous answer: I like to just try stuff in a low-cost fashion and learn from the experience, without worrying about its apparent effectiveness. These particular videos were decently successful (together they got more than 500 views), but even if they weren’t, it was a fine use of a few hours to create them.&lt;/p&gt;
+
+&lt;p&gt;This approach of trying stuff to learn what it’s like and see how it goes is also a reason why I decided to submit a paper to an academic journal, build &lt;a href=&quot;https://impact.hackpad.com/Expanding-Google-Grants-for-Effective-Non-Profits-gOEIP3SAQU0&quot;&gt;AdWords campaigns for some organizations&lt;/a&gt;, and create the &lt;a href=&quot;https://itunes.apple.com/us/podcast/science-ethics-and-the-future/id892678989&quot;&gt;FRI podcast&lt;/a&gt;. Doing many things can improve my understanding of what different parts of altruism work are like. This is also something I appreciate about being on the board of &lt;a href=&quot;http://www.animalcharityevaluators.org/&quot;&gt;Animal Charity Evaluators&lt;/a&gt;: I can get a first-hand glimpse at the internals of what a charity does in a way that I wouldn’t have if I were just an external donor.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Cool.  With all this writing and time to yourself to do whatever you think is high priority, you must have a less typical schedule.  What would you say your typical day is like? &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; I don’t work on a plan or schedule. Instead I do whatever I’m in the mood for at a given moment. This makes work effortless and probably improves productivity. Sometimes I get in the flow of writing an essay or Wikipedia article and try to ignore everything else until I’m done with it. On other days, I don’t have anything specific to finish and instead try to “pick up the crumbs”, i.e., do those little tasks that built up while I got distracted with a bigger project.&lt;/p&gt;
+
+&lt;p&gt;Taking an average across all days might give something like the following breakdown, though I don’t keep track explicitly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;10 hours: sleep&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1.5 hours: physical maintenance and manual chores (during some of which I can listen to podcasts)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2.5 hours: reading and responding to emails and Facebook discussions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1.5 hours: exercise while watching YouTube videos or a movie&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 hours: random small tasks, including little jobs for other people and monitoring Google Grants, Wikipedia updates, website traffic, my to-do list, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2.5 hours: tangible altruism-related work like fixing a website, Animal Charity Evaluators board meetings, or discussing strategy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4 hours: reading and writing (with more emphasis on the reading part).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think it’s important to read a lot (or listen to audio content) in order to produce useful writing. Elijah Young &lt;a href=&quot;http://leftshoecreative.com/2011/09/workshop-1-blogging-elijah-young/&quot;&gt;has said&lt;/a&gt;: “If you can’t think of anything to write, you’re probably not reading enough.” Of course, some of my writings are based on personal experience, long-term observations, and/or theory. But especially on empirical topics, good writing generally requires good background knowledge.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Some people feel like “saving the world” all the time is too much and they need some balance in their life, so they might give only 10% of their income and 10% of their time, instead of all of it.  It’s comforting that you make sure to spend a large amount of time on self-maintenance and sleep.  What are your thoughts on this balance?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B:&lt;/strong&gt; I think the question assumes a premise that is (happily) misguided. There’s not a hard distinction between “save the world” work and everything else we do. Our altruism stands on the shoulders of the rest of our lives. We need to &lt;a href=&quot;http://foundational-research.org/publications/education-matters-for-altruism/&quot;&gt;learn&lt;/a&gt; how the world works at a deep level to direct our altruism in helpful directions. This learning takes many decades and is happening all the time through our experiences. Likewise, earning money and developing social connections are other resources that we build as we go through life. Certainly some uses of time are more valuable per hour than others, but even relaxation is important when it keeps our moods positive and ensures that we enjoy our altruistic activities.&lt;/p&gt;
+
+&lt;p&gt;I think altruism should generally be fun, and if it’s not, you might consider how else you can contribute to reducing suffering that is fun. There are so many ways to make a difference that the process doesn’t need to be a burden. There’s no law stating that good accomplished is proportional to amount of sacrifice on your part (even if perhaps social praise increases with degree of sacrifice because of the need to generate incentives for unpleasant tasks like military service or providing emergency aid). And if altruism is fun, then the problem of how much of it to do compared against other leisure activities becomes less potent.&lt;/p&gt;
+
+&lt;p&gt;One way to make altruism more exciting is to become friends with other altruists. It’s natural to be more interested in what your friends are interested in. For me, the boundary between socializing and saving the world often breaks down; they are often the same thing.&lt;/p&gt;
+
+&lt;p&gt;Finally, as noted previously, I “waste” some time on so-called non-altruistic activities as well. In the past I found this troubling, but I’ve grown to realize that it’s part of being a finite human who needs many forms of rejuvenation. If you feel burned out, you’re probably pushing yourself too hard. Let yourself relax a bit without feeling guilty.&lt;/p&gt;
+
+&lt;p&gt;On the flip side, if you think about altruism very little, try increasing that somewhat. 10% of your effort seems a reasonable goal. Then you can evaluate where you are and see if you’re inspired to do more. But remember that “altruism time” is not clearly defined. Ask yourself whether one of your ideal hobbies or careers is altruistically valuable even if it’s not what most effective altruists spend their time doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P:&lt;/strong&gt; Thanks, Brian.  I really appreciate that closing thought.  I’m glad to have followed the work you’re doing and wish you continued success!  I’ll eagerly be following what you do next.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-brian-tomasik/&quot;&gt;Interview with Brian Tomasik&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on August 07, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Making of the Personal Review: Behind the Scenes]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/the-making-of-the-personal-review/" />
+  <id>http://www.everydayutilitarian.com/essays/the-making-of-the-personal-review</id>
+  <published>2014-07-16T05:00:00Z</published>
+  <updated>2014-07-16T05:00:00Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Earlier, I just released a personal review.  I try to do these every three months to give my life some direction and continue to strive for something.  These reviews, and &lt;a href=&quot;http://www.effectivealtruism.org/&quot;&gt;the broader effective altruism movement&lt;/a&gt; in which I operate, together give my life a lot of purpose.&lt;/p&gt;
+
+&lt;p&gt;Some people have asked me how I make these personal reviews.  I’m here to tell you.  I like my workflow a lot and it works well for me, but I’m not endorsing this as the “best way” to create a personal review, and other things might be better / more efficient, or work better / more efficiently for you in particular.&lt;/p&gt;
+
+&lt;h2 id=&quot;really-quick-summary&quot;&gt;Really Quick Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I have goals.&lt;/li&gt;
+  &lt;li&gt;I track time in Google Calendar.&lt;/li&gt;
+  &lt;li&gt;I use &lt;a href=&quot;https://beta.gtimereport.com/&quot;&gt;GTimeReport&lt;/a&gt; to export my Google Calendar for the desired date horizon.&lt;/li&gt;
+  &lt;li&gt;I go through my time report and combine things into categories.&lt;/li&gt;
+  &lt;li&gt;I publish those categories and compare them against my goals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;having-goals&quot;&gt;Having Goals&lt;/h2&gt;
+
+&lt;p&gt;The first step to writing a personal review is having goals you want to review your progress against.  Putting some thought into this is important.&lt;/p&gt;
+
+&lt;p&gt;Some people will tell you that it’s not important to have goals.&lt;/p&gt;
+
+&lt;p&gt;…Zen Habits says &lt;a href=&quot;http://zenhabits.net/no-goal/&quot;&gt;the best goal is no goal&lt;/a&gt;.  Maybe that works for him, and it’s not like he isn’t accomplished.  But he found goals to get in his way.  I like goals.&lt;/p&gt;
+
+&lt;p&gt;…Some say to &lt;a href=&quot;http://www.entrepreneur.com/article/230333&quot;&gt;focus on systems&lt;/a&gt; (daily processes that get you closer to your goals) &lt;a href=&quot;http://www.entrepreneur.com/article/230333&quot;&gt;instead of goals&lt;/a&gt; – I think this is mostly right, which is why I focus on systems a lot.  But I don’t forget the goals; the reasons why the systems are there in the first place.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;But many people don’t yet have goals.  They yearn to do something, but they don’t have a goal.&lt;/p&gt;
+
+&lt;p&gt;So the first goal is to get some goals.  But where to start?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Do more of what you enjoy:&lt;/em&gt; Maybe you want to make time to practice guitar or learn computer programming, but are having trouble fitting it into your schedule?  Maybe you want to excercise?  Commit to doing more!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Do less of what you dislike:&lt;/em&gt; Maybe you want to cut down on junk food, or lose weight?  Maybe you want to oversleep less or hold less grudges?  You can work to eliminate the negative in your life.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tracking-time&quot;&gt;Tracking Time&lt;/h2&gt;
+
+&lt;p&gt;I personally track every minute of my day with Google Calendar.  My calendar ends up looking like this:&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;http://everydayutilitarian.com/images/posts/how-i-am-productive/day.png&quot; alt=&quot;Scheduled day&quot; title=&quot;Scheduled day&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;This allows me to plan for what I want to do and record what I actually did all in the same place, which is very convenient for me.&lt;/p&gt;
+
+&lt;p&gt;But there are other ways to track your time.  You could track time spent on goals &lt;a href=&quot;https://www.beeminder.com/&quot;&gt;directly in Beeminder&lt;/a&gt;.  &lt;a href=&quot;https://www.toggl.com/&quot;&gt;Toggl&lt;/a&gt; also looks nice.&lt;/p&gt;
+
+&lt;h2 id=&quot;exporting-and-compiling-a-log&quot;&gt;Exporting and Compiling a Log&lt;/h2&gt;
+
+&lt;p&gt;At the end of your review period, you can then compile how well you did on your goals and compare them to how well you wanted to do.  Toggl and Beeminder both let you see your totals pretty easily.&lt;/p&gt;
+
+&lt;p&gt;Google is less easy – I did my first review by hand, but then I discovered &lt;a href=&quot;https://beta.gtimereport.com/&quot;&gt;GTimeReport&lt;/a&gt; to export my Google Calendar for the desired date horizon.  GTimeReport makes an Excel Spreadsheet that I can then tabulate into goal-related categories.  There are other Google Calendar export services as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflect&quot;&gt;Reflect!&lt;/h2&gt;
+
+&lt;p&gt;The last step is to reflect on why you succeeded or failed.&lt;/p&gt;
+
+&lt;p&gt;If you succeeded – congratulations! – how are you going to repeat, and build upon, your success?&lt;/p&gt;
+
+&lt;p&gt;If you failed – sorry to hear that – how are you going to avoid failure in the future?  Was your goal just too hard, or were you missing an important system to prevent yourself from failing?&lt;/p&gt;
+
+&lt;p&gt;Be honest with yourself, but kind.  Work out ways to do better.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/the-making-of-the-personal-review/&quot;&gt;The Making of the Personal Review: Behind the Scenes&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on July 16, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Personal Review for May-June 2014]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/personal-review-for-may-june-2014/" />
+  <id>http://www.everydayutilitarian.com/essays/personal-review-for-may-june-2014</id>
+  <published>2014-07-13T05:00:00Z</published>
+  <updated>2014-07-13T05:00:00Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://everydayutilitarian.com/essays/personal-review-for-march-may-2014/&quot;&gt;“Personal Review for March - May 2014”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This review covers &lt;strong&gt;May 18 through June 29&lt;/strong&gt;.  The reason I’m doing this review for 1.5 months instead of the standard three is two-fold: (a) this time period is very neatly bounded by large shifts in my life – graduating college on the 17th of May and starting at my first job on the 30th of June and (b) I need to end this cycle early if I want to get on a standard Jul-Sep, Oct-Dec, Jan-Mar, Apr-Jun three month review cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-i-spend-my-time&quot;&gt;How Did I Spend My Time?&lt;/h2&gt;
+
+&lt;p&gt;For these 1.5 months, I was focused primarially on pre-professional prep (learning a lot more statistics and programming) and secondarially on seeing friends and family.  Here’s the breakdown:&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;th&gt;Activity&lt;/th&gt; &lt;th&gt;Total Time&lt;/th&gt; &lt;th&gt;Hours Per Week[1]&lt;/th&gt; &lt;th&gt;% Week&lt;/th&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Sleep&lt;/td&gt; &lt;td&gt;351.5hrs&lt;/td&gt; &lt;td&gt;51.3hrs&lt;/td&gt; &lt;td&gt;30.5%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Social[2]&lt;/td&gt; &lt;td&gt;253.8&lt;/td&gt; &lt;td&gt;37&lt;/td&gt; &lt;td&gt;22%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Other[3]&lt;/td&gt; &lt;td&gt;167.3&lt;/td&gt; &lt;td&gt;24.4&lt;/td&gt; &lt;td&gt;14.5%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Programming&lt;/td&gt; &lt;td&gt;121.3&lt;/td&gt; &lt;td&gt;17.7&lt;/td&gt; &lt;td&gt;10.5%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Breaks&lt;/td&gt; &lt;td&gt;63.3&lt;/td&gt; &lt;td&gt;9.2&lt;/td&gt; &lt;td&gt;5.5%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;.impact&lt;/td&gt; &lt;td&gt;25&lt;/td&gt; &lt;td&gt;3.6&lt;/td&gt; &lt;td&gt;2.1%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Move to Chicago&lt;/td&gt; &lt;td&gt;18.5&lt;/td&gt; &lt;td&gt;2.7&lt;/td&gt; &lt;td&gt;1.6%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Exercise&lt;/td&gt; &lt;td&gt;11.8&lt;/td&gt; &lt;td&gt;1.8&lt;/td&gt; &lt;td&gt;1%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Driving[4]&lt;/td&gt; &lt;td&gt;11.8&lt;/td&gt; &lt;td&gt;1.7&lt;/td&gt; &lt;td&gt;1%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Apartment Hunt&lt;/td&gt; &lt;td&gt;6.8&lt;/td&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;4.1%&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Write&lt;/td&gt; &lt;td&gt;6.25&lt;/td&gt; &lt;td&gt;0.9&lt;/td&gt; &lt;td&gt;0.5%&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;1: On average – obviously not all of these activities took place every week.&lt;/p&gt;
+
+&lt;p&gt;2: In previous Personal Reviews, this was listed as “Friends”, but the category is the same.  This is just a more accurate title as “Friends” always included “Family” too.&lt;/p&gt;
+
+&lt;p&gt;3: People have been interested in the past in what such a large “Other” category could entail, so I’ll disclose the precise breakdown in the next section.&lt;/p&gt;
+
+&lt;p&gt;4: This involved work toward getting a driver’s liscense.&lt;/p&gt;
+
+&lt;h4 id=&quot;individual-breakdown-for-other&quot;&gt;Individual Breakdown for “Other”&lt;/h4&gt;
+
+&lt;p&gt;Since some people asked last time, I’ve broken down the “other” category:&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;th&gt;Activity&lt;/th&gt; &lt;th&gt;Hours Per Week&lt;/th&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Tasks[1]&lt;/td&gt; &lt;td&gt;6.5&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Daily/Weekly Reviews&lt;/td&gt; &lt;td&gt;5.9&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Shower/Hygeine&lt;/td&gt; &lt;td&gt;3.2&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Email[2]&lt;/td&gt; &lt;td&gt;1.8&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Clean/Pack/Unpack[3]&lt;/td&gt; &lt;td&gt;1.5&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Clothes Shopping[4]&lt;/td&gt; &lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Errands&lt;/td&gt; &lt;td&gt;1.1&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Banking/Finances&lt;/td&gt; &lt;td&gt;0.7&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Notes[5]&lt;/td&gt; &lt;td&gt;0.5&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Haircut&lt;/td&gt; &lt;td&gt;0.3&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Prepare Food[2]&lt;/td&gt; &lt;td&gt;0.3&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Employment Forms&lt;/td&gt; &lt;td&gt;0.2&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Dentist&lt;/td&gt; &lt;td&gt;0.2&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Laundry&lt;/td&gt; &lt;td&gt;0.1&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Research&lt;/td&gt; &lt;td&gt;0.4&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;Travel[3]&lt;/td&gt; &lt;td&gt;0.4&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;1: This consists of doing assorted small things from my to-do list.&lt;/p&gt;
+
+&lt;p&gt;2: For both preparing food and email, some of these times were in “Tasks” instead.  I estimate that my actual time spent preparing food is ~e1hr a week and doing email is ~3.5hrs a week.&lt;/p&gt;
+
+&lt;p&gt;3: Not counting what was related to moving to Chicago.&lt;/p&gt;
+
+&lt;p&gt;4: This was a one-day 9hr shopping spree to do a once-in-three-years wardrobe update to prepare for the professional world.  Not typical.&lt;/p&gt;
+
+&lt;p&gt;5: This mostly involves thinking about ideas and recording them.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-accomplish-pre-professional-prep&quot;&gt;What Did I Accomplish?: Pre-professional Prep&lt;/h2&gt;
+
+&lt;p&gt;I’m a bit dissapointed that – despite making it my primary focus and no longer having school to compete – the amount of time I spent working on learning computer programming only bumped up by half an hour a week.  I fell far short from my target goal of being a full-time 40hr/wk learner and didn’t even make the goal I thought would be so easy of being a part-time 20hr/wk learner.&lt;/p&gt;
+
+&lt;p&gt;However, the total output of my work was still pretty good, I think.  I spent 20.5 hours learning more front-end development with HTML5/CSS including redesigning &lt;a href=&quot;http://www.peterhurford.com&quot;&gt;my personal website&lt;/a&gt; to look really beautiful.  I spent 60.5 hours learning more Ruby on Rails and 24.25 hours learning Ruby syntax in particular.  I also spent 12 hours learning more JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Two weeks into my job, I think I adequately prepared myself, though I still would have benefited from doing maybe another 100 hours of work, if only to get some more confidence.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-accomplish-ea-projects&quot;&gt;What Did I Accomplish?: EA Projects&lt;/h2&gt;
+
+&lt;p&gt;I originally didn’t want to do any EA Projects work, though I did predict I’d find it hard to tear myself away from it.  Therefore, it’s not much of a surprise to find that I did about as much EA Projects work per week during this review cycle as I did during the last review cycle.&lt;/p&gt;
+
+&lt;p&gt;I wrote two research pieces – &lt;a href=&quot;http://everydayutilitarian.com/essays/how-much-suffering-is-in-the-standard-american-diet&quot;&gt;“How Much Suffering is in the Standard American Diet?”&lt;/a&gt; and &lt;a href=&quot;http://everydayutilitarian.com/essays/a-re-analysis-of-ace-leaflet-study&quot;&gt;“A Re-Analysis of ACE’s Leaflet Study”&lt;/a&gt; – to further understand the potential for vegetarian advocacy.  I worked on the ongoing &lt;a href=&quot;http://survey.effectivealtruismhub.com/&quot;&gt;EA survey&lt;/a&gt; and I also worked on furthering &lt;a href=&quot;http://www.dotimpact.im&quot;&gt;.impact&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-accomplish-socializing&quot;&gt;What Did I Accomplish?: Socializing&lt;/h2&gt;
+
+&lt;p&gt;At 37 hours a week, I definitely spent most of my (awake) time socializing.  I spent more time with my girlfriend and family, which is great.  I also spent a good amount of time with my old high school friends – and given that we’re now scattered all over the country, it might be a long time, if ever, that I see them all again…  I also got to go back to the &lt;a href=&quot;http://originsgamefair.com/&quot;&gt;Origins Game Fair&lt;/a&gt;, which was really neat, and a great opportunity to see some old and new friends from college.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-accomplish-moving-to-chicago&quot;&gt;What Did I Accomplish?: Moving to Chicago&lt;/h2&gt;
+
+&lt;p&gt;I moved to Chicago and got a Real Job(TM), which is pretty cool, I guess?  It took a lot more work than I expected to prepare for this, stressing over getting an apartment and buying furniture and what not.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-i-accomplish-drivers-liscence&quot;&gt;What Did I Accomplish?: Driver’s Liscence&lt;/h2&gt;
+
+&lt;p&gt;I finally accomplished a goal that I’ve been chasing &lt;a href=&quot;http://everydayutilitarian.com/essays/new-years-resolutions/&quot;&gt;since the very first blog post here&lt;/a&gt; more than a year and a half ago – after two failed attempts, I finally got my driver’s liscense!  I’m now authorized to operate a motor vehicle, and I think I will respond to this newfound freedom by continuing to avoid owning a car for as long as possible.&lt;/p&gt;
+
+&lt;p&gt;I did drive all by myself precisely one time… to go to the dentist’s office.  Fun times indeed!&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-the-next-review&quot;&gt;Goals for the Next Review&lt;/h2&gt;
+
+&lt;p&gt;Back in January in &lt;a href=&quot;http://everydayutilitarian.com/essays/my-case-study-i-mostly-finished-choosing-between-careers/&quot;&gt;“My Case Study: I (Mostly) Finished Choosing Between Careers”&lt;/a&gt;, I outlined that I’d like to have “full-time employment for 40-60 hours a week, but then spending significant portion of my ‘free time’ volunteering and doing EA side projects”.  I later clarified in &lt;a href=&quot;http://everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/&quot;&gt;“Personal Review for December 2013 - February 2014”&lt;/a&gt; that “[b]y splitting my time this way, I hope to learn a lot more about my earning potential, my ability to do EA projects, and how the value of these two things might compare.”&lt;/p&gt;
+
+&lt;p&gt;The next review will be on November 1.  However, my lease and internship here runs out by the end of August.  So by the next review, I should be settled into whatever my next opportunity will be, even if it’s a permanent position at my current place.&lt;/p&gt;
+
+&lt;p&gt;It’s time to bucle down and see if this plan works and what I can learn from it.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Curious how this review was made?  See &lt;a href=&quot;http://everydayutilitarian.com/essays/the-making-of-the-personal-review&quot;&gt;“The Making of the Personal Review: Behind the Scenes”&lt;/a&gt; for more.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/personal-review-for-may-june-2014/&quot;&gt;Personal Review for May-June 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on July 13, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Better Way to Learn Programming? Notes on The Odin Project]]></title>
+ <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/notes-on-the-odin-project/" />
+  <id>http://www.everydayutilitarian.com/essays/notes-on-the-odin-project</id>
+  <published>2014-07-10T02:57:00Z</published>
+  <updated>2014-07-10T02:57:00Z</updated>
+  <author>
+    <name></name>
+    <uri>http://www.everydayutilitarian.com</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Follow up to &lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code/&quot;&gt;“So You Wanna Learn How to Code? Going from Zero to Programmer Hero in One Guide, for Great Justice”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m currently working as a computer programmer at a start-up in Chicago.  I’m getting paid to write code.  It’s pretty neat.  Most notably, I was not a Computer Science major in college, and I only took two CS classes.  I got the job nearly entirely through about 700 hours of self study.&lt;/p&gt;
+
+&lt;p&gt;Best of all, you can do it too!&lt;/p&gt;
+
+&lt;p&gt;I &lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code/&quot;&gt;wrote a guide on how to go from “zero to hero”&lt;/a&gt; in computer programming.  I got a lot of people I know who program to contribute.  I think it’s a pretty good guide, linking a few resources together into a coherent curriculum.  In fact, I think it is the best guide you could find, short of working full-time to develop a complete online curriculum of their own.&lt;/p&gt;
+
+&lt;p&gt;Well, turns out someone did work full-time to develop a complete online curriculum of their own.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;strong&gt;&lt;a href=&quot;http://www.theodinproject.com&quot;&gt;The Odin Project&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Visit there, and &lt;a href=&quot;http://www.theodinproject.com/courses?ref=home&quot;&gt;find a complete curriculum&lt;/a&gt;, focused on Ruby on Rails, that takes you from zero to hero in a fulfulling way.  Best of all, they focus on doing projects, so you actually learn by doing.&lt;/p&gt;
+
+&lt;p&gt;I went through it and now, after a few months, I’ve completed the curriculum in entirety.  I must say, I’m forced to admit defeat.  I find it much easier, more thorough, and more motivating than my own guide.  I recommend people follow through it instead of follow my own guide.&lt;/p&gt;
+
+&lt;p&gt;…That being said, I do have some modifications I’d like to see to The Odin Project.  So consider doing The Odin Project, except with the &lt;em&gt;following modifications.&lt;/em&gt;  I advise that you read these notifications in their entirety before starting The Odin Project, and then follow them as they come up.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;things-you-should-skip&quot;&gt;Things You Should Skip&lt;/h2&gt;
+
+&lt;p&gt;The first thing you should know about The Odin Project (TOP) is that they tend to overload on large heapings of repetition.  For real beginners, this is often a feature and not a bug.  However, don’t be afraid to skip through things or skim things if you already understand them.  It is frequently unnecessary to do every reading unless you’re confused on a concept.  This is doubly true for “Additional Resources” – the initial allegedly “required” resources are already &lt;em&gt;more&lt;/em&gt; than enough, and you should rarely need to consult any of the “Additional Resources”.&lt;/p&gt;
+
+&lt;p&gt;Here are some things I particularly advise skipping, to save time:&lt;/p&gt;
+
+&lt;p&gt;When TOP links you to a YouTube video that’s longer than 10 minutes, it’s probably unnecessary.  Skim the videos or ignore them entirely.  Don’t forget you can speed them to 1.5x (or often even 2x) to get through them quicker, as they tend to be pretty slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.theodinproject.com/introduction-to-web-development&quot;&gt;Course “1: Introduction to Web Development”&lt;/a&gt; is cute and fun to read, but, in my opinion, not really necessary.  Skip it if you’d like.  If you do read it, try and skim.  Don’t spend too much of your time here.&lt;/p&gt;
+
+&lt;p&gt;For &lt;a href=&quot;http://www.theodinproject.com/web-development-101/how-does-the-web-work&quot;&gt;“Web Development 101 » The Basics » 2: How Does the Web Work?”&lt;/a&gt;, I don’t think you really need to spend nearly that much time understanding the internet.  It might come up on an interview question or two, but a thorough understanding isn’t really necessary outside the interview.  Just watch http://www.dontfeartheinternet.com/the-basics/not-tubes and then move on to the next lesson.&lt;/p&gt;
+
+&lt;p&gt;Skip &lt;a href=&quot;http://www.theodinproject.com/web-development-101/backbone-js&quot;&gt;“Web Development 101 » Web Development Frameworks » 3: Backbone.js”&lt;/a&gt; it’s more confusing than helpful and you end up reviewing it in its proper detail later, after you understand more stuff.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-you-should-do-more-of&quot;&gt;Things You Should Do More Of&lt;/h2&gt;
+
+&lt;p&gt;Overall, I think you should be skipping more of TOP and getting through it faster than they tell you to, so you get to the good stuff quicker.  However, there are a few cases where I think TOP doesn’t have you do enough, and slowing down is warranted.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;http://www.theodinproject.com/web-development-101/jquery-basics&quot;&gt;“Web Development 101 » The Front End » 4: jQuery Basics”&lt;/a&gt;, you’ll get a chance to do lessons from either Codecademy or Code School.  I personally found it highly to do lessons from both, because they emphasize different things and the repetition is useful.  Code School does a better job of explaining in my opinion, so I highly recommend doing all of Code School’s lessons first, then do all of Codecademy’s lessons.  Also, TOP tells you that the remaining sections on events are extra credit, but I think that they’re important to do, so I’d instruct you to &lt;strong&gt;fully complete&lt;/strong&gt; both Codecademy and Code School lessons for jQuery.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;http://www.theodinproject.com/ruby-programming/oop&quot;&gt;“Ruby Programming » Intermediate Ruby » Project: OOP”&lt;/a&gt;, I chose to do some additional work: make an AI for the Tic-Tac-Toe program that plays optimally.  I think this was a worthwhile learning experience, and I urge you to try it.&lt;/p&gt;
+
+&lt;p&gt;I don’t think you should build a copy of Tic-Tac-Toe in JavaScript as TOP has you do – Snake an Minesweeper seem like enough.  But I do think there is an important lesson to be had with Tic-Tac-Toe and JavaScript: a much better exercise to make an Ajax front-end for the Ruby Tic-tac-toe you already created earlier in the courses.  After you complete &lt;a href=&quot;http://www.theodinproject.com/javascript-and-jquery/infinite-scroll-and-submitting-a-form-with-ajax&quot;&gt;“Javascript and jQuery » Better Forms with jQuery and AJAX » Project: Infinite Scroll and Submitting a Form with AJAX”&lt;/a&gt;, do this.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-fix-the-learning-ruby-section&quot;&gt;Let’s Fix The Learning Ruby Section&lt;/h2&gt;
+
+&lt;p&gt;I’ll be honest – TOP is great, but I don’t like the TOP’s approach to learning Ruby much at all.  It just throws too many resources at you, and you never learn everything you need at once.  So, when you get to &lt;a href=&quot;http://www.theodinproject.com/web-development-101/ruby-basics&quot;&gt;“Web Development 101 » The Back End » 2: Ruby Basics”&lt;/a&gt;, &lt;strong&gt;freeze&lt;/strong&gt;.  We’re going to fix this.&lt;/p&gt;
+
+&lt;p&gt;Skip this lesson entirely.  Do not do “Web Development 101 » The Back End » 2: Ruby Basics” – just mark it as complete and move on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instead&lt;/strong&gt;, go to &lt;a href=&quot;http://www.codecademy.com/tracks/ruby&quot;&gt;Codecademy’s Ruby Track&lt;/a&gt; and complete it entirely.  Throughout the course, TOP will make you complete it all eventually anyway in stages, so we might as well get it out of the way now.  This way, you’ll get a better mastery of some things that come up in TOP before they’re introduced.&lt;/p&gt;
+
+&lt;p&gt;Then, after your done with Codecademy’s Ruby Track, read Chris Pine’s &lt;a href=&quot;https://pine.fm/LearnToProgram&quot;&gt;“Learn to Program”&lt;/a&gt; and then read Chapters 1-3 of Peter Cooper’s “Beginning Ruby”.  Also review http://www.tutorialspoint.com/ruby/ruby_loops.htm, which is a resource I like that isn’t in TOP, and important for the things TOP focuses on.&lt;/p&gt;
+
+&lt;p&gt;This counts as you completing this lesson.  Go on to the next lesson “Testing Basics”.  Note that you have completely ignored tryruby.org, “Ruby in 100 Minutes”, and Ruby Monk and this is for the best, because I don’t think they’re very good resources, and you should have already learned everything they teach 2-3x over through the resources you did consult.  Doing it five times seems like overkill (see “Things You Should Skip”).&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;Since you did things a little out of order, you’ll need the following clean-up.&lt;/p&gt;
+
+&lt;p&gt;When you get to &lt;a href=&quot;http://www.theodinproject.com/ruby-programming/ruby-building-blocks&quot;&gt;“Ruby Programming » Basic Ruby » 2: Ruby Building Blocks”&lt;/a&gt; you’ll realize that you’ve been plopped in quite well, having already completed assignments 1-5.  Continue from assignment 6.  Skip assignment 9.&lt;/p&gt;
+
+&lt;p&gt;When you get to &lt;a href=&quot;http://www.theodinproject.com/ruby-programming/advanced-ruby-building-blocks&quot;&gt;“Ruby Programming » Basic Ruby » 3: Advanced Ruby Building Blocks”&lt;/a&gt; skip all the assignments and go straight to the Code Quizzes.  Complete those.  If you do well (&amp;gt;87% on each), continue.  Otherwise, go back and review, and try again.  Try to really understand why you got each question wrong.&lt;/p&gt;
+
+&lt;p&gt;When you get to &lt;a href=&quot;http://www.theodinproject.com/ruby-programming/object-oriented-programming&quot;&gt;“Ruby Programming » Intermediate Ruby » 1: Object Oriented Programming”&lt;/a&gt;, skip assignment 1 because you have already done it.&lt;/p&gt;
+
+&lt;h2 id=&quot;reorder-the-javascript-and-jquery-readings&quot;&gt;Reorder the JavaScript and jQuery Readings&lt;/h2&gt;
+
+&lt;p&gt;For “Javascript and jQuery » The Basics and the Browser » 2: Javascript Basics”, I think now is a better time to do some of the readings that TOP puts off for later.  So read the following links now and not later:&lt;/p&gt;
+
+&lt;p&gt;1.) &lt;a href=&quot;http://agentcooper.github.io/js-ruby-comparison/&quot;&gt;http://agentcooper.github.io/js-ruby-comparison/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.) &lt;a href=&quot;http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/&quot;&gt;http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;For “Javascript and jQuery » Deeper into Javascript” and “Javascript and jQuery » Advanced Browser Work”, I have different opinions than the authors of the Odin Project.  In my opinion, the readings make more sense when they are presented like this:&lt;/p&gt;
+
+&lt;p&gt;1.) &lt;a href=&quot;http://javascriptissexy.com/javascript-objects-in-detail/&quot;&gt;http://javascriptissexy.com/javascript-objects-in-detail/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.) &lt;a href=&quot;http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/&quot;&gt;http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3.) &lt;a href=&quot;http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/&quot;&gt;http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;…Now, pause to build something object oriented.  I don’t think re-creating Tic-tac-toe in JavaScript is necessary – Minesweeper and Snake should already be enough.  So build something object oriented, but simpler.  I’m not very good at exercises, but maybe build a town full of people objects, and then make professions (like doctor, police officer, etc.) that inherit from “person” but do special things.&lt;/p&gt;
+
+&lt;p&gt;…Now back to reading.&lt;/p&gt;
+
+&lt;p&gt;4.) &lt;a href=&quot;http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/&quot;&gt;http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;5.) &lt;a href=&quot;http://javascriptissexy.com/understand-javascript-closures-with-ease/&quot;&gt;http://javascriptissexy.com/understand-javascript-closures-with-ease/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6.) &lt;a href=&quot;http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/&quot;&gt;http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;7.) &lt;a href=&quot;http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms&quot;&gt;http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms&lt;/a&gt; (a reading not in TOP that I added)&lt;/p&gt;
+
+&lt;p&gt;8.) &lt;a href=&quot;http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/&quot;&gt;http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;9.) &lt;a href=&quot;http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/&quot;&gt;http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;10.) &lt;a href=&quot;http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/&quot;&gt;http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;11.) &lt;a href=&quot;http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/&quot;&gt;http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;12.) &lt;a href=&quot;http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed&quot;&gt;http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;13.) &lt;a href=&quot;http://alistapart.com/article/the-design-of-code-organizing-javascript&quot;&gt;http://alistapart.com/article/the-design-of-code-organizing-javascript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;…Now do &lt;a href=&quot;http://www.theodinproject.com/javascript-and-jquery/minesweeper&quot;&gt;the Minesweeper project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then do the readings in &lt;a href=&quot;http://www.theodinproject.com/javascript-and-jquery/using-canvas-to-draw-and-more&quot;&gt;“Javascript and jQuery » Advanced Browser Work » 3: Using Canvas to Draw and More”&lt;/a&gt; and then complete &lt;a href=&quot;http://www.theodinproject.com/javascript-and-jquery/building-games-with-canvas&quot;&gt;“Javascript and jQuery » Advanced Browser Work » Project: Building Games with Canvas”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’re now ready to go onto “Javascript and jQuery » Better Forms with jQuery and AJAX” as normal.  Don’t worry too much about the stuff you skipped – it was either really unnecessary (a third review) or something I’ll have you come back to later.&lt;/p&gt;
+
+&lt;h2 id=&quot;consider-a-programming-bootcamp&quot;&gt;Consider a Programming Bootcamp&lt;/h2&gt;
+
+&lt;p&gt;This is mentioned in passing in TOP, but I thought I’d put it right here where you can see it, and spend more depth on it.&lt;/p&gt;
+
+&lt;p&gt;If you feel like you enjoy programming and want to make a career about it, but haven’t been doing so well at self-teaching, you could consider going to a programming bootcamp.  These are more-than-full-time intense programs that teach you programming and help you with job placement.  Here, you set aside 10+ weeks, enroll in the site, learn from the program, and hopefully pop out with a job on the way.&lt;/p&gt;
+
+&lt;p&gt;I’ve never personally gone to a boot camp (and don’t plan to).   Keep in mind that a bootcamp is neither necessary nor sufficient to land a good programming job.  But for people with the time and inclination, it could be &lt;em&gt;a lot better&lt;/em&gt; than trying to go through this guide yourself.  If you’ve got the time, it’s definitely at least worth investigating.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.appacademy.io/#p-home&quot;&gt;App Academy&lt;/a&gt; is widely considered to be the best program and &lt;a href=&quot;https://www.google.com/search?q=site%3Alesswrong.com+app+academy&amp;amp;oq=site%3Alesswrong.com+app+academy&amp;amp;aqs=chrome..69i57j69i58.5575j0j7&amp;amp;sourceid=chrome&amp;amp;es_sm=91&amp;amp;ie=UTF-8&quot;&gt;there’s been lots of discussion of it on LessWrong&lt;/a&gt;.  App Academy basically does Step 2-17 from this guide, but gives you support, formal teaching, and a good learning environment.  Buck Shlegeris is a TA at App Academy and is happy to be a contact if you’re interested in getting more information on applying and/or getting coached through the process.  &lt;a href=&quot;http://80000hours.org/blog/329-interview-with-buck-shlegeris-from-app-academy&quot;&gt;Here’s an interview with Buck about App Academy&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;Buck and Chris Hallquist (who went to App Academy) also say that &lt;a href=&quot;http://www.hackreactor.com/&quot;&gt;Hack Reactor&lt;/a&gt; is the second-best program if you’re not able to get into App Academy (it is somewhat selective).  &lt;a href=&quot;http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/&quot;&gt;Here’s a full list of all available bootcamps, with details&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noitng that App Academy might be best for people in the US.  &lt;a href=&quot;http://www.makersacademy.com/&quot;&gt;Maker’s Academy&lt;/a&gt; seems pretty good for people near London, though.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-things-to-learn&quot;&gt;More Things to Learn&lt;/h2&gt;
+
+&lt;p&gt;This is sort of more of an afterthought than it probably should be, but it could be useful to learn Python.  Python is somewhat popular in the start-up world, though not nearly as popular as Ruby on Rails.  However, Python is really popular in the academic world.  It has &lt;a href=&quot;http://www.numpy.org/&quot;&gt;good support for statistical programming&lt;/a&gt; and has a platform called &lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt; that acts similarly to Rails.  It’s probably good to learn Python so you’re not “pidgeonholed” into only one type of programmer job (though the demand is definitely there).&lt;/p&gt;
+
+&lt;p&gt;Ultimately, Python is a good language to know, but that being said, several of us don’t think it’s worth the time investment if you’re solely focused on getting into the start-up world and don’t have a particular use for it.&lt;/p&gt;
+
+&lt;p&gt;However, if you’re interested, now would be a good time to pick it up.  If you’d like, work your way through &lt;a href=&quot;http://learnpythonthehardway.org/&quot;&gt;“Learn Python the Hard Way”&lt;/a&gt;, skimming a bit as necessary.  Also, give a look through &lt;a href=&quot;http://www.greenteapress.com/thinkpython/thinkpython.pdf&quot;&gt;“Think Python”&lt;/a&gt;, though you’ve probably learned much of it already from completing “Learn Python the Hard Way”.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;Once you’ve completed all of TOP, I really think you should start applying for jobs (I mean, if you want one), because the best learning will come from being on the job.  However, while you’re applying (or after you have the job), here are some things I think you might want to focus on, to extend your skills even further beyond what TOP asks for:&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;ERB, which you have been using to display Ruby in HTML, is nice, but HAML is also popular.  Haml makes a trade-off that allows you to write code faster, but has a steeper learning curve and is hard to understand.  Read through &lt;a href=&quot;http://haml.info/tutorial.html&quot;&gt;http://haml.info/tutorial.html&lt;/a&gt;.  For a project, take a project you have done where you wrote views in ERB, and re-write all those views in Haml.  Make sure it works.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;It could be a good idea to learn CoffeeScript.  Skim through &lt;a href=&quot;http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027&quot;&gt;http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript–net-17027&lt;/a&gt;, then through http://coffeescript.org/.  Next, do the tutorial at &lt;a href=&quot;http://coffeescript.carbonfive.com/&quot;&gt;http://coffeescript.carbonfive.com/&lt;/a&gt;.  Finally, watch Coffeescript in action here: &lt;a href=&quot;http://railscasts.com/episodes/267-coffeescript-basics&quot;&gt;http://railscasts.com/episodes/267-coffeescript-basics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a project, make a Coffescript function that prints out the first twenty numbers in the Fibonacci sequence.  That should be good enough, but feel free to re-do some of your JS stuff in CoffeeScript if you’d like.  You also might want to read through http://coffeescript.org/ a little more thoroughly to get a better understanding of what it can do.  You’ll also benefit from reading through &lt;a href=&quot;http://css-tricks.com/jquery-coffeescript/&quot;&gt;http://css-tricks.com/jquery-coffeescript/&lt;/a&gt; to get an idea of how to do jQuery stuff with Coffeescript.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;It could be a good idea to learn Knockout.js.  Do this tutorial: &lt;a href=&quot;http://learn.knockoutjs.com/#/?tutorial=intro&quot;&gt;http://learn.knockoutjs.com/#/?tutorial=intro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;You might want to learn some Data Science.  This deserves a post of it’s own, but you could thumb back to “Optional Step Twenty-four – Learn Some Data Science” &lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code/&quot;&gt;in my guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In my guide, I said the following, and it equally applies here:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are multiple paths to getting a programming job, learning programming, or whatever goal you may have. There’s no “one true way”, and there’s going to be a lot of conflicting advice on what is the “best” way to learn. Honestly what is best is going to vary person by person, and based on your interests and goals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;Like I said before, “I’ve designed a guide here based on my personal experience.”  It’s entirely possible that TOP is right about something and their original method was better for you, and I was wrong to disagree.  It’s also entirely possible TOP is wrong about something for you, and I didn’t catch it, because it didn’t come up for me.&lt;/p&gt;
+
+&lt;p&gt;Your mileage might vary.  I’m not better than TOP – they have their way, and I have mine.  I just wanted to write up my experience.  The best thing to do is just start, somewhere. See if this guide works for you, tweak if it doesn’t. Let me know.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/notes-on-the-odin-project/&quot;&gt;A Better Way to Learn Programming? Notes on The Odin Project&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on July 10, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -24,7 +618,7 @@
     <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
-  <content type="html">&lt;p&gt;Now that I’ve been doing some research blogging, it’s time to continue the trend with something big.  Maybe you’ve seen &lt;a href=&quot;http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/&quot;&gt;ACE’s leafleting study analysis&lt;/a&gt; and was like “woah, that’s long, no way I’m going to read all that”.  Instead, my reaction was “that’s long, but is there any way I can make it longer?”  So I did.  14.5 + today hours later, I emerge with this:&lt;/p&gt;
+  <content type="html">&lt;p&gt;Now that I’ve been doing some research blogging, it’s time to continue the trend with something big.  Maybe you’ve seen &lt;a href=&quot;http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/&quot;&gt;ACE’s leafleting study analysis&lt;/a&gt; and was like “woah, that’s long, no way I’m going to read all that”.  Instead, my reaction was “that’s long, but is there any way I can make it longer?”  So I did.  Sixteen hours later, I emerge with this:&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
@@ -32,7 +626,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.veganoutreach.org/&quot;&gt;Vegan Outreach&lt;/a&gt; and &lt;a href=&quot;http://www.thehumaneleague.com&quot;&gt;The Humane League&lt;/a&gt; are two pro-nonhuman non-profits that aim to do direct advocacy on behalf of non-human animals.  One thing they do is deliver leaflets to people aiming to convince people about the &lt;a href=&quot;http://www.veganoutreach.org/whyvegan/animals.html&quot;&gt;horrors of factory farming&lt;/a&gt; and convince them to &lt;a href=&quot;everydayutilitarian.com/essays/why-eat-less-meat&quot;&gt;eat less meat&lt;/a&gt;.  ACE claims that this is &lt;a href=&quot;http://www.animalcharityevaluators.org/research/interventions/leafleting/&quot;&gt;one of the most cost-effective ways to help non-human animals&lt;/a&gt;, but wants to put this to the test.&lt;/p&gt;
 
-&lt;p&gt;Throughout the latter half of 2013, Joey Savoie and Xio Kikauka, in cooperation with Animal Charity Evaluators, implemented a study of the impact of two Vegan Outreach leaflets on diet change.  In March 2014, ACE &lt;a href=&quot;ttp://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/&quot;&gt;released their analysis&lt;/a&gt; in cooperation with Statisticians Without Borders.&lt;/p&gt;
+&lt;p&gt;Throughout the latter half of 2013, Joey Savoie and Xio Kikauka, in cooperation with Animal Charity Evaluators, implemented a study of the impact of two Vegan Outreach leaflets on diet change.  In March 2014, ACE &lt;a href=&quot;http://www.animalcharityevaluators.org/research/interventions/leafleting/leafleting-outreach-study-fall-2013/leafleting-outreach-study-analysis-fall-2013/&quot;&gt;released their analysis&lt;/a&gt; in cooperation with Statisticians Without Borders.&lt;/p&gt;
 
 &lt;p&gt;I was personally somewhat skeptical of the analysis and though there was a decent amount of information still being left on the table.  I wanted to take advantage of the publicly provided dataset to do my own independent analysis to see what I could personally learn.&lt;/p&gt;
 
@@ -50,37 +644,53 @@
 
 &lt;p&gt;Overall, one’s attitude toward these results depends really on how skeptical and negative one wants to be:&lt;/p&gt;
 
-&lt;h4 id=&quot;reasons-for-positivity-toward-leafleting&quot;&gt;Reasons for positivity toward leafleting&lt;/h4&gt;
+&lt;h4 id=&quot;reasons-for-positivity&quot;&gt;Reasons for positivity&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Rates of people eliminating both red meat and poultry after receiving the treatment leaflet were quite high at 2.5% (4/161).&lt;/p&gt;
+    &lt;p&gt;Rates of people eliminating both red meat and poultry after receiving the treatment leaflet were quite high at 2.5% (4/161) (see &lt;a href=&quot;#redmeat&quot;&gt;“Red Meat Elimination”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The connection between the treatment leaflet and elimination of red meat and poultry was statistically significant.&lt;/p&gt;
+    &lt;p&gt;The connection between the treatment leaflet and elimination of red meat and poultry was statistically significant (see &lt;a href=&quot;#statsig&quot;&gt;“Are these differences statistically significant?”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The sample size of this study was underpowered enough that it could have missed an effect under 6% with &amp;gt;20% chance, and almost certainly would miss an effect at 1% or below.&lt;/p&gt;
+    &lt;p&gt;There is a statistically significant connection between overall meat reduction and receiving the treatment leaflet (see &lt;a href=&quot;#statsig&quot;&gt;“Are these differences statistically significant?”&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The sample size of this study was underpowered enough that it could have missed an effect under 6% with &amp;gt;20% chance, and almost certainly would miss an effect at 1% or below (see &lt;a href=&quot;#power&quot;&gt;“Upper Bound”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;reasons-for-negativity-toward-leafleting&quot;&gt;Reasons for negativity toward leafleting&lt;/h4&gt;
+&lt;h4 id=&quot;reasons-for-negativity&quot;&gt;Reasons for negativity&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Rates of people becoming entirely vegetarian were quite low at 0.56% (1/178) and this was not statistically significant (even before Bonferroni corrections).&lt;/p&gt;
+    &lt;p&gt;Rates of people becoming entirely vegetarian were quite low at 0.56% (1/178) and this was not statistically significant, even before Bonferroni corrections (see &lt;a href=&quot;#redmeat&quot;&gt;“Red Meat Elimination”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Treatment leaflets appear to have no effect on fish, eggs, or dairy.&lt;/p&gt;
+    &lt;p&gt;Treatment leaflets appear to have no effect on fish, eggs, or dairy (see &lt;a href=&quot;#important&quot;&gt;“How important is reducing red meat and poultry, but not anything else?”&lt;/a&gt; and &lt;a href=&quot;#mechanism&quot;&gt;“Why might the leaflets only be reducing red meat and poultry, and not other food groups?”&lt;/a&gt;).
+.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections.&lt;/p&gt;
+    &lt;p&gt;Less than half of the people in the treatment group who changed their diet specifically attribute their diet change to the leaflet (See &lt;a href=&quot;#attribution&quot;&gt;“How much can these changes be attributed to the flyers?”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian”.&lt;/p&gt;
+    &lt;p&gt;There was a problem with the control group (see &lt;a href=&quot;#control&quot;&gt;“What should the treatment and control groups be?”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian”.&lt;/p&gt;
+    &lt;p&gt;There were sizable problems with whether people were able to recall the leaflets that were handed out to them at the time of the post-treatment assessment three months later (see &lt;a href=&quot;#recollection&quot;&gt;“Recollection Errors”&lt;/a&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are methodological problems with both food frequency questionnaires and with asking people about their diet change in terms of “vegetarian” and “pescetarian” (see &lt;a href=&quot;#challenges&quot;&gt;“Challenges to These Variables”&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The connection between the treatment leaflet and elimination of red meat and poultry was no longer statistically significant after Bonferroni corrections (though see &lt;a href=&quot;#bonferroni&quot;&gt;“How bad is it that the tests were not able to pass Bonferroni corrections?”&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The change in eliminating red meat and poultry derived from the food frequency questionnaires did not correspond with changes from people stating that they “went pescatarian” (see &lt;a href=&quot;#changes&quot;&gt;“What changes reportedly occurred as a result of the leafleting?”&lt;/a&gt;, though also see &lt;a href=&quot;#noconnection&quot;&gt;“How bad is it that there was no connection between pescatarianism or meat reduction?”&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There also appeared to be errors in how the survey was designed (see &lt;a href=&quot;#design&quot;&gt;“Survey Design Errors”&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -90,9 +700,9 @@
 
 &lt;p&gt;My &lt;a href=&quot;https://github.com/peterhurford/personal/blob/gh-pages/tilde/files/leaflets.R&quot;&gt;R script for doing the re-analysis is here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-should-the-independent-variable-be&quot;&gt;What should the independent variable be?&lt;/h2&gt;
+&lt;h2 id=&quot;what-should-the-dependent-variable-be&quot;&gt;What should the dependent variable be?&lt;/h2&gt;
 
-&lt;p&gt;Once I set up the dataset, I looked into how we should represent the independent variable – the amount of change in diet caused by the survey.&lt;/p&gt;
+&lt;p&gt;Once I set up the dataset, I looked into how we should represent the dependent variable – the amount of change in diet caused by the survey.&lt;/p&gt;
 
 &lt;h4 id=&quot;meat-elimination&quot;&gt;Meat Elimination&lt;/h4&gt;
 
@@ -136,7 +746,7 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;red-meat-elimination&quot;&gt;Red Meat Elimination&lt;/h4&gt;
+&lt;h4 id=&quot;red-meat-elimination-a-idredmeatnbspa&quot;&gt;Red Meat Elimination &lt;a id=&quot;redmeat&quot;&gt; &lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;ACE spent a lot of their analysis looking at how consumption of individual foods changed as a way to measure meat reduction.  I was particularly interested at people’s elimination of red meat, as this is a type of meat frequently eliminated first.&lt;/p&gt;
 
@@ -260,11 +870,11 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;challenges-to-these-variables&quot;&gt;Challenges to These Variables&lt;/h2&gt;
+&lt;h2 id=&quot;challenges-to-these-variables-a-idchallengesnbspa&quot;&gt;Challenges to These Variables &lt;a id=&quot;challenges&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;Why look at eight different independent variables?  One reason was that we were interested in both partial meat elimination and full meat elimination.  But another reason is that it’s really hard to figure out who exactly is vegetarian…&lt;/p&gt;
+&lt;p&gt;Why look at eight different dependent variables?  One reason was that we were interested in both partial meat elimination and full meat elimination.  But another reason is that it’s really hard to figure out who exactly is vegetarian…&lt;/p&gt;
 
-&lt;h4 id=&quot;first-problem-vegetarians-and-vegans-eat-meat&quot;&gt;First Problem: Vegetarians and Vegans Eat Meat&lt;/h4&gt;
+&lt;h4 id=&quot;first-problem-vegetarians-and-vegans-eat-meat-a-idvegeatmeatnbspa&quot;&gt;First Problem: Vegetarians and Vegans Eat Meat &lt;a id=&quot;vegeatmeat&quot;&gt; &lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;Weird, I know.  But it seems like people report themselves as “vegetarian” or “vegan” without knowing what it really means.  The good news is that vegetarians and vegans do eat less meat.  But the weird thing is that they still do eat meat.  Therefore, we may have someone who claim they became vegan, but all that might mean in reality is that they merely reduced their meat consumption.&lt;/p&gt;
 
@@ -296,7 +906,36 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;second-problem-food-frequency-questionnaires-seem-troublesome&quot;&gt;Second Problem: Food Frequency Questionnaires Seem Troublesome&lt;/h4&gt;
+&lt;h4 id=&quot;second-problem-pescetarians-underreport-their-pescatarianism-a-idpescenbspa&quot;&gt;Second Problem: Pescetarians Underreport Their Pescatarianism &lt;a id=&quot;pesce&quot;&gt; &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you think people have a hard time with the “vegetarian” label, then you must think people have huge problems with the less popular “pescetarian” label.  Here’s a table with whether people label themselves pescetarian and how they respond on the food frequency questionnaires about red meat and poultry (they never ate the two, they no longer eat the two as of the post-survey, or they still eat the two despite self-identifying as pescetarian).&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;&amp;nbsp;&lt;/th&gt;
+		&lt;th&gt;Not Pescetarian&lt;/th&gt;
+		&lt;th&gt;Pescetarian&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Never Ate&lt;/td&gt;
+		&lt;td&gt;28&lt;/td&gt;
+		&lt;td&gt;7&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;No Longer Eat&lt;/td&gt;
+		&lt;td&gt;5&lt;/td&gt;
+		&lt;td&gt;1&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Still Eat&lt;/td&gt;
+		&lt;td&gt;525&lt;/td&gt;
+		&lt;td&gt;15&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As you can see, the pescetarian label is quite untrustworthy.&lt;/p&gt;
+
+&lt;h4 id=&quot;third-problem-food-frequency-questionnaires-seem-troublesome&quot;&gt;Third Problem: Food Frequency Questionnaires Seem Troublesome&lt;/h4&gt;
 
 &lt;p&gt;Quick!  How many servings of cheese did you eat three months ago?&lt;/p&gt;
 
@@ -310,9 +949,13 @@
 
 &lt;p&gt;But yet this is the alternative method of figuring out whether people go vegetarian or reduce meat consumption – compare their actual diets from three months ago to now.  These food frequency questionnaires are standard to the nutrition science industry, so they might be the be best we’ve got.  But I’m skeptical of them.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-should-the-relevant-treatment-and-control-groups-be&quot;&gt;What should the relevant treatment and control groups be?&lt;/h2&gt;
+&lt;p&gt;-&lt;/p&gt;
 
-&lt;p&gt;So we’re looking to five different independent variables to track changes in diet.  But we’re really interested in the impact of leafleting.  The study was designed well – there was a control leaflet and two different treatment leaflets.&lt;/p&gt;
+&lt;p&gt;That being said, it’s possible that these food frequency questionnaires are reliable in the cases of &lt;em&gt;elimination&lt;/em&gt; as opposed to &lt;em&gt;reduction&lt;/em&gt;, as &lt;em&gt;zero&lt;/em&gt; is a pretty hard number to misremember.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-should-the-relevant-treatment-and-control-groups-be-a-idcontrolnbspa&quot;&gt;What should the relevant treatment and control groups be? &lt;a id=&quot;control&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;So we’re looking to five different dependent variables to track changes in diet.  But we’re really interested in the impact of leafleting.  The study was designed well – there was a control leaflet and two different treatment leaflets.&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;caption&gt;Leaflets Recognized by Follow-up Survey Respondents&lt;/caption&gt;
@@ -332,7 +975,7 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;EIYLM = Even if You Like Meat, CC = Compassion Over Cruelty, CBTC = Cruelty Behind the Cuteness.  Note: The same respondent may be in multiple categories.&lt;/p&gt;
+&lt;p&gt;EIYLM = &lt;a href=&quot;http://www.veganoutreach.org/EIYLM.pdf&quot;&gt;Even if You Like Meat&lt;/a&gt;, CC = &lt;a href=&quot;http://www.veganoutreach.org/cc.pdf&quot;&gt;Compassionate Choises&lt;/a&gt;, CBTC = &lt;a href=&quot;http://www.humanesociety.org/assets/pdfs/pets/puppy_mills/cruelty_behind_the_cuteness_flyer.pdf&quot;&gt;Cruelty Behind the Cuteness&lt;/a&gt;.  Note: The same respondent may be in multiple categories.&lt;/p&gt;
 
 &lt;h4 id=&quot;problems-with-the-control-group&quot;&gt;Problems with the Control Group&lt;/h4&gt;
 
@@ -352,7 +995,7 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;This makes a control group that is much smaller than we need to use.  The ACE analysis decides to use the No Leaflet group as a secondary control group.&lt;/p&gt;
+&lt;p&gt;This makes a control group that is much smaller than we need to use.  The ACE analysis decides to use the No Leaflet group as a secondary control group.  This seems sensible as a point of comparison, though it’s possible that there could be selection biases if the type of people who would take a leaflet are more predisposed to go vegetarian.&lt;/p&gt;
 
 &lt;h4 id=&quot;problems-with-leaflet-recall&quot;&gt;Problems with Leaflet Recall&lt;/h4&gt;
 
@@ -360,9 +1003,9 @@
 
 &lt;p&gt;Also, ACE mentions that more than sixty people also mention receiving a treatment leaflet that was not actually handed out at their location.  This means some people may have sorted themselves into the wrong treatment or control group, messing with our results.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-changes-reportedly-occurred-as-a-result-of-the-leafleting&quot;&gt;What changes reportedly occurred as a result of the leafleting?&lt;/h2&gt;
+&lt;h2 id=&quot;what-changes-reportedly-occurred-as-a-result-of-the-leafleting-a-idchangesnbspa&quot;&gt;What changes reportedly occurred as a result of the leafleting? &lt;a id=&quot;changes&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;So now that we have eight potential independent variables and three groups to look at, how did things actually turn out?&lt;/p&gt;
+&lt;p&gt;So now that we have eight potential dependent variables and three groups to look at, how did things actually turn out?&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr&gt;
@@ -463,11 +1106,11 @@
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Are these differences statistically significant?&lt;/p&gt;
+&lt;h2 id=&quot;are-these-differences-statistically-significant-a-idstatsignbspa&quot;&gt;Are these differences statistically significant? &lt;a id=&quot;statsig&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Just looking at the table, it appears that a Vegan Outreach flyer does produce more meat reduction, red meat elimination, and net vegetarians/vegans added, relative to the control and no flyer groups, though it also seems to produce less meat elimination than the control / no flyer groups.&lt;/p&gt;
 
-&lt;p&gt;But the differences across the groups could just be due to chance.  To be sure, let’s compare across the groups with T-tests.  We’ll compare the population of those who received the treatment flyer to the population receiving the control flyer and then the wider population of everyone sampled who did not receive the treatment flyer.&lt;/p&gt;
+&lt;p&gt;But the differences across the groups could just be due to chance.  To be sure, let’s compare across the groups with T-tests.  We’ll compare the population of those who received the treatment flyer to the population receiving the control flyer and then the wider population of everyone sampled who did not receive the treatment flyer.  I think treatment vs. non-treatment is by far the better case to look at, given the small size of the actual control group, though it does have possible opportuniteis for bias.&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr&gt;
@@ -497,26 +1140,26 @@
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;Net Vegetarians / Vegans Added&lt;/td&gt;
-		&lt;td&gt;t = -1.00, p = 0.32&lt;/td&gt;
-		&lt;td&gt;t = -0.30, p = 0.76&lt;/td&gt;
+		&lt;td&gt;t = -1.00, p = NS&lt;/td&gt;
+		&lt;td&gt;t = -0.30, p = NS&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;Net Pescatarians Added&lt;/td&gt;
-		&lt;td&gt;t = 0.59, p = 0.56&lt;/td&gt;
-		&lt;td&gt;t = -0.99, p = 0.33&lt;/td&gt;
+		&lt;td&gt;t = 0.59, p = NS&lt;/td&gt;
+		&lt;td&gt;t = -0.99, p = NS&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;Net Meat Reducers Added&lt;/td&gt;
-		&lt;td&gt;t = -1.15, p = 0.25&lt;/td&gt;
-		&lt;td&gt;t = -0.51, p = 0.61&lt;/td&gt;
+		&lt;td&gt;t = -1.15, p = NS&lt;/td&gt;
+		&lt;td&gt;t = -0.51, p = NS&lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Based on this, the statistically significant effect of treatment flyers is muddled.  They do have statistically significant effects on meat reduction, red meat elimination, and poultry elimination, but there is no corresponding statistically significant effect with declared pescatarianism or declared intent to reduce meat.  And no other variables are statistically significant.&lt;/p&gt;
+&lt;p&gt;Based on this, the statistically significant effect of treatment flyers is muddled, but existant.  They do have statistically significant effects on meat reduction (for treatment vs. non-treatment), red meat elimination, and poultry elimination, but there is no corresponding statistically significant effect with declared pescatarianism or declared intent to reduce meat.  And no other variables are statistically significant.&lt;/p&gt;
 
 &lt;p&gt;Furthermore, it’s also worth noting that ACE did not do any sort of corrections for doing multiple statistical tests.  When we do a Bonferroni correction here, having done fourteen separate analyses, we reduce our threshold for statistical significance from p = 0.05 to p = 0.05/14, or 0.003, which no tests met.  Even a less stringent test, such as starting from p = 0.1 before Bonferroni corrections is not met.&lt;/p&gt;
 
-&lt;h2 id=&quot;how-much-can-flyers-be-attributed-to-these-changes&quot;&gt;How much can flyers be attributed to these changes?&lt;/h2&gt;
+&lt;h2 id=&quot;how-much-can-these-changes-be-attributed-to-the-flyers-a-idattributonnbspa&quot;&gt;How much can these changes be attributed to the flyers? &lt;a id=&quot;attributon&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;One way we can look a little bit closer is with variables that (a) self-report how much of the leaflet was actually read, (b) self-report how influential the leaflet was, and (c) self-report the reason for changing diets.&lt;/p&gt;
 
@@ -646,7 +1289,7 @@
 
 &lt;p&gt;-&lt;/p&gt;
 
-&lt;p&gt;We can also use this to dig a little bit deeper at red meat reduction, one of the independent variables credited by ACE as being affected by the leaflet.&lt;/p&gt;
+&lt;p&gt;We can also use this to dig a little bit deeper at red meat elimination, one of the dependent variables credited by ACE as being affected by the leaflet.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -678,7 +1321,7 @@
 
 &lt;p&gt;178 treatment flyers were given out, and it appears quite plausible (as clear as can be determined by the survey, given that you trust self-reported data) that precisely one person was lead to become a (genuine) vegetarian specifically based on having received the treatment flyer.  One could consider this as establishing a preliminary lower bound on conversion rates at 0.56%, though I would be careful not to generalize from solely one person.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Upper Bound&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Upper Bound&lt;/strong&gt; &lt;a id=&quot;power&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s worth noting that the small sample size of this study means that it might have trouble detecting a statistically significant difference in diet change.  This study had a sample size of  623, with 178 having received a flyer.  The past Facebook study had a sample size of 104 and a similar leafleting study had a sample size of “about 500”.&lt;/p&gt;
 
@@ -759,13 +1402,13 @@
 
 &lt;p&gt;Additionally, statistical tests were not able to reject the null hypothesis that leaflets do not cause wholesale shift to a vegetarian diet.  Therefore, the part of ACE’s claim that leaflets cause “a small percentage of respondents to go vegetarian” may not be established at this time.  However, less robust (but still plausibly reliable) were able to detect one person who responded as we would expect a vegetarian who had been changed by the leaflet to respond.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How bad is it that there was no connection between pescatarianism or meat reduction?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How bad is it that there was no connection between pescatarianism or meat reduction?&lt;/strong&gt; &lt;a id=&quot;noconnection&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Text.&lt;/p&gt;
+&lt;p&gt;It seems potentially problematic that while there was a reduction of red meat and poultry consumption, there was no corresponding change in people declaring themselves “pescatarian.”  However, given how bad people appear to be with just the common “vegetarian” label (e.g., &lt;a href=&quot;#vegeatmeat&quot;&gt;how self-identified “vegetarians” eating meat&lt;/a&gt;), I wouldn’t trust them one bit to understand the “pescatarian” label.  And once we do the analysis and see that &lt;a href=&quot;#pesce&quot;&gt;people who don’t eat red meat or poultry still don’t call themselves pescetarian&lt;/a&gt;), it’s clear this variable is untrustworthy.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How bad is it that the tests were not able to pass Bonferroni corrections?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How bad is it that the tests were not able to pass Bonferroni corrections?&lt;/strong&gt; &lt;a id=&quot;bonferroni&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Text.&lt;/p&gt;
+&lt;p&gt;It’s true that a statistically robust conclusion should be able to pass Bonferroni corrections.  However, given the sample size of this study &lt;a href=&quot;#power&quot;&gt;compared to how large the sample size would have to be&lt;/a&gt;, it’s unlikely that we would be able to detect such robust effects even if they did exist, so I’m not particularly worried.  I’d be inclined to accept that the effects on meat reduction, red meat elimination, and poultry elimination are genuine effects, but that no other real effects exist (e.g., other kinds of meat, or shift to vegetarianism).&lt;/p&gt;
 
 &lt;h4 id=&quot;what-are-the-implications-of-this-study-for-prior-studies-of-veg-outreach&quot;&gt;What are the implications of this study for prior studies of veg outreach?&lt;/h4&gt;
 
@@ -775,7 +1418,7 @@
 
 &lt;p&gt;The CCC Flyer Study sampled everyone, but only permitted those who received a leaflet to take the survey.  Of course, the language of the survey was strong, asking people to directly attribute their diet change to the leaflet.  But I imagine that this didn’t work as intended, and had they sampled people who did not receive the leaflet, or sampled at a college that had no leaflets distributed, it’s possible they would have found a similar conversion rate.  Therefore, it’s good that this study was done with ACE with a point of comparison, so we can see that the 2% figure does make sense in context.  Including these valuable pseudo-control groups is an important step forward.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Recollection Errors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recollection Errors&lt;/strong&gt; &lt;a id=&quot;recollection&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Prior flyer research had attempted to navigate non-response bias (systematic biases in who fills out the survey) and social desirability bias (systematic increases in vegetarianism as people aim to please or look more virtuous).   Much has been done recently to try to work against these two biases.&lt;/p&gt;
 
@@ -783,7 +1426,11 @@
 
 &lt;p&gt;This recollection error also undermines the food frequency questionnaires used for meat reduction statistics – if they can’t remember receiving a leaflet, how can we trust them to remember intricate details about the number of servings of cheese they ate three months ago?  This seems difficult to deal with and suggests that new designs will be necessary for future studies.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How important is reducing red meat and poultry, but not anything else?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Survey Design Errors&lt;/strong&gt; &lt;a id=&quot;design&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another problem was the design of &lt;a href=&quot;http://www.animalcharityevaluators.org/wp-content/uploads/2014/03/Leafleting-Survey-Packet.pdf&quot;&gt;the survey&lt;/a&gt;.  According to Joey and Xio, who designed the study and helped hand out many of the questionnaires, people were struggling with taking the survey as it was too long and complicated.  One large problem was that people were skimming and had trouble understanding that the two food frequency questionnaires were different items.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-important-is-reducing-red-meat-and-poultry-but-not-anything-else-a-idimportantnbspa&quot;&gt;How important is reducing red meat and poultry, but not anything else? &lt;a id=&quot;important&quot;&gt; &lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;It’s certainly good that the leaflets are doing something, most notably getting about 4% of respondents to give up red meat and another 4% to give up poultry, with no corresponding increases in meat eating elsewhere.  But how important is this?&lt;/p&gt;
 
@@ -799,11 +1446,21 @@
 
 &lt;p&gt;On the other hand, perhaps we could look to Brian Tomasik’s 100 Yard Line Model for vegetarian conversion, which is summarized with the observation that perhaps pushing people to eliminate poultry and/or red meat is just one stepping stone to getting them to become full vegetarian soon.  It’s definitely a big first step!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Why might the leaflets only be reducing red meat and poultry, and not other food groups?&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;why-might-the-leaflets-only-be-reducing-red-meat-and-poultry-and-not-other-food-groups-a-hrefmechanismnbspa&quot;&gt;Why might the leaflets only be reducing red meat and poultry, and not other food groups? &lt;a href=&quot;mechanism&quot;&gt; &lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;Aside from the philosophical question about what the value of reducing red meat and poultry is, we might also be curious as to the empirical question – why are people only eliminating red meat and poultry, and not other food groups?&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets (“Compassionate Choices” and “Even if You Like Meat”) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we can only speculate, but it seems quite plausible that the reason is that the two treatment leaflets (&lt;a href=&quot;http://www.veganoutreach.org/cc.pdf&quot;&gt;“Compassionate Choices”&lt;/a&gt; and &lt;a href=&quot;http://www.veganoutreach.org/EIYLM.pdf&quot;&gt;“Even if You Like Meat”&lt;/a&gt;) both focus significantly on the meat of pigs, chickens, and cows, and do not focus much at all on dairy, eggs, or fish.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-future-research-should-be-done&quot;&gt;What future research should be done?&lt;/h4&gt;
+
+&lt;p&gt;I think we are getting very close to understanding the impact of leafleting, but I don’t think we’re quite there yet.  We could use further research (as always).&lt;/p&gt;
+
+&lt;p&gt;I think the most important future research should focus on addressing the methodological issues here, trying to come up with better dependent variables or better ways to mitigate the drawbacks that have been discovered with these dependent variables.  For example, I’d propose further research into how the public understands terms like “vegetarian” or “pescetarian” or more research into leaflet recall after a few months.  Perhaps we could make use of more reliable panel studies, where we know we’d have access to the same participants after a few months.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the next step to settle this question as much as it can be settled would be to do a large sample size study with a control group.  Having a couple thousand people in each group should do the trick and place a worthwhile upper bound on what the size of the effects would be, even if we don’t yet know the true lower bound (because it might remain too small to detect).&lt;/p&gt;
+
+&lt;p&gt;Lastly, something still worthwhile would be to run this study again though with a functional control group (that receives control leaflets) or to run this study in different contexts (e.g., online ads).&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/a-re-analysis-of-ace-leaflet-study/&quot;&gt;A Re-Analysis of ACE's Leaflet Study&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
 </entry>
@@ -925,9 +1582,47 @@
 
 &lt;p&gt;…That means there’s a total of 5 years, 6 months, 5 days of animal suffering in each standard American diet, &lt;strong&gt;per year&lt;/strong&gt;.  Yikes!  …And this doesn’t even include the suffering from the slaughter of the animals themselves.&lt;/p&gt;
 
-&lt;h4 id=&quot;adjusting-for-context&quot;&gt;Adjusting for Context&lt;/h4&gt;
+&lt;h2 id=&quot;adjusting-for-product-elasticity&quot;&gt;Adjusting for Product Elasticity&lt;/h2&gt;
 
-&lt;p&gt;But we can get a bit more precise at the cost of being a bit more speculative, if you don’t mind me experimenting, because I don’t think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.&lt;/p&gt;
+&lt;p&gt;However, as is commonly known by economists, when you choose to not buy a product, you lower the demand ever so slightly, which lowers the price ever so slightly, which turns out to re-increase the demand ever so slightly.  Therefore, forgoing one pound of meat means that less than one pound of meat actually gets prevented from being factory farmed.  So vegetarianism does have an effect on reducing the amount of animals farmed, but a little less than we might naïvely think.  F. Bailey Norwoord’s &lt;a href=&quot;http://www.amazon.com/Compassion-Pound-Economics-Animal-Welfare/dp/0199551162&quot;&gt;Compassion by the Pound&lt;/a&gt; gives the following figures:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If someone gives up one pound of beef, the product falls by 0.68 lbs&lt;/li&gt;
+  &lt;li&gt;One Pound of Milk… 0.56lbs.&lt;/li&gt;
+  &lt;li&gt;One Pound of Pork… 0.74 lbs&lt;/li&gt;
+  &lt;li&gt;One Pound of Chicken… 0.76 lbs&lt;/li&gt;
+  &lt;li&gt;One Egg… 0.91 Egg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cheese-turkey-and-fish-elasticity&quot;&gt;Cheese, Turkey, and Fish Elasticity&lt;/h4&gt;
+
+&lt;p&gt;However, Norwood is missing figures for the rest of dairy, and for turkey and fish, so we need to add a bit more information.  Luckily, the organization &lt;a href=&quot;http://www.animalcharityevaluators.com&quot;&gt;Animal Charity Evaluators&lt;/a&gt; has done some more research on this.&lt;/p&gt;
+
+&lt;p&gt;ACE cites &lt;a href=&quot;http://ageconsearch.umn.edu/bitstream/14745/1/wp9808.pdf&quot;&gt;this paper&lt;/a&gt; for a dairy elasticity of 0.65, such that if someone gives up one pound of dairy, the product falls by 0.65 lbs.&lt;/p&gt;
+
+&lt;p&gt;For turkey, &lt;a href=&quot;http://ageconsearch.umn.edu/bitstream/31190/1/23020558.pdf&quot;&gt;this paper&lt;/a&gt; gives an elasticity of 0.26.&lt;/p&gt;
+
+&lt;p&gt;For fish, &lt;a href=&quot;http://oregonstate.edu/dept/IIFET/Japan/proceedupdates/306.pdf&quot;&gt;this paper&lt;/a&gt; gives an elasticity of 0.75.&lt;/p&gt;
+
+&lt;p&gt;Though it’s important to note that this science is somewhat imprecise, and ACE cites figures that conflict with some of Norwood’s figures.  It’s also curious why turkey elasticity is so low compared to Norwood’s estimates for chicken.&lt;/p&gt;
+
+&lt;h4 id=&quot;putting-it-together&quot;&gt;Putting it together…&lt;/h4&gt;
+
+&lt;p&gt;With these adjustments, in actuality, the average American is producing, each year on average…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20.1 days of suffering via beef&lt;/li&gt;
+  &lt;li&gt;5.2 days of suffering via dairy&lt;/li&gt;
+  &lt;li&gt;32.6 days of suffering via pork&lt;/li&gt;
+  &lt;li&gt;421 days of suffering via chicken meat&lt;/li&gt;
+  &lt;li&gt;315.7 days of suffering via eggs&lt;/li&gt;
+  &lt;li&gt;20 days of suffering via turkey&lt;/li&gt;
+  &lt;li&gt;711.7 days of suffering via aquacultured fish&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;adjusting-for-context&quot;&gt;Adjusting for Context&lt;/h2&gt;
+
+&lt;p&gt;That isn’t all the adjusting I think we should do, however.  We can get a bit more precise at the cost of being a bit more speculative, if you don’t mind me experimenting, because I don’t think that each animal suffers the same.  Instead, each animal has (a) different intensity of farming conditions and (b) a different capacity for suffering.&lt;/p&gt;
 
 &lt;p&gt;First, let’s do differences from intensity of farming conditions.  Brian’s table takes this into account, and suggests the following adjustment ratios (higher ratio means more suffering from the farming):&lt;/p&gt;
 
@@ -962,13 +1657,13 @@
 &lt;p&gt;Taking these ratios into account, we adjust to the new totals:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;36 adjusted days of suffering via beef&lt;/li&gt;
-  &lt;li&gt;14 adjusted days of suffering via dairy&lt;/li&gt;
-  &lt;li&gt;79 adjusted days of suffering via pork&lt;/li&gt;
-  &lt;li&gt;299 adjusted days of suffering via chicken meat&lt;/li&gt;
-  &lt;li&gt;260 adjusted days of suffering via eggs&lt;/li&gt;
-  &lt;li&gt;41 adjusted days of suffering via turkey&lt;/li&gt;
-  &lt;li&gt;171 adjusted days of suffering via aquacultured fish 	900&lt;/li&gt;
+  &lt;li&gt;20.1 adjusted days of suffering via beef&lt;/li&gt;
+  &lt;li&gt;9.4 adjusted days of suffering via dairy&lt;/li&gt;
+  &lt;li&gt;58.9 adjusted days of suffering via pork&lt;/li&gt;
+  &lt;li&gt;227.3 adjusted days of suffering via chicken meat&lt;/li&gt;
+  &lt;li&gt;236.7 adjusted days of suffering via eggs&lt;/li&gt;
+  &lt;li&gt;10.8 adjusted days of suffering via turkey&lt;/li&gt;
+  &lt;li&gt;128.1 adjusted days of suffering via aquacultured fish&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;(The adjustment is technically in units of “days of beef suffering equivalents”.)&lt;/p&gt;
@@ -978,17 +1673,21 @@
 &lt;p&gt;I think these adjustments are important not for coming to a more accurate total of years of suffering caused per year of American diet, but rather for more accurately determining which food groups are the most important to target.  For example, based on these adjusted numbers, we can tentatively (and perhaps naively) conclude:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Giving up beef is ~2.6x as important as giving up dairy.&lt;/li&gt;
-  &lt;li&gt;Giving up pork is ~2.2x as important as giving up beef.&lt;/li&gt;
-  &lt;li&gt;Giving up chicken meat is ~8.3x as important as giving up beef.&lt;/li&gt;
-  &lt;li&gt;Giving up eggs is ~7.2x as important as giving up beef.&lt;/li&gt;
-  &lt;li&gt;Giving up turkey is ~1.1x as important as giving up beef.&lt;/li&gt;
-  &lt;li&gt;Giving up aquacultured fish is ~4.8x as important as giving up beef.&lt;/li&gt;
+  &lt;li&gt;Giving up beef is ~2.1x as important as giving up dairy.&lt;/li&gt;
+  &lt;li&gt;Giving up beef is ~1.9x as important as giving up turkey.&lt;/li&gt;
+  &lt;li&gt;Giving up pork is ~2.9x as important as giving up beef.&lt;/li&gt;
+  &lt;li&gt;Giving up chicken meat is ~11.3x as important as giving up beef.&lt;/li&gt;
+  &lt;li&gt;Giving up eggs is ~11.8x as important as giving up beef.&lt;/li&gt;
+  &lt;li&gt;Giving up aquacultured fish is ~6.4x as important as giving up beef.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;So this gives a pretty good approach for a “meat reduction” diet, with the most ethical bang-for-the-buck for each animal product given up.  Maybe consider eating all the beef, turkey, and dairy you want, but spare the really important ones – chicken, eggs, and fish!&lt;/p&gt;
 
-&lt;p&gt;In fact, a diet where you only avoid chicken, eggs, and fish is 81% as impactful at preventing animal suffering as a fully vegan diet!&lt;/p&gt;
+&lt;p&gt;In fact, a diet where you only avoid chicken, eggs, and fish is 85.6% as impactful at preventing animal suffering as a fully vegan diet!&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Updated 21 Jul to add information about elasticity.&lt;/em&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/how-much-suffering-is-in-the-standard-american-diet/&quot;&gt;How Much Suffering is in the Standard American Diet?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on May 31, 2014.&lt;/p&gt;</content>
 </entry>
@@ -1935,7 +2634,7 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
     <uri>http://www.everydayutilitarian.com</uri>
     <email></email>
   </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code#changelog&quot;&gt;v1.6.20&lt;/a&gt; - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford (&lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code#acknowledge&quot;&gt;with lots of help&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code#changelog&quot;&gt;v1.8.22&lt;/a&gt; - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford (&lt;a href=&quot;http://everydayutilitarian.com/essays/learn-code#acknowledge&quot;&gt;with lots of help&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-introduction&quot;&gt;The Introduction&lt;/h2&gt;
 
@@ -1946,6 +2645,10 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 &lt;p&gt;Additionally, you might find out that programming is not a good fit for your skills and interests, and you have to be okay with that.  Keep in mind that true programming skill only comes from the long haul.  There is no real “learn X language in two hours” – even 100 hours of learning will only give you a beginner’s knowledge of one particular language.  “Programmer hero” status will only be achieved after many years of work.  So it’s important you really like it and stick with it, if you want to get anywhere.  Programming also seems to come best if you have multiple, uninterrupted, consecutive hours to devote to it – it appears much harder if it’s just 30 minutes here, 30 minutes there.&lt;/p&gt;
 
 &lt;p&gt;Also, let me know (&lt;a href=&quot;https://www.facebook.com/peterhurford&quot;&gt;Peter Hurford on Facebook&lt;/a&gt; or &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#112;&amp;#101;&amp;#116;&amp;#101;&amp;#114;&amp;#064;&amp;#112;&amp;#101;&amp;#116;&amp;#101;&amp;#114;&amp;#104;&amp;#117;&amp;#114;&amp;#102;&amp;#111;&amp;#114;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#112;&amp;#101;&amp;#116;&amp;#101;&amp;#114;&amp;#064;&amp;#112;&amp;#101;&amp;#116;&amp;#101;&amp;#114;&amp;#104;&amp;#117;&amp;#114;&amp;#102;&amp;#111;&amp;#114;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; by email) if you try this guide, so I can get feedback on how it goes for you.  Feel free to also reach out to me with comments on how to improve the guide – I’m still relatively new to programming myself and have not yet implemented all these steps personally!&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPDATE:&lt;/strong&gt; Thanks to someone in the comments, I found a new resource for learning programming called &lt;a href=&quot;http://www.theodinproject.com&quot;&gt;The Odin Project&lt;/a&gt;, and dare I say it, I think it’s better than my guide.  &lt;a href=&quot;http://everydayutilitarian.com/essays/notes-on-the-odin-project&quot;&gt;I took detailed notes on it here&lt;/a&gt;, and I urge you to read them if you’re interested in a slightly different take on learning programming.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-guide-pt-i----zero-to-beginner&quot;&gt;The Guide, Pt. I – Zero to Beginner&lt;/h2&gt;
 
@@ -1987,6 +2690,8 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;p&gt;Buck and Chris Hallquist (who went to App Academy) also say that &lt;a href=&quot;http://www.hackreactor.com/&quot;&gt;Hack Reactor&lt;/a&gt; is the second-best program if you’re not able to get into App Academy (it is somewhat selective).  &lt;a href=&quot;http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/&quot;&gt;Here’s a full list of all available bootcamps, with details&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;It’s worth noitng that App Academy might be best for people in the US.  &lt;a href=&quot;http://www.makersacademy.com/&quot;&gt;Maker’s Academy&lt;/a&gt; seems pretty good for people near London, though.&lt;/p&gt;
+
 &lt;h4 id=&quot;step-three----a-personal-rails-project&quot;&gt;Step Three – A Personal Rails Project&lt;/h4&gt;
 
 &lt;p&gt;Now you should know enough to fail forward on a project of your own.  You’re off the bunny slopes and now it’s time to ski down the hill.  Personal projects are the most exciting and useful ways to learn code, and you now should know exactly enough (and not much more) to try your own Rails application.  So make something!  I made a &lt;a href=&quot;http://jobboard.im/&quot;&gt;Job Board&lt;/a&gt;, others made a &lt;a href=&quot;http://skillshare.im/&quot;&gt;Skillshare&lt;/a&gt;.  Hartl had you make a Twitter clone, but you could try to create a clone of another popular app like Reddit.  It doesn’t have to be useful, because the idea is just to learn code.&lt;/p&gt;
@@ -1995,7 +2700,7 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;h4 id=&quot;optional-step-four----another-rails-tutorial&quot;&gt;Optional Step Four – Another Rails Tutorial&lt;/h4&gt;
 
-&lt;p&gt;If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like &lt;a href=&quot;http://www.peterhurford.com/tilde/files/ruby-textbook.pdf&quot;&gt;Agile Web Development&lt;/a&gt; with Rails.  No need to do this if you feel like you’re going well, though.&lt;/p&gt;
+&lt;p&gt;If you feel like you’re struggling at this step, you could consider working through another Ruby/Rails tutorial to re-learn some of the stuff in a different context.  I like &lt;a href=&quot;http://www.peterhurford.com/tilde/files/ruby-textbook.pdf&quot;&gt;“Agile Web Development with Rails”&lt;/a&gt;.  No need to do this if you feel like you’re going well, though.&lt;/p&gt;
 
 &lt;h4 id=&quot;step-five----re-evaluate&quot;&gt;Step Five – Re-evaluate&lt;/h4&gt;
 
@@ -2027,7 +2732,7 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;h4 id=&quot;step-nine----javascript-design-patterns&quot;&gt;Step Nine – JavaScript Design Patterns&lt;/h4&gt;
 
-&lt;p&gt;Design patterns are reusable solutions to common programming problems.  They’re really good to know.  Let’s learn some JavaScript design patterns.  Work your way through &lt;a href=&quot;https://github.com/addyosmani/essential-js-design-patterns&quot;&gt;“JavaScript Design Patterns”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Design patterns are reusable solutions to common programming problems.  They’re really good to know.  Let’s learn some JavaScript design patterns.  Work your way through &lt;a href=&quot;http://addyosmani.com/resources/essentialjsdesignpatterns/book/&quot;&gt;“JavaScript Design Patterns”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;step-ten----go-advanced-on-javascript&quot;&gt;Step Ten – Go Advanced on JavaScript&lt;/h4&gt;
 
@@ -2134,6 +2839,10 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;p&gt;You should now know enough about programming that you’re off on your own.  If you’ve found a good mentor, they can tell you what to do next.  Or maybe now you can land a programming job and learn programming in a real-world context.  Good luck!&lt;/p&gt;
 
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Followed up in &lt;a href=&quot;http://everydayutilitarian.com/essays/notes-on-the-odin-project/&quot;&gt;“A Better Way to Learn Programming? Notes on The Odin Project”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;the-acknowledgements-a-nameacknowledgenbspa&quot;&gt;The Acknowledgements &lt;a name=&quot;acknowledge&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;This advice is based on my personal experience, plus advice given to me (in rough descending order of magnitude) by Richard Batty, Chris Hallquist, Robert Krzyanowski, Ozzie Gooen, and Buck Shlegeris.&lt;/p&gt;
@@ -2142,61 +2851,61 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.0.0 - Initial launch&lt;/p&gt;
+    &lt;p&gt;v1.0.0 - Initial launch.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.0.1 - Added more info to intro&lt;/p&gt;
+    &lt;p&gt;v1.0.1 - Added more info to intro.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.0.2 - Added version tracker&lt;/p&gt;
+    &lt;p&gt;v1.0.2 - Added version tracker.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.1.2 - Added alternatives to Hartl’s tutorial&lt;/p&gt;
+    &lt;p&gt;v1.1.2 - Added alternatives to Hartl’s tutorial.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.1.3 - Added my contact information&lt;/p&gt;
+    &lt;p&gt;v1.1.3 - Added my contact information.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.1.4 - Added call for action for feedback&lt;/p&gt;
+    &lt;p&gt;v1.1.4 - Added call for action for feedback.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.1.5 - Added Changelog&lt;/p&gt;
+    &lt;p&gt;v1.1.5 - Added Changelog.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.1.6 - Added more info about “multiple routes” to intro&lt;/p&gt;
+    &lt;p&gt;v1.1.6 - Added more info about “multiple routes” to intro.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.2.6 - Added info on programming bootcamps&lt;/p&gt;
+    &lt;p&gt;v1.2.6 - Added info on programming bootcamps.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.2.7 - Added more info on Python&lt;/p&gt;
+    &lt;p&gt;v1.2.7 - Added more info on Python.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.3.7 - Added an explicit step for HTML/CSS&lt;/p&gt;
+    &lt;p&gt;v1.3.7 - Added an explicit step for HTML/CSS.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.3.8 - Added more info on when one can apply to an internship / Junior position&lt;/p&gt;
+    &lt;p&gt;v1.3.8 - Added more info on when one can apply to an internship / Junior position.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.4.8 - Added another re-evaluate period&lt;/p&gt;
+    &lt;p&gt;v1.4.8 - Added another re-evaluate period.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.4.9 - Added Codility to the list of problem sets&lt;/p&gt;
+    &lt;p&gt;v1.4.9 - Added Codility to the list of problem sets.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.4.10 - Added info on Hack Reactor&lt;/p&gt;
+    &lt;p&gt;v1.4.10 - Added info on Hack Reactor.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.4.11 - Added FizzBuzz test for the first step&lt;/p&gt;
+    &lt;p&gt;v1.4.11 - Added FizzBuzz test for the first step.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.5.11 - Added more info on getting a job&lt;/p&gt;
+    &lt;p&gt;v1.5.11 - Added more info on getting a job.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.5.12 - Reorganized some of the steps&lt;/p&gt;
+    &lt;p&gt;v1.5.12 - Reorganized some of the steps.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;v1.6.12 - Added a step for SQL&lt;/p&gt;
+    &lt;p&gt;v1.6.12 - Added a step for SQL.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;v1.6.13 - Minor fixes.&lt;/p&gt;
@@ -2221,6 +2930,18 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;v1.6.20 - Fixed some broken links.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;v1.6.21 - Fixed two typos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;v1.7.21 - Added information about The Odin Project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;v1.7.22 - Made punctuation consistent in changelog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;v1.8.22 - Added clarification for people who live outside the US.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -2278,7 +2999,7 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.one-tab.com/&quot;&gt;One Tab&lt;/a&gt;:&lt;/strong&gt; “Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once.”&lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;** &lt;a href=&quot;http://justgetflux.com/&quot;&gt;Flux&lt;/a&gt;:** “It makes the color of your computer’s display adapt to the time of day, warm at night and like sunlight during the day.  It’s even possible that you’re staying up too late because of your computer. You could use f.lux because it makes you sleep better, or you could just use it just because it makes your computer look better.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://justgetflux.com/&quot;&gt;Flux&lt;/a&gt;:&lt;/strong&gt; “It makes the color of your computer’s display adapt to the time of day, warm at night and like sunlight during the day.  It’s even possible that you’re staying up too late because of your computer. You could use f.lux because it makes you sleep better, or you could just use it just because it makes your computer look better.”&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://ifttt.com&quot;&gt;ITTT&lt;/a&gt;:&lt;/strong&gt; IFTTT (If This, Then That) is probably the most powerful app on the internet in terms of what it can do.  Basically, it’s an app that lets you set up custom, automatic responses to certain events.  For example, I use IFTTT to automatically post these blog posts to Facebook and Twitter by using recipes like “If new post in RSS, then post to Twitter”.  IFTTT also helps automatically populate the &lt;a href=&quot;http://www.reddit.com/r/smartgiving&quot;&gt;r/smartgiving subreddit&lt;/a&gt; that I help out with.  And it can be used for dozens of other things, like giving you a warning about rain on your phone, automatically backing up files, having a change in your Facebook profile picture automatically change all your other profile pictures across the internet, automatically log things on Google Calendar, etc.&lt;/p&gt;
 
@@ -2357,7 +3078,7 @@ Option B: Spend $40K and restore the eyesight of one thousand blind people.&lt;/
 
 &lt;p&gt;&lt;strong&gt;Salaries are good for earning to give.&lt;/strong&gt;  A program officer seems to make around $122K a year, though can be as high as $197K being a Senior Program Officer in the Bill &amp;amp; Melinda Gates Foundation.  More “entry level” positions, such as program assistants, make around $49K a year.  (Source: &lt;a href=&quot;http://www.glassdoor.com/&quot;&gt;Glassdoor&lt;/a&gt;, averaged for the top ten foundations.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Donation matching programs are very generous.&lt;/strong&gt;  As Joey Savoie wrote for 80K, &lt;a href=&quot;http://80000hours.org/blog/168-how-to-double-your-donations-with-no-extra-effort&quot;&gt;this sweetens the deal even more&lt;/a&gt; – a matching program is like an instant raise for being an EA!  The best programs are offered by the Ford Foundation and the Bill &amp;amp; Melinda Gates Foundation, which both offer a 3:1 match up to $30K.  This means that if you earn $179K as a Gates Foundation Senior Program Officer and donate everything you earn above $30K, you can donate $209K a year to any 501(c)3 organization!  And the Ford and Gates Foundations are not alone – the Moore Foundation offers a 2:1 match up to $30K, the RWJF matches 1:1 up to $50K, and the Hewlett Foundation matches 1:1 up to $20K.  Though, of course, make sure your foundation has a matching program and confirm what it does before assuming it as a part of your plan!  (Source: &lt;a href=&quot;http://doublethedonation.com/&quot;&gt;Double the Donation&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Donation matching programs are very generous.&lt;/strong&gt;  As Joey Savoie wrote for 80K, &lt;a href=&quot;http://80000hours.org/blog/168-how-to-double-your-donations-with-no-extra-effort&quot;&gt;this sweetens the deal even more&lt;/a&gt; – a matching program is like an instant raise for being an EA!  The best programs are offered by the Ford Foundation, the Bill &amp;amp; Melinda Gates Foundation, and the Rockerfeller Foundation which both offer a 3:1 match up to $30K.  This means that if you earn $179K as a Gates Foundation Senior Program Officer and donate everything you earn above $30K, you can donate $209K a year to any 501(c)3 organization!  And the Ford and Gates Foundations are not alone – the Moore Foundation offers a 2:1 match up to $30K, the RWJF matches 1:1 up to $50K, and the Hewlett Foundation matches 1:1 up to $20K.  Though, of course, make sure your foundation has a matching program and confirm what it does before assuming it as a part of your plan!  (Source: &lt;a href=&quot;http://doublethedonation.com/&quot;&gt;Double the Donation&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A chance to influence foundation money.&lt;/strong&gt; The top ten foundations each work with billions of dollars.  By being a program officer, you essentially have a full time job influencing the foundation to donate to what you think is more effective.  Though, of course, you tend to be very limited in precisely what you want to donate to (can’t move everything to CEA or MIRI, for example) and are not the sole decider on this.  But could be an important path to even more impact!  For example, the Gates Foundation has an annual budget of $3.4B – with 1194 staff members, naïve division gives $2.8M to each staff member.  Though, of course, not all staff have equal influence.  Moreover, it would be good to take care to select a foundation based on how receptive they would be to EA principles before joining.  For example, global poverty focused Gates Foundation would be a better choice than the developed-world-library-and-art-preservation focused Getty Trust.  (&lt;a href=&quot;http://www.arnoldfoundation.org/&quot;&gt;The Laura and John Arnold Foundation&lt;/a&gt; is rumored to be particularly EA-friendly.)&lt;/p&gt;
 
@@ -2727,288 +3448,6 @@ Lastly, from a pragmatic standpoint, I worry that desirism does not do a good en
 &lt;p&gt;Overall, I’m telling myself to keep up the good work.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/personal-review-for-december-2013-february-2014/&quot;&gt;Personal Review for December 2013 - February 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 26, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Interview with Ryan Carey]]></title>
- <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/interview-with-ryan-carey/" />
-  <id>http://www.everydayutilitarian.com/essays/interview-with-ryan-carey</id>
-  <published>2014-03-24T14:42:19Z</published>
-  <updated>2014-03-24T14:42:19Z</updated>
-  <author>
-    <name></name>
-    <uri>http://www.everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;Some people have committed a great deal of their lives to trying to best make the world a better place. I’m trying to sit down with some of these people and learn more about their thoughts and motivations.&lt;/p&gt;
-
-&lt;p&gt;Today, I sit down with Ryan Carey, who has spent a lot of time working on various projects to make the world a better place, from setting up the utilitarian forum, &lt;a href=&quot;http://www.felicifia.org/&quot;&gt;Felicifia&lt;/a&gt;, to co-creating an “effective altruist” meetup group in Melbourne, Australia.  He is now currently collaborating with &lt;a href=&quot;http://www.leverageresearch.org/&quot;&gt;Leverage Research&lt;/a&gt; and the &lt;a href=&quot;http://centreforeffectivealtruism.org/&quot;&gt;Centre for Effective Altruism&lt;/a&gt; on research into the far future and associated risks.  Ryan has recently been blogging about his thoughts and experiences on &lt;a href=&quot;http://careyryan.com/&quot;&gt;his personal blog&lt;/a&gt;. &lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;figure&gt;
-	&lt;img src=&quot;/images/posts/interview-with-ryan-carey/profile.png&quot; alt=&quot;&quot; /&gt;
-&lt;/figure&gt;&lt;/center&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Hi Ryan, good to talk to you. Let’s start off with your origin story. How did you first get interested in effective altruism?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Ah, I learnt about effective altruism through the idea of utilitarianism. I had been reading philosophers like Daniel Dennett, and neuroscientists like VS Ramachandran.  I wanted to know about big questions relating to consciousness and ethics.&lt;/p&gt;
-
-&lt;p&gt;I was in high-school, and I had mentioned to my mother some of the things that I had been reading, and it came to her mind that there was an old professor who had once taught her some lessons in bioethics and she had a book for me by that author… That book was &lt;a href=&quot;http://www.amazon.com/Practical-Ethics-Peter-Singer/dp/0521707684&quot;&gt;Practical Ethics&lt;/a&gt; by Peter Singer!&lt;/p&gt;
-
-&lt;p&gt;When I read his ideas about animals, poverty, and ethics in general, it just clicked for me - he seemed so reasonable and rational.  I went on to learn about this philosophy and gather others who shared that interest online. Many years later when the effective altruist and rationality movements developed, that just crystallized my thinking about how to make the world better and drove me to take more concrete actions.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Cool!  I was influenced from utilitarianism to effective altruism myself.  But I know a lot of other utilitarians who aren’t effective altruists and just are content to speculate and philosophize without doing anything.  It frustrates me.  What do you think compelled you made this jump to action?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; If only I knew – then we could just swing by all of the utilitarians and activate them!&lt;/p&gt;
-
-&lt;p&gt;What I know is that knowing that suffering is bad, or that you would like people’s experienced to be improved, is very far from feeling empowered to do something about it.  I’d speculate that there are personality factors involved - some people are naturally conscientious. A cynic might say naturally compelled by guilt, although that’s not my experience.&lt;/p&gt;
-
-&lt;p&gt;Personally, every time I’ve been involved with other people who are motivated, then I become socially engaged with that group, and it drives me to do more things that I think that they will find exciting and impressive. So I’ve passed through &lt;a href=&quot;http://www.felicifia.org&quot;&gt;Felicifia&lt;/a&gt;, my utilitarian forum, and then into &lt;a href=&quot;http://www.lesswrong.com&quot;&gt;LessWrong&lt;/a&gt;, and through the effective altruist community as well, and at every step I’ve found a lot of people who I like and enjoy being around.&lt;/p&gt;
-
-&lt;p&gt;That would certainly be &lt;a href=&quot;http://www.overcomingbias.com/&quot;&gt;the Hansonian explanation&lt;/a&gt; - that charity is not about doing good, it’s about getting social points. And I guess my experience is pretty consistent with the idea that social points have played a factor at driving me to do more every step of the way.  But I’ve just been lucky in that the people I surround myself with and respect tend to care very much about productivity. So I get social points by starting projects that have a large expected impact.&lt;/p&gt;
-
-&lt;p&gt;And I guess Robin would agree that we can signal an expectation of effectiveness from others - I’ve mostly been activated by enjoying the company of other EAs - social signalling used for good, and I think there should be more of it!&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;A brutally honest and self-aware answer, as much as I’d like to hope there’s more to EA than runaway signalling!  Even so, do you think there’s a way we could harness this desire for social points to get more people to want to do good?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Yes, well I think it already happens, and it’s really good. I think that effective altruist groups are popping up all over the world.  Some of them are branded by EA in general, like my new group in Melbourne, but most of them are broadly under the umbrellas of &lt;a href=&quot;http://www.givingwhatwecan.org&quot;&gt;Giving What We Can&lt;/a&gt; and &lt;a href=&quot;http://www.80000hours.org&quot;&gt;80,000 Hours&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I think these groups deliver a lot of value to attendees, people learn a lot of fascinating ideas and get to build really close social relationships.  But at the same time, these groups challenge people to integrate a lot of challenging ideas into their behaviour, like the idea of earning to give and the idea that researching the future is important and neglected.&lt;/p&gt;
-
-&lt;p&gt;I think of LessWrong as an effective altruist group too. It’s nominally a group for rationality, but almost everyone is altruistic when you get down far enough. LessWrong shares EAs’ affinity for the scientific method and for evaluating consequences.  In turn, EAs frequently share LW-esque views about biases and epistemology.  They’re sister groups in Melbourne, and I think everywhere, so I think all of these communities are tremendously important for encouraging people to do good.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;It’s certainly cool that you’ve got to be a part of the effective altruism wave with &lt;a href=&quot;http://careyryan.com/end-of-year-review-of-effective-altruism-melbourne/&quot;&gt;EA Melbourne&lt;/a&gt;.  But that’s a pretty big initiative.  How did EA Melbourne get it’s start?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; It started when we were contacted by Giving What We Can Central.  I was notified that Rangi de Silva was in Melbourne - another doctor in training who was interested in starting a group there.  So I contacted absolutely everyone I could think of - the central coordinators of Giving What We Can, 80,000 Hours, THINK, Leverage Research, everyone I knew from the Monash University’s philosophy society, and from the local LessWrong group, as well as some old friends.&lt;/p&gt;
-
-&lt;p&gt;A few of us met in a coffee shop to decide what we wanted to do and the very first social event was well attended right away, which was excellent.  I’m glad to see that they’ve continued to go from strength to strength after I’ve left and my co-collaborator Brayden stepped down, by hosting CFAR, who spoke to an audience of 70.&lt;/p&gt;
-
-&lt;p&gt;It takes regular, reliable timely work to coordinate things and a network who will attend, I think those are the main things.  That’s what I would suggest to someone trying to launch an EA group, and it’s glad to see that EA Melbourne certainly still has those going on.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think anything else made EA Melbourne a success, or was it just sheer hard work?  What would be some tips you might give to people who want to organize EA groups in their own local communities?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that the amount of work required is pretty patchy. You can’t just disappear from the planet and spend two months without organizing anything. In particular, you need to be present to arrange things on a weekly basis at the start.  But it’s mostly just basic logistics like setting a venue, a topic, and maybe a speaker, and inviting people.&lt;/p&gt;
-
-&lt;p&gt;You just need to make sure that you give people a reason to come, they need to know somebody who will be there, and the group need to be nice people - as of course most EAs are - and they need to have something interesting to talk about.&lt;/p&gt;
-
-&lt;p&gt;To start a group, I recommend contacting the central EA groups to get them to introduce you to anyone interested who lives locally and gathering a few people who are willing to throw their social networks into the project.  The Central EA groups can offer a little support remotely, but mostly having a kind, sociable and gender-balanced seed-group seems to often lead to a virtuous cycle that grows itself.  It just takes strong existing social networks and a couple of months of good events to bootstrap that.  I’ve elaborated on these tips in &lt;a href=&quot;http://careyryan.com/ten-simple-tricks-to-meet-effective-altruists-and-you-wont-believe-what-happened-next/&quot;&gt;an article on my blog&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;That’s great advice.  Thanks!  But you’ve moved on from EA Melbourne.  What lead you to give all that up?  What are you doing now?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The thing with EA groups is that people always ask you questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What is the purpose of this group&lt;/li&gt;
-  &lt;li&gt;How can I volunteer for you or others?&lt;/li&gt;
-  &lt;li&gt;Who should I donate to?&lt;/li&gt;
-  &lt;li&gt;What is the most important work to do, apart from recruitment. i.e. we can build social networks for so long, but what should we do afterwards?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;These questions are interesting, important and complex. So I set out to develop better answers to these questions. I feel that the answers lie in the area of improving the far future. However, it’s very unclear what we can do to best prepare society to flourish in even 10 or 100 years from now and so I decided that I had to find out an answer to that.&lt;/p&gt;
-
-&lt;p&gt;My best plan for doing this was to travel to the hubs of EA and rationality to get up to speed on others’ progress. I’ve begun 2013 by being in San Francisco where I have collaborated with The Center for Applied Rationality and Leverage Research and I will do a similar thing in Oxford later this year.&lt;/p&gt;
-
-&lt;p&gt;All the way the goal is to learn how to produce a better future, including a major subquestion: what kind of people we need to do that work? I am currently doing some research on some of those questions while also trying to build a movement of people to help. I’ll probably be split evenly between research and movement-building over the coming six months.&lt;/p&gt;
-
-&lt;p&gt;So basically, EA Melbourne was a valuable project but now I’m running out of new ideas to share with them and I think I need to meet experts who have thought about things for longer in greater detail to keep learning. Also during the time when I was doing EA Melbourne I was working as a doctor there and now that I have finished my internship year I have the option to take on other responsibilities.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What made you think that producing a better future is more important than, say, working on global poverty or nonhuman animal rights?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; The best version that I have heard of the argument is &lt;a href=&quot;https://www.youtube.com/watch?v=GctnYAYcMhI&quot;&gt;a lecture by Max Tegmark at an old Singularity Summit&lt;/a&gt;. His idea is that future is so vast, in terms of time and space, and yet its value comes from the fact that we are here to see it. Now we can determine whether our civilization will grow across the universe or conversely whether nothing interesting happens again anywhere ever.&lt;/p&gt;
-
-&lt;p&gt;I value the lives of people in a civilization a million years from now the same as lives of people now, so it seems so much worse if we muck things up cosmically.&lt;/p&gt;
-
-&lt;p&gt;Although it’s grandiose to want to save the world, it is egotistical to think that everything important is going to happen in one time and space, when we live in a universe that is so much larger - to think that our current experiences are the best that the universe has to offer.&lt;/p&gt;
-
-&lt;p&gt;How exactly to secure our future, and ensure that everyone has better lives, including non-human animals is a very complex question, but i think that it is also the most important.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think of the current work being done on this topic?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I think that &lt;a href=&quot;http://yudkowsky.net/&quot;&gt;Eliezer Yudkowsky&lt;/a&gt; and &lt;a href=&quot;http://www.nickbostrom.com/&quot;&gt;Nick Bostrom&lt;/a&gt; have done the most in performing and popularizing this research.  I think they have robust arguments that artificial intelligence poses the largest extinction risk over the next century. Consider that one by one, computers have basically taken on tasks that are more impressive and complicated like chess, go, jeopardy and now driving.  The extent to which we are using computers, the diversity of jobs for which we turn to them in our day to day lives has greatly increased over the last decade. Our computers are networked much more closely and we spend much more time with them.&lt;/p&gt;
-
-&lt;p&gt;If computers continue to get more intelligent in slightly more abstract ways year upon year for another few decades, the world will already look very strange to humans today.  If these systems take on ever more of the properties of autonomy and goal-directedness of high-frequency trading systems and military robots, then we can envisage machines overtaking the intelligence of humans.&lt;/p&gt;
-
-&lt;p&gt;If you reached such a situation, it very quickly becomes important that the robots are embedded with some kind of ethics or human values and I think the folks at MIRI have good arguments that we can expect computing to be increasingly goal-directed, that this could happen quickly, and that it would take some extreme kind of precision to create a machine intelligence with values that create a happy outcome for humans.&lt;/p&gt;
-
-&lt;p&gt;Artificial intelligence is one issue that plays a big part in many people’s models of the future, and I think it’s an important one.  However it’s only one issue.  There are a range of other global catastrophic risks including asteroids, supervolcanoes, bioterrorism, and nuclear war.&lt;/p&gt;
-
-&lt;p&gt;Holden has recently argued that we should consider our developmental trajectory as a civilisation to be anomalous by historical standards and that any of a number of global catastrophic risks could cause civilisation to take humanity off its favourable developmental trajectory.  I agree with him that research on Global Catastrophic Risks in general is important.&lt;/p&gt;
-
-&lt;p&gt;He also advocates that a bunch of strategies like alleviating poverty can have positive flow-through effects that will set our civilisation on a better long-run trajectory and I think that there are lots of conceivable interventions that Nick Beckstead would describe as broad-based including improving collaboration and rationality, that could conceivably make things go a lot better in the long run.  We could also enhance human intelligence or human morality.  There are almost endless possibilities.&lt;/p&gt;
-
-&lt;p&gt;At this stage, I find the narrower research on global catastrophic risks and artificial intelligence has the most compelling case for improving the far future, but I’m not sure if I have good reasons for that and I think that the field could easily be broken wide-open by an academic is informed and able to think more clearly about these things.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you think you could be that kind of informed academic who breaks the field open?  If not, what do you expect to do?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I doubt I can outdo all of Eliezer, Paul Christiano, Carl Shulman and all of &lt;a href=&quot;http://www.fhi.ox.ac.uk/&quot;&gt;FHI&lt;/a&gt;.  But I hope that I can understand the field enough to know what kind of people are required, what kind of infrastructure can be provided to support their work, to publicise it and to reach out to gifted young people who might be interested.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Do you have specific plans of action yet?  Or are you still thinking?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Both! And I think I always plan to be!  Actually, mostly the second one, because my plans mostly involve gathering more people together to help me think.&lt;/p&gt;
-
-&lt;p&gt;MY two projects are &lt;a href=&quot;https://impact.hackpad.com/EA-Blog-Compilation-Introduction-B87PSZopY4f&quot;&gt;an EA Handbook&lt;/a&gt; and &lt;a href=&quot;https://impact.hackpad.com/Effective-Altruist-Community-Blog-using-LW-Codebase-lGglK2kN3Ll&quot;&gt;an Online Community called The Most Good&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The EA Handbook is a document that will introduce people to effective altruism and bring them up to speed on these questions. I’m preparing this with Will MacAskill. So far, we have collected many existing essays and a few authors have agreed to write some more to describe how everybody can contribute to existing organisations. This project should be finished by the middle of 2014.&lt;/p&gt;
-
-&lt;p&gt;The online community The Most Good will provide a central location for EA blog posts, discussion and meetups.  To avoid duplicating work, we’re using &lt;a href=&quot;http://trikeapps.com/&quot;&gt;Trike Apps&lt;/a&gt;, who will build the software using the LessWrong codebase. This website is currently in the design stage, but hopefully it will be completed by mid-year.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; _If you don’t mind me asking, why are you doing all this yourself?  Earlier you said you were training to be a doctor.  I’ll bet on a doctor’s salary you could “&lt;a href=&quot;http://www.effective-altruism.com/what-earning-give-0/&quot;&gt;earn to give&lt;/a&gt;” and hire multiple people to work on these projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I might end up going back to being a doctor, but there are three reasons that I’m not doing that right now: (1) I don’t know who to fund, (2) I think that many of these future-oriented projects are more time than money constrained, and (3) my uncertainties around my skill and fit are greater for research and activism.&lt;/p&gt;
-
-&lt;p&gt;On (1), in global poverty reduction, we think that charities vary in up to 100x effectiveness.  &lt;a href=&quot;http://www.cser.org/&quot;&gt;Center for the Study of Existential Risk&lt;/a&gt;, &lt;a href=&quot;http://www.intelligence.org&quot;&gt;Machine Intelligence Research Institute&lt;/a&gt;, FHI, &lt;a href=&quot;http://www.gcrinstitute.org/&quot;&gt;Global Catostrophic Risk Institute&lt;/a&gt; and &lt;a href=&quot;http://www.centreforeffectivealtruism.org&quot;&gt;Centre for Effective Altruism&lt;/a&gt; are all working on issues relating to the far future, and I currently have very little idea which is the most effective. In research in particular, we know that some like &lt;a href=&quot;http://en.wikipedia.org/wiki/Norman_Borlaug&quot;&gt;Norman Borlaug&lt;/a&gt; can be enormously effective.&lt;/p&gt;
-
-&lt;p&gt;In general, in terms of citations, we know that &lt;a href=&quot;http://80000hours.org/blog/65-should-you-go-into-research-part-1&quot;&gt;some researchers outperform others by many orders of magnitude&lt;/a&gt;. In future-oriented research in particular, this seems to remain the case. Some futurists clearly have very poor intellectual methodologies and so I expect that in future-oriented research, I think this should remain the case. Moreover, there are no good metrics for the impact of future-oriented research. Nick Bostrom and Eliezer Yudkowsky are not merely aiming for publications and citations, and neither should they be. So these can only be a small part of my assessment. I can ask experts that I respect whose research they value the most, and I think that this is an important part of the solution, but it is also somewhat circular. It is hard to decide who to respect without any technical understanding, and this can be biased by halo effects that come from their attractiveness, demeanor or social competence. So I think at this stage, I need greater technical understanding in order to decide who to give to.&lt;/p&gt;
-
-&lt;p&gt;On (2), I think that many of these future-oriented projects are more time than money constrained. I know less than a hundred people who are interested and able to perform research into the far future and build a surrounding movement. By contrast, I know several people who have demonstrated their willingness to support ambitious research agendas, such as &lt;a href=&quot;http://en.wikipedia.org/wiki/Peter_Thiel&quot;&gt;Peter Thiel&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Jaan_Tallinn&quot;&gt;Jaan Tallin&lt;/a&gt;, Matt Wage and Matt Fallshaw. &lt;/p&gt;
-
-&lt;p&gt;One has to ask what we know that Peter Thiel doesn’t that is preventing him from giving all his funding to the MIRI or Jaan to the CSER. I think they know that their ability to turn cash into recruiting and employing valuable researchers is limited, or at least the marginal returns will decline at some point. Another line of reasoning is that many people are currently pursuing earn-to-give careers in finance and entrepreneurship that will take 3-10 years to pay off, and so it should soon become easier to get effective projects funded. Also most thought-leaders and organization-leaders who I have talked to consider that their organizations are more constrained by talent that funding. Of course, these statements are misleading or false if taken as absolutes. They make sense only when one talks about how much funding weighed against how much talent or recruitment ability. &lt;/p&gt;
-
-&lt;p&gt;On (3), given this information about the wide range of usefulness of far-future oriented research, I am highly uncertain about my impact there. I am also pretty uncertain about my value as an entrepreneur, but less so. Medicine is by far the most reliable option. Currently, it seems best to narrow my uncertainty on my impact as a researcher or in performing recruitment and movement-building. Then, I might move on to start-ups. If all this falls through, then I’ll happily be a doctor and pool my funding with the rest. Although even then it seems good to live in or visit the EA hubs to stay motivated and inform my donations.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;How were you able to quickly integrate yourself with the San Francisco and Oxford EA communities in order to get involved?  What could an aspiring EA do to follow in your footsteps and also work on making a better future?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Professionally, I think EAs and rationalists can easily see your value if you are conscientious or have achieved some broad competencies. I recommend asking to be introduced to some of the leaders of these organizations by your best connected EA friends or cold-emailing them.&lt;/p&gt;
-
-&lt;p&gt;Socially, I think EAs and wonderful and inclusive people. If you have some social skills, or even if you don’t have many social skills, but you have interesting ideas, people will tend to like you.&lt;/p&gt;
-
-&lt;p&gt;My advice regarding integrating into the San Francisco and Oxford communities would be - just do it - I think that travelling to Oxford and San Francisco’s Bay Area are key steps in my intellectual development. Interning at the Center for Applied Rationality or the Center for Effective Altruism are good steps.  Or, one can attend a &lt;a href=&quot;http://www.rationality.org/&quot;&gt;CFAR workshop&lt;/a&gt; or get career counselling from 80,000 Hours.  And I am always happy to be contacted to answer questions and help with introductions.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What is a typical day for you like these days?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Every day I read about topics that I think might improve my strategic understanding.  I try to research techniques recommended by people I respect. Recently I’ve been researching intelligence - I take creatine every day and measure its effect with a 20 minute battery of cognitive tests.  For the last fortnight I have been practising speed-reading, because I think that it is important to front-load the acquisition of skills that will help further productivity and research. I am doing emails to prepare the handbook. I discuss with researchers at Leverage and the Center for Applied Rationality regarding to how we can be smarter, more emotionally stable, and less biased. When I learn something new or useful, I write it down on my blog.&lt;/p&gt;
-
-&lt;p&gt;Of these professional jobs, I’m most confident in the importance of speed-reading, movement-building, and researching creatine. My ongoing plan is contingent on what works and I expect I’ll answer very differently two months from now.&lt;/p&gt;
-
-&lt;p&gt;Outside of EA, I like to see blues, funk and soul music, and comedy.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;What do you think is the most important thing you’re not doing?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; Probably what &lt;a href=&quot;http://en.wikipedia.org/wiki/Jason_Gaverick_Matheny&quot;&gt;Gaverick Matheny&lt;/a&gt; is doing.  He is the project manager at IARPA responsible for &lt;a href=&quot;http://www.iarpa.gov/Programs/ia/ACE/ace.html&quot;&gt;the Aggregative Contingent Estimation program&lt;/a&gt; in which the good judgement project are competing and aggregating opinions to improve probabilistic forecasts of real events. I think that improving collective prediction and collective decision-making is important for stability and cooperation between governments and that it’s important to improve the sanity level of populations and large govenrments, and this work seems like a step in the right direction.&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Well, I think I’m out of questions.  It was great getting a chance to talk with you and learn more about you.  Do you have anything else you want to pass on to EAs before we leave?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RC:&lt;/strong&gt; I would say congrats on being one of the special few who is keen to change the world. By meeting others in your hometown and in EA hubs, you can learn faster and become more productive. Try to learn about the questions that expert EAs are asking themselves, and think about how you might fit in. EA is in a fascinating sociological and intellectual position, and I hope there are great things to come.&lt;/p&gt;
-
-&lt;p&gt;And thanks for the interview Peter!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PH:&lt;/strong&gt; &lt;em&gt;Anytime.  It was great to hear more about you and I look forward to talking with you again sometime!&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/interview-with-ryan-carey/&quot;&gt;Interview with Ryan Carey&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 24, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Behold!  The New Site!]]></title>
- <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/behold-the-new-site/" />
-  <id>http://www.everydayutilitarian.com/essays/behold-the-new-site</id>
-  <published>2014-03-14T14:39:00Z</published>
-  <updated>2014-03-14T14:39:00Z</updated>
-  <author>
-    <name></name>
-    <uri>http://www.everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;I think it’s important to keep things fresh.  It seems like at least once a year or so, I change what the site looks like.  This year, server problems, financial costs, and other bloat inspired me to move away from &lt;a href=&quot;http://www.wordpress.org&quot;&gt;Wordpress&lt;/a&gt; and paid hosting on &lt;a href=&quot;http://www.dreamhost.com&quot;&gt;Dreamhost&lt;/a&gt; to the wonderful land of a &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll static blog&lt;/a&gt; hosted by &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;.  Back five years ago when I first signed on with Dreamhost, none of these tools existed.  Now, it’s time that I finally adopt them.&lt;/p&gt;
-
-&lt;p&gt;I’ll still have to get used to writing in Markdown.  But hopefully you find this site faster and easier to use than before.  It sure looks better on mobile phones.  Let me know if you have any comments.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/behold-the-new-site/&quot;&gt;Behold!  The New Site!&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 14, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Sunday Links #24]]></title>
- <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/sunday-links-24/" />
-  <id>http://www.everydayutilitarian.com/essays/sunday-links-24</id>
-  <published>2014-03-10T01:28:59Z</published>
-  <updated>2014-03-10T01:28:59Z</updated>
-  <author>
-    <name></name>
-    <uri>http://www.everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;So I still do these…  Yeah.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://slatestarcodex.com/2013/06/14/the-virtue-of-silence/&quot;&gt;“The Virtue of Silence”&lt;/a&gt;: “Leah Libresco writes a couple of essays on an ethical dilemma reported in the New York Times. In the course of a confidential medical history, a doctor hears her patient is suffering from stress-related complaints after having sent an innocent man to prison. The doctor wants to know whether it is ethical to report the matter to the police. The Times’ columnist says yes – it would save the poor prisoner. Leah says no – violating medical confidentiality creates an expectation that medical confidentiality will be violated in the future, thus dooming patients who are too afraid to talk about drug use or gay sex or other potentially embarrassing but important medical risk factors.  But both sides are ignoring the much bigger dilemma lurking one meta-level up: is it ethical to debate this dilemma in the New York Times?”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://utilitarian-essays.com/robustness-against-uncertainty.html&quot;&gt;Charity Cost-Effectiveness in an Uncertain World&lt;/a&gt;: “Evaluating the effectiveness of our actions, or even just whether they’re positive or negative by our values, is very difficult. One approach is to focus on clear, quantifiable metrics and assume that the larger, indirect considerations just kind of work out. Another way to deal with uncertainty is to focus on actions that seem likely to have generally positive effects across many scenarios, and often this approach amounts to meta-level activities like encouraging positive-sum institutions, philosophical inquiry, and effective altruism in general. When we consider flow-through effects of our actions, the seemingly vast gaps in cost-effectiveness among charities are humbled to more modest differences, and we begin to find more worth in the diversity of activities that different people are pursuing. Those who have abnormal values may be more wary of a general “promote wisdom” approach to shaping the future, but it seems plausible that all value systems will ultimately benefit in expectation from a more cooperative and reflective future populace.”
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.aaronsw.com/weblog/whynojobs&quot;&gt;“The Reason So Many People are Unemployed”&lt;/a&gt;: “A good way to wrap your head around this is to think about a much smaller case: instead of the whole economy, let’s think about a now-famous babysitting co-op on Capitol Hill. Instead of dollars, the co-op used its own scrip that was worth an hour of babysitting time. When you wanted to go out, you’d pay a couple hours to someone else to watch your kids; then when they wanted to go out, they’d pay you or someone else to do the same for them.  It all worked great for a while, until one day they found they had too few pieces of scrip. Every couple had only a couple hours left and, having so little, they didn’t want to waste it. So they all decided to save it for a very special occasion. This was kind of an incredible situation — even though there were people who wanted someone to babysit their kids, and people who were willing to do just that, the deal didn’t happen, simply because the co-op hadn’t printed enough colored pieces of paper. Eventually the co-op learned their mistake, printed some more scrip and handed it out, and everybody went back to babysitting like before and were much happier for it.”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.spring.org.uk/2013/02/the-single-most-effective-method-for-influencing-people-fast.php&quot;&gt;The Single Most Effective Method for Influencing People Fast&lt;/a&gt;: “Influence techniques vary considerably in how effective, ethical and easy to perform they are. At the easy, more ethical end of the spectrum, is affirming someone’s right to choose. This is a benign strategy which happens to have the handy side-effect of increasing persuasion.  But what if you are looking to use a little more effort to get a lot more persuasion-power? Then perhaps the disrupt-then-reframe (DTR) technique is for you.  A word of warning, though: the DTR technique is more of a cheap (but very effective) trick which some might find morally questionable. OK, with the health warning over, here’s what they did in the original study which kicked off this whole line of research.”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://marginalrevolution.com/marginalrevolution/2013/02/cognitive-democracy-condorcet-with-competence.html&quot;&gt;Cognitive Democracy: Condorcet with Competence&lt;/a&gt;: “We usually think of democracy as a way of aggregating diverse preferences but we can also imagine that we share similar preferences and that what we disagree about is the best way to achieve those preferences. From this perspective, democracy can be thought of as a tool for information aggregation. Using simple probability theory, Condorcet showed in 1785 that even when each individual voter has only a slightly better than chance probability of choosing the bettier of two options the probability that majority rule chooses the better outcome quickly goes to 1 as the number of voters increases (the wisdom of the crowds).”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lesswrong.com/r/discussion/lw/iro/systematic_lucky_breaks/&quot;&gt;Systematic Lucky Breaks:&lt;/a&gt; “Many people can point to significant events that improved their lives in a positive way. They often refer to these as ‘lucky breaks’, and take it for granted that such events are rare. But most of the time ‘lucky breaks’ don’t need to be uncommon-you can often reverse engineer the reasons behind them and cause them to happen more frequently. So when a one-off event ends up contributing a lot of value, you should systematically make it part of your life.”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.theatlantic.com/business/archive/2013/06/do-unpaid-internships-lead-to-jobs-not-for-college-students/276959/&quot;&gt;“Do Unpaid Internships Lead to Jobs? Not for College Students”&lt;/a&gt;: “The common defense of the unpaid internship is that, even if the role doesn’t exactly pay, it will pay off eventually in the form of a job. Turns out, the data suggests that defense is wrong, at least when it comes to college students.”&lt;/p&gt;
-
-&lt;p&gt;Amid all the focus on how much it costs precisely to save a life, here’s a good reminder from GiveWell that &lt;a href=&quot;http://blog.givewell.org/2013/06/11/the-moral-case-for-giving-doesnt-rely-on-questionable-quantitative-estimates/&quot;&gt;the moral case for giving doesn’t rely on questionable quantitative estimates”&lt;/a&gt;: “To us, the strongest form of the challenge is not ‘How much should I give when $X saves a life?’ but ‘How much should I give, knowing that I have massive wealth compared to the global poor?’”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/&quot;&gt;Life is a game, this is your strategy guide&lt;/a&gt;.  Cute.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/sunday-links-24/&quot;&gt;Sunday Links #24&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Effective Altruism is Not a Competition]]></title>
- <link rel="alternate" type="text/html" href="http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/" />
-  <id>http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition</id>
-  <published>2014-03-01T15:08:00Z</published>
-  <updated>2014-03-01T15:08:00Z</updated>
-  <author>
-    <name></name>
-    <uri>http://www.everydayutilitarian.com</uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;In the past, some people have suggested that we “gamify” effective altruism some more, and create points for doing altruistic-y things, like donating our money or volunteering our time.  I think this could be a good idea, but rather than seeing individual scores, I’d much rather see a collective team score for EA.  We’d compete as a group to beat our past group selves (make March better than February, for example) rather than compete amongst ourselves as individuals.&lt;/p&gt;
-
-&lt;p&gt;There are several problems with the individual competition model, but the biggest problem is the most fundamental – &lt;strong&gt;effective altruism is not&lt;/strong&gt; (and shouldn’t be) &lt;strong&gt;a competition.&lt;/strong&gt;  Rather, we are a team.  A community.  We all have one common goal.&lt;/p&gt;
-
-&lt;p&gt;I know some effective altruists who see EAs like Holden Karnofsky or what not do incredible things, and feel a little bit of resentment at themselves and others; feeling inadequate that they can’t make such a large difference.  This is an important feeling for generating a desire to improve, and keeping a &lt;a href=&quot;http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/&quot;&gt;growth mindset&lt;/a&gt; in the face of this could lead to great things for you.  However, it’s even more important not to let this get you into depression, &lt;strong&gt;simply because Holden’s success is also your success.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All effective altruists care about is making sure that the world is a better place.  It doesn’t matter who is doing the better-ing.  If Holden, Bill Gates, and Dustin Moskovitz each have 1 billion EA points and you only have five, you should be celebrating the fact that the EA community is collectively at 3 billion and five EA points and that you’re helping.  You shouldn’t feel bad that you’re not doing as well.&lt;/p&gt;
-
-&lt;p&gt;We all have different skills and abilities.  Growth mindset does say that we each have an ability to be incredibly effective and altruistic, but we still all start with different places.  It’s simply not the case that all of us, right this year, could be making seven figure donations to GiveWell or be putting in 80 hours a week at a top non-profit.  But we all can do our best and try a little harder.&lt;/p&gt;
-
-&lt;p&gt;Let’s start seeing ourselves more as a community where everyone has something to offer and celebrate our collective success, not despair over who is or is not the most effective.  Effective altruism shouldn’t be a competition (at least, among individuals).&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Idea adapted from Brian Tomasik’s &lt;a href=&quot;http://felicifia.org/viewtopic.php?f=10&amp;amp;t=797&quot;&gt;“Teamwork over Envy”&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.everydayutilitarian.com/essays/effective-altruism-is-not-a-competition/&quot;&gt;Effective Altruism is Not a Competition&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.everydayutilitarian.com&quot;&gt;Everyday Utilitarian&lt;/a&gt; on March 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

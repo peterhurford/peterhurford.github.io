@@ -7,6 +7,17 @@
   <article class="hentry">
     <div class="entry-content">
         <h1 id="title" class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+        <footer class="entry-meta">
+           <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></span></span>
+               {% if page.modified %}(revised: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%d %b %Y" }}</time></span>){% endif %}
+          &nbsp; &bull; &nbsp; </span>
+          <span>
+            {% if page.author == "admin" %}
+              <a href="http://everydayutilitarian.com/essays/who-is-this-peter-guy/">Peter Hurford</a>
+            {% else %}
+              <a href="{{page.author-url}}">{{page.author}}</a>
+            {% endif %}
+        </footer>
       {{ content }}
       <footer class="entry-meta">
         <span class="entry-tags">Tagged: 
@@ -17,15 +28,6 @@
             {% endunless %}
           {% endfor %}
         </span>
-
-        <span>
-          <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></span></span>
-        {% if page.modified %}(revised: <span class="entry-date date modified"><time datetime="{{ page.modified }}">{{ page.modified | date: "%d %b %Y" }}</time></span>){% endif %}  &nbsp; &bull; &nbsp;
-          {% if page.author == "admin" %}
-            <a href="http://everydayutilitarian.com/essays/who-is-this-peter-guy/">Peter Hurford</a>
-          {% else %}
-            <a href="{{page.author-url}}">{{page.author}}</a>
-          {% endif %}
       </footer>
     </div><!-- /.entry-content -->
 
