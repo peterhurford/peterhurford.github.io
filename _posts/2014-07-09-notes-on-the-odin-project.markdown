@@ -155,6 +155,13 @@ It's worth noitng that App Academy might be best for people in the US.  [Maker's
 
 
 
+## When You Can Get a Job
+
+TOP does a lot to make sure you know a wide variety of material before going on to look for a job in the final step.  However, I think you might be able to hit that last step earlier than you might think.  Even better than a Coding Bootcamp is an internship with a company, which not only will let you learn _loads_, but will also _pay you money_ to do it!  An unbeatable deal!  And you can still learn more on the side!  I recommend trying to do some work toward applications (completing all of Course 7 ["Getting Hired as a Web Developer"(http://www.theodinproject.com/getting-hired-as-a-web-developer)]) right after finishing Course #4 ["Ruby on Rails"](http://www.theodinproject.com/ruby-on-rails).
+
+
+
+
 ## More Things to Learn
 
 This is sort of more of an afterthought than it probably should be, but it could be useful to learn Python.  Python is somewhat popular in the start-up world, though not nearly as popular as Ruby on Rails.  However, Python is really popular in the academic world.  It has [good support for statistical programming](http://www.numpy.org/) and has a platform called [Django](https://www.djangoproject.com/) that acts similarly to Rails.  It's probably good to learn Python so you're not "pidgeonholed" into only one type of programmer job (though the demand is definitely there).
