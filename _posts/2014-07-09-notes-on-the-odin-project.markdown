@@ -69,7 +69,7 @@ Skip this lesson entirely.  Do not do "Web Development 101 >> The Back End >> 2:
 
 **Instead**, go to [Codecademy's Ruby Track](http://www.codecademy.com/tracks/ruby) and complete it entirely.  Throughout the course, TOP will make you complete it all eventually anyway in stages, so we might as well get it out of the way now.  This way, you'll get a better mastery of some things that come up in TOP before they're introduced.
 
-Then, after your done with Codecademy's Ruby Track, read Chris Pine's ["Learn to Program"](https://pine.fm/LearnToProgram) and then read Chapters 1-3 of Peter Cooper's "Beginning Ruby".  Also review http://www.tutorialspoint.com/ruby/ruby_loops.htm, which is a resource I like that isn't in TOP, and important for the things TOP focuses on.
+Then, after your done with Codecademy's Ruby Track, read Chris Pine's ["Learn to Program"](https://pine.fm/LearnToProgram) and then read Chapters 1-3 of Peter Cooper's "Beginning Ruby".  Also review [http://www.tutorialspoint.com/ruby/ruby_loops.htm](http://www.tutorialspoint.com/ruby/ruby_loops.htm), which is a resource I like that isn't in TOP, and important for the things TOP focuses on.
 
 This counts as you completing this lesson.  Go on to the next lesson "Testing Basics".  Note that you have completely ignored tryruby.org, "Ruby in 100 Minutes", and Ruby Monk and this is for the best, because I don't think they're very good resources, and you should have already learned everything they teach 2-3x over through the resources you did consult.  Doing it five times seems like overkill (see "Things You Should Skip").
 
@@ -157,7 +157,7 @@ It's worth noitng that App Academy might be best for people in the US.  [Maker's
 
 ## When You Can Get a Job
 
-TOP does a lot to make sure you know a wide variety of material before going on to look for a job in the final step.  However, I think you might be able to hit that last step earlier than you might think.  Even better than a Coding Bootcamp is an internship with a company, which not only will let you learn _loads_, but will also _pay you money_ to do it!  An unbeatable deal!  And you can still learn more on the side!  I recommend trying to do some work toward applications (completing all of Course 7 ["Getting Hired as a Web Developer"(http://www.theodinproject.com/getting-hired-as-a-web-developer)]) right after finishing Course #4 ["Ruby on Rails"](http://www.theodinproject.com/ruby-on-rails).
+TOP does a lot to make sure you know a wide variety of material before going on to look for a job in the final step.  However, I think you might be able to hit that last step earlier than you might think.  Even better than a Coding Bootcamp is an internship with a company, which not only will let you learn _loads_, but will also _pay you money_ to do it!  An unbeatable deal!  And you can still learn more on the side!  I recommend trying to do some work toward applications (completing all of Course 7 ["Getting Hired as a Web Developer"](http://www.theodinproject.com/getting-hired-as-a-web-developer)) right after finishing Course #4 ["Ruby on Rails"](http://www.theodinproject.com/ruby-on-rails).
 
 
 
