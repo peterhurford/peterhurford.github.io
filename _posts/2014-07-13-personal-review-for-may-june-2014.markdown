@@ -81,7 +81,9 @@ Since some people asked last time, I've broken down the "other" category:
 
 
 
-## What Did I Accomplish?: Pre-professional Prep
+## What Did I Accomplish?
+
+#### Pre-professional Prep
 
 I'm a bit dissapointed that -- despite making it my primary focus and no longer having school to compete -- the amount of time I spent working on learning computer programming only bumped up by half an hour a week.  I fell far short from my target goal of being a full-time 40hr/wk learner and didn't even make the goal I thought would be so easy of being a part-time 20hr/wk learner.
 
@@ -91,7 +93,7 @@ Two weeks into my job, I think I adequately prepared myself, though I still woul
 
 
 
-## What Did I Accomplish?: EA Projects
+#### EA Projects
 
 I originally didn't want to do any EA Projects work, though I did predict I'd find it hard to tear myself away from it.  Therefore, it's not much of a surprise to find that I did about as much EA Projects work per week during this review cycle as I did during the last review cycle.
 
@@ -99,19 +101,19 @@ I wrote two research pieces -- ["How Much Suffering is in the Standard American 
 
 
 
-## What Did I Accomplish?: Socializing
+#### Socializing
 
 At 37 hours a week, I definitely spent most of my (awake) time socializing.  I spent more time with my girlfriend and family, which is great.  I also spent a good amount of time with my old high school friends -- and given that we're now scattered all over the country, it might be a long time, if ever, that I see them all again...  I also got to go back to the [Origins Game Fair](http://originsgamefair.com/), which was really neat, and a great opportunity to see some old and new friends from college.
 
 
 
-## What Did I Accomplish?: Moving to Chicago
+#### Moving to Chicago
 
 I moved to Chicago and got a Real Job(TM), which is pretty cool, I guess?  It took a lot more work than I expected to prepare for this, stressing over getting an apartment and buying furniture and what not.
 
 
 
-## What Did I Accomplish?: Driver's Liscence
+#### Driver's Liscence
 
 I finally accomplished a goal that I've been chasing [since the very first blog post here](http://everydayutilitarian.com/essays/new-years-resolutions/) more than a year and a half ago -- after two failed attempts, I finally got my driver's liscense!  I'm now authorized to operate a motor vehicle, and I think I will respond to this newfound freedom by continuing to avoid owning a car for as long as possible.
 
