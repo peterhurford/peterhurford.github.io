@@ -10,7 +10,7 @@ categories:
 - Advocacy
 ---
 
-_What follows is the transcript of a presentation by Norm Phelps, a founding member of the Society of Ethical and Religious Vegetarians, at a [Compassionate Action for Animals](http://www.exploreveg.org/) conference.  The transcript was originally hosted on [Their Lives, Our Voices](http://2014.tlov.org/), but for some unknown reason was taken down.  I liked the aritcle and wanted to reprint it here.  I do not have permission to reprint it, and will comply with any takedown request._
+_What follows is the transcript of a presentation by Norm Phelps, a founding member of the Society of Ethical and Religious Vegetarians, at a [Compassionate Action for Animals](http://www.exploreveg.org/) conference.  The transcript was originally hosted on [Their Lives, Our Voices](http://2014.tlov.org/), but for some unknown reason was taken down.  I liked the aritcle and wanted to reprint it here.  Note that I do not necessarially agree with the entire article.  Also note that I do not have formal permission to reprint this, and will comply with any takedown request._
 
 Good afternoon. I want to start by thanking the folks at Compassionate Action for Animals for putting this conference together and for giving me the opportunity to participate. It’s a great conference, and I hope you’re all enjoying it as much as I am.
 
