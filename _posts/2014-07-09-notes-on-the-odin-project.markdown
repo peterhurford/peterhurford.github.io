@@ -193,7 +193,22 @@ It could be a good idea to learn Knockout.js.  [Do this tutorial.](http://learn.
 You might want to learn some Data Science.  This deserves a post of it's own, but you could thumb back to "Optional Step Twenty-four – Learn Some Data Science" [in my guide](http://everydayutilitarian.com/essays/learn-code/).
 
 
-## How Long Will All This Take?
+
+## Conclusion
+
+In my guide, I said the following, and it equally applies here:
+
+ > There are multiple paths to getting a programming job, learning programming, or whatever goal you may have. There’s no “one true way”, and there’s going to be a lot of conflicting advice on what is the “best” way to learn. Honestly what is best is going to vary person by person, and based on your interests and goals.
+
+-
+
+Like I said before, "I’ve designed a guide here based on my personal experience."  It's entirely possible that TOP is right about something and their original method was better for you, and I was wrong to disagree.  It's also entirely possible TOP is wrong about something for you, and I didn't catch it, because it didn't come up for me.
+
+Your mileage might vary.  I'm not better than TOP -- they have their way, and I have mine.  I just wanted to write up my experience.  The best thing to do is just start, somewhere. See if this guide works for you, tweak if it doesn’t. Let me know.
+
+
+
+## Appendix: How Long Will All This Take?
 
 I did the math, and my estimates add up to a minimum of 234 hours of work, scaling up to the 900+ hour range if you go slow and do all the extras.  TOP believes that it takes ~1000 hours to become a good web developer.  This sounds generally correct, but your mileage may vary.  I personally got away with about 700 hours, and I wasn't even doing it all that efficiently, because I didn't find TOP for awhile.
 
@@ -385,18 +400,6 @@ Here's a time breakdown:
     * Advanced R -- 30-80hrs
     * Kaggle Work -- 10-20hrs
 
-
-## Conclusion
-
-In my guide, I said the following, and it equally applies here:
-
- > There are multiple paths to getting a programming job, learning programming, or whatever goal you may have. There’s no “one true way”, and there’s going to be a lot of conflicting advice on what is the “best” way to learn. Honestly what is best is going to vary person by person, and based on your interests and goals.
-
--
-
-Like I said before, "I’ve designed a guide here based on my personal experience."  It's entirely possible that TOP is right about something and their original method was better for you, and I was wrong to disagree.  It's also entirely possible TOP is wrong about something for you, and I didn't catch it, because it didn't come up for me.
-
-Your mileage might vary.  I'm not better than TOP -- they have their way, and I have mine.  I just wanted to write up my experience.  The best thing to do is just start, somewhere. See if this guide works for you, tweak if it doesn’t. Let me know.
 
 
 
