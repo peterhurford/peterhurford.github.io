@@ -13,6 +13,8 @@ categories:
 
 _[v1.8.22](http://everydayutilitarian.com/essays/learn-code#changelog) - Last Update: 22 Apr 2014 1:50p EDT - by Peter Hurford ([with lots of help](http://everydayutilitarian.com/essays/learn-code#acknowledge))_
 
+**UPDATE:** Thanks to someone in the comments, I found a new resource for learning programming called [The Odin Project](http://www.theodinproject.com), and dare I say it, I think it's better than my guide.  [I took detailed notes on it here](http://everydayutilitarian.com/essays/notes-on-the-odin-project), and I urge you to read them if you're interested in a slightly different take on learning programming.
+
 
 ## The Introduction
 
@@ -26,7 +28,6 @@ Also, let me know ([Peter Hurford on Facebook](https://www.facebook.com/peterhur
 
 -
 
-**UPDATE:** Thanks to someone in the comments, I found a new resource for learning programming called [The Odin Project](http://www.theodinproject.com), and dare I say it, I think it's better than my guide.  [I took detailed notes on it here](http://everydayutilitarian.com/essays/notes-on-the-odin-project), and I urge you to read them if you're interested in a slightly different take on learning programming.
 
 
 
@@ -270,6 +271,8 @@ Once you’re here, if you want to get really serious into Data Science, I’m p
 You should now know enough about programming that you’re off on your own.  If you’ve found a good mentor, they can tell you what to do next.  Or maybe now you can land a programming job and learn programming in a real-world context.  Good luck!
 
 -
+
+**UPDATE:** Thanks to someone in the comments, I found a new resource for learning programming called [The Odin Project](http://www.theodinproject.com), and dare I say it, I think it's better than my guide.  [I took detailed notes on it here](http://everydayutilitarian.com/essays/notes-on-the-odin-project), and I urge you to read them if you're interested in a slightly different take on learning programming.
 
 _Followed up in ["A Better Way to Learn Programming? Notes on The Odin Project"](http://everydayutilitarian.com/essays/notes-on-the-odin-project/)._
 
