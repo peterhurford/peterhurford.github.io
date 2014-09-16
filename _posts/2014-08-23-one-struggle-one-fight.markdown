@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Norm Phelps
 comments: true
 date: 2014-08-23 13:14:00+00:00
 layout: post
