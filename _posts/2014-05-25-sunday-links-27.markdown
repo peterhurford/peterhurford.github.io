@@ -26,7 +26,7 @@ Longer musing redirected to my Tumblr: <a href="http://peterhurford.tumblr.com/p
 -
 <!-- more -->
 
-Another musing redicted to Tumblr, this time about politics: <a href="http://peterhurford.tumblr.com/post/86762672854/why-are-politicians-crazy-one-potential-theory">"Why Are Politicians Crazy?: One Potential Theory"</a>:
+Another musing redicted to Tumblr, this time about politics: <a href="http://peterhurford.tumblr.com/post/86762672854/why-are-politicians-crazy-because-it-works">"Why Are Politicians Crazy? Because it Works"</a>:
 
 > There's a fundamental paradox with some politicians: they're smart enough to get law degrees from top universities, start a multi-million dollar political campaign, fund and sustain a multi-million dollar political campaign, and win a multi-million dollar political campaign, yet... some of these politicians are crazy.  ...Like off-the-wall crazy with their ideas.
 
