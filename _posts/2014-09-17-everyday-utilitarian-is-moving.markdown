@@ -14,8 +14,8 @@ Just one short month after I opened up Everyday Utilitarian, a community blog fo
 
 The truth here is that I don't write as much as I used to.  And, as such, my readership has declined.  In order to get the exposure and comments I need, it makes sense to group with likeminded people.  Furthermore, it makes sense to not divert readership onto many different blogs.  So moving there makes a lot of sense.
 
-You can now find my effective altruism and utilitarian related writings on [the Effective Altriusm Forum](http://www.effective-altruism.com).  For writing that isn't fit to go there, I'll put it [on my Tumblr](http://www.tumblr.com), because it's so quick and easy to write to Tumblr, even though the site does look less nice.
+You can now find my effective altruism and utilitarian related writings on [the Effective Altriusm Forum](http://www.effective-altruism.com).  For writing that isn't fit to go there, I'll put it [on my Tumblr](http://peterhurford.tumblr.com), because it's so quick and easy to write to Tumblr, even though the site does look less nice.
 
-To make the transition a little easier and because my content is now all over the internet, I'll be maintaining a complete list of all my writings [on a separate list you can reference](http://www.peterhurford.com/blog).  And you can always [follow me on Twitter](http://www.twitter.com) for the latest piece of anything I write.
+To make the transition a little easier and because my content is now all over the internet, I'll be maintaining a complete list of all my writings [on a separate list you can reference](http://www.peterhurford.com/blog).  And you can always [follow me on Twitter](http://www.twitter.com/peterhurford) for the latest piece of anything I write.
 
 Hope to see you around.  This is not the end, just a start of a new beginning.
