@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2014-07-09 20:57:00-06:00
 layout: post
-slug: odin-project
+slug: notes-on-the-odin-project
 title: "A Better Way to Learn Programming? Notes on The Odin Project"
 categories:
 - Programming
