@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2013-07-31 04:00:03+00:00
 layout: post
-slug: in-non-profits-who-is-the-customer-2
+slug: in-non-profits-who-is-the-customer
 title: In Non-Profits, Who Is The Customer?
 wordpress_id: 624
 categories:
