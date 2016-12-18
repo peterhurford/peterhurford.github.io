@@ -36,7 +36,7 @@ Luckily for us, the USDA is pretty obsessive with cataloging our food consumptio
 
 ## Animals Needed to Produce Each Kind of Meat
 
-In Brian Tomasik's ["How Much Direct Suffering Is Caused by Various Animal Foods?"](http://www.utilitarian-essays.com/suffering-per-kg.html]), Brian has a very similar goal to ours here, so we only need to extend his analysis to match up with the entire American diet, rather than individual animals.
+In Brian Tomasik's ["How Much Direct Suffering Is Caused by Various Animal Foods?"](http://www.utilitarian-essays.com/suffering-per-kg.html), Brian has a very similar goal to ours here, so we only need to extend his analysis to match up with the entire American diet, rather than individual animals.
 
 Brian says that:
 
