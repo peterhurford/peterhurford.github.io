@@ -290,7 +290,7 @@ Again, no.  It's a fact that "if you want to be a utilitarian, you ought not to 
 
 Even if people don't care to follow morals, that doesn't mean we have to let them get away with it.  Instead, this is usually where we express our moral statements all the more forcefully.  We can apply our moral standards onto others in a non-contingent and inescapable way, regardless of how they think.
 
-**Ok, I get what you're saying.  But when I say that "someone ought murder", I feel a really firm conviction and I don't think it's just a matter of a standard that I use arbitrarily.  Morals are morals.  It's not the case that any standard will do.**
+**Ok, I get what you're saying.  But when I say that "someone ought not murder", I feel a really firm conviction and I don't think it's just a matter of a standard that I use arbitrarily.  Morals are morals.  It's not the case that any standard will do.**
 
 Right.  But that firm conviction is the "expressive assertivism" we talked about earlier, not a magic force of morality.  Regardless of how you feel, no moral force will zap people into compliance.  Instead, other people might think differently about morality and there's not much you can say to them to get them to change their mind.  Phillipa Foot discusses how this might be okay in her paper ["Morality as a System of Hypothetical Imperatives"](http://commonsenseatheism.com/wp-content/uploads/2009/10/Foot-Morality-as-a-System-of-Hypothetical-Imperatives.pdf).
 
